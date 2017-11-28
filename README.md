@@ -10,4 +10,4 @@ CSIRT Links and resources
  
 # CVEs
 
-Some CVEs stuff and links [here](https://github.com/spacial/csirt/CVEsPoCs.md)
+Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md)
