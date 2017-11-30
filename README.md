@@ -6,6 +6,7 @@ CSIRT Links and resources
 
  * [FIRST](http://www.first.org)
  * [Cert.BR](http://www.cert.br)
+ * SANS Pen-Testing[Resources: Downloads](https://pen-testing.sans.org/resources/downloads)
  
 ## CVEs
 
@@ -60,16 +61,25 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 ## Pentesting
 
 * Penetration Testing Cheat Sheet For Windows Machine – [Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
-* (Zero Day Zen Garden: Windows Exploit Development - Part 0)[http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html]
-* (Zero Day Zen Garden: Windows Exploit Development - Part 1)[http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html]
-* (Zero Day Zen Garden: Windows Exploit Development - Part 2)[http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html]
-* (Zero Day Zen Garden: Windows Exploit Development - Part 3)[http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html]
-* (Zero Day Zen Garden: Windows Exploit Development - Part 4)[http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html]
+* [Zero Day Zen Garden: Windows Exploit Development - Part 0](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 1](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 2](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 3](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
+* [Zero Day Zen Garden: Windows Exploit Development - Part 4](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
+
 ### DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
+
+## Browsers
+
+* [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
 
 ## General
 
 * [Explain Shell](https://explainshell.com)
 * [Examples of regular expressions](https://support.google.com/a/answer/1371417?hl=en)
+
+## Politics
+
+* [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
