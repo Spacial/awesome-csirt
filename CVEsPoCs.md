@@ -12,6 +12,7 @@ Some CVEs PoCs repos on github or internet.
 ## Linux
 
  * Dirty Cow: [CVE-2016-5195](https://github.com/scumjr/dirtycow-vdso) [Others](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs)
+ * Huge Dirty Cow: [CVE-2017-1000405](https://github.com/bindecy/HugeDirtyCowPOC)
 
 ## Windows
 
