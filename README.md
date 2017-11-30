@@ -60,7 +60,11 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 ## Pentesting
 
 * Penetration Testing Cheat Sheet For Windows Machine – [Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
-
+* (Zero Day Zen Garden: Windows Exploit Development - Part 0)[http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html]
+* (Zero Day Zen Garden: Windows Exploit Development - Part 1)[http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html]
+* (Zero Day Zen Garden: Windows Exploit Development - Part 2)[http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html]
+* (Zero Day Zen Garden: Windows Exploit Development - Part 3)[http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html]
+* (Zero Day Zen Garden: Windows Exploit Development - Part 4)[http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html]
 ### DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
