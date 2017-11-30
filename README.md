@@ -11,3 +11,7 @@ CSIRT Links and resources
 # CVEs
 
 Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md)
+
+# Malware Analysis
+
+Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg).
