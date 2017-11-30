@@ -83,3 +83,4 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 ## Politics
 
 * [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
+* [Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL](http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/)
