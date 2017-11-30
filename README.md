@@ -60,6 +60,8 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 
 ## Pentesting
 
+* Search operating systems on the network: [osquery](https://osquery.io/downloads/)
+* [osquery Across the Enterprise](https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55)
 * Penetration Testing Cheat Sheet For Windows Machine – [Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 0](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 1](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
