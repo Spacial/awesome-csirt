@@ -12,6 +12,7 @@ CSIRT Links and resources
 
 Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md)
 * [MikroTik](https://www.shodan.io/report/Re9jsGpB) search on shodan.
+* [TROMMEL: Sift Through Directories of Files to Identify Indicators That May Contain Vulnerabilities](https://github.com/CERTCC-Vulnerability-Analysis/trommel/)
 
 ## Malware Analysis
 
@@ -19,6 +20,8 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 * [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
 * [Digital Certificates Used by Malware](http://www.ccssforum.org/malware-certificates.php)
 * [Signed Malware – The Dataset](http://signedmalware.org/)
+* [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
+* [Indicators: Champing at the Cyberbit](https://github.com/citizenlab/malware-indicators/tree/master/201712_Cyberbit)
 
 ### Anti-Virus
  * [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
@@ -72,9 +75,17 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 * [Zero Day Zen Garden: Windows Exploit Development - Part 3](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 4](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
 
+### Exploits
+
+* [IOSurface exploit](https://github.com/Siguza/v0rtex)
+
 ### DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
+
+## Exfiltration
+
+* [Script for searching the extracted firmware file system for goodies!](https://github.com/craigz28/firmwalker)
 
 ## Browsers
 
