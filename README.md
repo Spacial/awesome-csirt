@@ -20,6 +20,9 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 * [Digital Certificates Used by Malware](http://www.ccssforum.org/malware-certificates.php)
 * [Signed Malware – The Dataset](http://signedmalware.org/)
 
+### Anti-Virus
+ * [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
+
 ### Trojans
 
 * [IcedID Banking Trojan Shares Code with Pony 2.0 Trojan](http://www.intezer.com/icedid-banking-trojan-shares-code-pony-2-0-trojan/)
@@ -86,3 +89,7 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 
 * [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
 * [Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL](http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/)
+
+## Conferences
+ 
+ * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
