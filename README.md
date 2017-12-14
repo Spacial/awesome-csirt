@@ -103,8 +103,12 @@ Great online [couse](https://securedorg.github.io/RE101/intro/) by [MalwareUnico
 
 # Risk Assessment
 
-* [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
+* (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
 
 ## Conferences
  
  * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
+
+## Software
+
+* [MISP (core software) - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP/MISP)
