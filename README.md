@@ -23,7 +23,13 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
 * [Indicators: Champing at the Cyberbit](https://github.com/citizenlab/malware-indicators/tree/master/201712_Cyberbit)
 * [Limon - Sandbox for Analyzing Linux Malwares](https://github.com/monnappa22/Limon)
+
+### Ransomwares
+
+* [Ransomware decryption tool](https://github.com/newsoft/envoye-special-decryptor)
+
 ### Anti-Virus
+
  * [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
 
 ### Trojans
