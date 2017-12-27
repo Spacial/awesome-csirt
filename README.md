@@ -24,6 +24,8 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Indicators: Champing at the Cyberbit](https://github.com/citizenlab/malware-indicators/tree/master/201712_Cyberbit)
 * [Limon - Sandbox for Analyzing Linux Malwares](https://github.com/monnappa22/Limon)
 * [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
+* [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
+
 ### Ransomwares
 
 * [Ransomware decryption tool](https://github.com/newsoft/envoye-special-decryptor)
