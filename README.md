@@ -23,7 +23,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
 * [Indicators: Champing at the Cyberbit](https://github.com/citizenlab/malware-indicators/tree/master/201712_Cyberbit)
 * [Limon - Sandbox for Analyzing Linux Malwares](https://github.com/monnappa22/Limon)
-
+* [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
 ### Ransomwares
 
 * [Ransomware decryption tool](https://github.com/newsoft/envoye-special-decryptor)
