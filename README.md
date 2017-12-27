@@ -5,7 +5,7 @@ CSIRT Links and resources
 ## Links
 
  * [FIRST](http://www.first.org)
- * [Cert.BR](http://www.cert.br)
+ * [Cert.BR](http://www.cert.br) - useful [links](https://www.cert.br/links/)
  * SANS Pen-Testing[Resources: Downloads](https://pen-testing.sans.org/resources/downloads)
  
 ## CVEs
