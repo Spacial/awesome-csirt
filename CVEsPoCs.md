@@ -30,6 +30,7 @@ Some CVEs PoCs repos on github or internet.
  * PHPMailer: [CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033)
  * Apache Tomcat: [CVE-2017-12617](https://github.com/cyberheartmi9/CVE-2017-12617)
  * Palo Alto Networks firewalls: Palo Alto Networks firewalls remote root code	execution [CVE-2017-15944](http://seclists.org/fulldisclosure/2017/Dec/38)
+  * [Thttps://fail0verflow.com/blog/2017/ps4-namedobj-exploit/](https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/) and  [A fully implemented kernel exploit for the PS4 on 4.05FW](https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit)
  
  ## Additions
  
