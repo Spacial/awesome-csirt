@@ -80,6 +80,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Zero Day Zen Garden: Windows Exploit Development - Part 2](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 3](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 4](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
+* [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
 
 ### Exploits
 
