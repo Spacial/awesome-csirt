@@ -87,10 +87,16 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Zero Day Zen Garden: Windows Exploit Development - Part 3](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 4](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
 * [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
+* [Got Meterpreter? PivotPowPY!](https://pen-testing.sans.org/blog/2017/03/03/got-meterpreter-pivotpowpy/?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Got+Meterpreter+PivotPowPY+Janzen&utm_campaign=SANS+Pen+Test)
+* [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
+* [Slides from my ShellCon Talk, OSINT for Pen Tests, given 10/19.](https://github.com/g-solaria/OSINTforPenTests)
 
 ### Exploits
 
 * [IOSurface exploit](https://github.com/Siguza/v0rtex)
+* [Attacking a co-hosted VM: A hacker, a hammer and two memory modules](https://thisissecurity.stormshield.com/2017/10/19/attacking-co-hosted-vm-hacker-hammer-two-memory-modules/)
+* [How To Create a Metasploit Module](https://penetrate.io/2013/12/16/how-to-create-a-metasploit-module/)
+* [Installing Metasploit Pro, Ultimate, Express, and Community](https://metasploit.help.rapid7.com/docs/installing-metasploit-pro)
 
 ### DNS
 
@@ -108,6 +114,8 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 
 * [Explain Shell](https://explainshell.com)
 * [Examples of regular expressions](https://support.google.com/a/answer/1371417?hl=en)
+* [A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)
+* [Capture WiFi / WLAN / 802.11 Probe Request with tcpdump](http://robinhenniges.com/en/capture-probe-request-tcpdump-wlan-wifi)
 
 ## Politics
 
@@ -125,3 +133,9 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 ## Software
 
 * [MISP (core software) - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP/MISP)
+
+## Sources
+
+Some good places to visit:
+
+* [hasherezade's 1001 nights](https://hshrzd.wordpress.com)
