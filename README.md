@@ -25,22 +25,28 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Limon - Sandbox for Analyzing Linux Malwares](https://github.com/monnappa22/Limon)
 * [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
 * [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
+* [binary ninja](https://binary.ninja/demo/)
 
 ### Ransomwares
 
 * [Ransomware decryption tool](https://github.com/newsoft/envoye-special-decryptor)
+* [Schroedinger’s Pet(ya)](https://securelist.com/schroedingers-petya/78870/)
+* [Player 3 Has Entered the Game: Say Hello to 'WannaCry'](http://blog.talosintelligence.com/2017/05/wannacry.html)
+* [WannaCry|WannaDecrypt0r NSA-Cyberweapon-Powered Ransomware Worm](https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168)
 
-### Anti-Virus
+### Virus/Anti-Virus
 
  * [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
+ * [Morris worm](https://github.com/arialdomartini/morris-worm)
 
 ### Trojans
 
 * [IcedID Banking Trojan Shares Code with Pony 2.0 Trojan](http://www.intezer.com/icedid-banking-trojan-shares-code-pony-2-0-trojan/)
 
-### Decompilers
+### Reverse Engineering
 
 * [Dangers of the Decompiler](https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/)
+* [RE guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
 
 ## Frameworks
 
@@ -90,6 +96,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Got Meterpreter? PivotPowPY!](https://pen-testing.sans.org/blog/2017/03/03/got-meterpreter-pivotpowpy/?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Got+Meterpreter+PivotPowPY+Janzen&utm_campaign=SANS+Pen+Test)
 * [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 * [Slides from my ShellCon Talk, OSINT for Pen Tests, given 10/19.](https://github.com/g-solaria/OSINTforPenTests)
+* [Ethical Hacking Course: Enumeration Theory](http://gotowebsecurity.com/ethical-hacking-course-enumeration-theory/)
 
 ### Exploits
 
