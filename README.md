@@ -60,7 +60,6 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 
 * Reporte de configuração do teu site, com [Hardenize](https://www.hardenize.com/)
 
-
 ### Apache
 
  *  [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
@@ -133,6 +132,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 # Risk Assessment
 
 * (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
+* [RITA (Real Intelligence Threat Analytics)](https://github.com/ocmdev/rita)
 
 ## Conferences
  
