@@ -141,6 +141,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 
 * [MISP (core software) - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP/MISP)
 * [Network Security Monitoring on Raspberry Pi type devices ](https://github.com/TravisFSmith/SweetSecurity)
+* [A secure, shared workspace for secrets](https://github.com/manifoldco/torus-cli)
 
 ## Sources
 
