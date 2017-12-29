@@ -72,6 +72,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 
 * [Hardening C/C++ Programs Part II – Executable-Space Protection and ASLR](http://www.productive-cpp.com/hardening-cpp-programs-executable-space-protection-address-space-layout-randomization-aslr/)
 * [afl-unicorn: Fuzzing Arbitrary Binary Code](https://hackernoon.com/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf)
+* [Checklist of the most important security countermeasures when designing, testing, and releasing your API ](https://github.com/shieldfy/API-Security-Checklist)
 
 ## CTFs
 
