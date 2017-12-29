@@ -60,6 +60,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 
 * Reporte de configuração do teu site, com [Hardenize](https://www.hardenize.com/)
 
+
 ### Apache
 
  *  [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
@@ -149,4 +150,6 @@ Some good places to visit:
 
 * [hasherezade's 1001 nights](https://hshrzd.wordpress.com)
 
+# Fun
 
+* [Spoilerwall introduces a brand new concept in the field of network hardening](https://github.com/infobyte/spoilerwall)
