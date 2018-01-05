@@ -33,7 +33,10 @@ Some CVEs PoCs repos on github or internet.
  * RootPiper:  [Demo/PoC](https://github.com/Shmoopi/RootPipe-Demo)  [Tester](https://github.com/sideeffect42/RootPipeTester)
 
 ## x86
- * Meltdown: [Meltdown](http://blog.cyberus-technology.de/posts/2018-01-03-meltdown.html)
+
+ * Spectre: [CVE-2017-5753,CVE-2017-5715](https://spectreattack.com/)
+ * Meltdown: [CVE-2017-5754](https://meltdownattack.com/)
+ ** Cyberus: [Meltdown](http://blog.cyberus-technology.de/posts/2018-01-03-meltdown.html)
  
 ## ARM
  * [ARM exploitation for IoT – Episode 3](https://quequero.org/2017/11/arm-exploitation-iot-episode-3/)
