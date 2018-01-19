@@ -28,6 +28,7 @@ Some CVEs PoCs repos on github or internet.
  * WPAD/PAC: [aPAColypse now](https://googleprojectzero.blogspot.com.br/2017/12/apacolypse-now-exploiting-windows-10-in_18.html)
  * Meltdown/Spectre:[CVE-2017-5754,CVE-2017-5715](https://github.com/ionescu007/SpecuCheck)
  * Packager OLE: [CVE-2018-0802](https://github.com/rxwx/CVE-2018-0802)
+ * Integer Overflow: [Integer Overflow](https://github.com/k0keoyo/Dark_Composition_case_study_Integer_Overflow) 
  
 ## macOS
 
