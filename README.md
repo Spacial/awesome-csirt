@@ -26,6 +26,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
 * [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
 * [binary ninja](https://binary.ninja/demo/)
+* Analyzing a New macOS DNS Hijacker: [OSX/MaMi](https://objective-see.com/blog/blog_0x26.html)
 
 ### Ransomwares
 
