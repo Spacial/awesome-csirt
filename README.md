@@ -27,6 +27,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
 * [binary ninja](https://binary.ninja/demo/)
 * Analyzing a New macOS DNS Hijacker: [OSX/MaMi](https://objective-see.com/blog/blog_0x26.html)
+* A PoC "malware" application with good intentions that aims to stress your anti-malware system: [al-khaser](https://github.com/LordNoteworthy/al-khaser)
 
 ### Ransomwares
 
