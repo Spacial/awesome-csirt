@@ -18,6 +18,7 @@ Some CVEs PoCs repos on github or internet.
  * SMEP,SMAP and Chrome Sandbox: [CVE-2017-5123](https://salls.github.io/Linux-Kernel-CVE-2017-5123/)
  * SambaCry: [CVE-2017-7494](https://securelist.com/sambacry-is-coming/78674/)
  * The Stack Clash: [CVE-2017-1000364](https://blog.qualys.com/securitylabs/2017/06/19/the-stack-clash)
+ * GoAhead web server: [CVE-2017-17562](https://www.elttam.com.au/blog/goahead/)
  
 ## Windows
 
