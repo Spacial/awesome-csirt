@@ -35,6 +35,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Schroedinger’s Pet(ya)](https://securelist.com/schroedingers-petya/78870/)
 * [Player 3 Has Entered the Game: Say Hello to 'WannaCry'](http://blog.talosintelligence.com/2017/05/wannacry.html)
 * [WannaCry|WannaDecrypt0r NSA-Cyberweapon-Powered Ransomware Worm](https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168)
+* [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#)
 
 ### Virus/Anti-Virus
 
