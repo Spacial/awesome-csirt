@@ -61,7 +61,8 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 
 ## Hardening
 
-* Reporte de configuração do teu site, com [Hardenize](https://www.hardenize.com/)
+* See your site config with [Hardenize](https://www.hardenize.com/)
+* Nice article with a lot of resources: [Common approaches to securing Linux servers and what runs on them.](https://medium.com/@ageis/common-approaches-to-securing-linux-servers-and-what-runs-on-them-dadcacc5388b)
 
 ### Apache
 
@@ -76,6 +77,8 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Hardening C/C++ Programs Part II – Executable-Space Protection and ASLR](http://www.productive-cpp.com/hardening-cpp-programs-executable-space-protection-address-space-layout-randomization-aslr/)
 * [afl-unicorn: Fuzzing Arbitrary Binary Code](https://hackernoon.com/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf)
 * [Checklist of the most important security countermeasures when designing, testing, and releasing your API ](https://github.com/shieldfy/API-Security-Checklist)
+* [sanitizers](https://github.com/google/sanitizers)
+* [Gitian](https://gitian.org) is a secure source-control oriented software distribution method.
 
 ## CTFs
 
@@ -127,6 +130,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [Examples of regular expressions](https://support.google.com/a/answer/1371417?hl=en)
 * [A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)
 * [Capture WiFi / WLAN / 802.11 Probe Request with tcpdump](http://robinhenniges.com/en/capture-probe-request-tcpdump-wlan-wifi)
+* [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
 
 ## Politics
 
