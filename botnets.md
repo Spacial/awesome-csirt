@@ -8,8 +8,8 @@ Some Reaper vulnerables systems:
 * [Dlink](https://blogs.securiteam.com/index.php/archives/3364) 
 * [Dlink](http://www.s3cur1ty.de/m1adv2013-003)
 * [Netgear](https://blogs.securiteam.com/index.php/archives/3409)
-* [Netgear] (http://seclists.org/bugtraq/2013/Jun/8)
-* [Linksys] (http://www.s3cur1ty.de/m1adv2013-004)
+* [Netgear](http://seclists.org/bugtraq/2013/Jun/8)
+* [Linksys](http://www.s3cur1ty.de/m1adv2013-004)
 
 ## IP Cameras
 
