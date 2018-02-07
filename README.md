@@ -1,22 +1,30 @@
 # CSIRT
 
-CSIRT Links and resources
+CSIRT links and resources.
+
+ **Please contribute through pull requests** ;)
+ 
+## Books
+
+ * Nice [list]([here](https://github.com/Spacial/csirt/blob/master/books.md)
 
 ## Links
 
  * [FIRST](http://www.first.org)
  * [Cert.BR](http://www.cert.br) - useful [links](https://www.cert.br/links/)
- * SANS Pen-Testing[Resources: Downloads](https://pen-testing.sans.org/resources/downloads)
+ * SANS Pen-Testing Resources: [Downloads](https://pen-testing.sans.org/resources/downloads)
+ * Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) of security projects
  
 ## CVEs
 
-Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md)
+* Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md) and in [here](https://github.com/Spacial/csirt/tree/master/PoCs)
 * [MikroTik](https://www.shodan.io/report/Re9jsGpB) search on shodan.
 * [TROMMEL: Sift Through Directories of Files to Identify Indicators That May Contain Vulnerabilities](https://github.com/CERTCC-Vulnerability-Analysis/trommel/)
 
 ## Malware Analysis
 
-Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg).
+* Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg)
+* Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
 * [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
 * [Digital Certificates Used by Malware](http://www.ccssforum.org/malware-certificates.php)
 * [Signed Malware – The Dataset](http://signedmalware.org/)
@@ -152,6 +160,7 @@ Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnic
 * [MISP (core software) - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP/MISP)
 * [Network Security Monitoring on Raspberry Pi type devices ](https://github.com/TravisFSmith/SweetSecurity)
 * [A secure, shared workspace for secrets](https://github.com/manifoldco/torus-cli)
+* [bettercap](https://github.com/evilsocket/bettercap-ng), the Swiss army knife for network attacks and monitoring.
 
 ## Sources
 
