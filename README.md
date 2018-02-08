@@ -134,6 +134,10 @@ CSIRT links and resources.
 
 * [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
 
+## Tools
+
+* [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/) by [jpcertcc](Detecting Lateral Movement through Tracking Event Logs)
+
 ## General
 
 * [Explain Shell](https://explainshell.com)
