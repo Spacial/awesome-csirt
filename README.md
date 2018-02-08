@@ -92,6 +92,7 @@ CSIRT links and resources.
 ## CTFs
 
 * [The fast, easy, and affordable way to train your hacking skills.](https://www.root-me.org/)
+* [Write-ups for crackmes and CTF challenges](https://github.com/eleemosynator/writeups) by eleemosynator
 
 ## Archs
 
