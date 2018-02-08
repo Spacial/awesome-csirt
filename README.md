@@ -136,7 +136,7 @@ CSIRT links and resources.
 
 ## Tools
 
-* [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/) by [jpcertcc](Detecting Lateral Movement through Tracking Event Logs)
+* [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/), via [Detecting Lateral Movement through Tracking Event Logs](http://www.jpcert.or.jp/english/pub/sr/ir_research.html) by jpcertcc
 
 ## General
 
