@@ -98,6 +98,7 @@ CSIRT links and resources.
 
 * ARM [LAB ENVIRONMENT](https://azeria-labs.com/arm-lab-vm/)
 * Azure IoT [HUB](https://azure.microsoft.com/en-us/services/iot-hub/)
+* [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
 
 ## Pentesting
 
