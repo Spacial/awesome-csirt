@@ -122,6 +122,7 @@ CSIRT links and resources.
 * [Attacking a co-hosted VM: A hacker, a hammer and two memory modules](https://thisissecurity.stormshield.com/2017/10/19/attacking-co-hosted-vm-hacker-hammer-two-memory-modules/)
 * [How To Create a Metasploit Module](https://penetrate.io/2013/12/16/how-to-create-a-metasploit-module/)
 * [Installing Metasploit Pro, Ultimate, Express, and Community](https://metasploit.help.rapid7.com/docs/installing-metasploit-pro)
+* [unfurl](https://github.com/JLospinoso/unfurl), [An Entropy-Based Link Vulnerability Analysis Tool](https://jlospinoso.github.io/python/unfurl/abrade/hacking/2018/02/08/unfurl-url-analysis.html)
 
 ### DNS
 
