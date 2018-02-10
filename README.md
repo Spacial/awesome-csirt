@@ -49,6 +49,7 @@ CSIRT links and resources.
 
  * [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
  * [Morris worm](https://github.com/arialdomartini/morris-worm)
+ * [make a process unkillable?!](https://secrary.com/Random/UnKillable/) (windows 10)
 
 ### Trojans
 
@@ -58,6 +59,7 @@ CSIRT links and resources.
 
 * [Dangers of the Decompiler](https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/)
 * [RE guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
+* [REDasm](https://github.com/REDasmOrg/REDasm): Crossplatform, interactive, multiarchitecture disassembler
 
 ## Frameworks
 
@@ -132,6 +134,11 @@ CSIRT links and resources.
 
 * [Script for searching the extracted firmware file system for goodies!](https://github.com/craigz28/firmwalker)
 
+## Forensics
+
+* [Cracking Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
+* [O-Saft ](https://github.com/OWASP/O-Saft):  OWASP SSL advanced forensic tool
+
 ## Browsers
 
 * [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
@@ -148,10 +155,12 @@ CSIRT links and resources.
 * [Capture WiFi / WLAN / 802.11 Probe Request with tcpdump](http://robinhenniges.com/en/capture-probe-request-tcpdump-wlan-wifi)
 * [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
 
+
 ## Politics
 
 * [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
 * [Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL](http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/)
+* [Online Security Guide for Journalists](https://protonmail.com/blog/journalist-online-security-tips/)
 
 # Risk Assessment
 
