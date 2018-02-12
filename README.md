@@ -74,6 +74,13 @@ CSIRT links and resources.
 * See your site config with [Hardenize](https://www.hardenize.com/)
 * Nice article with a lot of resources: [Common approaches to securing Linux servers and what runs on them.](https://medium.com/@ageis/common-approaches-to-securing-linux-servers-and-what-runs-on-them-dadcacc5388b)
 * [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) by [stribika](https://github.com/stribika)
+* A lot of good posts by geek flare: 
+  * [How to Configure SSL Certificate on Google Cloud Load Balancer?](https://geekflare.com/google-load-balancer-enable-ssl/)
+  * [Nginx Web Server Security & Hardening Guide](https://geekflare.com/nginx-webserver-security-hardening-guide/)
+  * [IBM HTTP Server Security & Hardening Guide](https://geekflare.com/ibm-http-server-security-guide/)
+  * [Apache Tomcat Hardening and Security Guide](https://geekflare.com/apache-tomcat-hardening-and-security-guide/)
+  * [How to Enable TLS 1.3 in Nginx, Cloudflare?](https://geekflare.com/enable-tls-1-3/)
+  * [Apache Web Server Hardening & Security Guide](https://geekflare.com/apache-web-server-hardening-security/) (broken!??)
 
 ### Apache
 
@@ -155,13 +162,21 @@ CSIRT links and resources.
 * [A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)
 * [Capture WiFi / WLAN / 802.11 Probe Request with tcpdump](http://robinhenniges.com/en/capture-probe-request-tcpdump-wlan-wifi)
 * [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
-
+* [Looking for value in EV Certificates](https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/)
 
 ## Politics
 
 * [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
 * [Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL](http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/)
 * [Online Security Guide for Journalists](https://protonmail.com/blog/journalist-online-security-tips/)
+* [Schneier on Security](https://www.schneier.com/blog/archives/2017/04/shadow_brokers_.html)
+
+### Online Voting
+
+* [Want to Know if the Election was Hacked? Look at the Ballots](https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba)
+* [E-Voting Machines Need Paper Audits to be Trustworthy](https://www.eff.org/deeplinks/2016/11/e-voting-machines-need-paper-audits-be-trustworthy)
+* [FBI Hacked into 8,000 Computers in 120 Countries Using A Single Warrant](http://thehackernews.com/2016/11/fbi-hacker.html)
+* [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
 
 # Risk Assessment
 
