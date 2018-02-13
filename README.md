@@ -36,6 +36,7 @@ CSIRT links and resources.
 * [binary ninja](https://binary.ninja/demo/)
 * Analyzing a New macOS DNS Hijacker: [OSX/MaMi](https://objective-see.com/blog/blog_0x26.html)
 * A PoC "malware" application with good intentions that aims to stress your anti-malware system: [al-khaser](https://github.com/LordNoteworthy/al-khaser)
+* Great analysis of [mal100.evad.spre.rans.spyw.troj.winEXE@34/9@31/10](https://www.joesandbox.com/analysis/46216/0/html)
 
 ### Ransomwares
 
