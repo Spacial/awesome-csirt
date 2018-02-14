@@ -125,6 +125,7 @@ CSIRT links and resources.
 * [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 * [Slides from my ShellCon Talk, OSINT for Pen Tests, given 10/19.](https://github.com/g-solaria/OSINTforPenTests)
 * [Ethical Hacking Course: Enumeration Theory](http://gotowebsecurity.com/ethical-hacking-course-enumeration-theory/)
+* [Script to steal passwords from ssh.](https://github.com/mthbernardes/sshLooter)
 
 ### Exploits
 
