@@ -37,6 +37,10 @@ CSIRT links and resources.
 * Analyzing a New macOS DNS Hijacker: [OSX/MaMi](https://objective-see.com/blog/blog_0x26.html)
 * A PoC "malware" application with good intentions that aims to stress your anti-malware system: [al-khaser](https://github.com/LordNoteworthy/al-khaser)
 * Great analysis of [mal100.evad.spre.rans.spyw.troj.winEXE@34/9@31/10](https://www.joesandbox.com/analysis/46216/0/html)
+* [Chaos: a Stolen Backdoor Rising Again](http://gosecure.net/2018/02/14/chaos-stolen-backdoor-rising/)
+* [Malware Indicators of Compromise (IOCs)](https://github.com/GoSecure/malware-ioc)
+* [Puszek](https://github.com/Eterna1/puszek-rootkit):Yet another LKM rootkit for Linux. It hooks syscall table.
+* [Joe Sandbox Cloud](https://github.com/joesecurity/joesandboxcloudapi) is a deep malware analysis platform which detects malicious files - API Wrapper.
 
 ### Ransomwares
 
@@ -135,6 +139,7 @@ CSIRT links and resources.
 * [Installing Metasploit Pro, Ultimate, Express, and Community](https://metasploit.help.rapid7.com/docs/installing-metasploit-pro)
 * [unfurl](https://github.com/JLospinoso/unfurl), [An Entropy-Based Link Vulnerability Analysis Tool](https://jlospinoso.github.io/python/unfurl/abrade/hacking/2018/02/08/unfurl-url-analysis.html)
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
+* [A collection of PHP exploit scripts](https://github.com/mattiasgeniar/php-exploit-scripts)
 
 ### DNS
 
@@ -156,15 +161,6 @@ CSIRT links and resources.
 ## Tools
 
 * [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/), via [Detecting Lateral Movement through Tracking Event Logs](http://www.jpcert.or.jp/english/pub/sr/ir_research.html) by jpcertcc
-
-## General
-
-* [Explain Shell](https://explainshell.com)
-* [Examples of regular expressions](https://support.google.com/a/answer/1371417?hl=en)
-* [A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)
-* [Capture WiFi / WLAN / 802.11 Probe Request with tcpdump](http://robinhenniges.com/en/capture-probe-request-tcpdump-wlan-wifi)
-* [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
-* [Looking for value in EV Certificates](https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/)
 
 ## Politics
 
@@ -195,6 +191,16 @@ CSIRT links and resources.
 * [Network Security Monitoring on Raspberry Pi type devices ](https://github.com/TravisFSmith/SweetSecurity)
 * [A secure, shared workspace for secrets](https://github.com/manifoldco/torus-cli)
 * [bettercap](https://github.com/evilsocket/bettercap-ng), the Swiss army knife for network attacks and monitoring.
+
+## General
+
+* [Explain Shell](https://explainshell.com)
+* [Examples of regular expressions](https://support.google.com/a/answer/1371417?hl=en)
+* [A tcpdump Tutorial and Primer with Examples](https://danielmiessler.com/study/tcpdump/)
+* [Capture WiFi / WLAN / 802.11 Probe Request with tcpdump](http://robinhenniges.com/en/capture-probe-request-tcpdump-wlan-wifi)
+* [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
+* [Looking for value in EV Certificates](https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/)
+* [How to find hidden cameras](http://www.tentacle.franken.de/papers/hiddencams.pdf)
 
 ## Sources
 
