@@ -41,6 +41,7 @@ CSIRT links and resources.
 * [Malware Indicators of Compromise (IOCs)](https://github.com/GoSecure/malware-ioc)
 * [Puszek](https://github.com/Eterna1/puszek-rootkit):Yet another LKM rootkit for Linux. It hooks syscall table.
 * [Joe Sandbox Cloud](https://github.com/joesecurity/joesandboxcloudapi) is a deep malware analysis platform which detects malicious files - API Wrapper.
+* [EternalGlue part two: A rebuilt NotPetya gets its first execution outside of the lab](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/february/eternalglue-part-two-a-rebuilt-notpetya-gets-its-first-execution-outside-of-the-lab/)
 
 ### Ransomwares
 
