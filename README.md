@@ -103,6 +103,7 @@ CSIRT links and resources.
 * [Checklist of the most important security countermeasures when designing, testing, and releasing your API ](https://github.com/shieldfy/API-Security-Checklist)
 * [sanitizers](https://github.com/google/sanitizers)
 * [Gitian](https://gitian.org) is a secure source-control oriented software distribution method.
+* [Canary](https://github.com/psecio/canary):Input Detection and Response 
 
 ## CTFs
 
@@ -153,7 +154,7 @@ CSIRT links and resources.
 ## Forensics
 
 * [Cracking Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
-* [O-Saft ](https://github.com/OWASP/O-Saft):  OWASP SSL advanced forensic tool
+* [O-Saft](https://github.com/OWASP/O-Saft):  OWASP SSL advanced forensic tool
 
 ## Browsers
 
@@ -176,6 +177,7 @@ CSIRT links and resources.
 * [E-Voting Machines Need Paper Audits to be Trustworthy](https://www.eff.org/deeplinks/2016/11/e-voting-machines-need-paper-audits-be-trustworthy)
 * [FBI Hacked into 8,000 Computers in 120 Countries Using A Single Warrant](http://thehackernews.com/2016/11/fbi-hacker.html)
 * [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
+* [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
 
 # Risk Assessment
 
