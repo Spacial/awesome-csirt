@@ -210,6 +210,12 @@ CSIRT links and resources.
 * [Looking for value in EV Certificates](https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/)
 * [How to find hidden cameras](http://www.tentacle.franken.de/papers/hiddencams.pdf)
 
+### Satellite
+
+* [How Do I Crack Satellite and Cable Pay TV? (33c3)](https://www.youtube.com/watch?v=lhbSD1Jba0Q)
+  * [Capture data from QPSK-demodulated OOB bitstream with Saleae logic analyzer and output byte stream.](https://github.com/akacastor/noob)
+  * [Process QPSK-demodulated data into transport stream (SCTE 55-1)](https://github.com/akacastor/oobin)
+
 ## Sources
 
 Some good places to visit:
