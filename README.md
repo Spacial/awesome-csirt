@@ -153,6 +153,7 @@ CSIRT links and resources.
 * [Script for searching the extracted firmware file system for goodies!](https://github.com/craigz28/firmwalker)
 * [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC): - Malicious payload evasion tool
 * [Tunna](https://github.com/SECFORCE/Tunna) is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
+* [gitleaks](https://github.com/zricethezav/gitleaks): Searches full repo history for secrets and keys
 
 ## Forensics
 
