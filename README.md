@@ -126,13 +126,17 @@ CSIRT links and resources.
 * [Zero Day Zen Garden: Windows Exploit Development - Part 2](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 3](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 4](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
-* [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
 * [Got Meterpreter? PivotPowPY!](https://pen-testing.sans.org/blog/2017/03/03/got-meterpreter-pivotpowpy/?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Got+Meterpreter+PivotPowPY+Janzen&utm_campaign=SANS+Pen+Test)
 * [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 * [Slides from my ShellCon Talk, OSINT for Pen Tests, given 10/19.](https://github.com/g-solaria/OSINTforPenTests)
 * [Ethical Hacking Course: Enumeration Theory](http://gotowebsecurity.com/ethical-hacking-course-enumeration-theory/)
 * [Script to steal passwords from ssh.](https://github.com/mthbernardes/sshLooter)
 * [Network Infrastructure Penetration Testing Tool](https://github.com/SECFORCE/sparta)
+
+### Vulnerability Scanning
+
+* [Striker](https://github.com/UltimateHackers/Striker) is an offensive information and vulnerability scanner
+* [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
 
 ### Exploits
 
@@ -144,7 +148,7 @@ CSIRT links and resources.
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
 * [A collection of PHP exploit scripts](https://github.com/mattiasgeniar/php-exploit-scripts)
 
-### DNS
+## DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
 
