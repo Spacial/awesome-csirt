@@ -132,6 +132,7 @@ CSIRT links and resources.
 * [Slides from my ShellCon Talk, OSINT for Pen Tests, given 10/19.](https://github.com/g-solaria/OSINTforPenTests)
 * [Ethical Hacking Course: Enumeration Theory](http://gotowebsecurity.com/ethical-hacking-course-enumeration-theory/)
 * [Script to steal passwords from ssh.](https://github.com/mthbernardes/sshLooter)
+* [Network Infrastructure Penetration Testing Tool](https://github.com/SECFORCE/sparta)
 
 ### Exploits
 
@@ -150,11 +151,15 @@ CSIRT links and resources.
 ## Exfiltration
 
 * [Script for searching the extracted firmware file system for goodies!](https://github.com/craigz28/firmwalker)
+* [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC): - Malicious payload evasion tool
+* [Tunna](https://github.com/SECFORCE/Tunna) is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
 
 ## Forensics
 
 * [Cracking Linux Full Disk Encryption (LUKS) with hashcat - The Forensic way!](https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html)
 * [O-Saft](https://github.com/OWASP/O-Saft):  OWASP SSL advanced forensic tool
+* [PcapXray](https://github.com/Srinivas11789/PcapXray) - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
+* [swap_digger](https://github.com/sevagas/swap_digger) is a tool used to automate Linux swap analysis during post-exploitation or forensics
 
 ## Browsers
 
