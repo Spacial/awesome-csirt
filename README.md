@@ -4,6 +4,10 @@ CSIRT links and resources.
 
  **Please contribute through pull requests** ;)
  
+ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+ 
+ Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
+ 
 ## Books
 
  * Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md)
@@ -158,6 +162,8 @@ CSIRT links and resources.
 * [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC): - Malicious payload evasion tool
 * [Tunna](https://github.com/SECFORCE/Tunna) is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
 * [gitleaks](https://github.com/zricethezav/gitleaks): Searches full repo history for secrets and keys
+* [Phishing on Twitter](https://github.com/omergunal/PoT)
+* [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
 
 ## Forensics
 
@@ -173,6 +179,8 @@ CSIRT links and resources.
 ## Tools
 
 * [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/), via [Detecting Lateral Movement through Tracking Event Logs](http://www.jpcert.or.jp/english/pub/sr/ir_research.html) by jpcertcc
+* [EKOLABS](https://github.com/ekoparty/ekolabs) tools repo
+* [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
 
 ## Politics
 
@@ -204,6 +212,7 @@ CSIRT links and resources.
 * [Network Security Monitoring on Raspberry Pi type devices ](https://github.com/TravisFSmith/SweetSecurity)
 * [A secure, shared workspace for secrets](https://github.com/manifoldco/torus-cli)
 * [bettercap](https://github.com/evilsocket/bettercap-ng), the Swiss army knife for network attacks and monitoring.
+* [Security Monkey](https://github.com/Netflix/security_monkey)
 
 ## General
 
@@ -230,3 +239,4 @@ Some good places to visit:
 # Fun
 
 * [Spoilerwall introduces a brand new concept in the field of network hardening](https://github.com/infobyte/spoilerwall)
+* [abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti)
