@@ -171,15 +171,17 @@ CSIRT links and resources.
 * [O-Saft](https://github.com/OWASP/O-Saft):  OWASP SSL advanced forensic tool
 * [PcapXray](https://github.com/Srinivas11789/PcapXray) - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 * [swap_digger](https://github.com/sevagas/swap_digger) is a tool used to automate Linux swap analysis during post-exploitation or forensics
+* [The Sleuth Kit® (TSK)](https://github.com/sleuthkit/sleuthkit) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data
 
 ## Browsers
 
 * [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
 
-## Tools
+## Operating Systems
 
-* [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/), via [Detecting Lateral Movement through Tracking Event Logs](http://www.jpcert.or.jp/english/pub/sr/ir_research.html) by jpcertcc
-* [EKOLABS](https://github.com/ekoparty/ekolabs) tools repo
+### Windows
+
+* [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
 * [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
 
 ## Politics
@@ -206,13 +208,17 @@ CSIRT links and resources.
  
  * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
 
-## Software
+## Tools
 
 * [MISP (core software) - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP/MISP)
 * [Network Security Monitoring on Raspberry Pi type devices ](https://github.com/TravisFSmith/SweetSecurity)
 * [A secure, shared workspace for secrets](https://github.com/manifoldco/torus-cli)
 * [bettercap](https://github.com/evilsocket/bettercap-ng), the Swiss army knife for network attacks and monitoring.
 * [Security Monkey](https://github.com/Netflix/security_monkey)
+* [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/), via [Detecting Lateral Movement through Tracking Event Logs](http://www.jpcert.or.jp/english/pub/sr/ir_research.html) by jpcertcc
+* [EKOLABS](https://github.com/ekoparty/ekolabs) tools repo
+* [Vapor PwnedPasswords Provider](https://github.com/joscdk/pwnedpasswords-provider): Package for testing a password against Pwned Passwords V2 API in Vapor
+* [Is my password pwned?](https://github.com/kevlar1818/is_my_password_pwned)
 
 ## General
 
@@ -240,3 +246,7 @@ Some good places to visit:
 
 * [Spoilerwall introduces a brand new concept in the field of network hardening](https://github.com/infobyte/spoilerwall)
 * [abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti)
+
+# News
+
+* [IOTA Vulnerability Report](https://github.com/mit-dci/tangled-curl/blob/master/vuln-iota.md)
