@@ -175,6 +175,7 @@ CSIRT links and resources.
 * [PcapXray](https://github.com/Srinivas11789/PcapXray) - A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
 * [swap_digger](https://github.com/sevagas/swap_digger) is a tool used to automate Linux swap analysis during post-exploitation or forensics
 * [The Sleuth Kit® (TSK)](https://github.com/sleuthkit/sleuthkit) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data
+* [Invoke-LiveResponse](https://github.com/mgreen27/Powershell-IR)
 
 ## Browsers
 
