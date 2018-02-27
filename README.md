@@ -218,7 +218,7 @@ CSIRT links and resources.
 * [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/), via [Detecting Lateral Movement through Tracking Event Logs](http://www.jpcert.or.jp/english/pub/sr/ir_research.html) by jpcertcc
 * [EKOLABS](https://github.com/ekoparty/ekolabs) tools repo
 * [Vapor PwnedPasswords Provider](https://github.com/joscdk/pwnedpasswords-provider): Package for testing a password against Pwned Passwords V2 API in Vapor
-* [Is my password pwned?](https://github.com/kevlar1818/is_my_password_pwned)
+* [Is my password pwned?](https://github.com/kevlar1818/is_my_password_pwned), [bash script](https://www.james-ridgway.co.uk/blog/pwnedpasswords-sh-a-bash-script-for-searching-troy-hunt-s-pwnedpasswords)
 
 ## General
 
