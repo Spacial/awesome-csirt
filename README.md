@@ -119,6 +119,8 @@ CSIRT links and resources.
 * ARM [LAB ENVIRONMENT](https://azeria-labs.com/arm-lab-vm/)
 * Azure IoT [HUB](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
+* [arm vm working out of the box for everyone ](https://github.com/nongiach/arm_now)
+* [Statically compiled ARM binaries for debugging and runtime analysis.](https://github.com/therealsaumil/static-arm-bins/)
 
 ## Pentesting
 
@@ -164,6 +166,7 @@ CSIRT links and resources.
 * [gitleaks](https://github.com/zricethezav/gitleaks): Searches full repo history for secrets and keys
 * [Phishing on Twitter](https://github.com/omergunal/PoT)
 * [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
+* [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
 
 ## Forensics
 
