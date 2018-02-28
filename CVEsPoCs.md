@@ -19,6 +19,7 @@ Some CVEs PoCs repos on github or internet.
  * SambaCry: [CVE-2017-7494](https://securelist.com/sambacry-is-coming/78674/)
  * The Stack Clash: [CVE-2017-1000364](https://blog.qualys.com/securitylabs/2017/06/19/the-stack-clash)
  * GoAhead web server: [CVE-2017-17562](https://www.elttam.com.au/blog/goahead/)
+ * [New bypass and protection techniques for ASLR on Linux](http://blog.ptsecurity.com/2018/02/new-bypass-and-protection-techniques.html)
  
 ## Windows
 
@@ -37,10 +38,11 @@ Some CVEs PoCs repos on github or internet.
  * RootPiper:  [Demo/PoC](https://github.com/Shmoopi/RootPipe-Demo)  [Tester](https://github.com/sideeffect42/RootPipeTester)
  * [Mac Privacy: Sandboxed Mac apps can record your screen at any time without you knowing](https://github.com/KrauseFx/krausefx.com/blob/master/_posts/2018-02-10-mac-privacy-sandboxed-mac-apps-can-take-screenshots.md) by [Felix Krause](https://github.com/KrauseFx)
  
-## iOS
+## macOS/iOS
 
 * [ROPLevel6 Writeup](https://github.com/shmoo419/ExploitChallengeWriteups/blob/master/ROPLevel6/Writeup.md)
 * Escaping the sandbox by misleading bluetoothd:[CVE-2018-4087](https://blog.zimperium.com/cve-2018-4087-poc-escaping-sandbox-misleading-bluetoothd) 
+* [Reexport symbols for Mach-O and ELF.](https://github.com/xerub/reexport)
 
 ## x86
 
