@@ -94,7 +94,8 @@ CSIRT links and resources.
 
 ### Apache
 
- *  [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
+ * [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
+ * [dotdotslash](https://github.com/jcesarstef/dotdotslash): An tool to help you search for Directory Traversal Vulnerabilities
 
 ## Credentials
 
@@ -138,6 +139,7 @@ CSIRT links and resources.
 * [Ethical Hacking Course: Enumeration Theory](http://gotowebsecurity.com/ethical-hacking-course-enumeration-theory/)
 * [Script to steal passwords from ssh.](https://github.com/mthbernardes/sshLooter)
 * [Network Infrastructure Penetration Testing Tool](https://github.com/SECFORCE/sparta)
+* [Shellen](https://github.com/merrychap/shellen):Interactive shellcoding environment to easily craft shellcodes
 
 ### Vulnerability Scanning
 
@@ -167,6 +169,7 @@ CSIRT links and resources.
 * [Phishing on Twitter](https://github.com/omergunal/PoT)
 * [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
 * [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
+* [BloodHound](https://github.com/BloodHoundAD/BloodHound): Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) based ingestor for BloodHound
 
 ## Forensics
 
