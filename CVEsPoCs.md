@@ -40,6 +40,7 @@ Some CVEs PoCs repos on github or internet.
 ## iOS
 
 * [ROPLevel6 Writeup](https://github.com/shmoo419/ExploitChallengeWriteups/blob/master/ROPLevel6/Writeup.md)
+* Escaping the sandbox by misleading bluetoothd:[CVE-2018-4087](https://blog.zimperium.com/cve-2018-4087-poc-escaping-sandbox-misleading-bluetoothd) 
 
 ## x86
 
