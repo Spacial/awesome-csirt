@@ -75,6 +75,7 @@ CSIRT links and resources.
 * [Dangers of the Decompiler](https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/)
 * [RE guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
 * [REDasm](https://github.com/REDasmOrg/REDasm): Crossplatform, interactive, multiarchitecture disassembler
+* [Reversing ARM Binaries](https://zygosec.com/post1.html)
 
 ## Frameworks
 
