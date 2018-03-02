@@ -27,8 +27,6 @@ CSIRT links and resources.
 
 ## Malware Analysis
 
-* [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo): [theZoo ](http://thezoo.morirt.com)
-
 * Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg)
 * Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
 * [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
@@ -48,6 +46,14 @@ CSIRT links and resources.
 * [Puszek](https://github.com/Eterna1/puszek-rootkit):Yet another LKM rootkit for Linux. It hooks syscall table.
 * [Joe Sandbox Cloud](https://github.com/joesecurity/joesandboxcloudapi) is a deep malware analysis platform which detects malicious files - API Wrapper.
 * [EternalGlue part two: A rebuilt NotPetya gets its first execution outside of the lab](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/february/eternalglue-part-two-a-rebuilt-notpetya-gets-its-first-execution-outside-of-the-lab/)
+
+### Repos
+
+* [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo): [theZoo ](http://thezoo.morirt.com)
+* [malware.one](https://malware.one/index.php) is a binary substring searchable malware catalog containing terabytes of malicious code.
+
+
+
 
 ### Ransomwares
 
@@ -95,6 +101,8 @@ CSIRT links and resources.
   * [Apache Web Server Hardening & Security Guide](https://geekflare.com/apache-web-server-hardening-security/) (broken!??)
 * [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth)
 * [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
+* [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
+* [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
 
 ### Apache
 
@@ -144,6 +152,7 @@ CSIRT links and resources.
 * [Script to steal passwords from ssh.](https://github.com/mthbernardes/sshLooter)
 * [Network Infrastructure Penetration Testing Tool](https://github.com/SECFORCE/sparta)
 * [Shellen](https://github.com/merrychap/shellen):Interactive shellcoding environment to easily craft shellcodes
+* [tcp connection hijacker](https://github.com/kpcyrd/rshijack)
 
 ### Vulnerability Scanning
 
@@ -159,6 +168,7 @@ CSIRT links and resources.
 * [unfurl](https://github.com/JLospinoso/unfurl), [An Entropy-Based Link Vulnerability Analysis Tool](https://jlospinoso.github.io/python/unfurl/abrade/hacking/2018/02/08/unfurl-url-analysis.html)
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
 * [A collection of PHP exploit scripts](https://github.com/mattiasgeniar/php-exploit-scripts)
+* [WebKit exploit](https://github.com/Cryptogenic/Exploit-Writeups/blob/master/WebKit/setAttributeNodeNS%20UAF%20Write-up.md)
 
 ## DNS
 
