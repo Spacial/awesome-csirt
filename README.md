@@ -52,9 +52,6 @@ CSIRT links and resources.
 * [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo): [theZoo ](http://thezoo.morirt.com)
 * [malware.one](https://malware.one/index.php) is a binary substring searchable malware catalog containing terabytes of malicious code.
 
-
-
-
 ### Ransomwares
 
 * [Ransomware decryption tool](https://github.com/newsoft/envoye-special-decryptor)
@@ -206,29 +203,16 @@ CSIRT links and resources.
 * [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
 * Security Research from the Microsoft Security Response Center ([MSRC](https://github.com/Microsoft/MSRC-Security-Research))
 
-## Politics
-
-* [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
-* [Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL](http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/)
-* [Online Security Guide for Journalists](https://protonmail.com/blog/journalist-online-security-tips/)
-* [Schneier on Security](https://www.schneier.com/blog/archives/2017/04/shadow_brokers_.html)
-
-### Online Voting
-
-* [Want to Know if the Election was Hacked? Look at the Ballots](https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba)
-* [E-Voting Machines Need Paper Audits to be Trustworthy](https://www.eff.org/deeplinks/2016/11/e-voting-machines-need-paper-audits-be-trustworthy)
-* [FBI Hacked into 8,000 Computers in 120 Countries Using A Single Warrant](http://thehackernews.com/2016/11/fbi-hacker.html)
-* [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
-* [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
-
-# Risk Assessment
+## Risk Assessment
 
 * (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
 * [RITA (Real Intelligence Threat Analytics)](https://github.com/ocmdev/rita)
 
-## Conferences
- 
- * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
+## Satellite
+
+* [How Do I Crack Satellite and Cable Pay TV? (33c3)](https://www.youtube.com/watch?v=lhbSD1Jba0Q)
+  * [Capture data from QPSK-demodulated OOB bitstream with Saleae logic analyzer and output byte stream.](https://github.com/akacastor/noob)
+  * [Process QPSK-demodulated data into transport stream (SCTE 55-1)](https://github.com/akacastor/oobin)
 
 ## Tools
 
@@ -242,7 +226,7 @@ CSIRT links and resources.
 * [Vapor PwnedPasswords Provider](https://github.com/joscdk/pwnedpasswords-provider): Package for testing a password against Pwned Passwords V2 API in Vapor
 * [Is my password pwned?](https://github.com/kevlar1818/is_my_password_pwned), [bash script](https://www.james-ridgway.co.uk/blog/pwnedpasswords-sh-a-bash-script-for-searching-troy-hunt-s-pwnedpasswords)
 
-## General
+# General
 
 * [Explain Shell](https://explainshell.com)
 * [Examples of regular expressions](https://support.google.com/a/answer/1371417?hl=en)
@@ -252,11 +236,11 @@ CSIRT links and resources.
 * [Looking for value in EV Certificates](https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/)
 * [How to find hidden cameras](http://www.tentacle.franken.de/papers/hiddencams.pdf)
 
-### Satellite
+## Conferences and Slides
+ 
+ * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
+ * [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
 
-* [How Do I Crack Satellite and Cable Pay TV? (33c3)](https://www.youtube.com/watch?v=lhbSD1Jba0Q)
-  * [Capture data from QPSK-demodulated OOB bitstream with Saleae logic analyzer and output byte stream.](https://github.com/akacastor/noob)
-  * [Process QPSK-demodulated data into transport stream (SCTE 55-1)](https://github.com/akacastor/oobin)
 
 ## Sources
 
@@ -272,3 +256,18 @@ Some good places to visit:
 # News
 
 * [IOTA Vulnerability Report](https://github.com/mit-dci/tangled-curl/blob/master/vuln-iota.md)
+
+## Politics
+
+* [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
+* [Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL](http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/)
+* [Online Security Guide for Journalists](https://protonmail.com/blog/journalist-online-security-tips/)
+* [Schneier on Security](https://www.schneier.com/blog/archives/2017/04/shadow_brokers_.html)
+
+### Online Voting
+
+* [Want to Know if the Election was Hacked? Look at the Ballots](https://medium.com/@jhalderm/want-to-know-if-the-election-was-hacked-look-at-the-ballots-c61a6113b0ba)
+* [E-Voting Machines Need Paper Audits to be Trustworthy](https://www.eff.org/deeplinks/2016/11/e-voting-machines-need-paper-audits-be-trustworthy)
+* [FBI Hacked into 8,000 Computers in 120 Countries Using A Single Warrant](http://thehackernews.com/2016/11/fbi-hacker.html)
+* [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
+* [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
