@@ -27,6 +27,8 @@ CSIRT links and resources.
 
 ## Malware Analysis
 
+* [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo): [theZoo ](http://thezoo.morirt.com)
+
 * Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg)
 * Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
 * [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
@@ -91,6 +93,8 @@ CSIRT links and resources.
   * [Apache Tomcat Hardening and Security Guide](https://geekflare.com/apache-tomcat-hardening-and-security-guide/)
   * [How to Enable TLS 1.3 in Nginx, Cloudflare?](https://geekflare.com/enable-tls-1-3/)
   * [Apache Web Server Hardening & Security Guide](https://geekflare.com/apache-web-server-hardening-security/) (broken!??)
+* [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth)
+* [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
 
 ### Apache
 
