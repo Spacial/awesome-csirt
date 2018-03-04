@@ -18,6 +18,8 @@ CSIRT links and resources.
  * [Cert.BR](http://www.cert.br) - useful [links](https://www.cert.br/links/)
  * SANS Pen-Testing Resources: [Downloads](https://pen-testing.sans.org/resources/downloads)
  * Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) of security projects
+ * [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+ * [Repository containing Indicators of Compromise and Yara rules](https://github.com/advanced-threat-research/IOCs)
  
 ## CVEs
 
@@ -226,6 +228,7 @@ CSIRT links and resources.
 * [EKOLABS](https://github.com/ekoparty/ekolabs) tools repo
 * [Vapor PwnedPasswords Provider](https://github.com/joscdk/pwnedpasswords-provider): Package for testing a password against Pwned Passwords V2 API in Vapor
 * [Is my password pwned?](https://github.com/kevlar1818/is_my_password_pwned), [bash script](https://www.james-ridgway.co.uk/blog/pwnedpasswords-sh-a-bash-script-for-searching-troy-hunt-s-pwnedpasswords)
+* [XPoCe](http://newosxbook.com/tools/XPoCe2.html) - XPC Snooping utilties for MacOS and iOS (version 2.0)
 
 # General
 
@@ -257,6 +260,7 @@ Some good places to visit:
 # News
 
 * [IOTA Vulnerability Report](https://github.com/mit-dci/tangled-curl/blob/master/vuln-iota.md)
+* [Symantec distrust impact on the webpki](https://gist.github.com/jvehent/0fbfb71bae06e48163f276592417079a)
 
 ## Politics
 
