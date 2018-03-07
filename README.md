@@ -184,6 +184,7 @@ CSIRT links and resources.
 * [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
 * [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound): Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) based ingestor for BloodHound
+* [tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([github]https://github.com/vaguileradiaz/tinfoleak)):The most complete open-source tool for Twitter intelligence analysis  
 
 ## Forensics
 
@@ -239,6 +240,7 @@ CSIRT links and resources.
 * [A curated list of awesome Threat Intelligence resources](https://github.com/hslatman/awesome-threat-intelligence)
 * [Looking for value in EV Certificates](https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/)
 * [How to find hidden cameras](http://www.tentacle.franken.de/papers/hiddencams.pdf)
+* [the Simple Encrypted Arithmetic Library (SEAL)](https://github.com/Lab41/PySEAL): This repository is a fork of Microsoft Research's homomorphic encryption implementation
 
 ## Conferences and Slides
  
