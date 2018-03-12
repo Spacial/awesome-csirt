@@ -81,7 +81,7 @@ CSIRT links and resources.
 
 ## Frameworks
 
-* [Inject code into running Python processes ](https://github.com/lmacken/pyrasite)
+* [Inject code into running Python processes](https://github.com/lmacken/pyrasite)
 
 ## Patching
 
@@ -145,7 +145,7 @@ CSIRT links and resources.
 * [Zero Day Zen Garden: Windows Exploit Development - Part 2](http://www.shogunlab.com/blog/2017/08/26/zdzg-windows-exploit-2.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 3](http://www.shogunlab.com/blog/2017/09/02/zdzg-windows-exploit-3.html)
 * [Zero Day Zen Garden: Windows Exploit Development - Part 4](http://www.shogunlab.com/blog/2017/11/06/zdzg-windows-exploit-4.html)
-* [Got Meterpreter? PivotPowPY!](https://pen-testing.sans.org/blog/2017/03/03/got-meterpreter-pivotpowpy/?utm_medium=Social&utm_source=Twitter&utm_content=SANSPenTest+BLOG+Got+Meterpreter+PivotPowPY+Janzen&utm_campaign=SANS+Pen+Test)
+* [Got Meterpreter? PivotPowPY!](https://pen-testing.sans.org/blog/2017/03/03/got-meterpreter-pivotpowpy/)
 * [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/)
 * [Slides from my ShellCon Talk, OSINT for Pen Tests, given 10/19.](https://github.com/g-solaria/OSINTforPenTests)
 * [Ethical Hacking Course: Enumeration Theory](http://gotowebsecurity.com/ethical-hacking-course-enumeration-theory/)
@@ -158,6 +158,7 @@ CSIRT links and resources.
 
 * [Striker](https://github.com/UltimateHackers/Striker) is an offensive information and vulnerability scanner
 * [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
+
 
 ### Exploits
 
@@ -206,6 +207,12 @@ CSIRT links and resources.
 * [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
 * [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
 * Security Research from the Microsoft Security Response Center ([MSRC](https://github.com/Microsoft/MSRC-Security-Research))
+* [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
+* [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor)
+
+### macOS/iOS
+
+* An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
 
 ## Risk Assessment
 
@@ -230,6 +237,10 @@ CSIRT links and resources.
 * [Vapor PwnedPasswords Provider](https://github.com/joscdk/pwnedpasswords-provider): Package for testing a password against Pwned Passwords V2 API in Vapor
 * [Is my password pwned?](https://github.com/kevlar1818/is_my_password_pwned), [bash script](https://www.james-ridgway.co.uk/blog/pwnedpasswords-sh-a-bash-script-for-searching-troy-hunt-s-pwnedpasswords)
 * [XPoCe](http://newosxbook.com/tools/XPoCe2.html) - XPC Snooping utilties for MacOS and iOS (version 2.0)
+* [CTFR](https://github.com/UnaPibaGeek/ctfr) does not use neither dictionary attack nor brute-force, it just abuses of Certificate Transparency logs.
+* [Enterprise Password Quality Checking](https://github.com/CboeSecurity/password_pwncheck) using any hash data sources (HaveIBeenPwned lists, et al)
+* [DockerAttack](https://github.com/ZephrFish/DockerAttack): Various Tools and Docker Images
+* [PyREBox](https://github.com/Cisco-Talos/pyrebox) is a Python scriptable Reverse Engineering sandbox
 
 # General
 
@@ -246,7 +257,6 @@ CSIRT links and resources.
  
  * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
  * [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
-
 
 ## Sources
 
