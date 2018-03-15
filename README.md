@@ -48,6 +48,7 @@ CSIRT links and resources.
 * [Puszek](https://github.com/Eterna1/puszek-rootkit):Yet another LKM rootkit for Linux. It hooks syscall table.
 * [Joe Sandbox Cloud](https://github.com/joesecurity/joesandboxcloudapi) is a deep malware analysis platform which detects malicious files - API Wrapper.
 * [EternalGlue part two: A rebuilt NotPetya gets its first execution outside of the lab](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/february/eternalglue-part-two-a-rebuilt-notpetya-gets-its-first-execution-outside-of-the-lab/)
+* [Malware web and phishing investigation](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) by Decent Security.
 
 ### Repos
 
@@ -103,6 +104,8 @@ CSIRT links and resources.
 * [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
 * [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
 * [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
+* [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. 
+
 
 ### Apache
 
@@ -121,6 +124,7 @@ CSIRT links and resources.
 * [sanitizers](https://github.com/google/sanitizers)
 * [Gitian](https://gitian.org) is a secure source-control oriented software distribution method.
 * [Canary](https://github.com/psecio/canary):Input Detection and Response 
+* [Regaxor](https://github.com/0xSobky/Regaxor): A regular expression fuzzer. 
 
 ## CTFs
 
@@ -186,6 +190,7 @@ CSIRT links and resources.
 * [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound): Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) based ingestor for BloodHound
 * [tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([github]https://github.com/vaguileradiaz/tinfoleak)):The most complete open-source tool for Twitter intelligence analysis  
+* [Social IDs](https://github.com/guillermo-carrasco/social_ids): Get user ids from social network handlers 
 
 ## Forensics
 
@@ -213,6 +218,10 @@ CSIRT links and resources.
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
+
+### Android
+
+* [tip toeing past android 7’s network security configuration](https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/)
 
 ## Risk Assessment
 
