@@ -1,8 +1,10 @@
-Gerenciamento de Riscos
+# Great resource colletion by [Cert.br](https://cert.br)
 
-http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/
+# Risk Management/Gerenciamento de Riscos
 
-Incident Management Process Model
+* [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/) (pt-br)
+
+# Incident Management Process Model
 
 http://www.cert.org/archive/pdf/04tr015.pdf
 CERT- RMM Incident Management and Control Ecosystem
