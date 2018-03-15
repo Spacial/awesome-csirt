@@ -10,7 +10,7 @@ CSIRT links and resources.
  
 ## Books
 
- * Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md)
+ * Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br) 
 
 ## Links
 
