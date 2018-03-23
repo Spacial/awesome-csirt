@@ -49,6 +49,7 @@ CSIRT links and resources.
 * [Joe Sandbox Cloud](https://github.com/joesecurity/joesandboxcloudapi) is a deep malware analysis platform which detects malicious files - API Wrapper.
 * [EternalGlue part two: A rebuilt NotPetya gets its first execution outside of the lab](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/february/eternalglue-part-two-a-rebuilt-notpetya-gets-its-first-execution-outside-of-the-lab/)
 * [Malware web and phishing investigation](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) by Decent Security.
+* [A collection of tools for working with TrickBot](https://github.com/MalwareTech/TrickBot-Toolkit)
 
 ### Repos
 
@@ -201,6 +202,10 @@ CSIRT links and resources.
 * [The Sleuth Kit® (TSK)](https://github.com/sleuthkit/sleuthkit) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data
 * [Invoke-LiveResponse](https://github.com/mgreen27/Powershell-IR)
 
+## SIEM
+
+* [Sigma](https://github.com/Neo23x0/sigma): Generic Signature Format for SIEM Systems
+
 ## Browsers
 
 * [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
@@ -222,6 +227,10 @@ CSIRT links and resources.
 ### Android
 
 * [tip toeing past android 7’s network security configuration](https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/)
+
+### Linux
+
+* [BCC](https://github.com/iovisor/bcc): Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 
 ## Risk Assessment
 
@@ -261,6 +270,7 @@ CSIRT links and resources.
 * [Looking for value in EV Certificates](https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/)
 * [How to find hidden cameras](http://www.tentacle.franken.de/papers/hiddencams.pdf)
 * [the Simple Encrypted Arithmetic Library (SEAL)](https://github.com/Lab41/PySEAL): This repository is a fork of Microsoft Research's homomorphic encryption implementation
+* [A port of ChibiOS to the Orchard radio platform](https://github.com/sutajiokousagi/chibios-orchard)
 
 ## Conferences and Slides
  
