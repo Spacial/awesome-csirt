@@ -50,6 +50,7 @@ CSIRT links and resources.
 * [EternalGlue part two: A rebuilt NotPetya gets its first execution outside of the lab](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/february/eternalglue-part-two-a-rebuilt-notpetya-gets-its-first-execution-outside-of-the-lab/)
 * [Malware web and phishing investigation](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) by Decent Security.
 * [A collection of tools for working with TrickBot](https://github.com/MalwareTech/TrickBot-Toolkit)
+* [Forgot About Default Accounts? No Worries, GoScanSSH Didn’t](http://blog.talosintelligence.com/2018/03/goscanssh-analysis.html)
 
 ### Repos
 
