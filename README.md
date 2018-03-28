@@ -220,6 +220,7 @@ CSIRT links and resources.
 * Security Research from the Microsoft Security Response Center ([MSRC](https://github.com/Microsoft/MSRC-Security-Research))
 * [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
 * [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor)
+* [Total Meltdown? ](http://blog.frizk.net/2018/03/total-meltdown.html)
 
 ### macOS/iOS
 
