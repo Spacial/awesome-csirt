@@ -107,7 +107,7 @@ CSIRT links and resources.
 * [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
 * [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
 * [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. 
-
+* [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
 
 ### Apache
 
@@ -225,10 +225,12 @@ CSIRT links and resources.
 * [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
 * [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
 * [ADImporter](https://github.com/curi0usJack/ADImporter)
+* [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
 
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
+* [Having fun with macOS 1days](https://github.com/theori-io/zer0con2018_singi)  
 
 ### Android
 
@@ -265,6 +267,7 @@ CSIRT links and resources.
 * [Enterprise Password Quality Checking](https://github.com/CboeSecurity/password_pwncheck) using any hash data sources (HaveIBeenPwned lists, et al)
 * [DockerAttack](https://github.com/ZephrFish/DockerAttack): Various Tools and Docker Images
 * [PyREBox](https://github.com/Cisco-Talos/pyrebox) is a Python scriptable Reverse Engineering sandbox
+* [find3](https://github.com/schollz/find3): High-precision indoor positioning framework, version 3
 
 # General
 
@@ -298,6 +301,7 @@ Some good places to visit:
 
 * [IOTA Vulnerability Report](https://github.com/mit-dci/tangled-curl/blob/master/vuln-iota.md)
 * [Symantec distrust impact on the webpki](https://gist.github.com/jvehent/0fbfb71bae06e48163f276592417079a)
+* [How long does it take for a MongoDB to be compromised](https://mackeepersecurity.com/post/how-long-does-it-take-for-a-mongodb-to-be-compromised)
 
 ## Politics
 
@@ -313,3 +317,9 @@ Some good places to visit:
 * [FBI Hacked into 8,000 Computers in 120 Countries Using A Single Warrant](http://thehackernews.com/2016/11/fbi-hacker.html)
 * [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
 * [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
+
+# CFPs
+
+## 2018
+
+* [Organized by security consulting and research firm Independent Security Evaluators (ISE), IoT Village delivers advocacy for and expertise on security advancements in Internet of Things devices. ](https://www.iotvillage.org/#cfp)
