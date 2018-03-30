@@ -222,6 +222,7 @@ CSIRT links and resources.
 * [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor)
 * [Total Meltdown? ](http://blog.frizk.net/2018/03/total-meltdown.html)
 * [DetectionLab](https://github.com/clong/DetectionLab): Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices. Post [here](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
+* [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
 
 ### macOS/iOS
 
