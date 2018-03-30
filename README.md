@@ -221,6 +221,7 @@ CSIRT links and resources.
 * [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
 * [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor)
 * [Total Meltdown? ](http://blog.frizk.net/2018/03/total-meltdown.html)
+* [DetectionLab](https://github.com/clong/DetectionLab): Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices. Post [here](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
 
 ### macOS/iOS
 
