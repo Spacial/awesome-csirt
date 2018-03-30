@@ -223,6 +223,8 @@ CSIRT links and resources.
 * [Total Meltdown? ](http://blog.frizk.net/2018/03/total-meltdown.html)
 * [DetectionLab](https://github.com/clong/DetectionLab): Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices. Post [here](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
 * [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
+* [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
+* [ADImporter](https://github.com/curi0usJack/ADImporter)
 
 ### macOS/iOS
 
