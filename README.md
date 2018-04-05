@@ -20,6 +20,7 @@ CSIRT links and resources.
  * Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) of security projects
  * [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
  * [Repository containing Indicators of Compromise and Yara rules](https://github.com/advanced-threat-research/IOCs)
+ * [Applying DevOps Principles in Incident Response](https://insights.sei.cmu.edu/devops/2015/09/applying-devops-principles-in-incident-response.html)
  
 ## CVEs
 
@@ -82,6 +83,8 @@ CSIRT links and resources.
 * [RE guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
 * [REDasm](https://github.com/REDasmOrg/REDasm): Crossplatform, interactive, multiarchitecture disassembler
 * [Reversing ARM Binaries](https://zygosec.com/post1.html)
+* [Programmer De-anonymization from Binary Executables](https://github.com/calaylin/bda)
+* [syntia](https://github.com/RUB-SysSec/syntia): Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code" 
 
 ## Frameworks
 
@@ -229,6 +232,7 @@ CSIRT links and resources.
 * [ADImporter](https://github.com/curi0usJack/ADImporter)
 * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
 * [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
+* [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
 
 ### macOS/iOS
 
@@ -273,6 +277,7 @@ CSIRT links and resources.
 * [DockerAttack](https://github.com/ZephrFish/DockerAttack): Various Tools and Docker Images
 * [PyREBox](https://github.com/Cisco-Talos/pyrebox) is a Python scriptable Reverse Engineering sandbox
 * [find3](https://github.com/schollz/find3): High-precision indoor positioning framework, version 3
+* [OSint Tools](https://start.me/p/wMdQMQ/tools): On this page you’ll find tools which you can help do your OSINT reseach.
 
 # General
 
@@ -286,6 +291,9 @@ CSIRT links and resources.
 * [the Simple Encrypted Arithmetic Library (SEAL)](https://github.com/Lab41/PySEAL): This repository is a fork of Microsoft Research's homomorphic encryption implementation
 * [A port of ChibiOS to the Orchard radio platform](https://github.com/sutajiokousagi/chibios-orchard)
 * [Decent Security](https://decentsecurity.com/#/malware-web-and-phishing-investigation/): Everyone can be secure.
+* [Introducing Certificate Transparency and Nimbus](https://blog.cloudflare.com/introducing-certificate-transparency-and-nimbus/)
+* [trillian](https://github.com/google/trillian): Trillian implements a Merkle tree whose contents are served from a data storage layer, to allow scalability to extremely large trees. 
+* [CFSSL's CA trust store repository](https://github.com/cloudflare/cfssl_trust)
 
 ## Conferences and Slides
  
