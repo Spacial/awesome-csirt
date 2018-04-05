@@ -248,6 +248,7 @@ CSIRT links and resources.
 * [BCC](https://github.com/iovisor/bcc): Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch)
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion):Linux distro for IDS, NSM, and Log Management 
+* [Linux Kernel Defence Map ](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 
 ## Risk Assessment
 
