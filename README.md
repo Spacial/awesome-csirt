@@ -64,6 +64,7 @@ CSIRT links and resources.
 * [Player 3 Has Entered the Game: Say Hello to 'WannaCry'](http://blog.talosintelligence.com/2017/05/wannacry.html)
 * [WannaCry|WannaDecrypt0r NSA-Cyberweapon-Powered Ransomware Worm](https://gist.github.com/rain-1/989428fa5504f378b993ee6efbc0b168)
 * [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#)
+* [Analyzing GrandSoft Exploit Kit](http://www.nao-sec.org/2018/02/analyzing-grandsoft-exploit-kit.html) and [code](https://gist.github.com/anonymous/089810f4581b86edf27827a0a4ebeff4)
 
 ### Virus/Anti-Virus
 
@@ -159,6 +160,7 @@ CSIRT links and resources.
 * [Network Infrastructure Penetration Testing Tool](https://github.com/SECFORCE/sparta)
 * [Shellen](https://github.com/merrychap/shellen):Interactive shellcoding environment to easily craft shellcodes
 * [tcp connection hijacker](https://github.com/kpcyrd/rshijack)
+* ["EAST" PENTEST FRAMEWORK](http://eastfw.com/)
 
 ### Vulnerability Scanning
 
@@ -226,6 +228,7 @@ CSIRT links and resources.
 * [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
 * [ADImporter](https://github.com/curi0usJack/ADImporter)
 * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
+* [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
 
 ### macOS/iOS
 
@@ -239,6 +242,8 @@ CSIRT links and resources.
 ### Linux
 
 * [BCC](https://github.com/iovisor/bcc): Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+* [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch)
+* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion):Linux distro for IDS, NSM, and Log Management 
 
 ## Risk Assessment
 
@@ -280,6 +285,7 @@ CSIRT links and resources.
 * [How to find hidden cameras](http://www.tentacle.franken.de/papers/hiddencams.pdf)
 * [the Simple Encrypted Arithmetic Library (SEAL)](https://github.com/Lab41/PySEAL): This repository is a fork of Microsoft Research's homomorphic encryption implementation
 * [A port of ChibiOS to the Orchard radio platform](https://github.com/sutajiokousagi/chibios-orchard)
+* [Decent Security](https://decentsecurity.com/#/malware-web-and-phishing-investigation/): Everyone can be secure.
 
 ## Conferences and Slides
  
