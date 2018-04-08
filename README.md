@@ -251,6 +251,7 @@ CSIRT links and resources.
 * [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch)
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion):Linux distro for IDS, NSM, and Log Management 
 * [Linux Kernel Defence Map ](https://github.com/a13xp0p0v/linux-kernel-defence-map)
+* [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 
 ## Risk Assessment
 
