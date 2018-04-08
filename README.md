@@ -300,6 +300,7 @@ CSIRT links and resources.
 * [Introducing Certificate Transparency and Nimbus](https://blog.cloudflare.com/introducing-certificate-transparency-and-nimbus/)
 * [trillian](https://github.com/google/trillian): Trillian implements a Merkle tree whose contents are served from a data storage layer, to allow scalability to extremely large trees. 
 * [CFSSL's CA trust store repository](https://github.com/cloudflare/cfssl_trust)
+* [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/)
 
 ## Conferences and Slides
  
