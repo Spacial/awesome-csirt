@@ -130,7 +130,8 @@ CSIRT links and resources.
 * [sanitizers](https://github.com/google/sanitizers)
 * [Gitian](https://gitian.org) is a secure source-control oriented software distribution method.
 * [Canary](https://github.com/psecio/canary):Input Detection and Response 
-* [Regaxor](https://github.com/0xSobky/Regaxor): A regular expression fuzzer. 
+* [Regaxor](https://github.com/0xSobky/Regaxor): A regular expression fuzzer
+* [Wycheproof](https://github.com/google/wycheproof): Project Wycheproof tests crypto libraries against known attacks.
 
 ## CTFs
 
@@ -238,6 +239,7 @@ CSIRT links and resources.
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
 * [Having fun with macOS 1days](https://github.com/theori-io/zer0con2018_singi)  
+* [x18-leak](https://github.com/bazad/x18-leak): iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.
 
 ### Android
 
@@ -279,6 +281,8 @@ CSIRT links and resources.
 * [PyREBox](https://github.com/Cisco-Talos/pyrebox) is a Python scriptable Reverse Engineering sandbox
 * [find3](https://github.com/schollz/find3): High-precision indoor positioning framework, version 3
 * [OSint Tools](https://start.me/p/wMdQMQ/tools): On this page you’ll find tools which you can help do your OSINT reseach.
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools): A list of command line tools for manipulating structured text data
+* [telnetlogger](https://github.com/robertdavidgraham/telnetlogger): Simulates enough of a Telnet connection in order to log failed login attempts.
 
 # General
 
@@ -306,6 +310,7 @@ CSIRT links and resources.
 Some good places to visit:
 
 * [hasherezade's 1001 nights](https://hshrzd.wordpress.com)
+* [List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
 
 # Fun
 
