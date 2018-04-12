@@ -287,7 +287,8 @@ CSIRT links and resources.
 * [telnetlogger](https://github.com/robertdavidgraham/telnetlogger): Simulates enough of a Telnet connection in order to log failed login attempts.
 * [vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
 * [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
-
+* [WeakNet LINUX 8](http://www.weaknetlabs.com/p/weaknet-linux.html): This is an information-security themed distribution that has been in development since 2010.
+* [](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
 # General
 
 * [Explain Shell](https://explainshell.com)
