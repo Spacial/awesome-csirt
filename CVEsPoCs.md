@@ -45,6 +45,18 @@ Some CVEs PoCs repos on github or internet.
 * [Reexport symbols for Mach-O and ELF.](https://github.com/xerub/reexport)
 * [Jailbreak for iOS 10.x 64bit devices without KTRR](https://github.com/tihmstar/doubleH3lix)
 
+## Android
+
+* [Please Stop Naming Vulnerabilities: Exploring 6 Previously Unknown Remote Kernel Bugs Affecting Android Phones](https://pleasestopnamingvulnerabilities.com)
+
+## Java
+
+* Spring Data Commons: [CVE-2018-1273](https://gist.github.com/matthiaskaiser/bfb274222c009b3570ab26436dc8799e)
+
+## BMC 
+
+* HPE iLO4: [CVE-2017-12542](https://github.com/airbus-seclab/ilo4_toolbox/blob/master/README.rst)
+
 ## x86
 
  * Spectre: [CVE-2017-5753,CVE-2017-5715](https://spectreattack.com/)
@@ -58,13 +70,6 @@ Some CVEs PoCs repos on github or internet.
  * [DoubleDoor](https://blog.newskysecurity.com/doubledoor-iot-botnet-bypasses-firewall-as-well-as-modem-security-using-two-backdoor-exploits-88457627306d), IoT Botnet bypasses firewall as well as modem security using two backdoor exploits: CVE-2015–7755 and CVE-2016–10401
  * [i.MX7 M4 Atomic Cache Bug](https://rschaefertech.wordpress.com/2018/02/17/imx7-hardware-bug/)
  
-## Android
-
-* [Please Stop Naming Vulnerabilities: Exploring 6 Previously Unknown Remote Kernel Bugs Affecting Android Phones](https://pleasestopnamingvulnerabilities.com)
-
-## BMC 
-
-* HPE iLO4: [CVE-2017-12542](https://github.com/airbus-seclab/ilo4_toolbox/blob/master/README.rst)
 
 ## Others
 
