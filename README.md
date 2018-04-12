@@ -285,7 +285,8 @@ CSIRT links and resources.
 * [OSint Tools](https://start.me/p/wMdQMQ/tools): On this page you’ll find tools which you can help do your OSINT reseach.
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools): A list of command line tools for manipulating structured text data
 * [telnetlogger](https://github.com/robertdavidgraham/telnetlogger): Simulates enough of a Telnet connection in order to log failed login attempts.
-* [valut](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
+* [vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
+* [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
 
 # General
 
