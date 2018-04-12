@@ -132,6 +132,7 @@ CSIRT links and resources.
 * [Canary](https://github.com/psecio/canary):Input Detection and Response 
 * [Regaxor](https://github.com/0xSobky/Regaxor): A regular expression fuzzer
 * [Wycheproof](https://github.com/google/wycheproof): Project Wycheproof tests crypto libraries against known attacks.
+* [Web App Security 101](https://kruschecompany.com/blog/post/web-app-security): Keep Calm and Do Threat Modeling
 
 ## CTFs
 
@@ -166,11 +167,11 @@ CSIRT links and resources.
 * [tcp connection hijacker](https://github.com/kpcyrd/rshijack)
 * ["EAST" PENTEST FRAMEWORK](http://eastfw.com/)
 
-### Vulnerability Scanning
+### Vulnerability
 
 * [Striker](https://github.com/UltimateHackers/Striker) is an offensive information and vulnerability scanner
 * [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
-
+* [Decentralized Application Security Project](https://www.dasp.co/), [github](https://github.com/CryptoServices/dasp)
 
 ### Exploits
 
@@ -284,6 +285,7 @@ CSIRT links and resources.
 * [OSint Tools](https://start.me/p/wMdQMQ/tools): On this page you’ll find tools which you can help do your OSINT reseach.
 * [structured-text-tools](https://github.com/dbohdan/structured-text-tools): A list of command line tools for manipulating structured text data
 * [telnetlogger](https://github.com/robertdavidgraham/telnetlogger): Simulates enough of a Telnet connection in order to log failed login attempts.
+* [valut](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
 
 # General
 
