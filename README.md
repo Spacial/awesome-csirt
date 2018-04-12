@@ -85,6 +85,7 @@ CSIRT links and resources.
 * [Reversing ARM Binaries](https://zygosec.com/post1.html)
 * [Programmer De-anonymization from Binary Executables](https://github.com/calaylin/bda)
 * [syntia](https://github.com/RUB-SysSec/syntia): Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code" 
+* [Reverse engineering WhatsApp Web](https://github.com/sigalor/whatsapp-web-reveng)
 
 ## Frameworks
 
@@ -200,6 +201,7 @@ CSIRT links and resources.
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound): Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) based ingestor for BloodHound
 * [tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([github]https://github.com/vaguileradiaz/tinfoleak)):The most complete open-source tool for Twitter intelligence analysis  
 * [Social IDs](https://github.com/guillermo-carrasco/social_ids): Get user ids from social network handlers 
+* [SpookFlare](https://github.com/hlldz/SpookFlare): Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures. 
 
 ## Forensics
 
