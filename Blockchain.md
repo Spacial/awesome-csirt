@@ -9,7 +9,8 @@
 ### News
 
 *[Market Cap to GDP: An Updated Look at the Buffett Valuation Indicator](https://www.advisorperspectives.com/dshort/updates/2017/09/06/market-cap-to-gdp-an-updated-look-at-the-buffett-valuation-indicator)
-
+*[Valuing Cryptoassets from the Ground Up](https://medium.com/@sall/valuing-cryptoassets-from-the-ground-up-441ad5a9ff03)
+*[CVM promete para maio um parecer sobre investimentos de fundos em criptomoedas](http://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=47787) (pt-br)
 
 
 
