@@ -86,6 +86,8 @@ CSIRT links and resources.
 * [Programmer De-anonymization from Binary Executables](https://github.com/calaylin/bda)
 * [syntia](https://github.com/RUB-SysSec/syntia): Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code" 
 * [Reverse engineering WhatsApp Web](https://github.com/sigalor/whatsapp-web-reveng)
+* [BOLO: Reverse Engineering — Part 1 (Basic Programming Concepts)](https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7)
+* [BOLO: Reverse Engineering — Part 2 (Advanced Programming Concepts)](https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e) 
 
 ## Frameworks
 
@@ -167,6 +169,7 @@ CSIRT links and resources.
 * [Shellen](https://github.com/merrychap/shellen):Interactive shellcoding environment to easily craft shellcodes
 * [tcp connection hijacker](https://github.com/kpcyrd/rshijack)
 * ["EAST" PENTEST FRAMEWORK](http://eastfw.com/)
+* [Pown.js](https://github.com/pownjs/pown): is the security testing an exploitation framework built on top of Node.js and NPM.
 
 ### Vulnerability
 
@@ -243,6 +246,8 @@ CSIRT links and resources.
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
 * [Having fun with macOS 1days](https://github.com/theori-io/zer0con2018_singi)  
 * [x18-leak](https://github.com/bazad/x18-leak): iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.
+* [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
+* [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7 
 
 ### Android
 
@@ -291,6 +296,7 @@ CSIRT links and resources.
 * [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
 * [WeakNet LINUX 8](http://www.weaknetlabs.com/p/weaknet-linux.html): This is an information-security themed distribution that has been in development since 2010.
 * [](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
+
 # General
 
 * [Explain Shell](https://explainshell.com)
@@ -330,6 +336,7 @@ Some good places to visit:
 * [IOTA Vulnerability Report](https://github.com/mit-dci/tangled-curl/blob/master/vuln-iota.md)
 * [Symantec distrust impact on the webpki](https://gist.github.com/jvehent/0fbfb71bae06e48163f276592417079a)
 * [How long does it take for a MongoDB to be compromised](https://mackeepersecurity.com/post/how-long-does-it-take-for-a-mongodb-to-be-compromised)
+* [Abusing NVIDIA’s node.js to bypass application whitelisting](https://www.sec-consult.com/en/blog/2017/04/application-whitelisting-application/index.html)
 
 ## Politics
 
