@@ -52,6 +52,7 @@ CSIRT links and resources.
 * [Malware web and phishing investigation](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) by Decent Security.
 * [A collection of tools for working with TrickBot](https://github.com/MalwareTech/TrickBot-Toolkit)
 * [Forgot About Default Accounts? No Worries, GoScanSSH Didn’t](http://blog.talosintelligence.com/2018/03/goscanssh-analysis.html)
+* [EMOTET](https://www.malware-traffic-analysis.net/2018/07/20/index.html): EMOTET INFECTIONS WITH ZEUS PANDA BANKER AND TRICKBOT (GTAG: DEL34)
 
 ### Repos
 
@@ -136,6 +137,10 @@ CSIRT links and resources.
 * [Regaxor](https://github.com/0xSobky/Regaxor): A regular expression fuzzer
 * [Wycheproof](https://github.com/google/wycheproof): Project Wycheproof tests crypto libraries against known attacks.
 * [Web App Security 101](https://kruschecompany.com/blog/post/web-app-security): Keep Calm and Do Threat Modeling
+* SSL/TLS for dummies: 
+  * [part 1](https://www.wst.space/ssl-part1-ciphersuite-hashing-encryption/): Ciphersuite, Hashing, Encryption;
+  * [part 2](https://www.wst.space/ssl-part-2-diffie-hellman-key-exchange/): Understanding key exchange algorithm;
+  * [part 3](https://www.wst.space/ssl-part-3-certificate-authority/): Understanding Certificate Authority.
 
 ## CTFs
 
@@ -295,7 +300,7 @@ CSIRT links and resources.
 * [vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
 * [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
 * [WeakNet LINUX 8](http://www.weaknetlabs.com/p/weaknet-linux.html): This is an information-security themed distribution that has been in development since 2010.
-* [](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
+* [HiTB](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
 
 # General
 
