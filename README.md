@@ -182,6 +182,10 @@ CSIRT links and resources.
 * [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
 * [Decentralized Application Security Project](https://www.dasp.co/), [github](https://github.com/CryptoServices/dasp)
 
+### WAFs
+
+* [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
+
 ### Exploits
 
 * [IOSurface exploit](https://github.com/Siguza/v0rtex)
@@ -265,6 +269,7 @@ CSIRT links and resources.
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion):Linux distro for IDS, NSM, and Log Management 
 * [Linux Kernel Defence Map ](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
+* [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 
 ## Risk Assessment
 
