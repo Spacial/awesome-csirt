@@ -3,6 +3,7 @@
 ## Code
 
 * [ercfund](https://github.com/ScJa/ercfund): An open-ended investment fund implementation on the Ethereum blockchain for managing ERC20 tokens
+* [Proof of Work C# Example](http://codewithevgeny.com/proof-work-c-example/)
 
 ## Economy
 
