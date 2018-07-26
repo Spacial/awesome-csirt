@@ -53,6 +53,7 @@ CSIRT links and resources.
 * [A collection of tools for working with TrickBot](https://github.com/MalwareTech/TrickBot-Toolkit)
 * [Forgot About Default Accounts? No Worries, GoScanSSH Didn’t](http://blog.talosintelligence.com/2018/03/goscanssh-analysis.html)
 * [EMOTET](https://www.malware-traffic-analysis.net/2018/07/20/index.html): EMOTET INFECTIONS WITH ZEUS PANDA BANKER AND TRICKBOT (GTAG: DEL34)
+* [RegRipper](https://github.com/keydet89/RegRipper2.8) version 2.8 (source code)
 
 ### Repos
 
@@ -141,6 +142,7 @@ CSIRT links and resources.
   * [part 1](https://www.wst.space/ssl-part1-ciphersuite-hashing-encryption/): Ciphersuite, Hashing, Encryption;
   * [part 2](https://www.wst.space/ssl-part-2-diffie-hellman-key-exchange/): Understanding key exchange algorithm;
   * [part 3](https://www.wst.space/ssl-part-3-certificate-authority/): Understanding Certificate Authority.
+* [git-secrets](https://github.com/awslabs/git-secrets): Prevents you from committing secrets and credentials into git repositories
 
 ## CTFs
 
@@ -214,6 +216,7 @@ CSIRT links and resources.
 * [tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([github]https://github.com/vaguileradiaz/tinfoleak)):The most complete open-source tool for Twitter intelligence analysis  
 * [Social IDs](https://github.com/guillermo-carrasco/social_ids): Get user ids from social network handlers 
 * [SpookFlare](https://github.com/hlldz/SpookFlare): Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures. 
+* [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 
 ## Forensics
 
@@ -249,6 +252,7 @@ CSIRT links and resources.
 * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
 * [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
 * [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
+* [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
 
 ### macOS/iOS
 
@@ -257,6 +261,7 @@ CSIRT links and resources.
 * [x18-leak](https://github.com/bazad/x18-leak): iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.
 * [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
 * [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7 
+* [SDQAnalyzer](https://github.com/nezza/SDQAnalyzer): a Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 
 ### Android
 
@@ -306,6 +311,7 @@ CSIRT links and resources.
 * [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
 * [WeakNet LINUX 8](http://www.weaknetlabs.com/p/weaknet-linux.html): This is an information-security themed distribution that has been in development since 2010.
 * [HiTB](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
+* [arphid](https://github.com/arphid/arphid): DYI 125KHz RFID read/write/emulate guide 
 
 # General
 
