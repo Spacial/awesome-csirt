@@ -240,6 +240,10 @@ CSIRT links and resources.
 
 * [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](https://www.cs.technion.ac.il/~biham/BT/)
 
+### UEFI
+
+* [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck): A JIT compiler for Brainfuck running on x86_64 UEFI 
+
 ### Windows
 
 * [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
