@@ -238,6 +238,8 @@ CSIRT links and resources.
 
 ## Operating Systems
 
+* [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](https://www.cs.technion.ac.il/~biham/BT/)
+
 ### Windows
 
 * [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
@@ -263,10 +265,12 @@ CSIRT links and resources.
 * [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
 * [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7 
 * [SDQAnalyzer](https://github.com/nezza/SDQAnalyzer): a Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
+* [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 
 ### Android
 
 * [tip toeing past android 7’s network security configuration](https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/)
+* [A Story About Three Bluetooth Vulnerabilities in Android](https://blog.quarkslab.com/a-story-about-three-bluetooth-vulnerabilities-in-android.html)
 
 ### Linux
 
