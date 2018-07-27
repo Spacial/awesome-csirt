@@ -217,6 +217,7 @@ CSIRT links and resources.
 * [Social IDs](https://github.com/guillermo-carrasco/social_ids): Get user ids from social network handlers 
 * [SpookFlare](https://github.com/hlldz/SpookFlare): Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures. 
 * [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
+* [iKy](https://gitlab.com/kennbroorg/iKy): I Know You (OSINT project)
 
 ## Forensics
 
@@ -368,6 +369,7 @@ Some good places to visit:
 * [FBI Hacked into 8,000 Computers in 120 Countries Using A Single Warrant](http://thehackernews.com/2016/11/fbi-hacker.html)
 * [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
 * [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
+* [Top Voting Machine Vendor Admits It Installed Remote-Access Software on Systems Sold to States](https://motherboard.vice.com/en_us/article/mb4ezy/top-voting-machine-vendor-admits-it-installed-remote-access-software-on-systems-sold-to-states)
 
 # CFPs
 
