@@ -56,6 +56,8 @@ CSIRT links and resources.
 * [RegRipper](https://github.com/keydet89/RegRipper2.8) version 2.8 (source code)
 * [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks
 * [TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time](https://arxiv.org/abs/1807.07838)
+* [colental/byob: BYOB (Build Your Own Botnet)](https://github.com/colental/byob)
+* [Source Code for Exobot Android Banking Trojan Leaked Online](https://www.bleepingcomputer.com/news/security/source-code-for-exobot-android-banking-trojan-leaked-online/)
 
 ### Repos
 
@@ -290,6 +292,10 @@ CSIRT links and resources.
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 * [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 
+# Other OSes
+
+* [CVE-2018-2892 - Kernel Level Privilege Escalation in Oracle Solaris](https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-2892---Kernel-Level-Privilege-Escalation-in-Oracle-Solaris/)
+
 ## Risk Assessment
 
 * (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
@@ -344,17 +350,20 @@ CSIRT links and resources.
 * [CFSSL's CA trust store repository](https://github.com/cloudflare/cfssl_trust)
 * [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/)
 * [AWS IAM privileges as found using the AWS Policy Generator described at](https://gist.github.com/0xdabbad00/fa918ad85c0c3f0e0fa9a3f6b53696de)
+* [Mailfence](https://mailfence.com/)
 
 ## Conferences and Slides
  
  * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
  * [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
+* [kudelskisecurity/cryptochallenge18: Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
 
 ## Sources
 
 Some good places to visit:
 
-* [hasherezade's 1001 nights](https://hshrzd.wordpress.com)
+* [hasherezade's 1001 nights](https://hshrzd.wordpress.com) 
+  * [How to start RE/malware analysis? | hasherezade's 1001 nights](https://hshrzd.wordpress.com/how-to-start/)
 * [List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
 
 # Fun
