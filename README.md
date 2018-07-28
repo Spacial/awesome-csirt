@@ -267,6 +267,7 @@ CSIRT links and resources.
 * [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
 * [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
 * [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
+* [Unicorn](https://github.com/trustedsec/unicorn) is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
 
 ### macOS/iOS
 
