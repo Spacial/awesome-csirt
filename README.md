@@ -356,7 +356,7 @@ CSIRT links and resources.
  
  * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
  * [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
-* [kudelskisecurity/cryptochallenge18: Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
+* [Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
 
 ## Sources
 
