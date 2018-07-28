@@ -54,6 +54,8 @@ CSIRT links and resources.
 * [Forgot About Default Accounts? No Worries, GoScanSSH Didn’t](http://blog.talosintelligence.com/2018/03/goscanssh-analysis.html)
 * [EMOTET](https://www.malware-traffic-analysis.net/2018/07/20/index.html): EMOTET INFECTIONS WITH ZEUS PANDA BANKER AND TRICKBOT (GTAG: DEL34)
 * [RegRipper](https://github.com/keydet89/RegRipper2.8) version 2.8 (source code)
+* [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks
+* [TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time](https://arxiv.org/abs/1807.07838)
 
 ### Repos
 
@@ -90,6 +92,7 @@ CSIRT links and resources.
 * [Reverse engineering WhatsApp Web](https://github.com/sigalor/whatsapp-web-reveng)
 * [BOLO: Reverse Engineering — Part 1 (Basic Programming Concepts)](https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7)
 * [BOLO: Reverse Engineering — Part 2 (Advanced Programming Concepts)](https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e) 
+* [Reverse Engineering for Beginners](https://www.begin.re)
 
 ## Frameworks
 
@@ -148,6 +151,7 @@ CSIRT links and resources.
 
 * [The fast, easy, and affordable way to train your hacking skills.](https://www.root-me.org/)
 * [Write-ups for crackmes and CTF challenges](https://github.com/eleemosynator/writeups) by eleemosynator
+* [pwntools](https://github.com/Gallopsled/pwntools): CTF framework and exploit development library
 
 ## Archs
 
@@ -218,6 +222,7 @@ CSIRT links and resources.
 * [SpookFlare](https://github.com/hlldz/SpookFlare): Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures. 
 * [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 * [iKy](https://gitlab.com/kennbroorg/iKy): I Know You (OSINT project)
+* [Extracting data from an EMV (Chip-And-Pin) Card with NFC technology](https://insinuator.net/2018/02/extracting-data-from-an-emv-chip-and-pin-card-with-nfc-technology/)
 
 ## Forensics
 
@@ -338,6 +343,7 @@ CSIRT links and resources.
 * [trillian](https://github.com/google/trillian): Trillian implements a Merkle tree whose contents are served from a data storage layer, to allow scalability to extremely large trees. 
 * [CFSSL's CA trust store repository](https://github.com/cloudflare/cfssl_trust)
 * [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/)
+* [AWS IAM privileges as found using the AWS Policy Generator described at](https://gist.github.com/0xdabbad00/fa918ad85c0c3f0e0fa9a3f6b53696de)
 
 ## Conferences and Slides
  
