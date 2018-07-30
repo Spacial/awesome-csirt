@@ -21,6 +21,7 @@ CSIRT links and resources.
  * [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
  * [Repository containing Indicators of Compromise and Yara rules](https://github.com/advanced-threat-research/IOCs)
  * [Applying DevOps Principles in Incident Response](https://insights.sei.cmu.edu/devops/2015/09/applying-devops-principles-in-incident-response.html)
+ * [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
  
 ## CVEs
 
@@ -165,6 +166,7 @@ CSIRT links and resources.
 
 ## Pentesting
 
+* [Seclists](https://github.com/danielmiessler/SecLists) is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 * Search operating systems on the network: [osquery](https://osquery.io/downloads/)
 * [osquery Across the Enterprise](https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55)
 * Penetration Testing Cheat Sheet For Windows Machine – [Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
@@ -183,6 +185,7 @@ CSIRT links and resources.
 * [tcp connection hijacker](https://github.com/kpcyrd/rshijack)
 * ["EAST" PENTEST FRAMEWORK](http://eastfw.com/)
 * [Pown.js](https://github.com/pownjs/pown): is the security testing an exploitation framework built on top of Node.js and NPM.
+* [Sandmap](https://github.com/trimstray/sandmap) is a tool supporting network and system reconnaissance using the massive Nmap engine. 
 
 ### Vulnerability
 
