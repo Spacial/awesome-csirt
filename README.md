@@ -59,6 +59,7 @@ CSIRT links and resources.
 * [TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time](https://arxiv.org/abs/1807.07838)
 * [colental/byob: BYOB (Build Your Own Botnet)](https://github.com/colental/byob)
 * [Source Code for Exobot Android Banking Trojan Leaked Online](https://www.bleepingcomputer.com/news/security/source-code-for-exobot-android-banking-trojan-leaked-online/)
+* [Pegasus: analysis of network behavior](http://blog.ptsecurity.com/2018/07/pegasus-analysis-of-network-behavior.html)
 
 ### Repos
 
