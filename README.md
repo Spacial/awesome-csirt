@@ -207,6 +207,7 @@ CSIRT links and resources.
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
 * [A collection of PHP exploit scripts](https://github.com/mattiasgeniar/php-exploit-scripts)
 * [WebKit exploit](https://github.com/Cryptogenic/Exploit-Writeups/blob/master/WebKit/setAttributeNodeNS%20UAF%20Write-up.md)
+* [Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
 ## DNS
 
