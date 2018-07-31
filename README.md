@@ -80,6 +80,7 @@ CSIRT links and resources.
  * [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
  * [Morris worm](https://github.com/arialdomartini/morris-worm)
  * [make a process unkillable?!](https://secrary.com/Random/UnKillable/) (windows 10)
+ * [Attack inception: Compromised supply chain within a supply chain poses new risks – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2018/07/26/attack-inception-compromised-supply-chain-within-a-supply-chain-poses-new-risks/)
 
 ### Trojans
 
@@ -125,14 +126,17 @@ CSIRT links and resources.
 * [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. 
 * [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
 
+
 ### Apache
 
- * [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
- * [dotdotslash](https://github.com/jcesarstef/dotdotslash): An tool to help you search for Directory Traversal Vulnerabilities
+* [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
+* [dotdotslash](https://github.com/jcesarstef/dotdotslash): An tool to help you search for Directory Traversal Vulnerabilities
+* [A new security header: Feature Policy](https://scotthelme.co.uk/a-new-security-header-feature-policy/)
 
 ## Credentials
 
 * Search if your credentials where leaked: [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
+* [GitHub - detroitenglish/pw-pwnage-cfworker: Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND chec](https://github.com/detroitenglish/pw-pwnage-cfworker)
 
 ## Secure Programming
 
