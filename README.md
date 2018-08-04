@@ -22,6 +22,7 @@ CSIRT links and resources.
  * [Repository containing Indicators of Compromise and Yara rules](https://github.com/advanced-threat-research/IOCs)
  * [Applying DevOps Principles in Incident Response](https://insights.sei.cmu.edu/devops/2015/09/applying-devops-principles-in-incident-response.html)
  * [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
+ * [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
  
 ## CVEs
 
@@ -277,6 +278,7 @@ CSIRT links and resources.
 * [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
 * [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
 * [Unicorn](https://github.com/trustedsec/unicorn) is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
+* [Remote-Desktop-Caching](https://github.com/Viralmaniar/Remote-Desktop-Caching-/blob/master/README.md)
 
 ### macOS/iOS
 
