@@ -127,7 +127,6 @@ CSIRT links and resources.
 * [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. 
 * [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
 
-
 ### Apache
 
 * [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
@@ -279,6 +278,7 @@ CSIRT links and resources.
 * [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
 * [Unicorn](https://github.com/trustedsec/unicorn) is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
 * [Remote-Desktop-Caching](https://github.com/Viralmaniar/Remote-Desktop-Caching-/blob/master/README.md)
+* [GitHub - tasox/LogRM: LogRM is a post exploitation powershell script which it uses windows event logs to gather information abou](https://github.com/tasox/LogRM/)
 
 ### macOS/iOS
 
@@ -390,6 +390,7 @@ Some good places to visit:
 * [How long does it take for a MongoDB to be compromised](https://mackeepersecurity.com/post/how-long-does-it-take-for-a-mongodb-to-be-compromised)
 * [Abusing NVIDIA’s node.js to bypass application whitelisting](https://www.sec-consult.com/en/blog/2017/04/application-whitelisting-application/index.html)
 
+
 ## Politics
 
 * [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
@@ -405,6 +406,8 @@ Some good places to visit:
 * [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
 * [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
 * [Top Voting Machine Vendor Admits It Installed Remote-Access Software on Systems Sold to States](https://motherboard.vice.com/en_us/article/mb4ezy/top-voting-machine-vendor-admits-it-installed-remote-access-software-on-systems-sold-to-states)
+* [The default OpenSSH key encryption is worse than plaintext](https://latacora.singles/2018/08/03/the-default-openssh.html)
+* [New attack on WPA/WPA using PMKID](https://hashcat.net/forum/thread-7717.html)
 
 # CFPs
 
