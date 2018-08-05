@@ -99,6 +99,7 @@ CSIRT links and resources.
 * [BOLO: Reverse Engineering — Part 1 (Basic Programming Concepts)](https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7)
 * [BOLO: Reverse Engineering — Part 2 (Advanced Programming Concepts)](https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e) 
 * [Reverse Engineering for Beginners](https://www.begin.re)
+* [VivienneVMM](https://github.com/changeofpace/VivienneVMM): VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor.
 
 ## Frameworks
 
@@ -154,6 +155,7 @@ CSIRT links and resources.
   * [part 2](https://www.wst.space/ssl-part-2-diffie-hellman-key-exchange/): Understanding key exchange algorithm;
   * [part 3](https://www.wst.space/ssl-part-3-certificate-authority/): Understanding Certificate Authority.
 * [git-secrets](https://github.com/awslabs/git-secrets): Prevents you from committing secrets and credentials into git repositories
+* [heaphopper](https://github.com/angr/heaphopper): HeapHopper is a bounded model checking framework for Heap-implementations
 
 ## CTFs
 
@@ -191,6 +193,7 @@ CSIRT links and resources.
 * ["EAST" PENTEST FRAMEWORK](http://eastfw.com/)
 * [Pown.js](https://github.com/pownjs/pown): is the security testing an exploitation framework built on top of Node.js and NPM.
 * [Sandmap](https://github.com/trimstray/sandmap) is a tool supporting network and system reconnaissance using the massive Nmap engine. 
+* [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
 
 ### Vulnerability
 
@@ -279,6 +282,7 @@ CSIRT links and resources.
 * [Unicorn](https://github.com/trustedsec/unicorn) is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
 * [Remote-Desktop-Caching](https://github.com/Viralmaniar/Remote-Desktop-Caching-/blob/master/README.md)
 * [GitHub - tasox/LogRM: LogRM is a post exploitation powershell script which it uses windows event logs to gather information abou](https://github.com/tasox/LogRM/)
+* [InvisiblePersistence](https://github.com/ewhitehats/InvisiblePersistence): Persisting in the Windows registry "invisibly"
 
 ### macOS/iOS
 
@@ -289,6 +293,7 @@ CSIRT links and resources.
 * [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7 
 * [SDQAnalyzer](https://github.com/nezza/SDQAnalyzer): a Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 * [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
+* [jelbrekTime](https://github.com/tihmstar/jelbrekTime): An developer jailbreak for Apple watch S3 watchOS 4.1
 
 ### Android
 
@@ -303,6 +308,7 @@ CSIRT links and resources.
 * [Linux Kernel Defence Map ](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 * [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
+* [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
 
 # Other OSes
 
@@ -344,6 +350,7 @@ CSIRT links and resources.
 * [WeakNet LINUX 8](http://www.weaknetlabs.com/p/weaknet-linux.html): This is an information-security themed distribution that has been in development since 2010.
 * [HiTB](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
 * [arphid](https://github.com/arphid/arphid): DYI 125KHz RFID read/write/emulate guide 
+* [Pybelt](https://github.com/Ekultek/Pybelt): The hackers tool belt
 
 # General
 
@@ -389,7 +396,7 @@ Some good places to visit:
 * [Symantec distrust impact on the webpki](https://gist.github.com/jvehent/0fbfb71bae06e48163f276592417079a)
 * [How long does it take for a MongoDB to be compromised](https://mackeepersecurity.com/post/how-long-does-it-take-for-a-mongodb-to-be-compromised)
 * [Abusing NVIDIA’s node.js to bypass application whitelisting](https://www.sec-consult.com/en/blog/2017/04/application-whitelisting-application/index.html)
-
+* [What’s the Difference Between WPA2 and WPA3? | Electronic Design](https://www.electronicdesign.com/embedded-revolution/what-s-difference-between-wpa2-and-wpa3)
 
 ## Politics
 
@@ -414,3 +421,7 @@ Some good places to visit:
 ## 2018
 
 * [Organized by security consulting and research firm Independent Security Evaluators (ISE), IoT Village delivers advocacy for and expertise on security advancements in Internet of Things devices. ](https://www.iotvillage.org/#cfp)
+
+# Articles
+
+* [[1808.00659] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
