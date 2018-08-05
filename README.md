@@ -283,6 +283,7 @@ CSIRT links and resources.
 * [Remote-Desktop-Caching](https://github.com/Viralmaniar/Remote-Desktop-Caching-/blob/master/README.md)
 * [GitHub - tasox/LogRM: LogRM is a post exploitation powershell script which it uses windows event logs to gather information abou](https://github.com/tasox/LogRM/)
 * [InvisiblePersistence](https://github.com/ewhitehats/InvisiblePersistence): Persisting in the Windows registry "invisibly"
+* [Low Privilege Active Directory Enumeration from a non-Domain Joined Host](https://www.attackdebris.com/?p=470)
 
 ### macOS/iOS
 
