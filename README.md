@@ -61,10 +61,11 @@ CSIRT links and resources.
 * [colental/byob: BYOB (Build Your Own Botnet)](https://github.com/colental/byob)
 * [Source Code for Exobot Android Banking Trojan Leaked Online](https://www.bleepingcomputer.com/news/security/source-code-for-exobot-android-banking-trojan-leaked-online/)
 * [Pegasus: analysis of network behavior](http://blog.ptsecurity.com/2018/07/pegasus-analysis-of-network-behavior.html)
+* [Ramnit’s Network of Proxy Servers](https://research.checkpoint.com/ramnits-network-proxy-servers/)
 
 ### Repos
 
-* [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo): [theZoo ](http://thezoo.morirt.com)
+* [A repository of LIVE malwares for your own joy and pleasure](https://github.com/ytisf/theZoo): [theZoo](http://thezoo.morirt.com)
 * [malware.one](https://malware.one/index.php) is a binary substring searchable malware catalog containing terabytes of malicious code.
 
 ### Ransomwares
