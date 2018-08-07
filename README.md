@@ -284,6 +284,8 @@ CSIRT links and resources.
 * [GitHub - tasox/LogRM: LogRM is a post exploitation powershell script which it uses windows event logs to gather information abou](https://github.com/tasox/LogRM/)
 * [InvisiblePersistence](https://github.com/ewhitehats/InvisiblePersistence): Persisting in the Windows registry "invisibly"
 * [Low Privilege Active Directory Enumeration from a non-Domain Joined Host](https://www.attackdebris.com/?p=470)
+* [Dynamic Tracing in Windows 10 19H1](http://www.alex-ionescu.com/?p=358)
+* [Capturing NetNTLM Hashes with Office [DOT] XML Documents](https://bohops.com/2018/08/04/capturing-netntlm-hashes-with-office-dot-xml-documents/)
 
 ### macOS/iOS
 
@@ -398,6 +400,7 @@ Some good places to visit:
 * [How long does it take for a MongoDB to be compromised](https://mackeepersecurity.com/post/how-long-does-it-take-for-a-mongodb-to-be-compromised)
 * [Abusing NVIDIA’s node.js to bypass application whitelisting](https://www.sec-consult.com/en/blog/2017/04/application-whitelisting-application/index.html)
 * [What’s the Difference Between WPA2 and WPA3? | Electronic Design](https://www.electronicdesign.com/embedded-revolution/what-s-difference-between-wpa2-and-wpa3)
+* [Turn Off Your Fitbit, Garmin, Apple Watch GPS NOW!](https://breakingdefense.com/2018/08/turn-off-your-fitbit-garmin-apple-watch-gps-now/)
 
 ## Politics
 
