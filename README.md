@@ -237,6 +237,7 @@ CSIRT links and resources.
 * [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 * [iKy](https://gitlab.com/kennbroorg/iKy): I Know You (OSINT project)
 * [Extracting data from an EMV (Chip-And-Pin) Card with NFC technology](https://insinuator.net/2018/02/extracting-data-from-an-emv-chip-and-pin-card-with-nfc-technology/)
+* [Gitrob](https://github.com/michenriksen/gitrob): Putting the Open Source in OSINT
 
 ## Forensics
 
@@ -286,6 +287,7 @@ CSIRT links and resources.
 * [Low Privilege Active Directory Enumeration from a non-Domain Joined Host](https://www.attackdebris.com/?p=470)
 * [Dynamic Tracing in Windows 10 19H1](http://www.alex-ionescu.com/?p=358)
 * [Capturing NetNTLM Hashes with Office [DOT] XML Documents](https://bohops.com/2018/08/04/capturing-netntlm-hashes-with-office-dot-xml-documents/)
+* [LoL Malware Meets Python-Based Command and Control (C2) Server, Part I](https://blog.varonis.com/koadic-lol-malware-meets-python-based-command-and-control-c2-server-part-i/)
 
 ### macOS/iOS
 
@@ -401,6 +403,7 @@ Some good places to visit:
 * [Abusing NVIDIA’s node.js to bypass application whitelisting](https://www.sec-consult.com/en/blog/2017/04/application-whitelisting-application/index.html)
 * [What’s the Difference Between WPA2 and WPA3? | Electronic Design](https://www.electronicdesign.com/embedded-revolution/what-s-difference-between-wpa2-and-wpa3)
 * [Turn Off Your Fitbit, Garmin, Apple Watch GPS NOW!](https://breakingdefense.com/2018/08/turn-off-your-fitbit-garmin-apple-watch-gps-now/)
+
 
 ## Politics
 
