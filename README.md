@@ -62,6 +62,7 @@ CSIRT links and resources.
 * [Source Code for Exobot Android Banking Trojan Leaked Online](https://www.bleepingcomputer.com/news/security/source-code-for-exobot-android-banking-trojan-leaked-online/)
 * [Pegasus: analysis of network behavior](http://blog.ptsecurity.com/2018/07/pegasus-analysis-of-network-behavior.html)
 * [Ramnit’s Network of Proxy Servers](https://research.checkpoint.com/ramnits-network-proxy-servers/)
+* [snake](https://github.com/countercept/snake): a malware storage zoo 
 
 ### Repos
 
@@ -101,6 +102,8 @@ CSIRT links and resources.
 * [BOLO: Reverse Engineering — Part 2 (Advanced Programming Concepts)](https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e) 
 * [Reverse Engineering for Beginners](https://www.begin.re)
 * [VivienneVMM](https://github.com/changeofpace/VivienneVMM): VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor.
+* [Xori](https://github.com/endgameinc/xori): Custom disassembly framework
+* [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
 
 ## Frameworks
 
@@ -201,10 +204,12 @@ CSIRT links and resources.
 * [Striker](https://github.com/UltimateHackers/Striker) is an offensive information and vulnerability scanner
 * [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
 * [Decentralized Application Security Project](https://www.dasp.co/), [github](https://github.com/CryptoServices/dasp)
+* [BLEAH](https://github.com/evilsocket/bleah): A BLE scanner for "smart" devices hacking. 
 
 ### WAFs
 
 * [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
+* [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
 
 ### Exploits
 
