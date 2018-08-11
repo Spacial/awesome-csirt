@@ -160,6 +160,8 @@ CSIRT links and resources.
   * [part 3](https://www.wst.space/ssl-part-3-certificate-authority/): Understanding Certificate Authority.
 * [git-secrets](https://github.com/awslabs/git-secrets): Prevents you from committing secrets and credentials into git repositories
 * [heaphopper](https://github.com/angr/heaphopper): HeapHopper is a bounded model checking framework for Heap-implementations
+* [Ristretto](https://ristretto.group/ristretto.html) is a technique for constructing prime order elliptic curve groups with non-malleable encodings.
+
 
 ## CTFs
 
