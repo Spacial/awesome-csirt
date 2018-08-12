@@ -411,7 +411,8 @@ Some good places to visit:
 * [Abusing NVIDIA’s node.js to bypass application whitelisting](https://www.sec-consult.com/en/blog/2017/04/application-whitelisting-application/index.html)
 * [What’s the Difference Between WPA2 and WPA3? | Electronic Design](https://www.electronicdesign.com/embedded-revolution/what-s-difference-between-wpa2-and-wpa3)
 * [Turn Off Your Fitbit, Garmin, Apple Watch GPS NOW!](https://breakingdefense.com/2018/08/turn-off-your-fitbit-garmin-apple-watch-gps-now/)
-
+* [The default OpenSSH key encryption is worse than plaintext](https://latacora.singles/2018/08/03/the-default-openssh.html)
+* [New attack on WPA/WPA using PMKID](https://hashcat.net/forum/thread-7717.html)
 
 ## Politics
 
@@ -428,8 +429,12 @@ Some good places to visit:
 * [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
 * [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
 * [Top Voting Machine Vendor Admits It Installed Remote-Access Software on Systems Sold to States](https://motherboard.vice.com/en_us/article/mb4ezy/top-voting-machine-vendor-admits-it-installed-remote-access-software-on-systems-sold-to-states)
-* [The default OpenSSH key encryption is worse than plaintext](https://latacora.singles/2018/08/03/the-default-openssh.html)
-* [New attack on WPA/WPA using PMKID](https://hashcat.net/forum/thread-7717.html)
+
+
+
+
+
+
 
 # CFPs
 
