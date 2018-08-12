@@ -290,6 +290,7 @@ CSIRT links and resources.
 * [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
 * [ADImporter](https://github.com/curi0usJack/ADImporter)
 * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
+ * [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 * [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
 * [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
 * [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
@@ -373,6 +374,7 @@ CSIRT links and resources.
 * [HiTB](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
 * [arphid](https://github.com/arphid/arphid): DYI 125KHz RFID read/write/emulate guide 
 * [Pybelt](https://github.com/Ekultek/Pybelt): The hackers tool belt
+* [mhax](https://github.com/smealum/mhax)
 
 # General
 
