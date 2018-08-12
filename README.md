@@ -63,6 +63,7 @@ CSIRT links and resources.
 * [Pegasus: analysis of network behavior](http://blog.ptsecurity.com/2018/07/pegasus-analysis-of-network-behavior.html)
 * [Ramnit’s Network of Proxy Servers](https://research.checkpoint.com/ramnits-network-proxy-servers/)
 * [snake](https://github.com/countercept/snake): a malware storage zoo 
+* [A malware analysis kit for the novice](https://www.computerweekly.com/tip/A-malware-analysis-kit-for-the-novice)
 
 ### Repos
 
@@ -84,6 +85,7 @@ CSIRT links and resources.
  * [Morris worm](https://github.com/arialdomartini/morris-worm)
  * [make a process unkillable?!](https://secrary.com/Random/UnKillable/) (windows 10)
  * [Attack inception: Compromised supply chain within a supply chain poses new risks – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2018/07/26/attack-inception-compromised-supply-chain-within-a-supply-chain-poses-new-risks/)
+* [Curtis' Blog: Bypassing Next Gen AV During a Pentest](https://curtbraz.blogspot.com/2018/08/bypassing-next-gen-av-during-pentest.html)
 
 ### Trojans
 
@@ -162,7 +164,6 @@ CSIRT links and resources.
 * [heaphopper](https://github.com/angr/heaphopper): HeapHopper is a bounded model checking framework for Heap-implementations
 * [Ristretto](https://ristretto.group/ristretto.html) is a technique for constructing prime order elliptic curve groups with non-malleable encodings.
 
-
 ## CTFs
 
 * [The fast, easy, and affordable way to train your hacking skills.](https://www.root-me.org/)
@@ -176,6 +177,7 @@ CSIRT links and resources.
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
 * [arm vm working out of the box for everyone ](https://github.com/nongiach/arm_now)
 * [Statically compiled ARM binaries for debugging and runtime analysis.](https://github.com/therealsaumil/static-arm-bins/)
+* [Hacker Finds Hidden 'God Mode' on Old x86 CPUs](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html) -> [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge): Hardware backdoors in some x86 CPUs
 
 ## Pentesting
 
@@ -200,6 +202,7 @@ CSIRT links and resources.
 * [Pown.js](https://github.com/pownjs/pown): is the security testing an exploitation framework built on top of Node.js and NPM.
 * [Sandmap](https://github.com/trimstray/sandmap) is a tool supporting network and system reconnaissance using the massive Nmap engine. 
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
+* [GitHub - theInfectedDrake/TIDoS-Framework: The offensive web application penetration testing framework.](https://github.com/theInfectedDrake/TIDoS-Framework)
 
 ### Vulnerability
 
@@ -246,6 +249,8 @@ CSIRT links and resources.
 * [iKy](https://gitlab.com/kennbroorg/iKy): I Know You (OSINT project)
 * [Extracting data from an EMV (Chip-And-Pin) Card with NFC technology](https://insinuator.net/2018/02/extracting-data-from-an-emv-chip-and-pin-card-with-nfc-technology/)
 * [Gitrob](https://github.com/michenriksen/gitrob): Putting the Open Source in OSINT
+* [BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
+* [Social Mapper](https://www.kitploit.com/2018/08/social-mapper-social-media-enumeration.html) - A Social Media Enumeration & Correlation Tool. [github repo](https://github.com/SpiderLabs/social_mapper)
 
 ## Forensics
 
@@ -296,6 +301,9 @@ CSIRT links and resources.
 * [Dynamic Tracing in Windows 10 19H1](http://www.alex-ionescu.com/?p=358)
 * [Capturing NetNTLM Hashes with Office [DOT] XML Documents](https://bohops.com/2018/08/04/capturing-netntlm-hashes-with-office-dot-xml-documents/)
 * [LoL Malware Meets Python-Based Command and Control (C2) Server, Part I](https://blog.varonis.com/koadic-lol-malware-meets-python-based-command-and-control-c2-server-part-i/)
+* [Passing-the-Hash to NTLM Authenticated Web Applications](https://labs.mwrinfosecurity.com/blog/pth-attacks-against-ntlm-authenticated-web-applications/)
+* [Detours](https://github.com/Microsoft/Detours): Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
+* [r0ak](https://github.com/ionescu007/r0ak): r0ak ("roak") is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems.
 
 ### macOS/iOS
 
@@ -322,6 +330,7 @@ CSIRT links and resources.
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 * [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
+
 
 # Other OSes
 
@@ -429,12 +438,7 @@ Some good places to visit:
 * [Ich sehe, also bin ich ... Du](https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#video&t=1)
 * [Public Testing of Brazilian e-Voting Machines](https://github.com/epicleet/tps2017)
 * [Top Voting Machine Vendor Admits It Installed Remote-Access Software on Systems Sold to States](https://motherboard.vice.com/en_us/article/mb4ezy/top-voting-machine-vendor-admits-it-installed-remote-access-software-on-systems-sold-to-states)
-
-
-
-
-
-
+* [Transparency](https://github.com/FreeAndFair/Transparency/tree/master/Presentations): This repository contains artifacts generated by Free & Fair, including every proposal Free & Fair has submitted to governments, funding agencies, and other organizations in response to RFI, RFP, and other solicitations. 
 
 # CFPs
 
