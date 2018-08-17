@@ -163,6 +163,11 @@ CSIRT links and resources.
 * [git-secrets](https://github.com/awslabs/git-secrets): Prevents you from committing secrets and credentials into git repositories
 * [heaphopper](https://github.com/angr/heaphopper): HeapHopper is a bounded model checking framework for Heap-implementations
 * [Ristretto](https://ristretto.group/ristretto.html) is a technique for constructing prime order elliptic curve groups with non-malleable encodings.
+* [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard): The C rules and recommendations in this wiki are a work in progress and reflect the current thinking of the secure coding community. Because this is a development website, many pages are incomplete or contain errors. As rules and recommendations mature, they are published in report or book form as official releases. These releases are issued as dictated by the needs and interests of the secure software development community.
+ * [MSC24-C. Do not use deprecated or obsolescent functions](https://wiki.sei.cmu.edu/confluence/display/c/MSC24-C.+Do+not+use+deprecated+or+obsolescent+functions)
+ * [US-CERT: memcpy_s() and memmove_s()](https://www.us-cert.gov/bsi/articles/knowledge/coding-practices/memcpy_s%28%29-and-memmove_s%28%29)
+* [Safe C Library](https://github.com/coruus/safeclib): The Safe C Library provides bound checking memory and string functions per ISO/IEC TR24731. These functions are alternative functions to the existing standard C library that promote safer, more secure programming. 
+* [ Field Experience With Annex K — Bounds Checking Interfaces ](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1967.htm)
 
 ## CTFs
 
@@ -375,6 +380,7 @@ CSIRT links and resources.
 * [arphid](https://github.com/arphid/arphid): DYI 125KHz RFID read/write/emulate guide 
 * [Pybelt](https://github.com/Ekultek/Pybelt): The hackers tool belt
 * [mhax](https://github.com/smealum/mhax)
+* [U2F Support Firefox Extension](https://github.com/prefiks/u2f4moz)
 
 # General
 
