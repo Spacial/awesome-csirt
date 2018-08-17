@@ -310,6 +310,7 @@ CSIRT links and resources.
 * [Passing-the-Hash to NTLM Authenticated Web Applications](https://labs.mwrinfosecurity.com/blog/pth-attacks-against-ntlm-authenticated-web-applications/)
 * [Detours](https://github.com/Microsoft/Detours): Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
 * [r0ak](https://github.com/ionescu007/r0ak): r0ak ("roak") is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems.
+* [SpeculationControl](https://github.com/Microsoft/SpeculationControl): SpeculationControl is a PowerShell script that summarizes the state of configurable Windows mitigations for various speculative execution side channel vulnerabilities, such as CVE-2017-5715 (Spectre variant 2) and CVE-2017-5754 (Meltdown).
 
 ### macOS/iOS
 
@@ -336,7 +337,6 @@ CSIRT links and resources.
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 * [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
-
 
 # Other OSes
 
@@ -381,6 +381,7 @@ CSIRT links and resources.
 * [Pybelt](https://github.com/Ekultek/Pybelt): The hackers tool belt
 * [mhax](https://github.com/smealum/mhax)
 * [U2F Support Firefox Extension](https://github.com/prefiks/u2f4moz)
+* [git-bug](https://github.com/MichaelMure/git-bug): Distributed bug tracker embedded in Git 
 
 # General
 
