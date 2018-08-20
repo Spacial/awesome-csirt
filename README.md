@@ -106,6 +106,7 @@ CSIRT links and resources.
 * [VivienneVMM](https://github.com/changeofpace/VivienneVMM): VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor.
 * [Xori](https://github.com/endgameinc/xori): Custom disassembly framework
 * [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
+* [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform 
 
 ## Frameworks
 
@@ -133,6 +134,7 @@ CSIRT links and resources.
 * [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
 * [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. 
 * [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
+* [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network 
 
 ### Apache
 
@@ -168,6 +170,8 @@ CSIRT links and resources.
  * [US-CERT: memcpy_s() and memmove_s()](https://www.us-cert.gov/bsi/articles/knowledge/coding-practices/memcpy_s%28%29-and-memmove_s%28%29)
 * [Safe C Library](https://github.com/coruus/safeclib): The Safe C Library provides bound checking memory and string functions per ISO/IEC TR24731. These functions are alternative functions to the existing standard C library that promote safer, more secure programming. 
 * [ Field Experience With Annex K — Bounds Checking Interfaces ](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1967.htm)
+* [TSLint](https://github.com/palantir/tslint): An extensible linter for the TypeScript language.
+* [rubocop](https://github.com/rubocop-hq/rubocop): A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 
 ## CTFs
 
@@ -322,6 +326,8 @@ CSIRT links and resources.
 * [SDQAnalyzer](https://github.com/nezza/SDQAnalyzer): a Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 * [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 * [jelbrekTime](https://github.com/tihmstar/jelbrekTime): An developer jailbreak for Apple watch S3 watchOS 4.1
+* [Disabling MacOS SIP via a VirtualBox kext Vulnerability](https://www.mdsec.co.uk/2018/08/disabling-macos-sip-via-a-virtualbox-kext-vulnerability/)
+* [mOSL](https://github.com/0xmachos/mOSL): Bash script to audit and fix macOS High Sierra (10.13.x) security settings 
 
 ### Android
 
@@ -337,10 +343,6 @@ CSIRT links and resources.
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 * [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
-
-# Other OSes
-
-* [CVE-2018-2892 - Kernel Level Privilege Escalation in Oracle Solaris](https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-2892---Kernel-Level-Privilege-Escalation-in-Oracle-Solaris/)
 
 ## Risk Assessment
 
