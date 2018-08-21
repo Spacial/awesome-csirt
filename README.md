@@ -107,6 +107,7 @@ CSIRT links and resources.
 * [Xori](https://github.com/endgameinc/xori): Custom disassembly framework
 * [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
 * [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform 
+* [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
 
 ## Frameworks
 
@@ -135,6 +136,7 @@ CSIRT links and resources.
 * [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. 
 * [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
 * [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network 
+* [iptables-essentials](https://github.com/trimstray/iptables-essentials): Iptables Essentials: Common Firewall Rules and Commands.
 
 ### Apache
 
@@ -172,6 +174,7 @@ CSIRT links and resources.
 * [ Field Experience With Annex K — Bounds Checking Interfaces ](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1967.htm)
 * [TSLint](https://github.com/palantir/tslint): An extensible linter for the TypeScript language.
 * [rubocop](https://github.com/rubocop-hq/rubocop): A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+* [BrokenType](https://github.com/google/BrokenType): TrueType and OpenType font fuzzing toolset
 
 ## CTFs
 
@@ -186,8 +189,12 @@ CSIRT links and resources.
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
 * [arm vm working out of the box for everyone ](https://github.com/nongiach/arm_now)
 * [Statically compiled ARM binaries for debugging and runtime analysis.](https://github.com/therealsaumil/static-arm-bins/)
-* [Hacker Finds Hidden 'God Mode' on Old x86 CPUs](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html) -> [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge): Hardware backdoors in some x86 CPUs
+* [Hacker Finds Hidden 'God Mode' on Old x86 CPUs](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html) ->  [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge): Hardware backdoors in some x86 CPUs
+* [USBHarpoon](https://www.bleepingcomputer.com/news/security/usbharpoon-is-a-badusb-attack-with-a-twist/) Is a BadUSB Attack with A Twist
+* Ground Zero: Part 3-2 [Patching Binaries with Radare2 - ARM64](https://scriptdotsh.com/index.php/2018/08/13/reverse-engineering-patching-binaries-with-radare2-arm-aarch64/)
+* [A 2018 practical guide to hacking RFID/NFC](https://www.slideshare.net/SlawomirJasek/a-2018-practical-buide-to-hacking-rfidnfc)
 
+ 
 ## Pentesting
 
 * [Seclists](https://github.com/danielmiessler/SecLists) is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
@@ -211,7 +218,9 @@ CSIRT links and resources.
 * [Pown.js](https://github.com/pownjs/pown): is the security testing an exploitation framework built on top of Node.js and NPM.
 * [Sandmap](https://github.com/trimstray/sandmap) is a tool supporting network and system reconnaissance using the massive Nmap engine. 
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
-* [GitHub - theInfectedDrake/TIDoS-Framework: The offensive web application penetration testing framework.](https://github.com/theInfectedDrake/TIDoS-Framework)
+* [TIDoS-Framework](https://github.com/theInfectedDrake/TIDoS-Framework): The offensive web application penetration testing framework.
+* [massh-enum](https://github.com/trimstray/massh-enum): OpenSSH 7.x Mass Username Enumeration.
+* [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github
 
 ### Vulnerability
 
@@ -219,11 +228,13 @@ CSIRT links and resources.
 * [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
 * [Decentralized Application Security Project](https://www.dasp.co/), [github](https://github.com/CryptoServices/dasp)
 * [BLEAH](https://github.com/evilsocket/bleah): A BLE scanner for "smart" devices hacking. 
+* [Introduction to IDAPython for Vulnerability Hunting — Somerset Recon](http://www.somersetrecon.com/blog/2018/7/6/introduction-to-idapython-for-vulnerability-hunting)
 
 ### WAFs
 
 * [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
 * [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
+* [Web Application Penetration Testing Course URLs](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
 
 ### Exploits
 
@@ -240,6 +251,7 @@ CSIRT links and resources.
 ## DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
+* [Plight At The End Of The Tunnel](https://www.endgame.com/blog/technical-blog/plight-end-tunnel)
 
 ## Exfiltration
 
@@ -315,6 +327,11 @@ CSIRT links and resources.
 * [Detours](https://github.com/Microsoft/Detours): Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.
 * [r0ak](https://github.com/ionescu007/r0ak): r0ak ("roak") is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems.
 * [SpeculationControl](https://github.com/Microsoft/SpeculationControl): SpeculationControl is a PowerShell script that summarizes the state of configurable Windows mitigations for various speculative execution side channel vulnerabilities, such as CVE-2017-5715 (Spectre variant 2) and CVE-2017-5754 (Meltdown).
+* Reverse Engineering Windows Defender (by Alexei Bulazel): [pdf](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/Alexei%20Bulazel/Alexei-Bulazel-Reverse-Engineering-Windows-Defender.pdf) and [videos](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/Alexei%20Bulazel/Alexei-Bulazel-Reverse-Engineering-Windows-Defender-Demo-Videos/)
+ * Ground Zero: Part 2-2 [XOR encryption – Windows x64](https://scriptdotsh.com/index.php/2018/05/09/ground-zero-part-2-2-reverse-engineering-xor-encryption-windows-x64/)
+ * Ground Zero: Part 2-3 [Building Cracked Binaries – Windows x64](https://scriptdotsh.com/index.php/2018/06/09/ground-zero-part-2-3-reverse-engineering-building-cracked-binaries-windows-x64/)
+* [EKFiddle](https://github.com/malwareinfosec/EKFiddle): A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.
+* [Windows Command-Line](https://blogs.msdn.microsoft.com/commandline/2018/08/02/windows-command-line-introducing-the-windows-pseudo-console-conpty/): Introducing the Windows Pseudo Console (ConPTY) – Windows Command Line Tools For Developers
 
 ### macOS/iOS
 
@@ -328,6 +345,7 @@ CSIRT links and resources.
 * [jelbrekTime](https://github.com/tihmstar/jelbrekTime): An developer jailbreak for Apple watch S3 watchOS 4.1
 * [Disabling MacOS SIP via a VirtualBox kext Vulnerability](https://www.mdsec.co.uk/2018/08/disabling-macos-sip-via-a-virtualbox-kext-vulnerability/)
 * [mOSL](https://github.com/0xmachos/mOSL): Bash script to audit and fix macOS High Sierra (10.13.x) security settings 
+* [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
 
 ### Android
 
@@ -343,6 +361,8 @@ CSIRT links and resources.
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 * [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
+* [Ground Zero: Reverse Engineering](https://scriptdotsh.com):
+ * Part 1-2: [Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
 
 ## Risk Assessment
 
@@ -384,6 +404,10 @@ CSIRT links and resources.
 * [mhax](https://github.com/smealum/mhax)
 * [U2F Support Firefox Extension](https://github.com/prefiks/u2f4moz)
 * [git-bug](https://github.com/MichaelMure/git-bug): Distributed bug tracker embedded in Git 
+* [mkcert](https://github.com/FiloSottile/mkcert): A simple zero-config tool to make locally trusted development certificates with any names you'd like
+* [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
+* [Polymorph](https://github.com/shramos/polymorph) is a real-time network packet manipulation framework with support for almost all existing protocols
+* [query_huawei_wifi_router](https://github.com/zikusooka/query_huawei_wifi_router/): A CLI tool that queries a Huawei LTE WiFi router (MiFi) to get statistics such as signal strength, battery status, remaining data balance etc
 
 # General
 
@@ -417,6 +441,8 @@ Some good places to visit:
 * [hasherezade's 1001 nights](https://hshrzd.wordpress.com) 
   * [How to start RE/malware analysis? | hasherezade's 1001 nights](https://hshrzd.wordpress.com/how-to-start/)
 * [List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
+* [pocorgtfo](https://github.com/angea/pocorgtfo): a mirror of the "International Journal of PoC||GTFO" with some extra stuff
+
 
 # Fun
 
@@ -433,6 +459,9 @@ Some good places to visit:
 * [Turn Off Your Fitbit, Garmin, Apple Watch GPS NOW!](https://breakingdefense.com/2018/08/turn-off-your-fitbit-garmin-apple-watch-gps-now/)
 * [The default OpenSSH key encryption is worse than plaintext](https://latacora.singles/2018/08/03/the-default-openssh.html)
 * [New attack on WPA/WPA using PMKID](https://hashcat.net/forum/thread-7717.html)
+* [Brutal Deluxe Software](http://www.brutaldeluxe.fr/)
+* [Explotación de sistemas de pagos NFC en Monterrey, Nuevo Leon - TPX MX SA DE CV](https://tpx.mx/cursos/nfc-hacking/monterrey)
+* Black Hat 2018: [Stealthy Kernel Attack Flies Under Windows Mitigation Radar](https://threatpost.com/stealthy-new-kernel-attack-flies-under-windows-mitigation-radar/134847/) on Threatpost
 
 ## Politics
 
