@@ -182,6 +182,10 @@ CSIRT links and resources.
 * [Write-ups for crackmes and CTF challenges](https://github.com/eleemosynator/writeups) by eleemosynator
 * [pwntools](https://github.com/Gallopsled/pwntools): CTF framework and exploit development library
 
+## Phreak
+
+* [ss7MAPer](https://n0where.net/ss7-pentesting-toolkit-ss7maper) ([github](https://github.com/ernw/ss7MAPer))
+
 ## Archs
 
 * ARM [LAB ENVIRONMENT](https://azeria-labs.com/arm-lab-vm/)
@@ -194,8 +198,7 @@ CSIRT links and resources.
 * Ground Zero: Part 3-2 [Patching Binaries with Radare2 - ARM64](https://scriptdotsh.com/index.php/2018/08/13/reverse-engineering-patching-binaries-with-radare2-arm-aarch64/)
 * [A 2018 practical guide to hacking RFID/NFC](https://www.slideshare.net/SlawomirJasek/a-2018-practical-buide-to-hacking-rfidnfc)
 
- 
-## Pentesting
+ ## Pentesting
 
 * [Seclists](https://github.com/danielmiessler/SecLists) is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 * Search operating systems on the network: [osquery](https://osquery.io/downloads/)
