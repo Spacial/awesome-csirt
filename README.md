@@ -147,7 +147,8 @@ CSIRT links and resources.
 ## Credentials
 
 * Search if your credentials where leaked: [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
-* [GitHub - detroitenglish/pw-pwnage-cfworker: Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND chec](https://github.com/detroitenglish/pw-pwnage-cfworker)
+* [pw-pwnage-cfworker](https://github.com/detroitenglish/pw-pwnage-cfworker): Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND check for matches against haveibeenpwned's 5.1+ billion breached accounts 
+* [XSS Exploit code for retrieving passwords stored in a Password Vault](https://gist.github.com/shawarkhanethicalhacker/e40a7c3956fdd24b9fb63d03d94c3d34)
 
 ## Secure Programming
 
