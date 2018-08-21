@@ -1,5 +1,9 @@
 # BlockChain
 
+## Bitcoin
+
+* [Bitcoin keys and elliptic curve secp256k1](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
+
 ## Code
 
 * [ercfund](https://github.com/ScJa/ercfund): An open-ended investment fund implementation on the Ethereum blockchain for managing ERC20 tokens
