@@ -430,6 +430,7 @@ CSIRT links and resources.
 * [A Few Thoughts on Cryptographic Engineering](https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/)
 * [AWS IAM privileges as found using the AWS Policy Generator described at](https://gist.github.com/0xdabbad00/fa918ad85c0c3f0e0fa9a3f6b53696de)
 * [Mailfence](https://mailfence.com/)
+* [Threat Hunting Workshop - Methodologies for Threat Analysis](https://www.youtube.com/playlist?list=PLgLzPE5LJevb_PcjMYMF2ypjnVcKf8rjY)
 
 ## Conferences and Slides
  
