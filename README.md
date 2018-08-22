@@ -293,6 +293,7 @@ CSIRT links and resources.
 * [swap_digger](https://github.com/sevagas/swap_digger) is a tool used to automate Linux swap analysis during post-exploitation or forensics
 * [The Sleuth Kit® (TSK)](https://github.com/sleuthkit/sleuthkit) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data
 * [Invoke-LiveResponse](https://github.com/mgreen27/Powershell-IR)
+* [Linux Forensics](https://www.pentesteracademy.com/course?id=20)
 
 ## SIEM
 
@@ -344,11 +345,15 @@ CSIRT links and resources.
  * Ground Zero: Part 2-3 [Building Cracked Binaries – Windows x64](https://scriptdotsh.com/index.php/2018/06/09/ground-zero-part-2-3-reverse-engineering-building-cracked-binaries-windows-x64/)
 * [EKFiddle](https://github.com/malwareinfosec/EKFiddle): A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.
 * [Windows Command-Line](https://blogs.msdn.microsoft.com/commandline/2018/08/02/windows-command-line-introducing-the-windows-pseudo-console-conpty/): Introducing the Windows Pseudo Console (ConPTY) – Windows Command Line Tools For Developers
+* [MSconsole](https://github.com/microsoft/console): Windows Console Tools
 * [PowerShell Remoting](https://www.sconstantinou.com/powershell-remoting/) by Stephanos Constantinou Blog
 * [BloodHound Database Creator](https://github.com/BloodHoundAD/BloodHound-Tools/tree/master/DBCreator): This python script will generate a randomized data set for testing BloodHound features and analysis.
 * [Windows Privilege Escalation (Unquoted Path Service)](http://www.hackingarticles.in/windows-privilege-escalation-unquoted-path-service/)
 * [DbgShell](https://github.com/Microsoft/DbgShell): A PowerShell front-end for the Windows debugger engine.
 * [Windows Incident Response: Updates](http://windowsir.blogspot.com/2018/08/updates.html?spref=tw&m=1)
+* [pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode): Converts PE into a shellcode
+* [Event log 'Keywords' p1](https://github.com/kacos2000/Win10/blob/master/EventLogs/keywords.md)
+* [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
 
 ### macOS/iOS
 
