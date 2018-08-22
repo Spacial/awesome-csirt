@@ -1,5 +1,7 @@
 # BlockChain
 
+* [blockchain-security-contacts](https://github.com/trailofbits/blockchain-security-contacts): Directory of security contacts for blockchain companies
+
 ## Bitcoin
 
 * [Bitcoin keys and elliptic curve secp256k1](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
