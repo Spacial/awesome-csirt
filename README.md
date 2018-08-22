@@ -64,6 +64,7 @@ CSIRT links and resources.
 * [Ramnit’s Network of Proxy Servers](https://research.checkpoint.com/ramnits-network-proxy-servers/)
 * [snake](https://github.com/countercept/snake): a malware storage zoo 
 * [A malware analysis kit for the novice](https://www.computerweekly.com/tip/A-malware-analysis-kit-for-the-novice)
+* [malware-ioc](https://github.com/eset/malware-ioc): Indicators of Compromises (IOC) of our various investigations 
 
 ### Repos
 
@@ -93,6 +94,7 @@ CSIRT links and resources.
 ### Trojans
 
 * [IcedID Banking Trojan Shares Code with Pony 2.0 Trojan](http://www.intezer.com/icedid-banking-trojan-shares-code-pony-2-0-trojan/)
+* [Turla](https://www.welivesecurity.com/2018/08/22/turla-unique-outlook-backdoor/): In and out of its unique Outlook backdoor
 
 ### Reverse Engineering
 
@@ -306,6 +308,7 @@ CSIRT links and resources.
 ## Operating Systems
 
 * [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](https://www.cs.technion.ac.il/~biham/BT/)
+* [bochspwn-reloaded](https://github.com/google/bochspwn-reloaded): A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3 
 
 ### UEFI
 
