@@ -88,7 +88,7 @@ CSIRT links and resources.
 * [Curtis' Blog: Bypassing Next Gen AV During a Pentest](https://curtbraz.blogspot.com/2018/08/bypassing-next-gen-av-during-pentest.html)
 * [Inception](https://github.com/two06/Inception/): Provides In-memory compilation and reflective loading of C# apps for AV evasion.
 * [Invoke-NeutralizeAV](https://github.com/curtbraz/Invoke-NeutralizeAV): Quick PoC I Wrote for Bypassing Next Gen AV Remotely for Pentesting.
-
+* [BinariesThatDoesOtherStuff](https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt)
 
 ### Trojans
 
@@ -112,6 +112,7 @@ CSIRT links and resources.
 * [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform 
 * [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
 * [binja-ipython](https://github.com/ernw/binja-ipython): A plugin to integrate an IPython kernel into Binary Ninja.
+* [PySameSame](https://github.com/DissectMalware/PySameSame): This is a python version of samesame repo to generate homograph strings
 
 ## Frameworks
 
@@ -180,6 +181,7 @@ CSIRT links and resources.
 * [TSLint](https://github.com/palantir/tslint): An extensible linter for the TypeScript language.
 * [rubocop](https://github.com/rubocop-hq/rubocop): A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 * [BrokenType](https://github.com/google/BrokenType): TrueType and OpenType font fuzzing toolset
+* [Librando](https://www.ics.uci.edu/~perl/publication/librando/): transparent code randomization for just-in-time compilers
 
 ## CTFs
 
@@ -343,6 +345,10 @@ CSIRT links and resources.
 * [EKFiddle](https://github.com/malwareinfosec/EKFiddle): A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.
 * [Windows Command-Line](https://blogs.msdn.microsoft.com/commandline/2018/08/02/windows-command-line-introducing-the-windows-pseudo-console-conpty/): Introducing the Windows Pseudo Console (ConPTY) – Windows Command Line Tools For Developers
 * [PowerShell Remoting](https://www.sconstantinou.com/powershell-remoting/) by Stephanos Constantinou Blog
+* [BloodHound Database Creator](https://github.com/BloodHoundAD/BloodHound-Tools/tree/master/DBCreator): This python script will generate a randomized data set for testing BloodHound features and analysis.
+* [Windows Privilege Escalation (Unquoted Path Service)](http://www.hackingarticles.in/windows-privilege-escalation-unquoted-path-service/)
+* [DbgShell](https://github.com/Microsoft/DbgShell): A PowerShell front-end for the Windows debugger engine.
+* [Windows Incident Response: Updates](http://windowsir.blogspot.com/2018/08/updates.html?spref=tw&m=1)
 
 ### macOS/iOS
 
@@ -447,6 +453,7 @@ CSIRT links and resources.
 * [Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
 * Black Hat 2018: [Expert demonstrated a new PHP code execution attack](https://securityaffairs.co/wordpress/75419/hacking/php-code-execution-attack.html)
 * [DEFCON 2018] [Doublethink](https://www.robertxiao.ca/hacking/defcon2018-assembly-polyglot/): 8-Architecture Assembly Polyglot by Robert Xiao
+* [ARM-based IoT Exploit Development](https://hardwaresecurity.training/trainings/arm-west-2018/)
 
 ## Sources
 
@@ -456,7 +463,7 @@ Some good places to visit:
   * [How to start RE/malware analysis? | hasherezade's 1001 nights](https://hshrzd.wordpress.com/how-to-start/)
 * [List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
 * [pocorgtfo](https://github.com/angea/pocorgtfo): a mirror of the "International Journal of PoC||GTFO" with some extra stuff
-
+* [FIDO ECDAA Algorithm](https://fidoalliance.org/specs/fido-v2.0-id-20180227/fido-ecdaa-algorithm-v2.0-id-20180227.html#ecdaa-sign)
 
 # Fun
 
