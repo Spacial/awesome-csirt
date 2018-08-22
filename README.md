@@ -81,11 +81,14 @@ CSIRT links and resources.
 
 ### Virus/Anti-Virus
 
- * [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
- * [Morris worm](https://github.com/arialdomartini/morris-worm)
- * [make a process unkillable?!](https://secrary.com/Random/UnKillable/) (windows 10)
- * [Attack inception: Compromised supply chain within a supply chain poses new risks – Microsoft Secure](https://cloudblogs.microsoft.com/microsoftsecure/2018/07/26/attack-inception-compromised-supply-chain-within-a-supply-chain-poses-new-risks/)
+* [Avast open-sources its machine-code decompiler](https://blog.avast.com/avast-open-sources-its-machine-code-decompiler)
+* [Morris worm](https://github.com/arialdomartini/morris-worm)
+* [make a process unkillable?!](https://secrary.com/Random/UnKillable/) (windows 10)
+* [Attack inception](https://cloudblogs.microsoft.com/microsoftsecure/2018/07/26/attack-inception-compromised-supply-chain-within-a-supply-chain-poses-new-risks/): Compromised supply chain within a supply chain poses new risks – Microsoft Secure.
 * [Curtis' Blog: Bypassing Next Gen AV During a Pentest](https://curtbraz.blogspot.com/2018/08/bypassing-next-gen-av-during-pentest.html)
+* [Inception](https://github.com/two06/Inception/): Provides In-memory compilation and reflective loading of C# apps for AV evasion.
+* [Invoke-NeutralizeAV](https://github.com/curtbraz/Invoke-NeutralizeAV): Quick PoC I Wrote for Bypassing Next Gen AV Remotely for Pentesting.
+
 
 ### Trojans
 
@@ -108,6 +111,7 @@ CSIRT links and resources.
 * [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
 * [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform 
 * [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
+* [binja-ipython](https://github.com/ernw/binja-ipython): A plugin to integrate an IPython kernel into Binary Ninja.
 
 ## Frameworks
 
@@ -251,6 +255,8 @@ CSIRT links and resources.
 * [A collection of PHP exploit scripts](https://github.com/mattiasgeniar/php-exploit-scripts)
 * [WebKit exploit](https://github.com/Cryptogenic/Exploit-Writeups/blob/master/WebKit/setAttributeNodeNS%20UAF%20Write-up.md)
 * [Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+* [DriveCrypt](https://github.com/shjalayeri/DriveCrypt): DriveCrypt Dcr.sys vulnerability exploit
+* [Faxploit](https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/): Sending Fax Back to the Dark Ages
 
 ## DNS
 
@@ -336,6 +342,7 @@ CSIRT links and resources.
  * Ground Zero: Part 2-3 [Building Cracked Binaries – Windows x64](https://scriptdotsh.com/index.php/2018/06/09/ground-zero-part-2-3-reverse-engineering-building-cracked-binaries-windows-x64/)
 * [EKFiddle](https://github.com/malwareinfosec/EKFiddle): A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.
 * [Windows Command-Line](https://blogs.msdn.microsoft.com/commandline/2018/08/02/windows-command-line-introducing-the-windows-pseudo-console-conpty/): Introducing the Windows Pseudo Console (ConPTY) – Windows Command Line Tools For Developers
+* [PowerShell Remoting](https://www.sconstantinou.com/powershell-remoting/) by Stephanos Constantinou Blog
 
 ### macOS/iOS
 
@@ -435,9 +442,11 @@ CSIRT links and resources.
 
 ## Conferences and Slides
  
- * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
- * [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
+* [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
+* [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
 * [Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
+* Black Hat 2018: [Expert demonstrated a new PHP code execution attack](https://securityaffairs.co/wordpress/75419/hacking/php-code-execution-attack.html)
+* [DEFCON 2018] [Doublethink](https://www.robertxiao.ca/hacking/defcon2018-assembly-polyglot/): 8-Architecture Assembly Polyglot by Robert Xiao
 
 ## Sources
 
@@ -467,6 +476,7 @@ Some good places to visit:
 * [Brutal Deluxe Software](http://www.brutaldeluxe.fr/)
 * [Explotación de sistemas de pagos NFC en Monterrey, Nuevo Leon - TPX MX SA DE CV](https://tpx.mx/cursos/nfc-hacking/monterrey)
 * Black Hat 2018: [Stealthy Kernel Attack Flies Under Windows Mitigation Radar](https://threatpost.com/stealthy-new-kernel-attack-flies-under-windows-mitigation-radar/134847/) on Threatpost
+* Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? [A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 
 ## Politics
 
