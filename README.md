@@ -358,6 +358,7 @@ CSIRT links and resources.
 * [Win 10 related research](https://github.com/kacos2000/Win10)
  * [Event log 'Keywords' p1](https://github.com/kacos2000/Win10/blob/master/EventLogs/keywords.md)
  * [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
+* [UAC bypass using CreateNewLink COM interface](https://gist.github.com/hfiref0x/e58711820276fe8b1b36dd51faae59cf)
 
 ### macOS/iOS
 
@@ -377,6 +378,7 @@ CSIRT links and resources.
 
 * [tip toeing past android 7’s network security configuration](https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/)
 * [A Story About Three Bluetooth Vulnerabilities in Android](https://blog.quarkslab.com/a-story-about-three-bluetooth-vulnerabilities-in-android.html)
+* [Creating an Android Open Source Research Device on Your PC](https://www.bellingcat.com/resources/how-tos/2018/08/23/creating-android-open-source-research-device-pc/)
 
 ### Linux
 
