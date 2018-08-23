@@ -355,8 +355,9 @@ CSIRT links and resources.
 * [DbgShell](https://github.com/Microsoft/DbgShell): A PowerShell front-end for the Windows debugger engine.
 * [Windows Incident Response: Updates](http://windowsir.blogspot.com/2018/08/updates.html?spref=tw&m=1)
 * [pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode): Converts PE into a shellcode
-* [Event log 'Keywords' p1](https://github.com/kacos2000/Win10/blob/master/EventLogs/keywords.md)
-* [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
+* [Win 10 related research](https://github.com/kacos2000/Win10)
+ * [Event log 'Keywords' p1](https://github.com/kacos2000/Win10/blob/master/EventLogs/keywords.md)
+ * [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
 
 ### macOS/iOS
 
