@@ -92,6 +92,7 @@ CSIRT links and resources.
 * [Inception](https://github.com/two06/Inception/): Provides In-memory compilation and reflective loading of C# apps for AV evasion.
 * [Invoke-NeutralizeAV](https://github.com/curtbraz/Invoke-NeutralizeAV): Quick PoC I Wrote for Bypassing Next Gen AV Remotely for Pentesting.
 * [BinariesThatDoesOtherStuff](https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt)
+* [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner 
 
 ### Trojans
 
@@ -365,7 +366,8 @@ CSIRT links and resources.
  * [Event log 'Keywords' p1](https://github.com/kacos2000/Win10/blob/master/EventLogs/keywords.md)
  * [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
 * [UAC bypass using CreateNewLink COM interface](https://gist.github.com/hfiref0x/e58711820276fe8b1b36dd51faae59cf)
-
+* [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
+* [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire)
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
@@ -509,6 +511,7 @@ Some good places to visit:
 * [Scraping Russian Twitter Trolls With Python, Neo4j, and GraphQL](http://www.lyonwj.com/2017/11/12/scraping-russian-twitter-trolls-python-neo4j/)
 * [Online Security Guide for Journalists](https://protonmail.com/blog/journalist-online-security-tips/)
 * [Schneier on Security](https://www.schneier.com/blog/archives/2017/04/shadow_brokers_.html)
+* [The Geopolitics of Cybersecurity](https://medium.com/@MilenaRodban/the-geopolitics-of-cybersecurity-5ae169d03cf9)
 
 ### Online Voting
 
