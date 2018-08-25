@@ -23,6 +23,7 @@ CSIRT links and resources.
  * [Applying DevOps Principles in Incident Response](https://insights.sei.cmu.edu/devops/2015/09/applying-devops-principles-in-incident-response.html)
  * [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
  * [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
+ * [ATTACK-Tools](https://github.com/nshalabi/ATTACK-Tools): Utilities for MITRE™ ATT&CK
  
 ## CVEs
 
@@ -65,6 +66,7 @@ CSIRT links and resources.
 * [snake](https://github.com/countercept/snake): a malware storage zoo 
 * [A malware analysis kit for the novice](https://www.computerweekly.com/tip/A-malware-analysis-kit-for-the-novice)
 * [malware-ioc](https://github.com/eset/malware-ioc): Indicators of Compromises (IOC) of our various investigations 
+* [pftriage](https://github.com/idiom/pftriage): Python tool and library to help analyze files during malware triage and analysis.
 
 ### Repos
 
@@ -297,7 +299,11 @@ CSIRT links and resources.
 * [Invoke-LiveResponse](https://github.com/mgreen27/Powershell-IR)
 * [Linux Forensics](https://www.pentesteracademy.com/course?id=20)
 
-## SIEM
+## Threat Hunting
+
+* [Wireshark For Network Threat Hunting: Creating Filters - Active Countermeasures](https://www.activecountermeasures.com/blog-wireshark-for-network-threat-hunting-creating-filters/)
+
+### SIEM
 
 * [Sigma](https://github.com/Neo23x0/sigma): Generic Signature Format for SIEM Systems
 
@@ -495,6 +501,7 @@ Some good places to visit:
 * [Explotación de sistemas de pagos NFC en Monterrey, Nuevo Leon - TPX MX SA DE CV](https://tpx.mx/cursos/nfc-hacking/monterrey)
 * Black Hat 2018: [Stealthy Kernel Attack Flies Under Windows Mitigation Radar](https://threatpost.com/stealthy-new-kernel-attack-flies-under-windows-mitigation-radar/134847/) on Threatpost
 * Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? [A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
+* [Spyware Company Leaves ‘Terabytes’ of Selfies, Text Messages, and Location Data Exposed Online - Motherboard](https://motherboard.vice.com/en_us/article/9kmj4v/spyware-company-spyfone-terabytes-data-exposed-online-leak)
 
 ## Politics
 
