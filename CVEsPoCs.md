@@ -94,7 +94,7 @@ Some CVEs PoCs repos on github or internet.
  * [Bug or Backdoor](https://0x09al.github.io/security/ispconfig/exploit/vulnerability/2018/08/20/bug-or-backdoor-ispconfig-rce.html): Exploiting a Remote Code Execution in ISPConfig by 0x09AL Security blog.
  * Apache Struts: 
   * How to find 5 RCEs in Apache Struts with Semmle QL: [CVE-2018-11776](https://lgtm.com/blog/apache_struts_CVE-2018-11776)
-  * Semmle Discovers Critical Remote Code Execution Vulnerability in Apache Struts: [CVE-2018-11776](https://semmle.com/news/apache-struts-CVE-2018-11776), [docker Poc](https://github.com/jas502n/St2-057)
+  * Semmle Discovers Critical Remote Code Execution Vulnerability in Apache Struts: [CVE-2018-11776](https://semmle.com/news/apache-struts-CVE-2018-11776), [docker Poc](https://github.com/jas502n/St2-057), [other poc](https://github.com/mazen160/struts-pwn_CVE-2018-11776)
   * [Apache Struts Vulnerability POC Code Found on GitHub](https://news.hitb.org/content/apache-struts-vulnerability-poc-code-found-github)
  * SSH Exploit written in Python for CVE-2018-15473 with threading and export formats: [CVE-2018-15473](https://github.com/Rhynorater/CVE-2018-15473-Exploit), [analysis](https://sekurak.pl/openssh-users-enumeration-cve-2018-15473/)
  
