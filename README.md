@@ -289,6 +289,7 @@ CSIRT links and resources.
 * [Gitrob](https://github.com/michenriksen/gitrob): Putting the Open Source in OSINT
 * [BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 * [Social Mapper](https://www.kitploit.com/2018/08/social-mapper-social-media-enumeration.html) - A Social Media Enumeration & Correlation Tool. [github repo](https://github.com/SpiderLabs/social_mapper)
+* [How to get authentication key from SNMPv3 packets](https://www.florianchemin.com/blog/how-to-get-authentication-key-from-snmpv3-packets/)
 
 ## Forensics
 
@@ -368,6 +369,8 @@ CSIRT links and resources.
 * [UAC bypass using CreateNewLink COM interface](https://gist.github.com/hfiref0x/e58711820276fe8b1b36dd51faae59cf)
 * [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
 * [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire)
+* [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable. 
+
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
