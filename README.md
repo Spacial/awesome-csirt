@@ -67,6 +67,7 @@ CSIRT links and resources.
 * [A malware analysis kit for the novice](https://www.computerweekly.com/tip/A-malware-analysis-kit-for-the-novice)
 * [malware-ioc](https://github.com/eset/malware-ioc): Indicators of Compromises (IOC) of our various investigations 
 * [pftriage](https://github.com/idiom/pftriage): Python tool and library to help analyze files during malware triage and analysis.
+* [imaginaryC2](https://github.com/felixweyne/imaginaryC2#demo-use-case-simulating-trickbot-servers): Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads. 
 
 ### Repos
 
