@@ -68,6 +68,7 @@ CSIRT links and resources.
 * [malware-ioc](https://github.com/eset/malware-ioc): Indicators of Compromises (IOC) of our various investigations 
 * [pftriage](https://github.com/idiom/pftriage): Python tool and library to help analyze files during malware triage and analysis.
 * [imaginaryC2](https://github.com/felixweyne/imaginaryC2#demo-use-case-simulating-trickbot-servers): Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads. 
+* [When a malware is more complex than the paper.](https://medium.com/@Sebdraven/when-a-malware-is-more-complex-than-the-paper-5822fc7ff257)
 
 ### Repos
 
@@ -291,6 +292,7 @@ CSIRT links and resources.
 * [BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 * [Social Mapper](https://www.kitploit.com/2018/08/social-mapper-social-media-enumeration.html) - A Social Media Enumeration & Correlation Tool. [github repo](https://github.com/SpiderLabs/social_mapper)
 * [How to get authentication key from SNMPv3 packets](https://www.florianchemin.com/blog/how-to-get-authentication-key-from-snmpv3-packets/)
+* [AtomicTestsCommandLines.txt](https://gist.github.com/caseysmithrc/d48e43770ab4ee161b1a806da8ccf390): Atomic Tests - All Command Lines - Replace Input Arguments #{input_argument} - More Soon 
 
 ## Forensics
 
@@ -371,6 +373,7 @@ CSIRT links and resources.
 * [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
 * [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire)
 * [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable. 
+* [relayer](https://github.com/Jsitech/relayer): SMB Relay Attack Script 
 
 ### macOS/iOS
 
