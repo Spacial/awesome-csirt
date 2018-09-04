@@ -453,6 +453,7 @@ CSIRT links and resources.
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
 * [Polymorph](https://github.com/shramos/polymorph) is a real-time network packet manipulation framework with support for almost all existing protocols
 * [query_huawei_wifi_router](https://github.com/zikusooka/query_huawei_wifi_router/): A CLI tool that queries a Huawei LTE WiFi router (MiFi) to get statistics such as signal strength, battery status, remaining data balance etc
+* [kravatte](https://github.com/inmcm/kravatte/): Implementation of Kravatte Encryption Suite 
 
 # General
 
@@ -473,6 +474,7 @@ CSIRT links and resources.
 * [AWS IAM privileges as found using the AWS Policy Generator described at](https://gist.github.com/0xdabbad00/fa918ad85c0c3f0e0fa9a3f6b53696de)
 * [Mailfence](https://mailfence.com/)
 * [Threat Hunting Workshop - Methodologies for Threat Analysis](https://www.youtube.com/playlist?list=PLgLzPE5LJevb_PcjMYMF2ypjnVcKf8rjY)
+* [Xoodoo](https://github.com/XoodooTeam/Xoodoo)
 
 ## Conferences and Slides
  
