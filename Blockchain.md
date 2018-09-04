@@ -6,10 +6,15 @@
 
 * [Bitcoin keys and elliptic curve secp256k1](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
 
+## Ethereum
+
+* [Ethereum in BigQuery](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics): a Public Dataset for smart contract analytics
+
 ## Code
 
 * [ercfund](https://github.com/ScJa/ercfund): An open-ended investment fund implementation on the Ethereum blockchain for managing ERC20 tokens
 * [Proof of Work C# Example](http://codewithevgeny.com/proof-work-c-example/)
+
 
 ## Economy
 
