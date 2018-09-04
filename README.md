@@ -121,6 +121,7 @@ CSIRT links and resources.
 * [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
 * [binja-ipython](https://github.com/ernw/binja-ipython): A plugin to integrate an IPython kernel into Binary Ninja.
 * [PySameSame](https://github.com/DissectMalware/PySameSame): This is a python version of samesame repo to generate homograph strings
+* [Reversing a Japanese Wireless SD Card From Zero to Code Execution](https://docs.google.com/presentation/d/13OJNOb2IMwp79SDrbxSLF3i7StTgWLdD7QlYpic39r8/edit#slide=id.g3d28bb72e8_5_74)
 
 ## Frameworks
 
