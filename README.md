@@ -24,6 +24,7 @@ CSIRT links and resources.
  * [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
  * [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
  * [ATTACK-Tools](https://github.com/nshalabi/ATTACK-Tools): Utilities for MITRE™ ATT&CK
+ * [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
  
 ## CVEs
 
