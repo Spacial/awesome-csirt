@@ -122,6 +122,7 @@ CSIRT links and resources.
 * [binja-ipython](https://github.com/ernw/binja-ipython): A plugin to integrate an IPython kernel into Binary Ninja.
 * [PySameSame](https://github.com/DissectMalware/PySameSame): This is a python version of samesame repo to generate homograph strings
 * [Reversing a Japanese Wireless SD Card From Zero to Code Execution](https://docs.google.com/presentation/d/13OJNOb2IMwp79SDrbxSLF3i7StTgWLdD7QlYpic39r8/edit#slide=id.g3d28bb72e8_5_74)
+* [Practical-Reverse-Engineering-using-Radare2](https://github.com/s4n7h0/Practical-Reverse-Engineering-using-Radare2): Training Materials of Practical Reverse Engineering using Radare2 
 
 ## Frameworks
 
@@ -377,6 +378,8 @@ CSIRT links and resources.
 * [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable. 
 * [relayer](https://github.com/Jsitech/relayer): SMB Relay Attack Script 
 * [Ps1jacker](https://github.com/darkw1z/Ps1jacker): Ps1jacker is a tool for generating COM Hijacking payload. 
+* [python-dotnet-binaryformat](https://github.com/williballenthin/python-dotnet-binaryformat): Pure Python parser for data encoded by .NET's BinaryFormatter 
+* [WinPwnage](https://github.com/rootm0s/WinPwnage): Elevate, UAC bypass, privilege escalation, dll hijack techniques 
 
 ### macOS/iOS
 
