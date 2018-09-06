@@ -458,6 +458,7 @@ CSIRT links and resources.
 * [Polymorph](https://github.com/shramos/polymorph) is a real-time network packet manipulation framework with support for almost all existing protocols
 * [query_huawei_wifi_router](https://github.com/zikusooka/query_huawei_wifi_router/): A CLI tool that queries a Huawei LTE WiFi router (MiFi) to get statistics such as signal strength, battery status, remaining data balance etc
 * [kravatte](https://github.com/inmcm/kravatte/): Implementation of Kravatte Encryption Suite 
+* [atomic-red-team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK. 
 
 # General
 
@@ -479,6 +480,7 @@ CSIRT links and resources.
 * [Mailfence](https://mailfence.com/)
 * [Threat Hunting Workshop - Methodologies for Threat Analysis](https://www.youtube.com/playlist?list=PLgLzPE5LJevb_PcjMYMF2ypjnVcKf8rjY)
 * [Xoodoo](https://github.com/XoodooTeam/Xoodoo)
+* [CoPilot](http://openinternet.github.io/copilot/) is a wireless hotspot for digital security trainers that provides an easy to use web interface for simulating custom censorship environments during trainings.
 
 ## Conferences and Slides
  
