@@ -15,6 +15,8 @@
 * Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? [A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens)
 * [Spyware Company Leaves ‘Terabytes’ of Selfies, Text Messages, and Location Data Exposed Online - Motherboard](https://motherboard.vice.com/en_us/article/9kmj4v/spyware-company-spyfone-terabytes-data-exposed-online-leak)
 * [How an international hacker network turned stolen press releases into $100 million](https://www.theverge.com/2018/8/22/17716622/sec-business-wire-hack-stolen-press-release-fraud-ukraine)
+* [Five-Eyes Intelligence Services Choose Surveillance Over Security](https://www.schneier.com/blog/archives/2018/09/five-eyes_intel.html)
+* [Oh for fuck's sake, not this fucking bullshit again](https://boingboing.net/2018/09/04/illegal-math.html) (cryptography edition)
 
 ## Politics
 
