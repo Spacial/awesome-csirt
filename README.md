@@ -25,6 +25,8 @@ CSIRT links and resources.
  * [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
  * [ATTACK-Tools](https://github.com/nshalabi/ATTACK-Tools): Utilities for MITRE™ ATT&CK
  * [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
+ * [crypto](https://github.com/boazbk/crypto): Lecture notes for a course on cryptography
+ * [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
  
 ## CVEs
 
@@ -70,6 +72,8 @@ CSIRT links and resources.
 * [pftriage](https://github.com/idiom/pftriage): Python tool and library to help analyze files during malware triage and analysis.
 * [imaginaryC2](https://github.com/felixweyne/imaginaryC2#demo-use-case-simulating-trickbot-servers): Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads. 
 * [When a malware is more complex than the paper.](https://medium.com/@Sebdraven/when-a-malware-is-more-complex-than-the-paper-5822fc7ff257)
+* [Vba2Graph](https://github.com/MalwareCantFly/Vba2Graph): Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.
+* [malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview.py is a simple tool to perform an initial and quick triage on a directory co
 
 ### Repos
 
@@ -123,6 +127,7 @@ CSIRT links and resources.
 * [PySameSame](https://github.com/DissectMalware/PySameSame): This is a python version of samesame repo to generate homograph strings
 * [Reversing a Japanese Wireless SD Card From Zero to Code Execution](https://docs.google.com/presentation/d/13OJNOb2IMwp79SDrbxSLF3i7StTgWLdD7QlYpic39r8/edit#slide=id.g3d28bb72e8_5_74)
 * [Practical-Reverse-Engineering-using-Radare2](https://github.com/s4n7h0/Practical-Reverse-Engineering-using-Radare2): Training Materials of Practical Reverse Engineering using Radare2 
+* [idaemu](https://github.com/36hours/idaemu): idaemu is an IDA Pro Plugin - use for emulating code in IDA Pro.
 
 ## Frameworks
 
@@ -269,11 +274,14 @@ CSIRT links and resources.
 * [Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [DriveCrypt](https://github.com/shjalayeri/DriveCrypt): DriveCrypt Dcr.sys vulnerability exploit
 * [Faxploit](https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/): Sending Fax Back to the Dark Ages
+* [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
 
 ## DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
 * [Plight At The End Of The Tunnel](https://www.endgame.com/blog/technical-blog/plight-end-tunnel)
+* [dref](https://github.com/mwrlabs/dref): DNS Rebinding Exploitation Framework
+* [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks. 
 
 ## Exfiltration
 
@@ -296,6 +304,7 @@ CSIRT links and resources.
 * [Social Mapper](https://www.kitploit.com/2018/08/social-mapper-social-media-enumeration.html) - A Social Media Enumeration & Correlation Tool. [github repo](https://github.com/SpiderLabs/social_mapper)
 * [How to get authentication key from SNMPv3 packets](https://www.florianchemin.com/blog/how-to-get-authentication-key-from-snmpv3-packets/)
 * [AtomicTestsCommandLines.txt](https://gist.github.com/caseysmithrc/d48e43770ab4ee161b1a806da8ccf390): Atomic Tests - All Command Lines - Replace Input Arguments #{input_argument} - More Soon 
+* [whois | GTFOBins](https://gtfobins.github.io/gtfobins/whois/): hangs waiting for the remote peer to close the socket. [github](https://github.com/GTFOBins/GTFOBins.github.io)
 
 ## Forensics
 
@@ -323,6 +332,7 @@ CSIRT links and resources.
 
 * [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](https://www.cs.technion.ac.il/~biham/BT/)
 * [bochspwn-reloaded](https://github.com/google/bochspwn-reloaded): A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3 
+* [drltrace](https://github.com/mxmssh/drltrace): Drltrace is a library calls tracer for Windows and Linux applications.
 
 ### UEFI
 
@@ -341,13 +351,13 @@ CSIRT links and resources.
 * [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
 * [ADImporter](https://github.com/curi0usJack/ADImporter)
 * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
- * [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
+* [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 * [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
 * [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
 * [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
 * [Unicorn](https://github.com/trustedsec/unicorn) is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
 * [Remote-Desktop-Caching](https://github.com/Viralmaniar/Remote-Desktop-Caching-/blob/master/README.md)
-* [GitHub - tasox/LogRM: LogRM is a post exploitation powershell script which it uses windows event logs to gather information abou](https://github.com/tasox/LogRM/)
+* [LogRM](https://github.com/tasox/LogRM/): LogRM is a post exploitation powershell script which it uses windows event logs to gather information abou
 * [InvisiblePersistence](https://github.com/ewhitehats/InvisiblePersistence): Persisting in the Windows registry "invisibly"
 * [Low Privilege Active Directory Enumeration from a non-Domain Joined Host](https://www.attackdebris.com/?p=470)
 * [Dynamic Tracing in Windows 10 19H1](http://www.alex-ionescu.com/?p=358)
@@ -380,6 +390,10 @@ CSIRT links and resources.
 * [Ps1jacker](https://github.com/darkw1z/Ps1jacker): Ps1jacker is a tool for generating COM Hijacking payload. 
 * [python-dotnet-binaryformat](https://github.com/williballenthin/python-dotnet-binaryformat): Pure Python parser for data encoded by .NET's BinaryFormatter 
 * [WinPwnage](https://github.com/rootm0s/WinPwnage): Elevate, UAC bypass, privilege escalation, dll hijack techniques 
+* [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage): Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute
+* [Start-Hollow.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Start-Hollow.ps1): My musings with PowerShell
+* [Firework](https://github.com/SpiderLabs/Firework/): Firework is a proof of concept tool to interact with Microsoft Workplaces creating valid files required for the provisioning process.
+* [hUACME](https://github.com/hfiref0x/UACME/): Defeating Windows User Account Control
 
 ### macOS/iOS
 
@@ -394,6 +408,7 @@ CSIRT links and resources.
 * [Disabling MacOS SIP via a VirtualBox kext Vulnerability](https://www.mdsec.co.uk/2018/08/disabling-macos-sip-via-a-virtualbox-kext-vulnerability/)
 * [mOSL](https://github.com/0xmachos/mOSL): Bash script to audit and fix macOS High Sierra (10.13.x) security settings 
 * [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
+* [KisMac2](https://github.com/IGRSoft/KisMac2): KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
 
 ### Android
 
@@ -481,6 +496,7 @@ CSIRT links and resources.
 * [Threat Hunting Workshop - Methodologies for Threat Analysis](https://www.youtube.com/playlist?list=PLgLzPE5LJevb_PcjMYMF2ypjnVcKf8rjY)
 * [Xoodoo](https://github.com/XoodooTeam/Xoodoo)
 * [CoPilot](http://openinternet.github.io/copilot/) is a wireless hotspot for digital security trainers that provides an easy to use web interface for simulating custom censorship environments during trainings.
+* [AgentMaps](https://github.com/noncomputable/AgentMaps): Make social simulations on interactive maps with Javascript!
 
 ## Conferences and Slides
  
@@ -500,11 +516,13 @@ Some good places to visit:
 * [List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
 * [pocorgtfo](https://github.com/angea/pocorgtfo): a mirror of the "International Journal of PoC||GTFO" with some extra stuff
 * [FIDO ECDAA Algorithm](https://fidoalliance.org/specs/fido-v2.0-id-20180227/fido-ecdaa-algorithm-v2.0-id-20180227.html#ecdaa-sign)
+* [stamparm](https://github.com/stamparm): Miroslav Stampar Repositories (a lot of good stuff)
 
 # Fun
 
 * [Spoilerwall introduces a brand new concept in the field of network hardening](https://github.com/infobyte/spoilerwall)
 * [abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti)
+* [resist_oped](https://github.com/mkearney/resist_oped/): 🕵🏽‍♀️ Identifying the author behind New York Time’s op-ed from inside the Trump White House.
 
 # CFPs
 
