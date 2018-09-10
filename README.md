@@ -197,6 +197,7 @@ CSIRT links and resources.
 * [rubocop](https://github.com/rubocop-hq/rubocop): A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 * [BrokenType](https://github.com/google/BrokenType): TrueType and OpenType font fuzzing toolset
 * [Librando](https://www.ics.uci.edu/~perl/publication/librando/): transparent code randomization for just-in-time compilers
+* [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc)
 
 ## CTFs
 
