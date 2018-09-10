@@ -394,6 +394,7 @@ CSIRT links and resources.
 * [Start-Hollow.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Start-Hollow.ps1): My musings with PowerShell
 * [Firework](https://github.com/SpiderLabs/Firework/): Firework is a proof of concept tool to interact with Microsoft Workplaces creating valid files required for the provisioning process.
 * [hUACME](https://github.com/hfiref0x/UACME/): Defeating Windows User Account Control
+* [SysmonTools](https://github.com/nshalabi/SysmonTools): Utilities for Sysmon
 
 ### macOS/iOS
 
