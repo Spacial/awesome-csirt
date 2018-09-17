@@ -27,6 +27,8 @@ CSIRT links and resources.
  * [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
  * [crypto](https://github.com/boazbk/crypto): Lecture notes for a course on cryptography
  * [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+ * [SPLOITUS](https://sploitus.com/): Exploit search engine.
+ * [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine. 
  
 ## CVEs
 
@@ -128,6 +130,8 @@ CSIRT links and resources.
 * [Reversing a Japanese Wireless SD Card From Zero to Code Execution](https://docs.google.com/presentation/d/13OJNOb2IMwp79SDrbxSLF3i7StTgWLdD7QlYpic39r8/edit#slide=id.g3d28bb72e8_5_74)
 * [Practical-Reverse-Engineering-using-Radare2](https://github.com/s4n7h0/Practical-Reverse-Engineering-using-Radare2): Training Materials of Practical Reverse Engineering using Radare2 
 * [idaemu](https://github.com/36hours/idaemu): idaemu is an IDA Pro Plugin - use for emulating code in IDA Pro.
+* [LIEF](https://lief.quarkslab.com/): Library to Instrument Executable Formats  ([github](https://github.com/lief-project/LIEF/))
+* [pwndbg](https://github.com/pwndbg/pwndbg): Exploit Development and Reverse Engineering with GDB Made Easy  
 
 ## Frameworks
 
@@ -198,6 +202,7 @@ CSIRT links and resources.
 * [BrokenType](https://github.com/google/BrokenType): TrueType and OpenType font fuzzing toolset
 * [Librando](https://www.ics.uci.edu/~perl/publication/librando/): transparent code randomization for just-in-time compilers
 * [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc)
+* [Practical case: Buffer Overflow 0x01](https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-buffer-overflow-0x01/)
 
 ## CTFs
 
@@ -247,6 +252,8 @@ CSIRT links and resources.
 * [TIDoS-Framework](https://github.com/theInfectedDrake/TIDoS-Framework): The offensive web application penetration testing framework.
 * [massh-enum](https://github.com/trimstray/massh-enum): OpenSSH 7.x Mass Username Enumeration.
 * [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github
+* [DHCPwn](https://github.com/mschwager/dhcpwn): All your IPs are belong to us. 
+* [badKarma](https://github.com/r3vn/badKarma): advanced network reconnaissance toolkit 
 
 ### Vulnerability
 
@@ -276,6 +283,7 @@ CSIRT links and resources.
 * [DriveCrypt](https://github.com/shjalayeri/DriveCrypt): DriveCrypt Dcr.sys vulnerability exploit
 * [Faxploit](https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/): Sending Fax Back to the Dark Ages
 * [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
+* [NAVEX](https://blog.acolyer.org/2018/09/10/navex-precise-and-scalable-exploit-generation-for-dynamic-web-applications/): Precise and scalable exploit generation for dynamic web applications
 
 ## DNS
 
@@ -306,6 +314,8 @@ CSIRT links and resources.
 * [How to get authentication key from SNMPv3 packets](https://www.florianchemin.com/blog/how-to-get-authentication-key-from-snmpv3-packets/)
 * [AtomicTestsCommandLines.txt](https://gist.github.com/caseysmithrc/d48e43770ab4ee161b1a806da8ccf390): Atomic Tests - All Command Lines - Replace Input Arguments #{input_argument} - More Soon 
 * [whois | GTFOBins](https://gtfobins.github.io/gtfobins/whois/): hangs waiting for the remote peer to close the socket. [github](https://github.com/GTFOBins/GTFOBins.github.io)
+* [Browsers affected by the History API DoS](https://docs.google.com/spreadsheets/d/1TqMgokKqAT8WxNed0iV0X0mXvJ28Eqd9xBJcQ7uYaCY/htmlview)
+* [PacketWhisper](https://www.kitploit.com/2018/09/packetwhisper-stealthily-exfiltrate.html): Stealthily Exfiltrate Data And Defeat Attribution Using DNS Queries And Text-Based Steganography 
 
 ## Forensics
 
@@ -411,12 +421,14 @@ CSIRT links and resources.
 * [mOSL](https://github.com/0xmachos/mOSL): Bash script to audit and fix macOS High Sierra (10.13.x) security settings 
 * [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
 * [KisMac2](https://github.com/IGRSoft/KisMac2): KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
+* [osx-security-awesome](https://github.com/kai5263499/osx-security-awesome): A collection of OSX and iOS security resources 
 
 ### Android
 
 * [tip toeing past android 7’s network security configuration](https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/)
 * [A Story About Three Bluetooth Vulnerabilities in Android](https://blog.quarkslab.com/a-story-about-three-bluetooth-vulnerabilities-in-android.html)
 * [Creating an Android Open Source Research Device on Your PC](https://www.bellingcat.com/resources/how-tos/2018/08/23/creating-android-open-source-research-device-pc/)
+* [Droidefense](https://github.com/droidefense/engine): Advance Android Malware Analysis Framework 
 
 ### Linux
 
@@ -476,6 +488,7 @@ CSIRT links and resources.
 * [query_huawei_wifi_router](https://github.com/zikusooka/query_huawei_wifi_router/): A CLI tool that queries a Huawei LTE WiFi router (MiFi) to get statistics such as signal strength, battery status, remaining data balance etc
 * [kravatte](https://github.com/inmcm/kravatte/): Implementation of Kravatte Encryption Suite 
 * [atomic-red-team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK. 
+* [noisy](https://github.com/1tayH/noisy): Simple random DNS, HTTP/S internet traffic noise generator 
 
 # General
 
@@ -499,6 +512,7 @@ CSIRT links and resources.
 * [Xoodoo](https://github.com/XoodooTeam/Xoodoo)
 * [CoPilot](http://openinternet.github.io/copilot/) is a wireless hotspot for digital security trainers that provides an easy to use web interface for simulating custom censorship environments during trainings.
 * [AgentMaps](https://github.com/noncomputable/AgentMaps): Make social simulations on interactive maps with Javascript!
+* [flowsscripts](https://github.com/csirtunicamp/flowsscripts/): Miner pools ips.
 
 ## Conferences and Slides
  
