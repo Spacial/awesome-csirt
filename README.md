@@ -254,6 +254,8 @@ CSIRT links and resources.
 * [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github
 * [DHCPwn](https://github.com/mschwager/dhcpwn): All your IPs are belong to us. 
 * [badKarma](https://github.com/r3vn/badKarma): advanced network reconnaissance toolkit 
+* [Danger-zone](https://github.com/woj-ciech/Danger-zone): Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files.
+* [OSINT tool for visualizing relationships between domains, IPs and email addresses.](https://hackernoon.com/osint-tool-for-visualizing-relationships-between-domains-ips-and-email-addresses-94377aa1f20a)
 
 ### Vulnerability
 
@@ -489,6 +491,7 @@ CSIRT links and resources.
 * [kravatte](https://github.com/inmcm/kravatte/): Implementation of Kravatte Encryption Suite 
 * [atomic-red-team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK. 
 * [noisy](https://github.com/1tayH/noisy): Simple random DNS, HTTP/S internet traffic noise generator 
+* [infernal-twin](https://github.com/entropy1337/infernal-twin): wireless hacking - This is automated wireless hacking tool
 
 # General
 
