@@ -408,6 +408,7 @@ CSIRT links and resources.
 * [Firework](https://github.com/SpiderLabs/Firework/): Firework is a proof of concept tool to interact with Microsoft Workplaces creating valid files required for the provisioning process.
 * [hUACME](https://github.com/hfiref0x/UACME/): Defeating Windows User Account Control
 * [SysmonTools](https://github.com/nshalabi/SysmonTools): Utilities for Sysmon
+* [Hiding malware in Windows](https://prdeving.wordpress.com/2018/09/21/hiding-malware-in-windows-code-injection/) – The basics of code injection
 
 ### macOS/iOS
 
@@ -443,6 +444,7 @@ CSIRT links and resources.
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
 * [Ground Zero: Reverse Engineering](https://scriptdotsh.com):
  * Part 1-2: [Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
+* [Dmesg under the hood](https://ops.tips/blog/dmesg-under-the-hood/): Dmesg allows us to grasp what's going on under the hood when the kernel gets bad. Check out how dmesg is able to read kernel logs and show to the user.
 
 ## Risk Assessment
 
@@ -492,6 +494,7 @@ CSIRT links and resources.
 * [atomic-red-team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK. 
 * [noisy](https://github.com/1tayH/noisy): Simple random DNS, HTTP/S internet traffic noise generator 
 * [infernal-twin](https://github.com/entropy1337/infernal-twin): wireless hacking - This is automated wireless hacking tool
+* [Google Chromium](https://github.com/Eloston/ungoogled-chromium), sans integration with Google
 
 # General
 
@@ -516,6 +519,7 @@ CSIRT links and resources.
 * [CoPilot](http://openinternet.github.io/copilot/) is a wireless hotspot for digital security trainers that provides an easy to use web interface for simulating custom censorship environments during trainings.
 * [AgentMaps](https://github.com/noncomputable/AgentMaps): Make social simulations on interactive maps with Javascript!
 * [flowsscripts](https://github.com/csirtunicamp/flowsscripts/): Miner pools ips.
+* [Qualcomm chain-of-trust](https://lineageos.org/engineering/Qualcomm-Firmware/)
 
 ## Conferences and Slides
  
