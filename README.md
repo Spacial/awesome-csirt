@@ -495,6 +495,7 @@ CSIRT links and resources.
 * [noisy](https://github.com/1tayH/noisy): Simple random DNS, HTTP/S internet traffic noise generator 
 * [infernal-twin](https://github.com/entropy1337/infernal-twin): wireless hacking - This is automated wireless hacking tool
 * [Google Chromium](https://github.com/Eloston/ungoogled-chromium), sans integration with Google
+* [Gammux](https://github.com/carl-mastrangelo/gammux): A Gamma muxing tool. This tool merges two pictures together by splitting them into high and low brightness images.
 
 # General
 
