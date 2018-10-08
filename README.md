@@ -496,6 +496,7 @@ CSIRT links and resources.
 * [infernal-twin](https://github.com/entropy1337/infernal-twin): wireless hacking - This is automated wireless hacking tool
 * [Google Chromium](https://github.com/Eloston/ungoogled-chromium), sans integration with Google
 * [Gammux](https://github.com/carl-mastrangelo/gammux): A Gamma muxing tool. This tool merges two pictures together by splitting them into high and low brightness images.
+* [PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/) 
 
 # General
 
@@ -530,6 +531,7 @@ CSIRT links and resources.
 * Black Hat 2018: [Expert demonstrated a new PHP code execution attack](https://securityaffairs.co/wordpress/75419/hacking/php-code-execution-attack.html)
 * [DEFCON 2018] [Doublethink](https://www.robertxiao.ca/hacking/defcon2018-assembly-polyglot/): 8-Architecture Assembly Polyglot by Robert Xiao
 * [ARM-based IoT Exploit Development](https://hardwaresecurity.training/trainings/arm-west-2018/)
+* (pt-br)[Uma Introdução a Threat Intelligence e Threat Hunting para Empresas Sem Orçamento Infinito](https://www.slideshare.net/AlexandreSieira/uma-introduo-a-threat-intelligence-e-threat-hunting-para-empresas-sem-oramento-infinito) 
 
 ## Sources
 
