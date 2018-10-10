@@ -20,8 +20,12 @@
 
 ## 2018
 
+* [70+ different types of home routers(all together 100,000+) are being hijacked by GhostDNS](https://blog.netlab.360.com/70-different-types-of-home-routers-all-together-100000-are-being-hijacked-by-ghostdns-en/)
 * [PoC Attack Escalates MikroTik Router Bug to ‘As Bad As It Gets’](https://threatpost.com/poc-attack-escalates-mikrotik-router-bug-to-as-bad-as-it-gets/138076/)
 * [The British Airways Hack](https://medium.com/asecuritysite-when-bob-met-alice/the-british-airways-hack-javascript-weakness-pin-pointed-through-time-lining-dd0c2dbc7b50): JavaScript Weakness Pin-pointed Through Time-lining
+* [APT38: Details on New North Korean Regime-Backed Threat Group](https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html)
+* [The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies). Some other conclusions: [Hardware Implants](https://securinghardware.com/articles/hardware-implants/)
+* [Security Vulnerabilities in US Weapons Systems](https://www.schneier.com/blog/archives/2018/10/security_vulner_17.html)
 
 ## Politics
 
