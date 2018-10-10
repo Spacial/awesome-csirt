@@ -18,6 +18,10 @@
 * [Five-Eyes Intelligence Services Choose Surveillance Over Security](https://www.schneier.com/blog/archives/2018/09/five-eyes_intel.html)
 * [Oh for fuck's sake, not this fucking bullshit again](https://boingboing.net/2018/09/04/illegal-math.html) (cryptography edition)
 
+## 2018
+
+* [PoC Attack Escalates MikroTik Router Bug to ‘As Bad As It Gets’](https://threatpost.com/poc-attack-escalates-mikrotik-router-bug-to-as-bad-as-it-gets/138076/)
+
 ## Politics
 
 * [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
@@ -25,7 +29,9 @@
 * [Online Security Guide for Journalists](https://protonmail.com/blog/journalist-online-security-tips/)
 * [Schneier on Security](https://www.schneier.com/blog/archives/2017/04/shadow_brokers_.html)
 * [The Geopolitics of Cybersecurity](https://medium.com/@MilenaRodban/the-geopolitics-of-cybersecurity-5ae169d03cf9)
+* [We are taking new steps against broadening threats to democracy](https://blogs.microsoft.com/on-the-issues/2018/08/20/we-are-taking-new-steps-against-broadening-threats-to-democracy/)
 * [violencia-nao-tem-partido](https://github.com/okfn-brasil/violencia-nao-tem-partido/): Hate crimes monitor for political motivated assaults in Brazil.
+
 
 ### Online Voting
 
