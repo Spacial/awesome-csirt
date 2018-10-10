@@ -21,6 +21,7 @@
 ## 2018
 
 * [PoC Attack Escalates MikroTik Router Bug to ‘As Bad As It Gets’](https://threatpost.com/poc-attack-escalates-mikrotik-router-bug-to-as-bad-as-it-gets/138076/)
+* [The British Airways Hack](https://medium.com/asecuritysite-when-bob-met-alice/the-british-airways-hack-javascript-weakness-pin-pointed-through-time-lining-dd0c2dbc7b50): JavaScript Weakness Pin-pointed Through Time-lining
 
 ## Politics
 
