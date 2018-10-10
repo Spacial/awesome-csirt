@@ -64,7 +64,7 @@ CSIRT links and resources.
 * [RegRipper](https://github.com/keydet89/RegRipper2.8) version 2.8 (source code)
 * [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks
 * [TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time](https://arxiv.org/abs/1807.07838)
-* [colental/byob: BYOB (Build Your Own Botnet)](https://github.com/colental/byob)
+* [colental/byob: BYOB (Build Your Own Botnet)](https://github.com/colental/byob), another [byob](https://github.com/malwaredllc/byob)
 * [Source Code for Exobot Android Banking Trojan Leaked Online](https://www.bleepingcomputer.com/news/security/source-code-for-exobot-android-banking-trojan-leaked-online/)
 * [Pegasus: analysis of network behavior](http://blog.ptsecurity.com/2018/07/pegasus-analysis-of-network-behavior.html)
 * [Ramnit’s Network of Proxy Servers](https://research.checkpoint.com/ramnits-network-proxy-servers/)
@@ -346,12 +346,22 @@ CSIRT links and resources.
 * [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](https://www.cs.technion.ac.il/~biham/BT/)
 * [bochspwn-reloaded](https://github.com/google/bochspwn-reloaded): A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3 
 * [drltrace](https://github.com/mxmssh/drltrace): Drltrace is a library calls tracer for Windows and Linux applications.
+* [shellz](https://github.com/evilsocket/shellz): is a small utility to track and control your ssh, telnet, web and custom shells. 
 
 ### UEFI
 
 * [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck): A JIT compiler for Brainfuck running on x86_64 UEFI 
 
 ### Windows
+
+#### Mimikatz
+
+Some mimikatz stuff:
+ * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
+ * [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
+ * [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python 
+
+#### Win General
 
 * [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
 * [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
@@ -363,8 +373,6 @@ CSIRT links and resources.
 * [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
 * [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
 * [ADImporter](https://github.com/curi0usJack/ADImporter)
-* [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
-* [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 * [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
 * [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
 * [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
@@ -409,6 +417,8 @@ CSIRT links and resources.
 * [hUACME](https://github.com/hfiref0x/UACME/): Defeating Windows User Account Control
 * [SysmonTools](https://github.com/nshalabi/SysmonTools): Utilities for Sysmon
 * [Hiding malware in Windows](https://prdeving.wordpress.com/2018/09/21/hiding-malware-in-windows-code-injection/) – The basics of code injection
+* [dll_to_exe](https://github.com/hasherezade/dll_to_exe): Converts a DLL into EXE
+* [Inveigh](https://github.com/Kevin-Robertson/Inveigh): Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool. [announcement](https://blog.netspi.com/inveigh-whats-new-in-version-1-4/)
 
 ### macOS/iOS
 
@@ -425,6 +435,8 @@ CSIRT links and resources.
 * [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
 * [KisMac2](https://github.com/IGRSoft/KisMac2): KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
 * [osx-security-awesome](https://github.com/kai5263499/osx-security-awesome): A collection of OSX and iOS security resources 
+* [Remote Mac Exploitation Via Custom URL Schemes](https://objective-see.com/blog/blog_0x38.html)
+* [threadexec](https://github.com/bazad/threadexec): A library to execute code in the context of other processes on iOS 11. 
 
 ### Android
 
@@ -445,6 +457,7 @@ CSIRT links and resources.
 * [Ground Zero: Reverse Engineering](https://scriptdotsh.com):
  * Part 1-2: [Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
 * [Dmesg under the hood](https://ops.tips/blog/dmesg-under-the-hood/): Dmesg allows us to grasp what's going on under the hood when the kernel gets bad. Check out how dmesg is able to read kernel logs and show to the user.
+* [Randomize your MAC address using NetworkManager](https://fedoramagazine.org/randomize-mac-address-nm/)
 
 ## Risk Assessment
 
@@ -497,6 +510,9 @@ CSIRT links and resources.
 * [Google Chromium](https://github.com/Eloston/ungoogled-chromium), sans integration with Google
 * [Gammux](https://github.com/carl-mastrangelo/gammux): A Gamma muxing tool. This tool merges two pictures together by splitting them into high and low brightness images.
 * [PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/) 
+* [SSHuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling. 
+* [openvotenetwork](https://git.openprivacy.ca/sarah/openvotenetwork): Implementation of anonymous Open Vote Network (https://en.wikipedia.org/wiki/Open_vote_network) in go
+* [put2win](https://github.com/sysdevploit/put2win): Script to automatize shell upload by PUT HTTP method to get meterpreter 
 
 # General
 
@@ -532,6 +548,7 @@ CSIRT links and resources.
 * [DEFCON 2018] [Doublethink](https://www.robertxiao.ca/hacking/defcon2018-assembly-polyglot/): 8-Architecture Assembly Polyglot by Robert Xiao
 * [ARM-based IoT Exploit Development](https://hardwaresecurity.training/trainings/arm-west-2018/)
 * (pt-br)[Uma Introdução a Threat Intelligence e Threat Hunting para Empresas Sem Orçamento Infinito](https://www.slideshare.net/AlexandreSieira/uma-introduo-a-threat-intelligence-e-threat-hunting-para-empresas-sem-oramento-infinito) 
+* Outflank [Presentations](https://github.com/outflanknl/Presentations)
 
 ## Sources
 
