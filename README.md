@@ -75,7 +75,7 @@ CSIRT links and resources.
 * [imaginaryC2](https://github.com/felixweyne/imaginaryC2#demo-use-case-simulating-trickbot-servers): Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads. 
 * [When a malware is more complex than the paper.](https://medium.com/@Sebdraven/when-a-malware-is-more-complex-than-the-paper-5822fc7ff257)
 * [Vba2Graph](https://github.com/MalwareCantFly/Vba2Graph): Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.
-* [malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview.py is a simple tool to perform an initial and quick triage on a directory co
+* [malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview.py is a first response tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample. 
 
 ### Repos
 
@@ -256,6 +256,7 @@ CSIRT links and resources.
 * [badKarma](https://github.com/r3vn/badKarma): advanced network reconnaissance toolkit 
 * [Danger-zone](https://github.com/woj-ciech/Danger-zone): Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files.
 * [OSINT tool for visualizing relationships between domains, IPs and email addresses.](https://hackernoon.com/osint-tool-for-visualizing-relationships-between-domains-ips-and-email-addresses-94377aa1f20a)
+* [go-tomcat-mgmt-scanner](https://github.com/edermi/go-tomcat-mgmt-scanner): A simple scanner to find and brute force tomcat manager logins
 
 ### Vulnerability
 
@@ -458,6 +459,8 @@ Some mimikatz stuff:
  * Part 1-2: [Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
 * [Dmesg under the hood](https://ops.tips/blog/dmesg-under-the-hood/): Dmesg allows us to grasp what's going on under the hood when the kernel gets bad. Check out how dmesg is able to read kernel logs and show to the user.
 * [Randomize your MAC address using NetworkManager](https://fedoramagazine.org/randomize-mac-address-nm/)
+* [Shadow-Box](https://github.com/kkamagui/shadow-box-for-x86/tree/gatekeeper): Lightweight and Practical Kernel Protector for x86 (Presented at BlackHat Asia 2017/2018, beVX 2018 and HITBSecConf 2017) - [presentation](https://github.com/kkamagui/papers/blob/master/bevx-2018/presentation.pdf) and [other papers](https://github.com/kkamagui/papers)
+* [mem-loader.asm](https://gist.github.com/zznop/0117c24164ee715e750150633c7c1782): Fun little loader shellcode that executes an ELF in-memory using an anonymous file descriptor (inspired by https://x-c3ll.github.io/posts/fileless-memfd_create/) 
 
 ## Risk Assessment
 
@@ -538,6 +541,7 @@ Some mimikatz stuff:
 * [AgentMaps](https://github.com/noncomputable/AgentMaps): Make social simulations on interactive maps with Javascript!
 * [flowsscripts](https://github.com/csirtunicamp/flowsscripts/): Miner pools ips.
 * [Qualcomm chain-of-trust](https://lineageos.org/engineering/Qualcomm-Firmware/)
+* [SwiftFilter](https://github.com/SwiftOnSecurity/SwiftFilter): Exchange Transport rules to detect and enable response to phishing
 
 ## Conferences and Slides
  
