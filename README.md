@@ -445,6 +445,7 @@ Some mimikatz stuff:
 * [A Story About Three Bluetooth Vulnerabilities in Android](https://blog.quarkslab.com/a-story-about-three-bluetooth-vulnerabilities-in-android.html)
 * [Creating an Android Open Source Research Device on Your PC](https://www.bellingcat.com/resources/how-tos/2018/08/23/creating-android-open-source-research-device-pc/)
 * [Droidefense](https://github.com/droidefense/engine): Advance Android Malware Analysis Framework 
+* [android-device-check](https://github.com/nelenkov/android-device-check): Check Android device security settings 
 
 ### Linux
 
