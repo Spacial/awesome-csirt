@@ -276,6 +276,8 @@ CSIRT links and resources.
 * [go-tomcat-mgmt-scanner](https://github.com/edermi/go-tomcat-mgmt-scanner): A simple scanner to find and brute force tomcat manager logins
 * [IoTSecurity101](https://github.com/V33RU/IoTSecurity101): From IoT Pentesting to IoT Security
 * [subscraper](https://github.com/m8r0wn/subscraper): External pentest tool that performs subdomain enumeration through various techniques. In addition, SubScraper will provide information such as HTTP & DNS lookups to aid in potential next steps.
+* [red_team_telemetry](https://github.com/ztgrace/red_team_telemetry)
+* [SharpSploitConsole](https://github.com/anthemtotheego/SharpSploitConsole): SharpSploit Console is just a quick proof of concept binary to help penetration testers or red teams with less C# experience play with some of the awesomeness that is SharpSploit. 
 
 ### Vulnerability
 
@@ -310,6 +312,7 @@ CSIRT links and resources.
 * [Three New DDE Obfuscation Methods](https://blog.reversinglabs.com/blog/cvs-dde-exploits-and-obfuscation)
 * [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY): A post-exploitation agent powered by Python, IronPython, C#/.NET
 * [fuxploider](https://github.com/almandin/fuxploider): File upload vulnerability scanner and exploitation tool.
+* [Jailbreaks Demystified](https://geosn0w.github.io/Jailbreaks-Demystified/) – GeoSn0w – Programmer. Hacking stuff.
 
 ## DNS
 
@@ -357,6 +360,7 @@ CSIRT links and resources.
 
 * [Wireshark For Network Threat Hunting: Creating Filters - Active Countermeasures](https://www.activecountermeasures.com/blog-wireshark-for-network-threat-hunting-creating-filters/)
 * Talos Blog || Cisco Talos Intelligence Group - [Comprehensive Threat Intelligence](https://blog.talosintelligence.com/2018/09/adwind-dodgesav-dde.html): Adwind Dodges AV via DDE
+* [strelka](https://github.com/target/strelka): Scanning files at scale with Python and ZeroMQ
 
 ### SIEM
 
@@ -374,6 +378,7 @@ CSIRT links and resources.
 * [shellz](https://github.com/evilsocket/shellz): is a small utility to track and control your ssh, telnet, web and custom shells. 
 * [CLIP OS](https://www.ssi.gouv.fr/en/actualite/clip-os-open-source-secured-operating-system/): Open Source secured operating system by Agence nationale de la sécurité des systèmes d'information
 * [How to Get Started With VMware vSphere Security « vMiss.net](https://vmiss.net/2018/09/19/how-to-get-started-with-vmware-vsphere-security/)
+* [routeros](https://github.com/tenable/routeros): RouterOS Bug Hunt Materials Presented at Derbycon 2018
 
 ### UEFI
 
@@ -451,6 +456,7 @@ Some mimikatz stuff:
 * [SpecuCheck](https://github.com/ionescu007/SpecuCheck): SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)
 * [stager.dll](https://github.com/phackt/stager.dll): Code from this [article](https://blog.rapid7.com/2018/05/03/hiding-metasploit-shellcode-to-evade-windows-defender/)
 * [RID-Hijacking](https://github.com/r4wd3r/RID-Hijacking/): Windows RID Hijacking persistence technique
+* [WSL Reloaded](https://www.slideshare.net/AnthonyLAOUHINETSUEI/wsl-reloaded)
 
 ### macOS/iOS
 
@@ -470,6 +476,8 @@ Some mimikatz stuff:
 * [Remote Mac Exploitation Via Custom URL Schemes](https://objective-see.com/blog/blog_0x38.html)
 * [threadexec](https://github.com/bazad/threadexec): A library to execute code in the context of other processes on iOS 11. 
 * [Knowledge is Power! Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)
+* [iOS12 Kernelcache Laundering](https://www.synacktiv.com/posts/exploit/ios12-kernelcache-laundering.html)
+* [kernelcache-laundering](https://github.com/Synacktiv/kernelcache-laundering): load iOS12 kernelcaches and PAC code in IDA
 
 ### Android
 
@@ -557,6 +565,7 @@ Some mimikatz stuff:
 * [Tools by Morphus Labs](https://morphuslabs.com/tools/home)
 * [Stratosphere IPS](https://www.stratosphereips.org/)
 * [Convert nmap Scans into Beautiful HTML Pages](https://members.rootsh3ll.com/t/convert-nmap-scans-into-beautiful-html-pages/255)
+* [Shellab](https://github.com/TheSecondSun/Shellab/): Linux and Windows shellcode enrichment utility
 
 # General
 
@@ -583,6 +592,8 @@ Some mimikatz stuff:
 * [flowsscripts](https://github.com/csirtunicamp/flowsscripts/): Miner pools ips.
 * [Qualcomm chain-of-trust](https://lineageos.org/engineering/Qualcomm-Firmware/)
 * [SwiftFilter](https://github.com/SwiftOnSecurity/SwiftFilter): Exchange Transport rules to detect and enable response to phishing
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/): Every Byte Explained
+* [Practical Cryptography](http://practicalcryptography.com/)
 
 ## Conferences and Slides
  
@@ -594,6 +605,7 @@ Some mimikatz stuff:
 * [ARM-based IoT Exploit Development](https://hardwaresecurity.training/trainings/arm-west-2018/)
 * (pt-br)[Uma Introdução a Threat Intelligence e Threat Hunting para Empresas Sem Orçamento Infinito](https://www.slideshare.net/AlexandreSieira/uma-introduo-a-threat-intelligence-e-threat-hunting-para-empresas-sem-oramento-infinito) 
 * Outflank [Presentations](https://github.com/outflanknl/Presentations)
+* [The Art of De-obfuscation](https://speakerdeck.com/ntddk/the-art-of-de-obfuscation)
 
 ## Sources
 
