@@ -26,6 +26,14 @@
 * [APT38: Details on New North Korean Regime-Backed Threat Group](https://www.fireeye.com/blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html)
 * [The Big Hack: How China Used a Tiny Chip to Infiltrate U.S. Companies](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies). Some other conclusions: [Hardware Implants](https://securinghardware.com/articles/hardware-implants/)
 * [Security Vulnerabilities in US Weapons Systems](https://www.schneier.com/blog/archives/2018/10/security_vulner_17.html)
+* Nick Sullivan - [Is the Web Ready for OCSP Must-Staple?](https://crypto.dance/projects/6952656)
+* Thompson Cyber Security Labs: [50% of firmware certs are expired?](https://tcsltesting.blogspot.com/2018/09/50-of-firmware-certs-are-expired.html)
+* [E Ink Waveforms are a closely guarded secret](https://goodereader.com/blog/e-paper/e-ink-waveforms-are-a-closely-guarded-secret)
+* [The Effectiveness of Publicly Shaming Bad Security](https://www.troyhunt.com/the-effectiveness-of-publicly-shaming-bad-security/)
+* [A mysterious grey-hat is patching people's outdated MikroTik routers](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
+* [This Tech Would Have Spotted the Secret Chinese Chip in Seconds - IEEE Spectrum](https://spectrum.ieee.org/riskfactor/computing/hardware/this-tech-would-have-spotted-the-secret-chinese-chip-in-seconds)
+* [Protecting Mozilla’s GitHub Repositories from Malicious Modification | Mozilla Security Blog](https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/)
+* [Tell HN: Now Washington Post is asking to turn off Firefox's tracking protection | Hacker News](https://news.ycombinator.com/item?id=18198502)
 
 ## Politics
 
@@ -36,7 +44,7 @@
 * [The Geopolitics of Cybersecurity](https://medium.com/@MilenaRodban/the-geopolitics-of-cybersecurity-5ae169d03cf9)
 * [We are taking new steps against broadening threats to democracy](https://blogs.microsoft.com/on-the-issues/2018/08/20/we-are-taking-new-steps-against-broadening-threats-to-democracy/)
 * [violencia-nao-tem-partido](https://github.com/okfn-brasil/violencia-nao-tem-partido/): Hate crimes monitor for political motivated assaults in Brazil.
-
+* [Our Security Community - Microsoft Tech Community - 57519](https://techcommunity.microsoft.com/t5/Security-Privacy-Compliance/Our-Security-Community/td-p/57519)
 
 ### Online Voting
 
