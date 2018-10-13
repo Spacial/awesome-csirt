@@ -313,6 +313,8 @@ CSIRT links and resources.
 * [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY): A post-exploitation agent powered by Python, IronPython, C#/.NET
 * [fuxploider](https://github.com/almandin/fuxploider): File upload vulnerability scanner and exploitation tool.
 * [Jailbreaks Demystified](https://geosn0w.github.io/Jailbreaks-Demystified/) – GeoSn0w – Programmer. Hacking stuff.
+* [LinEnum](https://github.com/rebootuser/LinEnum): Scripted Local Linux Enumeration & Privilege Escalation Checks
+* [linpostexp](https://github.com/reider-roque/linpostexp): Linux post exploitation enumeration and exploit checking tools
 
 ## DNS
 
