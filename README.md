@@ -30,7 +30,8 @@ CSIRT links and resources.
  * [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
  * [SPLOITUS](https://sploitus.com/): Exploit search engine.
  * [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine. 
- 
+* [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
+
 ## CVEs
 
 * Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md) and in [here](https://github.com/Spacial/csirt/tree/master/PoCs)
@@ -173,6 +174,7 @@ CSIRT links and resources.
 * [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network 
 * [iptables-essentials](https://github.com/trimstray/iptables-essentials): Iptables Essentials: Common Firewall Rules and Commands.
 * [reconbf](https://github.com/HewlettPackard/reconbf): Recon system hardening scanner
+* [FirewallChecker](https://github.com/Z3Prover/FirewallChecker): A self-contained firewall checker
 
 ### Apache
 
@@ -185,6 +187,7 @@ CSIRT links and resources.
 * Search if your credentials where leaked: [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
 * [pw-pwnage-cfworker](https://github.com/detroitenglish/pw-pwnage-cfworker): Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND check for matches against haveibeenpwned's 5.1+ billion breached accounts 
 * [XSS Exploit code for retrieving passwords stored in a Password Vault](https://gist.github.com/shawarkhanethicalhacker/e40a7c3956fdd24b9fb63d03d94c3d34)
+* [login_duress](https://github.com/jcs/login_duress): A BSD authentication module for duress passwords
 
 ## Secure Programming
 
@@ -237,7 +240,8 @@ CSIRT links and resources.
 * [USBHarpoon](https://www.bleepingcomputer.com/news/security/usbharpoon-is-a-badusb-attack-with-a-twist/) Is a BadUSB Attack with A Twist
 * Ground Zero: Part 3-2 [Patching Binaries with Radare2 - ARM64](https://scriptdotsh.com/index.php/2018/08/13/reverse-engineering-patching-binaries-with-radare2-arm-aarch64/)
 * [A 2018 practical guide to hacking RFID/NFC](https://www.slideshare.net/SlawomirJasek/a-2018-practical-buide-to-hacking-rfidnfc)
-* [/riscv-ida](https://github.com/lcq2/riscv-ida): RISC-V ISA processor module for IDAPro 7.x
+* [riscv-ida](https://github.com/lcq2/riscv-ida): RISC-V ISA processor module for IDAPro 7.x
+* [mac-age](https://github.com/hdm/mac-ages): MAC address age tracking
 
  ## Pentesting
 
@@ -270,6 +274,8 @@ CSIRT links and resources.
 * [Danger-zone](https://github.com/woj-ciech/Danger-zone): Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files.
 * [OSINT tool for visualizing relationships between domains, IPs and email addresses.](https://hackernoon.com/osint-tool-for-visualizing-relationships-between-domains-ips-and-email-addresses-94377aa1f20a)
 * [go-tomcat-mgmt-scanner](https://github.com/edermi/go-tomcat-mgmt-scanner): A simple scanner to find and brute force tomcat manager logins
+* [IoTSecurity101](https://github.com/V33RU/IoTSecurity101): From IoT Pentesting to IoT Security
+* [subscraper](https://github.com/m8r0wn/subscraper): External pentest tool that performs subdomain enumeration through various techniques. In addition, SubScraper will provide information such as HTTP & DNS lookups to aid in potential next steps.
 
 ### Vulnerability
 
@@ -301,6 +307,9 @@ CSIRT links and resources.
 * [Faxploit](https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/): Sending Fax Back to the Dark Ages
 * [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
 * [NAVEX](https://blog.acolyer.org/2018/09/10/navex-precise-and-scalable-exploit-generation-for-dynamic-web-applications/): Precise and scalable exploit generation for dynamic web applications
+* [Three New DDE Obfuscation Methods](https://blog.reversinglabs.com/blog/cvs-dde-exploits-and-obfuscation)
+* [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY): A post-exploitation agent powered by Python, IronPython, C#/.NET
+* [fuxploider](https://github.com/almandin/fuxploider): File upload vulnerability scanner and exploitation tool.
 
 ## DNS
 
@@ -441,6 +450,7 @@ Some mimikatz stuff:
 * [Detailed properties in the Office 365 audit log](https://docs.microsoft.com/en-us/office365/securitycompliance/detailed-properties-in-the-office-365-audit-log)
 * [SpecuCheck](https://github.com/ionescu007/SpecuCheck): SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)
 * [stager.dll](https://github.com/phackt/stager.dll): Code from this [article](https://blog.rapid7.com/2018/05/03/hiding-metasploit-shellcode-to-evade-windows-defender/)
+* [RID-Hijacking](https://github.com/r4wd3r/RID-Hijacking/): Windows RID Hijacking persistence technique
 
 ### macOS/iOS
 
@@ -489,7 +499,6 @@ Some mimikatz stuff:
 * Project Zero: [A cache invalidation bug in Linux memory management](https://googleprojectzero.blogspot.com/2018/09/a-cache-invalidation-bug-in-linux.html)
 * [Announcing flickerfree boot for Fedora 29](https://hansdegoede.livejournal.com/19224.html)
 * [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
-
 
 ## Risk Assessment
 
@@ -547,6 +556,7 @@ Some mimikatz stuff:
 * [put2win](https://github.com/sysdevploit/put2win): Script to automatize shell upload by PUT HTTP method to get meterpreter 
 * [Tools by Morphus Labs](https://morphuslabs.com/tools/home)
 * [Stratosphere IPS](https://www.stratosphereips.org/)
+* [Convert nmap Scans into Beautiful HTML Pages](https://members.rootsh3ll.com/t/convert-nmap-scans-into-beautiful-html-pages/255)
 
 # General
 
