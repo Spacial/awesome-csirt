@@ -459,6 +459,7 @@ Some mimikatz stuff:
 * [stager.dll](https://github.com/phackt/stager.dll): Code from this [article](https://blog.rapid7.com/2018/05/03/hiding-metasploit-shellcode-to-evade-windows-defender/)
 * [RID-Hijacking](https://github.com/r4wd3r/RID-Hijacking/): Windows RID Hijacking persistence technique
 * [WSL Reloaded](https://www.slideshare.net/AnthonyLAOUHINETSUEI/wsl-reloaded)
+* [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
 
 ### macOS/iOS
 
@@ -568,6 +569,7 @@ Some mimikatz stuff:
 * [Stratosphere IPS](https://www.stratosphereips.org/)
 * [Convert nmap Scans into Beautiful HTML Pages](https://members.rootsh3ll.com/t/convert-nmap-scans-into-beautiful-html-pages/255)
 * [Shellab](https://github.com/TheSecondSun/Shellab/): Linux and Windows shellcode enrichment utility
+* [GeoInt](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
 
 # General
 
