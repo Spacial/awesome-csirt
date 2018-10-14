@@ -35,6 +35,7 @@
 * [Protecting Mozilla’s GitHub Repositories from Malicious Modification | Mozilla Security Blog](https://blog.mozilla.org/security/2018/09/11/protecting-mozillas-github-repositories-from-malicious-modification/)
 * [Tell HN: Now Washington Post is asking to turn off Firefox's tracking protection | Hacker News](https://news.ycombinator.com/item?id=18198502)
 * [Just because it's an ID doesn't mean anything... at all...](https://tools.ietf.org/html/draft-wkumari-not-a-draft-06)
+* [How to irregular cyber warfare](https://blog.erratasec.com/2018/10/how-to-irregular-cyber-warfare.html)
 
 ## Politics
 
