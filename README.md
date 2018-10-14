@@ -490,6 +490,7 @@ Some mimikatz stuff:
 * [Droidefense](https://github.com/droidefense/engine): Advance Android Malware Analysis Framework 
 * [android-device-check](https://github.com/nelenkov/android-device-check): Check Android device security settings 
 * [Project Zero](https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.html): OATmeal on the Universal Cereal Bus: Exploiting Android phones over USB
+* [I'm looking at a Huawei P20 from China, let see what can I found](https://threader.app/thread/1051204370543648770)
 
 ### Linux
 
@@ -598,6 +599,7 @@ Some mimikatz stuff:
 * [SwiftFilter](https://github.com/SwiftOnSecurity/SwiftFilter): Exchange Transport rules to detect and enable response to phishing
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/): Every Byte Explained
 * [Practical Cryptography](http://practicalcryptography.com/)
+* [Thieves and Geeks: Russian and Chinese Hacking Communities](https://www.recordedfuture.com/russian-chinese-hacking-communities/)
 
 ## Conferences and Slides
  
