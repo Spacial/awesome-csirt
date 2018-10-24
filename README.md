@@ -219,6 +219,7 @@ CSIRT links and resources.
 * [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc)
 * [Practical case: Buffer Overflow 0x01](https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-buffer-overflow-0x01/)
 * [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides}(https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
+* [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit. 
 
 ## CTFs
 
@@ -572,6 +573,7 @@ Some mimikatz stuff:
 * [Convert nmap Scans into Beautiful HTML Pages](https://members.rootsh3ll.com/t/convert-nmap-scans-into-beautiful-html-pages/255)
 * [Shellab](https://github.com/TheSecondSun/Shellab/): Linux and Windows shellcode enrichment utility
 * [GeoInt](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
+* [Cartero](https://github.com/Section9Labs/Cartero/): Social Engineering Framework 
 
 # General
 
@@ -613,6 +615,7 @@ Some mimikatz stuff:
 * (pt-br)[Uma Introdução a Threat Intelligence e Threat Hunting para Empresas Sem Orçamento Infinito](https://www.slideshare.net/AlexandreSieira/uma-introduo-a-threat-intelligence-e-threat-hunting-para-empresas-sem-oramento-infinito) 
 * Outflank [Presentations](https://github.com/outflanknl/Presentations)
 * [The Art of De-obfuscation](https://speakerdeck.com/ntddk/the-art-of-de-obfuscation)
+* [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations 
 
 ## Sources
 
