@@ -36,6 +36,7 @@
 * [Tell HN: Now Washington Post is asking to turn off Firefox's tracking protection | Hacker News](https://news.ycombinator.com/item?id=18198502)
 * [Just because it's an ID doesn't mean anything... at all...](https://tools.ietf.org/html/draft-wkumari-not-a-draft-06)
 * [How to irregular cyber warfare](https://blog.erratasec.com/2018/10/how-to-irregular-cyber-warfare.html)
+* [New iPhone Passcode Bypass Found Hours After Apple Releases iOS 12.1](https://thehackernews.com/2018/10/iphone-ios-passcode-bypass.html)
 
 ## Politics
 
