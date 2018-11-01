@@ -80,6 +80,9 @@ CSIRT links and resources.
 * [malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview.py is a first response tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample. 
 * SECT CTF 2018 :: [Gh0st](http://mslc.ctf.su/wp/sect-ctf-2018-gh0st/) | More Smoked Leet Chicken
 * [What you need to know about “LoJax”—the new, stealthy malware from Fancy Bear](https://www.eset.com/us/about/newsroom/corporate-blog/what-you-need-to-know-about-lojax-the-new-stealthy-malware-from-fancy-bear/)
+* [Linux.Malware](https://github.com/marcusbotacin/Linux.Malware): Additional Material for the Linux Malware Paper 
+
+
 
 ### Samples
 
@@ -245,7 +248,7 @@ CSIRT links and resources.
 * [riscv-ida](https://github.com/lcq2/riscv-ida): RISC-V ISA processor module for IDAPro 7.x
 * [mac-age](https://github.com/hdm/mac-ages): MAC address age tracking
 
- ## Pentesting
+## Pentesting
 
 * [Seclists](https://github.com/danielmiessler/SecLists) is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 * Search operating systems on the network: [osquery](https://osquery.io/downloads/)
@@ -317,6 +320,7 @@ CSIRT links and resources.
 * [Jailbreaks Demystified](https://geosn0w.github.io/Jailbreaks-Demystified/) – GeoSn0w – Programmer. Hacking stuff.
 * [LinEnum](https://github.com/rebootuser/LinEnum): Scripted Local Linux Enumeration & Privilege Escalation Checks
 * [linpostexp](https://github.com/reider-roque/linpostexp): Linux post exploitation enumeration and exploit checking tools
+* [Attacking Google Authenticator](https://www.unix-ninja.com/p/attacking_google_authenticator)
 
 ## DNS
 
@@ -574,6 +578,9 @@ Some mimikatz stuff:
 * [Shellab](https://github.com/TheSecondSun/Shellab/): Linux and Windows shellcode enrichment utility
 * [GeoInt](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
 * [Cartero](https://github.com/Section9Labs/Cartero/): Social Engineering Framework 
+* [python-nubia](https://github.com/facebookincubator/python-nubia/): A command-line and interactive shell framework. 
+* [nipe](https://github.com/GouveaHeitor/nipe): is a script to make Tor Network your default gateway. 
+* [fuxploider](https://github.com/almandin/fuxploider): File upload vulnerability scanner and exploitation tool. 
 
 # General
 
@@ -603,6 +610,7 @@ Some mimikatz stuff:
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/): Every Byte Explained
 * [Practical Cryptography](http://practicalcryptography.com/)
 * [Thieves and Geeks: Russian and Chinese Hacking Communities](https://www.recordedfuture.com/russian-chinese-hacking-communities/)
+* [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
 ## Conferences and Slides
  
