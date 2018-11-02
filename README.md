@@ -178,6 +178,8 @@ CSIRT links and resources.
 * [iptables-essentials](https://github.com/trimstray/iptables-essentials): Iptables Essentials: Common Firewall Rules and Commands.
 * [reconbf](https://github.com/HewlettPackard/reconbf): Recon system hardening scanner
 * [FirewallChecker](https://github.com/Z3Prover/FirewallChecker): A self-contained firewall checker
+* [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
+* [BlueWars](https://medium.com/blueops/bluewars-capture-the-flag-defensivo-que-aconteceu-na-h2hc-514c75e3f13c): Capture The Flag Defensivo que aconteceu na H2HC
 
 ### Apache
 
@@ -373,6 +375,7 @@ CSIRT links and resources.
 ### SIEM
 
 * [Sigma](https://github.com/Neo23x0/sigma): Generic Signature Format for SIEM Systems
+* [Events Heatmap](https://codepen.io/anon/pen/wYbpVW)
 
 ## Browsers
 
@@ -397,9 +400,10 @@ CSIRT links and resources.
 #### Mimikatz
 
 Some mimikatz stuff:
- * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
- * [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
- * [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python 
+
+* [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
+* [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
+* [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python 
 
 #### Win General
 
@@ -408,7 +412,7 @@ Some mimikatz stuff:
 * Security Research from the Microsoft Security Response Center ([MSRC](https://github.com/Microsoft/MSRC-Security-Research))
 * [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
 * [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor)
-* [Total Meltdown? ](http://blog.frizk.net/2018/03/total-meltdown.html)
+* [Total Meltdown?](http://blog.frizk.net/2018/03/total-meltdown.html)
 * [DetectionLab](https://github.com/clong/DetectionLab): Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices. Post [here](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
 * [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
 * [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
@@ -429,8 +433,8 @@ Some mimikatz stuff:
 * [r0ak](https://github.com/ionescu007/r0ak): r0ak ("roak") is the Ring 0 Army Knife -- A Command Line Utility To Read/Write/Execute Ring Zero on for Windows 10 Systems.
 * [SpeculationControl](https://github.com/Microsoft/SpeculationControl): SpeculationControl is a PowerShell script that summarizes the state of configurable Windows mitigations for various speculative execution side channel vulnerabilities, such as CVE-2017-5715 (Spectre variant 2) and CVE-2017-5754 (Meltdown).
 * Reverse Engineering Windows Defender (by Alexei Bulazel): [pdf](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/Alexei%20Bulazel/Alexei-Bulazel-Reverse-Engineering-Windows-Defender.pdf) and [videos](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/Alexei%20Bulazel/Alexei-Bulazel-Reverse-Engineering-Windows-Defender-Demo-Videos/)
- * Ground Zero: Part 2-2 [XOR encryption – Windows x64](https://scriptdotsh.com/index.php/2018/05/09/ground-zero-part-2-2-reverse-engineering-xor-encryption-windows-x64/)
- * Ground Zero: Part 2-3 [Building Cracked Binaries – Windows x64](https://scriptdotsh.com/index.php/2018/06/09/ground-zero-part-2-3-reverse-engineering-building-cracked-binaries-windows-x64/)
+  * Ground Zero: Part 2-2 [XOR encryption – Windows x64](https://scriptdotsh.com/index.php/2018/05/09/ground-zero-part-2-2-reverse-engineering-xor-encryption-windows-x64/)
+  * Ground Zero: Part 2-3 [Building Cracked Binaries – Windows x64](https://scriptdotsh.com/index.php/2018/06/09/ground-zero-part-2-3-reverse-engineering-building-cracked-binaries-windows-x64/)
 * [EKFiddle](https://github.com/malwareinfosec/EKFiddle): A framework based on the Fiddler web debugger to study Exploit Kits, malvertising and malicious traffic in general.
 * [Windows Command-Line](https://blogs.msdn.microsoft.com/commandline/2018/08/02/windows-command-line-introducing-the-windows-pseudo-console-conpty/): Introducing the Windows Pseudo Console (ConPTY) – Windows Command Line Tools For Developers
 * [MSconsole](https://github.com/microsoft/console): Windows Console Tools
@@ -441,16 +445,16 @@ Some mimikatz stuff:
 * [Windows Incident Response: Updates](http://windowsir.blogspot.com/2018/08/updates.html?spref=tw&m=1)
 * [pe_to_shellcode](https://github.com/hasherezade/pe_to_shellcode): Converts PE into a shellcode
 * [Win 10 related research](https://github.com/kacos2000/Win10)
- * [Event log 'Keywords' p1](https://github.com/kacos2000/Win10/blob/master/EventLogs/keywords.md)
- * [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
+  * [Event log 'Keywords' p1](https://github.com/kacos2000/Win10/blob/master/EventLogs/keywords.md)
+  * [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
 * [UAC bypass using CreateNewLink COM interface](https://gist.github.com/hfiref0x/e58711820276fe8b1b36dd51faae59cf)
 * [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
 * [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire)
 * [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable. 
 * [relayer](https://github.com/Jsitech/relayer): SMB Relay Attack Script 
-* [Ps1jacker](https://github.com/darkw1z/Ps1jacker): Ps1jacker is a tool for generating COM Hijacking payload. 
+* [Ps1jacker](https://github.com/darkw1z/Ps1jacker): Ps1jacker is a tool for generating COM Hijacking payload.
 * [python-dotnet-binaryformat](https://github.com/williballenthin/python-dotnet-binaryformat): Pure Python parser for data encoded by .NET's BinaryFormatter 
-* [WinPwnage](https://github.com/rootm0s/WinPwnage): Elevate, UAC bypass, privilege escalation, dll hijack techniques 
+* [WinPwnage](https://github.com/rootm0s/WinPwnage): Elevate, UAC bypass, privilege escalation, dll hijack techniques
 * [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage): Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute
 * [Start-Hollow.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Start-Hollow.ps1): My musings with PowerShell
 * [Firework](https://github.com/SpiderLabs/Firework/): Firework is a proof of concept tool to interact with Microsoft Workplaces creating valid files required for the provisioning process.
@@ -466,7 +470,9 @@ Some mimikatz stuff:
 * [RID-Hijacking](https://github.com/r4wd3r/RID-Hijacking/): Windows RID Hijacking persistence technique
 * [WSL Reloaded](https://www.slideshare.net/AnthonyLAOUHINETSUEI/wsl-reloaded)
 * [Windows oneliners to download remote payload and execute arbitrary code](https://arno0x0x.wordpress.com/2017/11/20/windows-oneliners-to-download-remote-payload-and-execute-arbitrary-code/)
-
+* [reflectivepotato](https://github.com/realoriginal/reflectivepotato): MSFRottenPotato built as a Reflective DLL. Work in progress.
+* [randomrepo](https://github.com/SandboxEscaper/randomrepo): Repo for random stuff
+  
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
@@ -502,13 +508,13 @@ Some mimikatz stuff:
 
 * [BCC](https://github.com/iovisor/bcc): Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [OpenSnitch is a GNU/Linux port of the Little Snitch application firewall](https://github.com/evilsocket/opensnitch)
-* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion):Linux distro for IDS, NSM, and Log Management 
-* [Linux Kernel Defence Map ](https://github.com/a13xp0p0v/linux-kernel-defence-map)
+* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion):Linux distro for IDS, NSM, and Log Management
+* [Linux Kernel Defence Map](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 * [wcc](https://github.com/endrazine/wcc): The Witchcraft Compiler Collection
 * [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 * [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
 * [Ground Zero: Reverse Engineering](https://scriptdotsh.com):
- * Part 1-2: [Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
+  * Part 1-2: [Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
 * [Dmesg under the hood](https://ops.tips/blog/dmesg-under-the-hood/): Dmesg allows us to grasp what's going on under the hood when the kernel gets bad. Check out how dmesg is able to read kernel logs and show to the user.
 * [Randomize your MAC address using NetworkManager](https://fedoramagazine.org/randomize-mac-address-nm/)
 * [Shadow-Box](https://github.com/kkamagui/shadow-box-for-x86/tree/gatekeeper): Lightweight and Practical Kernel Protector for x86 (Presented at BlackHat Asia 2017/2018, beVX 2018 and HITBSecConf 2017) - [presentation](https://github.com/kkamagui/papers/blob/master/bevx-2018/presentation.pdf) and [other papers](https://github.com/kkamagui/papers)
@@ -532,7 +538,7 @@ Some mimikatz stuff:
 ## Tools
 
 * [MISP (core software) - Open Source Threat Intelligence Platform (formely known as Malware Information Sharing Platform)](https://github.com/MISP/MISP)
-* [Network Security Monitoring on Raspberry Pi type devices ](https://github.com/TravisFSmith/SweetSecurity)
+* [Network Security Monitoring on Raspberry Pi type devices](https://github.com/TravisFSmith/SweetSecurity)
 * [A secure, shared workspace for secrets](https://github.com/manifoldco/torus-cli)
 * [bettercap](https://github.com/evilsocket/bettercap-ng), the Swiss army knife for network attacks and monitoring.
 * [Security Monkey](https://github.com/Netflix/security_monkey)
@@ -553,36 +559,38 @@ Some mimikatz stuff:
 * [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
 * [WeakNet LINUX 8](http://www.weaknetlabs.com/p/weaknet-linux.html): This is an information-security themed distribution that has been in development since 2010.
 * [HiTB](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
-* [arphid](https://github.com/arphid/arphid): DYI 125KHz RFID read/write/emulate guide 
+* [arphid](https://github.com/arphid/arphid): DYI 125KHz RFID read/write/emulate guide
 * [Pybelt](https://github.com/Ekultek/Pybelt): The hackers tool belt
 * [mhax](https://github.com/smealum/mhax)
 * [U2F Support Firefox Extension](https://github.com/prefiks/u2f4moz)
-* [git-bug](https://github.com/MichaelMure/git-bug): Distributed bug tracker embedded in Git 
+* [git-bug](https://github.com/MichaelMure/git-bug): Distributed bug tracker embedded in Git
 * [mkcert](https://github.com/FiloSottile/mkcert): A simple zero-config tool to make locally trusted development certificates with any names you'd like
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
 * [Polymorph](https://github.com/shramos/polymorph) is a real-time network packet manipulation framework with support for almost all existing protocols
 * [query_huawei_wifi_router](https://github.com/zikusooka/query_huawei_wifi_router/): A CLI tool that queries a Huawei LTE WiFi router (MiFi) to get statistics such as signal strength, battery status, remaining data balance etc
-* [kravatte](https://github.com/inmcm/kravatte/): Implementation of Kravatte Encryption Suite 
+* [kravatte](https://github.com/inmcm/kravatte/): Implementation of Kravatte Encryption Suite
 * [atomic-red-team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK. 
-* [noisy](https://github.com/1tayH/noisy): Simple random DNS, HTTP/S internet traffic noise generator 
+* [noisy](https://github.com/1tayH/noisy): Simple random DNS, HTTP/S internet traffic noise generator
 * [infernal-twin](https://github.com/entropy1337/infernal-twin): wireless hacking - This is automated wireless hacking tool
 * [Google Chromium](https://github.com/Eloston/ungoogled-chromium), sans integration with Google
 * [Gammux](https://github.com/carl-mastrangelo/gammux): A Gamma muxing tool. This tool merges two pictures together by splitting them into high and low brightness images.
-* [PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/) 
-* [SSHuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling. 
+* [PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/)
+* [SSHuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 * [openvotenetwork](https://git.openprivacy.ca/sarah/openvotenetwork): Implementation of anonymous Open Vote Network (https://en.wikipedia.org/wiki/Open_vote_network) in go
-* [put2win](https://github.com/sysdevploit/put2win): Script to automatize shell upload by PUT HTTP method to get meterpreter 
+* [put2win](https://github.com/sysdevploit/put2win): Script to automatize shell upload by PUT HTTP method to get meterpreter
 * [Tools by Morphus Labs](https://morphuslabs.com/tools/home)
 * [Stratosphere IPS](https://www.stratosphereips.org/)
 * [Convert nmap Scans into Beautiful HTML Pages](https://members.rootsh3ll.com/t/convert-nmap-scans-into-beautiful-html-pages/255)
 * [Shellab](https://github.com/TheSecondSun/Shellab/): Linux and Windows shellcode enrichment utility
 * [GeoInt](https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0)
-* [Cartero](https://github.com/Section9Labs/Cartero/): Social Engineering Framework 
+* [Cartero](https://github.com/Section9Labs/Cartero/): Social Engineering Framework
 * [python-nubia](https://github.com/facebookincubator/python-nubia/): A command-line and interactive shell framework. 
 * [nipe](https://github.com/GouveaHeitor/nipe): is a script to make Tor Network your default gateway. 
 * [fuxploider](https://github.com/almandin/fuxploider): File upload vulnerability scanner and exploitation tool. 
+* [solo](https://github.com/SoloKeysSec/solo): FIDO2 USB+NFC token optimized for security, extensibility, and style
+* [Joint Report On Publicly Available Hacking Tools](https://cyber.gc.ca/en/guidance/joint-report-publicly-available-hacking-tools): by Canadian Centre for Cyber Security.
 
-# General
+## General
 
 * [Explain Shell](https://explainshell.com)
 * [Examples of regular expressions](https://support.google.com/a/answer/1371417?hl=en)
@@ -612,8 +620,10 @@ Some mimikatz stuff:
 * [Thieves and Geeks: Russian and Chinese Hacking Communities](https://www.recordedfuture.com/russian-chinese-hacking-communities/)
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 
+---
+
 ## Conferences and Slides
- 
+
 * [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
 * [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
 * [Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
@@ -623,7 +633,10 @@ Some mimikatz stuff:
 * (pt-br)[Uma Introdução a Threat Intelligence e Threat Hunting para Empresas Sem Orçamento Infinito](https://www.slideshare.net/AlexandreSieira/uma-introduo-a-threat-intelligence-e-threat-hunting-para-empresas-sem-oramento-infinito) 
 * Outflank [Presentations](https://github.com/outflanknl/Presentations)
 * [The Art of De-obfuscation](https://speakerdeck.com/ntddk/the-art-of-de-obfuscation)
-* [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations 
+* [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations
+* [SBSeg 2018](http://portaldeconteudo.sbc.org.br/index.php/sbseg): Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg)
+
+---
 
 ## Sources
 
@@ -635,21 +648,27 @@ Some good places to visit:
 * [pocorgtfo](https://github.com/angea/pocorgtfo): a mirror of the "International Journal of PoC||GTFO" with some extra stuff
 * [FIDO ECDAA Algorithm](https://fidoalliance.org/specs/fido-v2.0-id-20180227/fido-ecdaa-algorithm-v2.0-id-20180227.html#ecdaa-sign)
 * [stamparm](https://github.com/stamparm): Miroslav Stampar Repositories (a lot of good stuff)
+* Github repos:
+  * [gabrielmachado](https://github.com/gabrielmachado/)
 
-# Fun
+---
+
+## Fun
 
 * [Spoilerwall introduces a brand new concept in the field of network hardening](https://github.com/infobyte/spoilerwall)
 * [abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti)
 * [resist_oped](https://github.com/mkearney/resist_oped/): 🕵🏽‍♀️ Identifying the author behind New York Time’s op-ed from inside the Trump White House.
 * [InfoSec BS Bingo](https://www.bullshitbingo.net/cards/custom/?title=InfoSec+BS+Bingo&exclamation=CYBERWAR+%21%21%21&free_square=&terms=Cyber%0D%0AChina%0D%0ABillion%0D%0AAPT%0D%0ANation+State%0D%0AGovernment%0D%0APCI%0D%0AWe+are+compliant%0D%0A%24Vendor+claimed%0D%0AAdvanced+Malware%0D%0ASCADA%0D%0AStuxnet+%0D%0ARussia%0D%0ABreach%0D%0AMillion+Records%0D%0ACyberwar%0D%0AInternet+of+Things%0D%0AMimikatz%0D%0AHacker%0D%0AVPN%0D%0ASQL+Injection%0D%0ACredentials%0D%0AEncrypted+passwords%0D%0ANo+financial+data%0D%0ASnowden)
 
-# CFPs
+---
+
+## CFPs
 
 ## 2018
 
 * [Organized by security consulting and research firm Independent Security Evaluators (ISE), IoT Village delivers advocacy for and expertise on security advancements in Internet of Things devices. ](https://www.iotvillage.org/#cfp)
 
-# Articles
+## Articles
 
 * [[1808.00659] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
 * [[1809.08325] The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem](https://arxiv.org/abs/1809.08325)
