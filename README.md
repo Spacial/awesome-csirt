@@ -3,33 +3,33 @@
 CSIRT links and resources.
 
  **Please contribute through pull requests** ;)
- 
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
  Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
- 
+
 ## Books
 
- * Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br) 
+* Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br) 
 
 ## Links
 
- * [FIRST](http://www.first.org)
- * [Cert.BR](http://www.cert.br) - useful [links](https://www.cert.br/links/)
-   * [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
- * SANS Pen-Testing Resources: [Downloads](https://pen-testing.sans.org/resources/downloads)
- * Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) of security projects
- * [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
- * [Repository containing Indicators of Compromise and Yara rules](https://github.com/advanced-threat-research/IOCs)
- * [Applying DevOps Principles in Incident Response](https://insights.sei.cmu.edu/devops/2015/09/applying-devops-principles-in-incident-response.html)
- * [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
- * [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
- * [ATTACK-Tools](https://github.com/nshalabi/ATTACK-Tools): Utilities for MITRE™ ATT&CK
- * [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
- * [crypto](https://github.com/boazbk/crypto): Lecture notes for a course on cryptography
- * [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
- * [SPLOITUS](https://sploitus.com/): Exploit search engine.
- * [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine. 
+* [FIRST](http://www.first.org)
+  * [Cert.BR](http://www.cert.br) - useful [links](https://www.cert.br/links/)
+  * [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
+* SANS Pen-Testing Resources: [Downloads](https://pen-testing.sans.org/resources/downloads)
+* Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) of security projects
+* [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+* [Repository containing Indicators of Compromise and Yara rules](https://github.com/advanced-threat-research/IOCs)
+* [Applying DevOps Principles in Incident Response](https://insights.sei.cmu.edu/devops/2015/09/applying-devops-principles-in-incident-response.html)
+* [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
+* [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
+* [ATTACK-Tools](https://github.com/nshalabi/ATTACK-Tools): Utilities for MITRE™ ATT&CK
+* [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
+* [crypto](https://github.com/boazbk/crypto): Lecture notes for a course on cryptography
+* [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+* [SPLOITUS](https://sploitus.com/): Exploit search engine.
+* [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine. 
 * [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
 
 ## CVEs
@@ -70,19 +70,17 @@ CSIRT links and resources.
 * [Source Code for Exobot Android Banking Trojan Leaked Online](https://www.bleepingcomputer.com/news/security/source-code-for-exobot-android-banking-trojan-leaked-online/)
 * [Pegasus: analysis of network behavior](http://blog.ptsecurity.com/2018/07/pegasus-analysis-of-network-behavior.html)
 * [Ramnit’s Network of Proxy Servers](https://research.checkpoint.com/ramnits-network-proxy-servers/)
-* [snake](https://github.com/countercept/snake): a malware storage zoo 
+* [snake](https://github.com/countercept/snake): a malware storage zoo
 * [A malware analysis kit for the novice](https://www.computerweekly.com/tip/A-malware-analysis-kit-for-the-novice)
-* [malware-ioc](https://github.com/eset/malware-ioc): Indicators of Compromises (IOC) of our various investigations 
+* [malware-ioc](https://github.com/eset/malware-ioc): Indicators of Compromises (IOC) of our various investigations
 * [pftriage](https://github.com/idiom/pftriage): Python tool and library to help analyze files during malware triage and analysis.
-* [imaginaryC2](https://github.com/felixweyne/imaginaryC2#demo-use-case-simulating-trickbot-servers): Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads. 
+* [imaginaryC2](https://github.com/felixweyne/imaginaryC2#demo-use-case-simulating-trickbot-servers): Imaginary C2 is a python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.
 * [When a malware is more complex than the paper.](https://medium.com/@Sebdraven/when-a-malware-is-more-complex-than-the-paper-5822fc7ff257)
 * [Vba2Graph](https://github.com/MalwareCantFly/Vba2Graph): Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.
-* [malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview.py is a first response tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample. 
+* [malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview.py is a first response tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample.
 * SECT CTF 2018 :: [Gh0st](http://mslc.ctf.su/wp/sect-ctf-2018-gh0st/) | More Smoked Leet Chicken
 * [What you need to know about “LoJax”—the new, stealthy malware from Fancy Bear](https://www.eset.com/us/about/newsroom/corporate-blog/what-you-need-to-know-about-lojax-the-new-stealthy-malware-from-fancy-bear/)
-* [Linux.Malware](https://github.com/marcusbotacin/Linux.Malware): Additional Material for the Linux Malware Paper 
-
-
+* [Linux.Malware](https://github.com/marcusbotacin/Linux.Malware): Additional Material for the Linux Malware Paper
 
 ### Samples
 
@@ -113,7 +111,7 @@ CSIRT links and resources.
 * [Inception](https://github.com/two06/Inception/): Provides In-memory compilation and reflective loading of C# apps for AV evasion.
 * [Invoke-NeutralizeAV](https://github.com/curtbraz/Invoke-NeutralizeAV): Quick PoC I Wrote for Bypassing Next Gen AV Remotely for Pentesting.
 * [BinariesThatDoesOtherStuff](https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt)
-* [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner 
+* [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner
 
 ### Trojans
 
@@ -127,20 +125,20 @@ CSIRT links and resources.
 * [REDasm](https://github.com/REDasmOrg/REDasm): Crossplatform, interactive, multiarchitecture disassembler
 * [Reversing ARM Binaries](https://zygosec.com/post1.html)
 * [Programmer De-anonymization from Binary Executables](https://github.com/calaylin/bda)
-* [syntia](https://github.com/RUB-SysSec/syntia): Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code" 
+* [syntia](https://github.com/RUB-SysSec/syntia): Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code"
 * [Reverse engineering WhatsApp Web](https://github.com/sigalor/whatsapp-web-reveng)
 * [BOLO: Reverse Engineering — Part 1 (Basic Programming Concepts)](https://medium.com/bugbountywriteup/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7)
-* [BOLO: Reverse Engineering — Part 2 (Advanced Programming Concepts)](https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e) 
+* [BOLO: Reverse Engineering — Part 2 (Advanced Programming Concepts)](https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e)
 * [Reverse Engineering for Beginners](https://www.begin.re)
 * [VivienneVMM](https://github.com/changeofpace/VivienneVMM): VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor.
 * [Xori](https://github.com/endgameinc/xori): Custom disassembly framework
 * [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
-* [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform 
+* [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform
 * [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
 * [binja-ipython](https://github.com/ernw/binja-ipython): A plugin to integrate an IPython kernel into Binary Ninja.
 * [PySameSame](https://github.com/DissectMalware/PySameSame): This is a python version of samesame repo to generate homograph strings
 * [Reversing a Japanese Wireless SD Card From Zero to Code Execution](https://docs.google.com/presentation/d/13OJNOb2IMwp79SDrbxSLF3i7StTgWLdD7QlYpic39r8/edit#slide=id.g3d28bb72e8_5_74)
-* [Practical-Reverse-Engineering-using-Radare2](https://github.com/s4n7h0/Practical-Reverse-Engineering-using-Radare2): Training Materials of Practical Reverse Engineering using Radare2 
+* [Practical-Reverse-Engineering-using-Radare2](https://github.com/s4n7h0/Practical-Reverse-Engineering-using-Radare2): Training Materials of Practical Reverse Engineering using Radare2
 * [idaemu](https://github.com/36hours/idaemu): idaemu is an IDA Pro Plugin - use for emulating code in IDA Pro.
 * [LIEF](https://lief.quarkslab.com/): Library to Instrument Executable Formats  ([github](https://github.com/lief-project/LIEF/))
 * [pwndbg](https://github.com/pwndbg/pwndbg): Exploit Development and Reverse Engineering with GDB Made Easy  
@@ -161,7 +159,7 @@ CSIRT links and resources.
 * See your site config with [Hardenize](https://www.hardenize.com/)
 * Nice article with a lot of resources: [Common approaches to securing Linux servers and what runs on them.](https://medium.com/@ageis/common-approaches-to-securing-linux-servers-and-what-runs-on-them-dadcacc5388b)
 * [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) by [stribika](https://github.com/stribika)
-* A lot of good posts by geek flare: 
+* A lot of good posts by geek flare:
   * [How to Configure SSL Certificate on Google Cloud Load Balancer?](https://geekflare.com/google-load-balancer-enable-ssl/)
   * [Nginx Web Server Security & Hardening Guide](https://geekflare.com/nginx-webserver-security-hardening-guide/)
   * [IBM HTTP Server Security & Hardening Guide](https://geekflare.com/ibm-http-server-security-guide/)
@@ -172,9 +170,9 @@ CSIRT links and resources.
 * [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
 * [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
 * [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
-* [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes. 
+* [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes.
 * [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
-* [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network 
+* [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network
 * [iptables-essentials](https://github.com/trimstray/iptables-essentials): Iptables Essentials: Common Firewall Rules and Commands.
 * [reconbf](https://github.com/HewlettPackard/reconbf): Recon system hardening scanner
 * [FirewallChecker](https://github.com/Z3Prover/FirewallChecker): A self-contained firewall checker
@@ -241,7 +239,7 @@ CSIRT links and resources.
 * ARM [LAB ENVIRONMENT](https://azeria-labs.com/arm-lab-vm/)
 * Azure IoT [HUB](https://azure.microsoft.com/en-us/services/iot-hub/)
 * [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
-* [arm vm working out of the box for everyone ](https://github.com/nongiach/arm_now)
+* [arm vm working out of the box for everyone](https://github.com/nongiach/arm_now)
 * [Statically compiled ARM binaries for debugging and runtime analysis.](https://github.com/therealsaumil/static-arm-bins/)
 * [Hacker Finds Hidden 'God Mode' on Old x86 CPUs](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html) ->  [rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge): Hardware backdoors in some x86 CPUs
 * [USBHarpoon](https://www.bleepingcomputer.com/news/security/usbharpoon-is-a-badusb-attack-with-a-twist/) Is a BadUSB Attack with A Twist
@@ -291,7 +289,7 @@ CSIRT links and resources.
 * [Striker](https://github.com/UltimateHackers/Striker) is an offensive information and vulnerability scanner
 * [SQL Vulnerability Scanner](https://github.com/WhitewidowScanner/whitewidow)
 * [Decentralized Application Security Project](https://www.dasp.co/), [github](https://github.com/CryptoServices/dasp)
-* [BLEAH](https://github.com/evilsocket/bleah): A BLE scanner for "smart" devices hacking. 
+* [BLEAH](https://github.com/evilsocket/bleah): A BLE scanner for "smart" devices hacking.
 * [Introduction to IDAPython for Vulnerability Hunting — Somerset Recon](http://www.somersetrecon.com/blog/2018/7/6/introduction-to-idapython-for-vulnerability-hunting)
 * [Beating the OWASP Benchmark](https://blog.shiftleft.io/beating-the-owasp-benchmark-24a7b1601031)
 
@@ -523,7 +521,8 @@ Some mimikatz stuff:
 * Project Zero: [A cache invalidation bug in Linux memory management](https://googleprojectzero.blogspot.com/2018/09/a-cache-invalidation-bug-in-linux.html)
 * [Announcing flickerfree boot for Fedora 29](https://hansdegoede.livejournal.com/19224.html)
 * [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
-
+* (PT-BR) [Análise de binários em Linux](https://wiki.hackstore.com.br/An%C3%A1lise_de_bin%C3%A1rios_em_Linux)
+  
 ## Risk Assessment
 
 * (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
@@ -619,6 +618,7 @@ Some mimikatz stuff:
 * [Practical Cryptography](http://practicalcryptography.com/)
 * [Thieves and Geeks: Russian and Chinese Hacking Communities](https://www.recordedfuture.com/russian-chinese-hacking-communities/)
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+* [ephemera-miscellany](https://github.com/1337list/ephemera-miscellany): Ephemera and other documentation associated with the 1337list project.
 
 ---
 
@@ -650,7 +650,8 @@ Some good places to visit:
 * [stamparm](https://github.com/stamparm): Miroslav Stampar Repositories (a lot of good stuff)
 * Github repos:
   * [gabrielmachado](https://github.com/gabrielmachado/)
-
+* [Damn Vulnerable Web Application Docker container](https://hub.docker.com/r/vulnerables/web-dvwa/)
+  
 ---
 
 ## Fun
