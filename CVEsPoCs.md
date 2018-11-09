@@ -99,6 +99,13 @@ Some CVEs PoCs repos on github or internet.
 * [DoubleDoor](https://blog.newskysecurity.com/doubledoor-iot-botnet-bypasses-firewall-as-well-as-modem-security-using-two-backdoor-exploits-88457627306d), IoT Botnet bypasses firewall as well as modem security using two backdoor exploits: CVE-2015–7755 and CVE-2016–10401
 * [i.MX7 M4 Atomic Cache Bug](https://rschaefertech.wordpress.com/2018/02/17/imx7-hardware-bug/)
 
+## VirtualBox
+
+* From Compiler Optimization to Code Execution - VirtualBox VM Escape: [CVE-2018-2844](https://www.voidsecurity.in/2018/08/from-compiler-optimization-to-code.html). [poc](https://github.com/renorobert/virtualbox-cve-2018-2844/)
+* [VirtualBox 3D PoCs & exploits](https://github.com/niklasb/3dpwn)
+* [Multiple Vulnerabilities on Kerui Endoscope Camera](https://utkusen.com/blog/multiple-vulnerabilities-on-kerui-endoscope-camera.html)
+* [virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day):  VirtualBox E1000 Guest-to-Host Escape
+
 ## Others
 
 * PHPMailer: [CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033)
@@ -113,9 +120,6 @@ Some CVEs PoCs repos on github or internet.
 * PHP PrestaShop 1.6.x Privilege Escalation: [CVE-2018-13784](https://www.ambionics.io/blog/prestashop-privilege-escalation)
 * [Bug or Backdoor](https://0x09al.github.io/security/ispconfig/exploit/vulnerability/2018/08/20/bug-or-backdoor-ispconfig-rce.html): Exploiting a Remote Code Execution in ISPConfig by 0x09AL Security blog.
 * SSH Exploit written in Python for CVE-2018-15473 with threading and export formats: [CVE-2018-15473](https://github.com/Rhynorater/CVE-2018-15473-Exploit), [analysis](https://sekurak.pl/openssh-users-enumeration-cve-2018-15473/)
-* From Compiler Optimization to Code Execution - VirtualBox VM Escape: [CVE-2018-2844](https://www.voidsecurity.in/2018/08/from-compiler-optimization-to-code.html). [poc](https://github.com/renorobert/virtualbox-cve-2018-2844/)
-* [VirtualBox 3D PoCs & exploits](https://github.com/niklasb/3dpwn)
-* [Multiple Vulnerabilities on Kerui Endoscope Camera](https://utkusen.com/blog/multiple-vulnerabilities-on-kerui-endoscope-camera.html)
 * [RICOH MP 2001 Printer Cross Site Scripting ≈ Packet Storm](https://packetstormsecurity.com/files/149443/RICOH-MP-2001-Printer-Cross-Site-Scripting.html), [code](https://dl.packetstormsecurity.net/1809-exploits/richomp2001-xss.txt), [Cross-Site Scripting](https://www.exploit-db.com/exploits/45460/)
 * Oracle WebLogic WLS-WSAT Remote Code Execution Exploit: [CVE-2017-10271](https://github.com/kkirsche/CVE-2017-10271)
 * WebLogic Exploit: [CVE-2017-10271](https://github.com/c0mmand3rOpSec/CVE-2017-10271)
