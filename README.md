@@ -363,6 +363,7 @@ CSIRT links and resources.
 * [The Sleuth Kit® (TSK)](https://github.com/sleuthkit/sleuthkit) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data
 * [Invoke-LiveResponse](https://github.com/mgreen27/Powershell-IR)
 * [Linux Forensics](https://www.pentesteracademy.com/course?id=20)
+* [CDQR](https://github.com/orlikoski/CDQR): The Cold Disk Quick Response (CDQR) tool is a fast and easy to use forensic artifact parsing tool that works on disk images, mounted drives and extracted artifacts from Windows, Linux and MacOS devices
 
 ## Threat Hunting
 
