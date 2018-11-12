@@ -238,6 +238,7 @@ CSIRT links and resources.
 * [The fast, easy, and affordable way to train your hacking skills.](https://www.root-me.org/)
 * [Write-ups for crackmes and CTF challenges](https://github.com/eleemosynator/writeups) by eleemosynator
 * [pwntools](https://github.com/Gallopsled/pwntools): CTF framework and exploit development library
+* [google-ctf](https://github.com/google/google-ctf)
 
 ## Phreak
 
