@@ -81,6 +81,7 @@ CSIRT links and resources.
 * SECT CTF 2018 :: [Gh0st](http://mslc.ctf.su/wp/sect-ctf-2018-gh0st/) | More Smoked Leet Chicken
 * [What you need to know about “LoJax”—the new, stealthy malware from Fancy Bear](https://www.eset.com/us/about/newsroom/corporate-blog/what-you-need-to-know-about-lojax-the-new-stealthy-malware-from-fancy-bear/)
 * [Linux.Malware](https://github.com/marcusbotacin/Linux.Malware): Additional Material for the Linux Malware Paper
+* [PHP Malware Examination](https://blog.manchestergreyhats.co.uk/2018/11/07/php-malware-examination/)
 
 ### Samples
 
@@ -180,7 +181,8 @@ CSIRT links and resources.
 * [FirewallChecker](https://github.com/Z3Prover/FirewallChecker): A self-contained firewall checker
 * [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
 * [BlueWars](https://medium.com/blueops/bluewars-capture-the-flag-defensivo-que-aconteceu-na-h2hc-514c75e3f13c): Capture The Flag Defensivo que aconteceu na H2HC
-
+* [Iptables Essentials](https://github.com/trimstray/iptables-essentials): Common Firewall Rules and Commands.
+  
 ### Apache
 
 * [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
@@ -225,6 +227,7 @@ CSIRT links and resources.
 * [Practical case: Buffer Overflow 0x01](https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-buffer-overflow-0x01/)
 * [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides}(https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
 * [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit. 
+* [BFuzz](https://github.com/RootUp/BFuzz): Fuzzing Browsers
 
 ## CTFs
 
@@ -287,8 +290,8 @@ CSIRT links and resources.
 * [SharpSploitConsole](https://github.com/anthemtotheego/SharpSploitConsole): SharpSploit Console is just a quick proof of concept binary to help penetration testers or red teams with less C# experience play with some of the awesomeness that is SharpSploit. 
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec): A swiss army knife for pentesting networks
 * [Sublist3r](https://github.com/aboul3la/Sublist3r): Fast subdomains enumeration tool for penetration testers
-
-
+* [DarkSpiritz](https://github.com/DarkSpiritz/DarkSpiritz): A penetration testing framework for Linux, MacOS, and Windows systems.
+  
 ### Vulnerability
 
 * [Striker](https://github.com/UltimateHackers/Striker) is an offensive information and vulnerability scanner
@@ -303,7 +306,8 @@ CSIRT links and resources.
 * [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
 * [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
 * [Web Application Penetration Testing Course URLs](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
-
+* [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
+  
 ### Exploits
 
 * [IOSurface exploit](https://github.com/Siguza/v0rtex)
@@ -375,6 +379,7 @@ CSIRT links and resources.
 * [Linux Forensics](https://www.pentesteracademy.com/course?id=20)
 * [CDQR](https://github.com/orlikoski/CDQR): The Cold Disk Quick Response (CDQR) tool is a fast and easy to use forensic artifact parsing tool that works on disk images, mounted drives and extracted artifacts from Windows, Linux and MacOS devices
 * [mac_apt](https://github.com/ydkhatri/mac_apt/): macOS Artifact Parsing Tool
+* [MacForensics](https://github.com/ydkhatri/MacForensics): Repository of scripts for processing various artifacts from macOS (formerly OSX).
 * [imago-forensics](https://github.com/redaelli/imago-forensics): Imago is a python tool that extract digital evidences from images.
 
 ## Threat Hunting
@@ -488,7 +493,11 @@ Some mimikatz stuff:
 * [randomrepo](https://github.com/SandboxEscaper/randomrepo): Repo for random stuff
 * [Microsoft Windows win32k.sys](https://nafiez.github.io/security/pointer/2018/11/09/Microsoft-win32ksys-invalid-pointer.html): Invalid Pointer Vulnerability (MSRC Case 48212) - Security Research
 * [rdpy](https://github.com/citronneur/rdpy): Remote Desktop Protocol in Twisted Python
-
+* [Active Directory as a C2](https://akijosberryblog.wordpress.com/2018/03/17/active-directory-as-a-c2-command-control/)
+* [SharpWeb](https://github.com/djhohnstein/SharpWeb): NET 2.0 CLR project to retrieve saved browser credentials from Google Chrome, Mozilla Firefox and Microsoft Internet Explorer/Edge.
+* [reconerator](https://github.com/stufus/reconerator): C# Targeted Attack Reconnissance Tools
+* [ManbagedInjection](https://github.com/malcomvetter/ManagedInjection): A proof of concept for dynamically loading .net assemblies at runtime with only a minimal convention pre-knowledge
+* [InveighZero](https://github.com/Kevin-Robertson/InveighZero): C# LLMNR/NBNS spoofer
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
@@ -613,6 +622,8 @@ Some mimikatz stuff:
 * [TheHive](https://github.com/TheHive-Project/TheHive): a Scalable, Open Source and Free Security Incident Response Platform
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator): A toolset to make a system look as if it was the victim of an APT attack
 * [debugger-netwalker](https://github.com/opsxcq/debugger-netwalker): NetWalker Debugger
+* [USB armory](https://github.com/inversepath/usbarmory): [open source flash-drive-sized computer](http://inversepath.com/usbarmory)
+* [batch_deobfuscator](https://github.com/DissectMalware/batch_deobfuscator): Deobfuscate batch scripts obfuscated using string substitution and escape character techniques.
 
 ## General
 
@@ -659,6 +670,9 @@ Some mimikatz stuff:
 * [The Art of De-obfuscation](https://speakerdeck.com/ntddk/the-art-of-de-obfuscation)
 * [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations
 * [SBSeg 2018](http://portaldeconteudo.sbc.org.br/index.php/sbseg): Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg)
+* [Smartphone Privacy](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf): How Your Smartphone Tracks Your Entire Life
+* [Fun with LDAP and Kerberos* in AD environments](https://speakerd.s3.amazonaws.com/presentations/1ddba788017347ff8cfdb3336204fd17/FunWithLDAPandKerberos_Flathers_Thotcon2018_05052018.pdf)
+* [Analysis and recommendations for standardization in penetration testing and vulnerability assessment](http://eprints.lancs.ac.uk/74275/1/Penetration_testing_online_2.pdf)
 
 ---
 
@@ -670,7 +684,6 @@ Some good places to visit:
   * [How to start RE/malware analysis? | hasherezade's 1001 nights](https://hshrzd.wordpress.com/how-to-start/)
 * [List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
 * [pocorgtfo](https://github.com/angea/pocorgtfo): a "PoC or GTFO" mirror with extra article index, direct links and clean PDFs.
-
 * [FIDO ECDAA Algorithm](https://fidoalliance.org/specs/fido-v2.0-id-20180227/fido-ecdaa-algorithm-v2.0-id-20180227.html#ecdaa-sign)
 * [stamparm](https://github.com/stamparm): Miroslav Stampar Repositories (a lot of good stuff)
 * Github repos:
@@ -685,7 +698,7 @@ Some good places to visit:
 * [abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti)
 * [resist_oped](https://github.com/mkearney/resist_oped/): 🕵🏽‍♀️ Identifying the author behind New York Time’s op-ed from inside the Trump White House.
 * [InfoSec BS Bingo](https://www.bullshitbingo.net/cards/custom/?title=InfoSec+BS+Bingo&exclamation=CYBERWAR+%21%21%21&free_square=&terms=Cyber%0D%0AChina%0D%0ABillion%0D%0AAPT%0D%0ANation+State%0D%0AGovernment%0D%0APCI%0D%0AWe+are+compliant%0D%0A%24Vendor+claimed%0D%0AAdvanced+Malware%0D%0ASCADA%0D%0AStuxnet+%0D%0ARussia%0D%0ABreach%0D%0AMillion+Records%0D%0ACyberwar%0D%0AInternet+of+Things%0D%0AMimikatz%0D%0AHacker%0D%0AVPN%0D%0ASQL+Injection%0D%0ACredentials%0D%0AEncrypted+passwords%0D%0ANo+financial+data%0D%0ASnowden)
-
+* [How to fit all of Shakespeare in one tweet (and why not to do it!)](https://nakedsecurity.sophos.com/2018/11/12/how-to-fit-all-of-shakespeare-in-one-tweet-and-why-not-to-do-it/)
 ---
 
 ## CFPs

