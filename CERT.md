@@ -1,10 +1,10 @@
 # Great resource colletion by [Cert.br](https://cert.br)
 
-# Risk Management/Gerenciamento de Riscos
+## Risk Management/Gerenciamento de Riscos
 
 * [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/) (pt-br)
 
-# Incident Management Process Model
+## Incident Management Process Model
 
 http://www.cert.org/archive/pdf/04tr015.pdf
 CERT- RMM Incident Management and Control Ecosystem
@@ -27,7 +27,7 @@ http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=8379
 
 http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=8379
 
-    Additional Resources
+## Additional Resources
 
 http://www.auscert.org.au/render.html?it=2252&cid=1920
 
@@ -624,24 +624,17 @@ https://www.lastline.com/platform/analyst#hosted
 
 https://www.threattrack.com/malware-analysis.aspx
 
-CheatSheets
+## CheatSheets
 
- 
+### Reverse Engineering Cheat Sheet
 
-Reverse Engineering Cheat Sheet
-
-Analyzing Malicious Document Files
-
-CSIRTS
-
- 
+### Analyzing Malicious Document Files
 
 https://bsidesvienna.at/slides/2015/incident_handling_automation_with_intelmq.pdf
 
 https://github.com/certtools/intelmq
-Referências
 
- 
+## Referências
 
 https://zeltser.com/metasploit-framework-docker-container/
 
@@ -656,10 +649,9 @@ Links
 
 https://infocon.org/ - InfoCon is a community supported, non-commercial archive of all the past hacking related convention material that can be found.
 
+## CERT-in-a-box
 
- CERT-in-a-box
-
-NCSC-NL (National Cyber Security Centre of The Netherlands)
+### NCSC-NL (National Cyber Security Centre of The Netherlands)
 
 The project 'CERT-in-a-Box' and 'Alerting service-in-a-Box' is an initiative of GOVCERT.NL/NCSC to preserve the lessons learned from setting up GOVCERT.NL and 'De Waarschuwingsdienst', the Dutch national Alerting service.
 
@@ -669,27 +661,19 @@ The project aim is to help others starting a CSIRT or Alerting Service by:
     Taking the benefits and not making the same mistakes
 
  
-CSIRT Case Classification (Example for enterprise CSIRT) 
+### CSIRT Case Classification (Example for enterprise CSIRT) 
 
-Gavin Reid (Cisco Systems), Dustin Schieber, Ivo Peixinho (CAIS/RNP)
+* Gavin Reid (Cisco Systems), Dustin Schieber, Ivo Peixinho (CAIS/RNP)
 
 It is critical that the CSIRT provide consistent and timely response to the customer, and that sensitive information is handled properly. This document provides the guidelines needed for CSIRT Incident Managers (IM) to classify the case category, criticality level, and sensitivity level for each CSIRT case. This information will be entered into the Incident Tracking System (ITS) when a case is created. Consistent case classification is required for the CSIRT to provide accurate reporting to management on a regular basis. In addition, the classifications will provide CSIRT IM’s with proper case handling procedures and will form the basis of SLA’s between the CSIRT and other Company departments.
 
- 
-CSIRT Setting up Guide
+### CSIRT Setting up Guide
 
-European Network and Information Security Agency – Enisa
+* European Network and Information Security Agency – Enisa
 
 The document at hand describes the process of setting up a Computer Security and Incident Response Team (CSIRT) from all relevant perspectives like business management, process management and technical perspective. This document implements two of the deliverables described in ENISAs Working Programme 2006, chapter 5.1:
 
     This document: Written report on step-by-step approach on how to set up a CERT or similar facilities, including examples. (CERT-D1)
     Chapter 12 and external files: Excerpt of roadmap in itemised form allowing an easy application of the roadmap in practice. (CERT-D2)
 
- 
-
 Fonte: https://www.first.org/resources/guides
-
-
- 
- 
-
