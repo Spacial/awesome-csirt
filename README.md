@@ -114,6 +114,7 @@ CSIRT links and resources.
 * [Invoke-NeutralizeAV](https://github.com/curtbraz/Invoke-NeutralizeAV): Quick PoC I Wrote for Bypassing Next Gen AV Remotely for Pentesting.
 * [BinariesThatDoesOtherStuff](https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt)
 * [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner
+* [The ELF Virus Writing HOWTO](http://www.linuxsecurity.com/resource_files/documentation/virus-writing-HOWTO/_html/index.html)
 
 ### Trojans
 
@@ -181,7 +182,8 @@ CSIRT links and resources.
 * [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
 * [BlueWars](https://medium.com/blueops/bluewars-capture-the-flag-defensivo-que-aconteceu-na-h2hc-514c75e3f13c): Capture The Flag Defensivo que aconteceu na H2HC
 * [prowler](https://github.com/toniblyx/prowler): AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
-  
+* [nftables](https://www.funtoo.org/Package:Nftables): nftables is the successor to iptables. It replaces the existing iptables, ip6tables, arptables and ebtables framework. It uses the Linux kernel and a new userspace utility called nft. nftables provides a compatibility layer for the ip(6)tables and framework.
+
 ### Apache
 
 * [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
@@ -191,9 +193,10 @@ CSIRT links and resources.
 ## Credentials
 
 * Search if your credentials where leaked: [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
-* [pw-pwnage-cfworker](https://github.com/detroitenglish/pw-pwnage-cfworker): Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND check for matches against haveibeenpwned's 5.1+ billion breached accounts 
+* [pw-pwnage-cfworker](https://github.com/detroitenglish/pw-pwnage-cfworker): Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND check for matches against haveibeenpwned's 5.1+ billion breached accounts
 * [XSS Exploit code for retrieving passwords stored in a Password Vault](https://gist.github.com/shawarkhanethicalhacker/e40a7c3956fdd24b9fb63d03d94c3d34)
 * [login_duress](https://github.com/jcs/login_duress): A BSD authentication module for duress passwords
+* [XSStrike](https://github.com/s0md3v/XSStrike): Most advanced XSS detection suite.
 
 ## Secure Programming
 
@@ -221,7 +224,8 @@ CSIRT links and resources.
 * [Librando](https://www.ics.uci.edu/~perl/publication/librando/): transparent code randomization for just-in-time compilers
 * [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc)
 * [Practical case: Buffer Overflow 0x01](https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-buffer-overflow-0x01/)
-* [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides}(https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
+* [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
+* [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
 
 ### Fuzzing
 
@@ -257,6 +261,8 @@ CSIRT links and resources.
 * [A 2018 practical guide to hacking RFID/NFC](https://www.slideshare.net/SlawomirJasek/a-2018-practical-buide-to-hacking-rfidnfc)
 * [riscv-ida](https://github.com/lcq2/riscv-ida): RISC-V ISA processor module for IDAPro 7.x
 * [mac-age](https://github.com/hdm/mac-ages): MAC address age tracking
+* [OpenWRT em Mikrotik Routerboard 750](https://wiki.hackstore.com.br/OpenWRT_em_Mikrotik_Routerboard_750_(Linux_on_MIPS_AR7xxx/AR9xxx))
+* [Lexra](https://www.linux-mips.org/wiki/Lexra): Lexra did implement a 32-bit variant of the MIPS architecture.
 
 ## Pentesting
 
@@ -295,6 +301,7 @@ CSIRT links and resources.
 * [SharpSploitConsole](https://github.com/anthemtotheego/SharpSploitConsole): SharpSploit Console is just a quick proof of concept binary to help penetration testers or red teams with less C# experience play with some of the awesomeness that is SharpSploit. 
 * [proxycannon-ng](https://github.com/proxycannon/proxycannon-ng): A private botnet using multiple cloud environments for pentesters and red teamers. - Built by the community during a hackathon at the WWHF 2018 security conference
 * [PentestHardware](https://github.com/unprovable/PentestHardware): Kinda useful notes collated together publicly
+* [novahot](https://github.com/chrisallenlane/novahot):A webshell framework for penetration testers.
 
 ### Vulnerability
 
@@ -377,6 +384,7 @@ CSIRT links and resources.
 * [Invoke-LiveResponse](https://github.com/mgreen27/Powershell-IR)
 * [Linux Forensics](https://www.pentesteracademy.com/course?id=20)
 * [CDQR](https://github.com/orlikoski/CDQR): The Cold Disk Quick Response (CDQR) tool is a fast and easy to use forensic artifact parsing tool that works on disk images, mounted drives and extracted artifacts from Windows, Linux and MacOS devices
+* [remedi-infrastructure](https://github.com/NationalCrimeAgency/remedi-infrastructure): setup and deployment code for setting up a REMEDI machine translation cluster
 
 ## Threat Hunting
 
@@ -484,7 +492,8 @@ Some mimikatz stuff:
 * [reflectivepotato](https://github.com/realoriginal/reflectivepotato): MSFRottenPotato built as a Reflective DLL. Work in progress.
 * [randomrepo](https://github.com/SandboxEscaper/randomrepo): Repo for random stuff
 * [DanderSpritz Lab](https://github.com/francisck/DanderSpritz_lab): A fully functional [DanderSpritz](https://danderspritz.com/) lab in 2 commands.
-  
+* [Lateral movement using URL Protocol](https://medium.com/@mattharr0ey/lateral-movement-using-url-protocol-e6f7d2d6cf2e) [gist](https://gist.github.com/homjxi0e/2e47ffa59e314df04324937a13f8f320)
+
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
@@ -635,7 +644,8 @@ Some mimikatz stuff:
 * [Thieves and Geeks: Russian and Chinese Hacking Communities](https://www.recordedfuture.com/russian-chinese-hacking-communities/)
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [ephemera-miscellany](https://github.com/1337list/ephemera-miscellany): Ephemera and other documentation associated with the 1337list project.
-
+* [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+  
 ---
 
 ## Conferences and Slides
@@ -651,6 +661,7 @@ Some mimikatz stuff:
 * [The Art of De-obfuscation](https://speakerdeck.com/ntddk/the-art-of-de-obfuscation)
 * [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations
 * [SBSeg 2018](http://portaldeconteudo.sbc.org.br/index.php/sbseg): Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg)
+* [The Second Crypto War—What's Different Now](https://www.usenix.org/conference/usenixsecurity18/presentation/landau) (by Susan Landau, Bridge Professor of Cyber Security and Policy, Tufts University)
 
 ---
 
@@ -677,6 +688,7 @@ Some good places to visit:
 * [abusing github commit history for the lulz](https://github.com/gelstudios/gitfiti)
 * [resist_oped](https://github.com/mkearney/resist_oped/): 🕵🏽‍♀️ Identifying the author behind New York Time’s op-ed from inside the Trump White House.
 * [InfoSec BS Bingo](https://www.bullshitbingo.net/cards/custom/?title=InfoSec+BS+Bingo&exclamation=CYBERWAR+%21%21%21&free_square=&terms=Cyber%0D%0AChina%0D%0ABillion%0D%0AAPT%0D%0ANation+State%0D%0AGovernment%0D%0APCI%0D%0AWe+are+compliant%0D%0A%24Vendor+claimed%0D%0AAdvanced+Malware%0D%0ASCADA%0D%0AStuxnet+%0D%0ARussia%0D%0ABreach%0D%0AMillion+Records%0D%0ACyberwar%0D%0AInternet+of+Things%0D%0AMimikatz%0D%0AHacker%0D%0AVPN%0D%0ASQL+Injection%0D%0ACredentials%0D%0AEncrypted+passwords%0D%0ANo+financial+data%0D%0ASnowden)
+* [Attrition.org](http://attrition.org/security/rant/z/dc/results.txt): defacement rank.
 
 ---
 
@@ -684,7 +696,7 @@ Some good places to visit:
 
 ## 2018
 
-* [Organized by security consulting and research firm Independent Security Evaluators (ISE), IoT Village delivers advocacy for and expertise on security advancements in Internet of Things devices. ](https://www.iotvillage.org/#cfp)
+* [Organized by security consulting and research firm Independent Security Evaluators (ISE), IoT Village delivers advocacy for and expertise on security advancements in Internet of Things devices.](https://www.iotvillage.org/#cfp)
 
 ## Articles
 

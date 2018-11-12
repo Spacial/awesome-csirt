@@ -49,6 +49,8 @@
 * [violencia-nao-tem-partido](https://github.com/okfn-brasil/violencia-nao-tem-partido/): Hate crimes monitor for political motivated assaults in Brazil.
 * [Our Security Community - Microsoft Tech Community - 57519](https://techcommunity.microsoft.com/t5/Security-Privacy-Compliance/Our-Security-Community/td-p/57519)
 * Yale Professor Jason Stanley Identifies Three Essential Features of [Fascism](http://www.openculture.com/2018/10/yale-professor-jason-stanley-identifies-three-essential-features-of-fascism.html): Invoking a Mythic Past, Sowing Division & Attacking Truth.
+* [GLOBAL COMMISSION INTRODUCES SIX CRITICAL NORMS TOWARDS CYBER STABILITY](https://cyberstability.org/news/global-commission-introduces-six-critical-norms-towards-cyber-stability/)
+* 
 
 ### Online Voting
 
