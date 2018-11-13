@@ -50,6 +50,7 @@
 * Yale Professor Jason Stanley Identifies Three Essential Features of [Fascism](http://www.openculture.com/2018/10/yale-professor-jason-stanley-identifies-three-essential-features-of-fascism.html): Invoking a Mythic Past, Sowing Division & Attacking Truth.
 * [How social media is crippling democracy, and why we seem powerless to stop it](https://www.zdnet.com/article/how-weaponized-social-media-is-crippling-democracy-and-why-were-helpless-to-stop-it/)
 * [WHY THE LEFT-WING NEEDS A GUN CULTURE](https://diversityoftactics.org/2017/01/21/why-the-left-wing-needs-a-gun-culture/)  
+* [GLOBAL COMMISSION INTRODUCES SIX CRITICAL NORMS TOWARDS CYBER STABILITY](https://cyberstability.org/news/global-commission-introduces-six-critical-norms-towards-cyber-stability/)
 
 ### Online Voting
 
