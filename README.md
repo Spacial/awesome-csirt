@@ -356,7 +356,8 @@ CSIRT links and resources.
 
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire): "Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences ("narratives") to simulate realistic scenarios and generate corresponding network and filesystem artifacts.
-  
+* [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/) 
+
 ## DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
@@ -754,3 +755,4 @@ Some good places to visit:
 
 * [[1808.00659] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
 * [[1809.08325] The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem](https://arxiv.org/abs/1809.08325)
+* [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386)

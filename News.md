@@ -36,6 +36,7 @@
 * [Just because it's an ID doesn't mean anything... at all...](https://tools.ietf.org/html/draft-wkumari-not-a-draft-06)
 * [How to irregular cyber warfare](https://blog.erratasec.com/2018/10/how-to-irregular-cyber-warfare.html)
 * [New iPhone Passcode Bypass Found Hours After Apple Releases iOS 12.1](https://thehackernews.com/2018/10/iphone-ios-passcode-bypass.html)
+* [Fake fingerprints can imitate real ones in biometric systems – research](https://www.theguardian.com/technology/2018/nov/15/fake-fingerprints-can-imitate-real-fingerprints-in-biometric-systems-research)
 
 ## Politics
 
