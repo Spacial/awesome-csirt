@@ -702,7 +702,18 @@ Some mimikatz stuff:
 * [Fun with LDAP and Kerberos* in AD environments](https://speakerd.s3.amazonaws.com/presentations/1ddba788017347ff8cfdb3336204fd17/FunWithLDAPandKerberos_Flathers_Thotcon2018_05052018.pdf)
 * [Analysis and recommendations for standardization in penetration testing and vulnerability assessment](http://eprints.lancs.ac.uk/74275/1/Penetration_testing_online_2.pdf)
 * [The Second Crypto War—What's Different Now](https://www.usenix.org/conference/usenixsecurity18/presentation/landau) (by Susan Landau, Bridge Professor of Cyber Security and Policy, Tufts University)
-
+* Objective by the Sea (2018):
+  * [APFS Internals](https://objectivebythesea.com/talks/OBTS_v1_Levin.pdf) - Jonathan Levin
+  * [Protecting the Garden of Eden](https://objectivebythesea.com/talks/OBTS_v1_Wardle.pdf) - Patrick Wardle
+  * [Code signing flaw in macOS](https://objectivebythesea.com/talks/OBTS_v1_Reed.pdf) - Thomas Reed
+  * [From Apple Seeds to Apple Pie](https://objectivebythesea.com/talks/OBTS_v1_Edwards.pdf) - Sarah Edwards
+  * [When Macs Come Under ATT&CK](https://objectivebythesea.com/talks/OBTS_v1_Cyrus.pdf) - Richie Cyrus
+  * [Crashing to Root](https://objectivebythesea.com/talks/OBTS_v1_Azad.pdf) - Bradon Azad
+  * [Leveraging Apple's Game Engine for Advanced Threat Detection](https://objectivebythesea.com/talks/OBTS_v1_Malm_Stein.pdf) - Josh Stein / Jon Malm
+  * [MacDoored](https://objectivebythesea.com/talks/OBTS_v1_Bradley.pdf) - Jaron Bradley
+  * [Who Moved my Pixels?](https://objectivebythesea.com/talks/OBTS_v1_Sosonkin.pdf) - Mikahail Sosonkin
+  * [Aliens Among Us](https://objectivebythesea.com/talks/OBTS_v1_Lynn.pdf) - Michael Lynn
+  
 ---
 
 ## Sources
