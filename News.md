@@ -37,6 +37,7 @@
 * [How to irregular cyber warfare](https://blog.erratasec.com/2018/10/how-to-irregular-cyber-warfare.html)
 * [New iPhone Passcode Bypass Found Hours After Apple Releases iOS 12.1](https://thehackernews.com/2018/10/iphone-ios-passcode-bypass.html)
 * [Fake fingerprints can imitate real ones in biometric systems – research](https://www.theguardian.com/technology/2018/nov/15/fake-fingerprints-can-imitate-real-fingerprints-in-biometric-systems-research)
+* [Internet Vulnerability Takes Down Google](https://blog.thousandeyes.com/internet-vulnerability-takes-down-google/)
 
 ## Politics
 
@@ -53,6 +54,7 @@
 * [WHY THE LEFT-WING NEEDS A GUN CULTURE](https://diversityoftactics.org/2017/01/21/why-the-left-wing-needs-a-gun-culture/)  
 * [GLOBAL COMMISSION INTRODUCES SIX CRITICAL NORMS TOWARDS CYBER STABILITY](https://cyberstability.org/news/global-commission-introduces-six-critical-norms-towards-cyber-stability/)
 * [IGF 2018 WS #366 Proliferation, Cyber Stability and State Responsibility](https://www.intgovforum.org/multilingual/content/igf-2018-ws-366-proliferation-cyber-stability-and-state-responsibility)
+* [Spies Without Borders](https://www.bellingcat.com/news/uk-and-europe/2018/11/16/spies-without-borders-fsb-infiltrated-international-visa-system/): How the FSB Infiltrated the International Visa System
 
 ### Online Voting
 

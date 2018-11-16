@@ -149,6 +149,7 @@ CSIRT links and resources.
 * [DEBIN](https://debin.ai/): Predicting Debug Information in Stripped Binaries
 * [Analyzing ARM Cortex-based MCU firmwares using Binary Ninja](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
 * [lighthouse](https://github.com/gaasedelen/lighthouse): Code Coverage Explorer for IDA Pro & Binary Ninja
+* [Beam me up, CFG.](https://86hh.github.io/cfg.html): Earlier in 2018 while revisiting the Delay Import Table, I used dumpbin to check the Load Configuration data of a file and noticed new fields in it. And at the time of writing this, more fields were added! The first CFGuard caught my attention and I learned about Control Flow Guard, it is a new security feature. To put it simple, it protects the execution flow from redirection - for example, from exploits that overwrite an address in the stack. Maybe they should call it the Security Directory instead.
 
 ## Frameworks
 
@@ -211,7 +212,7 @@ CSIRT links and resources.
 * [Canary](https://github.com/psecio/canary):Input Detection and Response
 * [Wycheproof](https://github.com/google/wycheproof): Project Wycheproof tests crypto libraries against known attacks.
 * [Web App Security 101](https://kruschecompany.com/blog/post/web-app-security): Keep Calm and Do Threat Modeling
-* SSL/TLS for dummies: 
+* SSL/TLS for dummies:
   * [part 1](https://www.wst.space/ssl-part1-ciphersuite-hashing-encryption/): Ciphersuite, Hashing, Encryption;
   * [part 2](https://www.wst.space/ssl-part-2-diffie-hellman-key-exchange/): Understanding key exchange algorithm;
   * [part 3](https://www.wst.space/ssl-part-3-certificate-authority/): Understanding Certificate Authority.
@@ -221,7 +222,7 @@ CSIRT links and resources.
 * [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard): The C rules and recommendations in this wiki are a work in progress and reflect the current thinking of the secure coding community. Because this is a development website, many pages are incomplete or contain errors. As rules and recommendations mature, they are published in report or book form as official releases. These releases are issued as dictated by the needs and interests of the secure software development community.
   * [MSC24-C. Do not use deprecated or obsolescent functions](https://wiki.sei.cmu.edu/confluence/display/c/MSC24-C.+Do+not+use+deprecated+or+obsolescent+functions)
   * [US-CERT: memcpy_s() and memmove_s()](https://www.us-cert.gov/bsi/articles/knowledge/coding-practices/memcpy_s%28%29-and-memmove_s%28%29)
-* [Safe C Library](https://github.com/coruus/safeclib): The Safe C Library provides bound checking memory and string functions per ISO/IEC TR24731. These functions are alternative functions to the existing standard C library that promote safer, more secure programming. 
+* [Safe C Library](https://github.com/coruus/safeclib): The Safe C Library provides bound checking memory and string functions per ISO/IEC TR24731. These functions are alternative functions to the existing standard C library that promote safer, more secure programming.
 * [Field Experience With Annex K — Bounds Checking Interfaces](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1967.htm)
 * [TSLint](https://github.com/palantir/tslint): An extensible linter for the TypeScript language.
 * [rubocop](https://github.com/rubocop-hq/rubocop): A Ruby static code analyzer and formatter, based on the community Ruby style guide.
@@ -229,7 +230,7 @@ CSIRT links and resources.
 * [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc)
 * [Practical case: Buffer Overflow 0x01](https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-buffer-overflow-0x01/)
 * [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
-* [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit. 
+* [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
 * [BFuzz](https://github.com/RootUp/BFuzz): Fuzzing Browsers
 * [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
 * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
@@ -292,26 +293,28 @@ CSIRT links and resources.
 * [tcp connection hijacker](https://github.com/kpcyrd/rshijack)
 * ["EAST" PENTEST FRAMEWORK](http://eastfw.com/)
 * [Pown.js](https://github.com/pownjs/pown): is the security testing an exploitation framework built on top of Node.js and NPM.
-* [Sandmap](https://github.com/trimstray/sandmap) is a tool supporting network and system reconnaissance using the massive Nmap engine. 
+* [Sandmap](https://github.com/trimstray/sandmap) is a tool supporting network and system reconnaissance using the massive Nmap engine.
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker): Like nmap for mapping wifi networks you're not connected to, plus device tracking
 * [TIDoS-Framework](https://github.com/theInfectedDrake/TIDoS-Framework): The offensive web application penetration testing framework.
 * [massh-enum](https://github.com/trimstray/massh-enum): OpenSSH 7.x Mass Username Enumeration.
 * [GitMiner](https://github.com/UnkL4b/GitMiner): Tool for advanced mining for content on Github
-* [DHCPwn](https://github.com/mschwager/dhcpwn): All your IPs are belong to us. 
-* [badKarma](https://github.com/r3vn/badKarma): advanced network reconnaissance toolkit 
+* [DHCPwn](https://github.com/mschwager/dhcpwn): All your IPs are belong to us.
+* [badKarma](https://github.com/r3vn/badKarma): advanced network reconnaissance toolkit.
 * [Danger-zone](https://github.com/woj-ciech/Danger-zone): Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files.
 * [OSINT tool for visualizing relationships between domains, IPs and email addresses.](https://hackernoon.com/osint-tool-for-visualizing-relationships-between-domains-ips-and-email-addresses-94377aa1f20a)
 * [go-tomcat-mgmt-scanner](https://github.com/edermi/go-tomcat-mgmt-scanner): A simple scanner to find and brute force tomcat manager logins
 * [IoTSecurity101](https://github.com/V33RU/IoTSecurity101): From IoT Pentesting to IoT Security
 * [subscraper](https://github.com/m8r0wn/subscraper): External pentest tool that performs subdomain enumeration through various techniques. In addition, SubScraper will provide information such as HTTP & DNS lookups to aid in potential next steps.
 * [red_team_telemetry](https://github.com/ztgrace/red_team_telemetry)
-* [SharpSploitConsole](https://github.com/anthemtotheego/SharpSploitConsole): SharpSploit Console is just a quick proof of concept binary to help penetration testers or red teams with less C# experience play with some of the awesomeness that is SharpSploit. 
+* [SharpSploitConsole](https://github.com/anthemtotheego/SharpSploitConsole): SharpSploit Console is just a quick proof of concept binary to help penetration testers or red teams with less C# experience play with some of the awesomeness that is SharpSploit.
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec): A swiss army knife for pentesting networks
 * [Sublist3r](https://github.com/aboul3la/Sublist3r): Fast subdomains enumeration tool for penetration testers
 * [DarkSpiritz](https://github.com/DarkSpiritz/DarkSpiritz): A penetration testing framework for Linux, MacOS, and Windows systems.
 * [proxycannon-ng](https://github.com/proxycannon/proxycannon-ng): A private botnet using multiple cloud environments for pentesters and red teamers. - Built by the community during a hackathon at the WWHF 2018 security conference
 * [PentestHardware](https://github.com/unprovable/PentestHardware): Kinda useful notes collated together publicly
 * [novahot](https://github.com/chrisallenlane/novahot):A webshell framework for penetration testers.
+* [Serverless Toolkit for Pentesters](https://blog.ropnop.com/serverless-toolkit-for-pentesters/)
+* [pentest_scripts](https://github.com/highmeh/pentest_scripts): scrapes linkedin and generates emails list.
 
 ### Vulnerability
 
@@ -356,14 +359,14 @@ CSIRT links and resources.
 
 * [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire): "Security Incidents In A Box!" A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences ("narratives") to simulate realistic scenarios and generate corresponding network and filesystem artifacts.
-* [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/) 
+* [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
 
 ## DNS
 
 * [dnstwist](https://github.com/elceef/dnstwist)
 * [Plight At The End Of The Tunnel](https://www.endgame.com/blog/technical-blog/plight-end-tunnel)
 * [dref](https://github.com/mwrlabs/dref): DNS Rebinding Exploitation Framework
-* [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks. 
+* [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks.
 
 ## Exfiltration
 
@@ -375,9 +378,9 @@ CSIRT links and resources.
 * [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
 * [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound): Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) based ingestor for BloodHound
-* [tinfoleak](http://www.vicenteaguileradiaz.com/tools/) ([github]https://github.com/vaguileradiaz/tinfoleak)):The most complete open-source tool for Twitter intelligence analysis  
-* [Social IDs](https://github.com/guillermo-carrasco/social_ids): Get user ids from social network handlers 
-* [SpookFlare](https://github.com/hlldz/SpookFlare): Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures. 
+* [tinfoleak](https://www.vicenteaguileradiaz.com/tools/) ([github]https://github.com/vaguileradiaz/tinfoleak)):The most complete open-source tool for Twitter intelligence analysis  
+* [Social IDs](https://github.com/guillermo-carrasco/social_ids): Get user ids from social network handlers
+* [SpookFlare](https://github.com/hlldz/SpookFlare): Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures.
 * [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 * [iKy](https://gitlab.com/kennbroorg/iKy): I Know You (OSINT project)
 * [Extracting data from an EMV (Chip-And-Pin) Card with NFC technology](https://insinuator.net/2018/02/extracting-data-from-an-emv-chip-and-pin-card-with-nfc-technology/)
@@ -385,7 +388,7 @@ CSIRT links and resources.
 * [BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 * [Social Mapper](https://www.kitploit.com/2018/08/social-mapper-social-media-enumeration.html) - A Social Media Enumeration & Correlation Tool. [github repo](https://github.com/SpiderLabs/social_mapper)
 * [How to get authentication key from SNMPv3 packets](https://www.florianchemin.com/blog/how-to-get-authentication-key-from-snmpv3-packets/)
-* [AtomicTestsCommandLines.txt](https://gist.github.com/caseysmithrc/d48e43770ab4ee161b1a806da8ccf390): Atomic Tests - All Command Lines - Replace Input Arguments #{input_argument} - More Soon 
+* [AtomicTestsCommandLines.txt](https://gist.github.com/caseysmithrc/d48e43770ab4ee161b1a806da8ccf390): Atomic Tests - All Command Lines - Replace Input Arguments #{input_argument} - More Soon
 * [whois | GTFOBins](https://gtfobins.github.io/gtfobins/whois/): hangs waiting for the remote peer to close the socket. [github](https://github.com/GTFOBins/GTFOBins.github.io)
 * [Browsers affected by the History API DoS](https://docs.google.com/spreadsheets/d/1TqMgokKqAT8WxNed0iV0X0mXvJ28Eqd9xBJcQ7uYaCY/htmlview)
 * [PacketWhisper](https://www.kitploit.com/2018/09/packetwhisper-stealthily-exfiltrate.html): Stealthily Exfiltrate Data And Defeat Attribution Using DNS Queries And Text-Based Steganography
@@ -427,16 +430,16 @@ CSIRT links and resources.
 ## Operating Systems
 
 * [Breaking the Bluetooth Pairing: Fixed Coordinate Invalid Curve Attack](https://www.cs.technion.ac.il/~biham/BT/)
-* [bochspwn-reloaded](https://github.com/google/bochspwn-reloaded): A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3 
+* [bochspwn-reloaded](https://github.com/google/bochspwn-reloaded): A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3
 * [drltrace](https://github.com/mxmssh/drltrace): Drltrace is a library calls tracer for Windows and Linux applications.
-* [shellz](https://github.com/evilsocket/shellz): is a small utility to track and control your ssh, telnet, web and custom shells. 
+* [shellz](https://github.com/evilsocket/shellz): is a small utility to track and control your ssh, telnet, web and custom shells.
 * [CLIP OS](https://www.ssi.gouv.fr/en/actualite/clip-os-open-source-secured-operating-system/): Open Source secured operating system by Agence nationale de la sécurité des systèmes d'information
 * [How to Get Started With VMware vSphere Security « vMiss.net](https://vmiss.net/2018/09/19/how-to-get-started-with-vmware-vsphere-security/)
 * [routeros](https://github.com/tenable/routeros): RouterOS Bug Hunt Materials Presented at Derbycon 2018
 
 ### UEFI
 
-* [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck): A JIT compiler for Brainfuck running on x86_64 UEFI 
+* [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck): A JIT compiler for Brainfuck running on x86_64 UEFI
 
 ### Windows
 
@@ -446,7 +449,7 @@ Some mimikatz stuff:
 
 * [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
 * [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
-* [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python 
+* [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python
 
 #### Win General
 
@@ -461,7 +464,7 @@ Some mimikatz stuff:
 * [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
 * [ADImporter](https://github.com/curi0usJack/ADImporter)
 * [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
-* [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS 
+* [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS
 * [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
 * [Unicorn](https://github.com/trustedsec/unicorn) is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory.
 * [Remote-Desktop-Caching](https://github.com/Viralmaniar/Remote-Desktop-Caching-/blob/master/README.md)
@@ -493,10 +496,10 @@ Some mimikatz stuff:
 * [UAC bypass using CreateNewLink COM interface](https://gist.github.com/hfiref0x/e58711820276fe8b1b36dd51faae59cf)
 * [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
 * [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire)
-* [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable. 
-* [relayer](https://github.com/Jsitech/relayer): SMB Relay Attack Script 
+* [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable.
+* [relayer](https://github.com/Jsitech/relayer): SMB Relay Attack Script
 * [Ps1jacker](https://github.com/darkw1z/Ps1jacker): Ps1jacker is a tool for generating COM Hijacking payload.
-* [python-dotnet-binaryformat](https://github.com/williballenthin/python-dotnet-binaryformat): Pure Python parser for data encoded by .NET's BinaryFormatter 
+* [python-dotnet-binaryformat](https://github.com/williballenthin/python-dotnet-binaryformat): Pure Python parser for data encoded by .NET's BinaryFormatter
 * [WinPwnage](https://github.com/rootm0s/WinPwnage): Elevate, UAC bypass, privilege escalation, dll hijack techniques
 * [Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage): Embeds a PowerShell script in the pixels of a PNG file and generates a oneliner to execute
 * [Firework](https://github.com/SpiderLabs/Firework/): Firework is a proof of concept tool to interact with Microsoft Workplaces creating valid files required for the provisioning process.
@@ -523,6 +526,7 @@ Some mimikatz stuff:
 * [InveighZero](https://github.com/Kevin-Robertson/InveighZero): C# LLMNR/NBNS spoofer
 * [DanderSpritz Lab](https://github.com/francisck/DanderSpritz_lab): A fully functional [DanderSpritz](https://danderspritz.com/) lab in 2 commands.
 * [Lateral movement using URL Protocol](https://medium.com/@mattharr0ey/lateral-movement-using-url-protocol-e6f7d2d6cf2e) [gist](https://gist.github.com/homjxi0e/2e47ffa59e314df04324937a13f8f320)
+* [HiddenPowerShell](https://github.com/b4rtik/HiddenPowerShellDll): This project was created to explore the various evasion techniques involving PowerShell: Amsi, ScriptBlockLogging, Constrained Language Mode and AppLocker.
 
 ### macOS/iOS
 
@@ -530,7 +534,7 @@ Some mimikatz stuff:
 * [Having fun with macOS 1days](https://github.com/theori-io/zer0con2018_singi)  
 * [x18-leak](https://github.com/bazad/x18-leak): iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.
 * [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
-* [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7 
+* [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7
 * [SDQAnalyzer](https://github.com/nezza/SDQAnalyzer): a Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 * [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 * [jelbrekTime](https://github.com/tihmstar/jelbrekTime): An developer jailbreak for Apple watch S3 watchOS 4.1
