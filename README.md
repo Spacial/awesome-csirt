@@ -84,6 +84,7 @@ CSIRT links and resources.
 * [PHP Malware Examination](https://blog.manchestergreyhats.co.uk/2018/11/07/php-malware-examination/)
 * [Analysis of Linux.Haikai](https://www.securityartwork.es/2018/11/08/analysis-of-linux-haikai-inside-the-source-code/): inside the source code
 * [Cylance vs. MBRKiller Wiper Malware](https://threatvector.cylance.com/en_us/home/cylance-vs-mbrkiller-wiper-malware.html).
+* [Deep Analysis of TrickBot New Module pwgrab](https://www.fortinet.com/blog/threat-research/deep-analysis-of-trickbot-new-module-pwgrab.html)
 
 ### Samples
 
@@ -149,6 +150,7 @@ CSIRT links and resources.
 * [DEBIN](https://debin.ai/): Predicting Debug Information in Stripped Binaries
 * [Analyzing ARM Cortex-based MCU firmwares using Binary Ninja](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
 * [lighthouse](https://github.com/gaasedelen/lighthouse): Code Coverage Explorer for IDA Pro & Binary Ninja
+* [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
 
 ## Frameworks
 
@@ -270,6 +272,7 @@ CSIRT links and resources.
 * [mac-age](https://github.com/hdm/mac-ages): MAC address age tracking
 * [OpenWRT em Mikrotik Routerboard 750](https://wiki.hackstore.com.br/OpenWRT_em_Mikrotik_Routerboard_750_(Linux_on_MIPS_AR7xxx/AR9xxx))
 * [Lexra](https://www.linux-mips.org/wiki/Lexra): Lexra did implement a 32-bit variant of the MIPS architecture.
+* [IntelTEX-PoC](https://github.com/ptresearch/IntelTXE-PoC): Intel Management Engine JTAG Proof of Concept
 
 ## Pentesting
 
@@ -312,6 +315,7 @@ CSIRT links and resources.
 * [proxycannon-ng](https://github.com/proxycannon/proxycannon-ng): A private botnet using multiple cloud environments for pentesters and red teamers. - Built by the community during a hackathon at the WWHF 2018 security conference
 * [PentestHardware](https://github.com/unprovable/PentestHardware): Kinda useful notes collated together publicly
 * [novahot](https://github.com/chrisallenlane/novahot):A webshell framework for penetration testers.
+* [MarkBaggett’s gists](https://gist.github.com/MarkBaggett): This is a collection of code snippets used in my Pen Test Hackfest 2018 Presentation.
 
 ### Vulnerability
 
@@ -328,7 +332,8 @@ CSIRT links and resources.
 * [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
 * [Web Application Penetration Testing Course URLs](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
 * [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
-  
+* [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions): A curated list of amazingly awesome Burp Extensions
+
 ### Exploits
 
 * [IOSurface exploit](https://github.com/Siguza/v0rtex)
@@ -351,6 +356,7 @@ CSIRT links and resources.
 * [LinEnum](https://github.com/rebootuser/LinEnum): Scripted Local Linux Enumeration & Privilege Escalation Checks
 * [linpostexp](https://github.com/reider-roque/linpostexp): Linux post exploitation enumeration and exploit checking tools
 * [Attacking Google Authenticator](https://www.unix-ninja.com/p/attacking_google_authenticator)
+* [Pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. [installation guide](https://github.com/RhinoSecurityLabs/pacu/wiki/Installation), [starting guide](https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html)
 
 ### Red Team
 
@@ -390,6 +396,8 @@ CSIRT links and resources.
 * [Browsers affected by the History API DoS](https://docs.google.com/spreadsheets/d/1TqMgokKqAT8WxNed0iV0X0mXvJ28Eqd9xBJcQ7uYaCY/htmlview)
 * [PacketWhisper](https://www.kitploit.com/2018/09/packetwhisper-stealthily-exfiltrate.html): Stealthily Exfiltrate Data And Defeat Attribution Using DNS Queries And Text-Based Steganography
 * [Using Google Analytics for data extraction](https://labs.detectify.com/2018/01/19/google-analytics-data-extraction/)
+* [Exfiltrating credentials via PAM backdoors & DNS requests](https://x-c3ll.github.io/posts/PAM-backdoor-DNS/)
+* [Building simple DNS endpoints for exfiltration or C&C](https://x-c3ll.github.io/posts/DNS-endpoint-exfiltration/)
 
 ## Forensics
 
@@ -411,6 +419,7 @@ CSIRT links and resources.
 * [Wireshark For Network Threat Hunting: Creating Filters - Active Countermeasures](https://www.activecountermeasures.com/blog-wireshark-for-network-threat-hunting-creating-filters/)
 * Talos Blog || Cisco Talos Intelligence Group - [Comprehensive Threat Intelligence](https://blog.talosintelligence.com/2018/09/adwind-dodgesav-dde.html): Adwind Dodges AV via DDE
 * [strelka](https://github.com/target/strelka): Scanning files at scale with Python and ZeroMQ
+* [Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting): Personal compilation of APT malware from whitepaper releases, documents and own research
 
 ### SIEM
 
@@ -523,6 +532,7 @@ Some mimikatz stuff:
 * [InveighZero](https://github.com/Kevin-Robertson/InveighZero): C# LLMNR/NBNS spoofer
 * [DanderSpritz Lab](https://github.com/francisck/DanderSpritz_lab): A fully functional [DanderSpritz](https://danderspritz.com/) lab in 2 commands.
 * [Lateral movement using URL Protocol](https://medium.com/@mattharr0ey/lateral-movement-using-url-protocol-e6f7d2d6cf2e) [gist](https://gist.github.com/homjxi0e/2e47ffa59e314df04324937a13f8f320)
+* [Escalating privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
 
 ### macOS/iOS
 
