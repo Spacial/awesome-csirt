@@ -39,6 +39,7 @@
 * [Fake fingerprints can imitate real ones in biometric systems – research](https://www.theguardian.com/technology/2018/nov/15/fake-fingerprints-can-imitate-real-fingerprints-in-biometric-systems-research)
 * [The seven deadly paradoxes of cryptocurrency | Bank Underground](https://bankunderground.co.uk/2018/11/13/the-seven-deadly-paradoxes-of-cryptocurrency/)
 * [Private by Design: How we built Firefox Sync - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/11/firefox-sync-privacy/)
+* [Internet Vulnerability Takes Down Google](https://blog.thousandeyes.com/internet-vulnerability-takes-down-google/)
 
 ## Politics
 
@@ -57,6 +58,7 @@
 * [IGF 2018 WS #366 Proliferation, Cyber Stability and State Responsibility](https://www.intgovforum.org/multilingual/content/igf-2018-ws-366-proliferation-cyber-stability-and-state-responsibility)
 * [Web Browsing Data Offer Better Election Predictions | Research](http://www.bu.edu/research/articles/better-election-predictions/)
 * [An Archive of 800+ Propaganda Maps Designed to Shape Opinions & Beliefs: Enter Cornell’s Persuasive Maps Collection](http://www.openculture.com/2018/11/cornells-persuasive-maps-collection.html)
+* [Spies Without Borders](https://www.bellingcat.com/news/uk-and-europe/2018/11/16/spies-without-borders-fsb-infiltrated-international-visa-system/): How the FSB Infiltrated the International Visa System
 
 ### Online Voting
 
