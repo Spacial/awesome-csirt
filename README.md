@@ -31,6 +31,7 @@ CSIRT links and resources.
 * [SPLOITUS](https://sploitus.com/): Exploit search engine.
 * [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
 * [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
+* [Wizard-Labs](https://labs.wizard-security.net) is an online Penetration Testing Lab, we aim to help IT professionals, penetration testers and enthusiasts to practice their skills.
 
 ## CVEs
 
@@ -546,6 +547,7 @@ Some mimikatz stuff:
 * [HiddenPowerShell](https://github.com/b4rtik/HiddenPowerShellDll): This project was created to explore the various evasion techniques involving PowerShell: Amsi, ScriptBlockLogging, Constrained Language Mode and AppLocker.
 * [One Windows Kernel](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/One-Windows-Kernel/ba-p/267142).
 * [The Dog Whisperer’s Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/): This PDF is a collection of bits and pieces that were scattered across the web and that I collected in the last two years while writing the CypherDog PowerShell module.
+* [Hardentools](https://github.com/securitywithoutborders/hardentools) is a utility that disables a number of risky Windows features.
 
 ### macOS/iOS
 
@@ -599,6 +601,7 @@ Some mimikatz stuff:
 * [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * (PT-BR) [Análise de binários em Linux](https://wiki.hackstore.com.br/An%C3%A1lise_de_bin%C3%A1rios_em_Linux)
 * [GMER](http://www.gmer.net/): Rootkit Detector and Remover
+* [Vulnerability Reproduction DataSet](https://vulnreproduction.github.io)
 
 ## Risk Assessment
 
@@ -756,6 +759,7 @@ Some good places to visit:
   * [gabrielmachado](https://github.com/gabrielmachado/)
 * [Damn Vulnerable Web Application Docker container](https://hub.docker.com/r/vulnerables/web-dvwa/)
 * Nelson Brito's [Source](https://github.com/nbrito/source): This repository is a collection of information, code and/or tool, which I've released and/or presented in some of the most notorious conferences, helping the audience to study and understand some cybersecurity related topics.
+* [This repo records all the vulnerabilities of linux software I have reproduced in my local workspace](https://github.com/VulnReproduction/LinuxFlaw)
 
 ---
 
@@ -767,7 +771,7 @@ Some good places to visit:
 * [InfoSec BS Bingo](https://www.bullshitbingo.net/cards/custom/?title=InfoSec+BS+Bingo&exclamation=CYBERWAR+%21%21%21&free_square=&terms=Cyber%0D%0AChina%0D%0ABillion%0D%0AAPT%0D%0ANation+State%0D%0AGovernment%0D%0APCI%0D%0AWe+are+compliant%0D%0A%24Vendor+claimed%0D%0AAdvanced+Malware%0D%0ASCADA%0D%0AStuxnet+%0D%0ARussia%0D%0ABreach%0D%0AMillion+Records%0D%0ACyberwar%0D%0AInternet+of+Things%0D%0AMimikatz%0D%0AHacker%0D%0AVPN%0D%0ASQL+Injection%0D%0ACredentials%0D%0AEncrypted+passwords%0D%0ANo+financial+data%0D%0ASnowden)
 * [How to fit all of Shakespeare in one tweet (and why not to do it!)](https://nakedsecurity.sophos.com/2018/11/12/how-to-fit-all-of-shakespeare-in-one-tweet-and-why-not-to-do-it/)
 * [Attrition.org](http://attrition.org/security/rant/z/dc/results.txt): defacement rank.
-
+* [PWNAdventure](https://sourcery.pwnadventure.com): the hacker's game ;)
 ---
 
 ## CFPs
