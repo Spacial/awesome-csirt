@@ -31,7 +31,6 @@ CSIRT links and resources.
 * [SPLOITUS](https://sploitus.com/): Exploit search engine.
 * [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
 * [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
-* [Wizard-Labs](https://labs.wizard-security.net) is an online Penetration Testing Lab, we aim to help IT professionals, penetration testers and enthusiasts to practice their skills.
 
 ## CVEs
 
@@ -192,6 +191,7 @@ CSIRT links and resources.
 * [Iptables Essentials](https://github.com/trimstray/iptables-essentials): Common Firewall Rules and Commands.
 * [prowler](https://github.com/toniblyx/prowler): AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
 * [nftables](https://www.funtoo.org/Package:Nftables): nftables is the successor to iptables. It replaces the existing iptables, ip6tables, arptables and ebtables framework. It uses the Linux kernel and a new userspace utility called nft. nftables provides a compatibility layer for the ip(6)tables and framework.
+* [CCAT](https://github.com/cisco-config-analysis-tool/ccat): Cisco Config Analysis Tool
 
 ### Apache
 
@@ -338,6 +338,7 @@ CSIRT links and resources.
 * [Web Application Penetration Testing Course URLs](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
 * [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
 * [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions): A curated list of amazingly awesome Burp Extensions
+* [Femida-xss](https://github.com/wish-i-was/femida): Automated blind-xss search for Burp Suite
 
 ### Exploits
 
@@ -547,7 +548,6 @@ Some mimikatz stuff:
 * [HiddenPowerShell](https://github.com/b4rtik/HiddenPowerShellDll): This project was created to explore the various evasion techniques involving PowerShell: Amsi, ScriptBlockLogging, Constrained Language Mode and AppLocker.
 * [One Windows Kernel](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/One-Windows-Kernel/ba-p/267142).
 * [The Dog Whisperer’s Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/): This PDF is a collection of bits and pieces that were scattered across the web and that I collected in the last two years while writing the CypherDog PowerShell module.
-* [Hardentools](https://github.com/securitywithoutborders/hardentools) is a utility that disables a number of risky Windows features.
 
 ### macOS/iOS
 
@@ -601,7 +601,6 @@ Some mimikatz stuff:
 * [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * (PT-BR) [Análise de binários em Linux](https://wiki.hackstore.com.br/An%C3%A1lise_de_bin%C3%A1rios_em_Linux)
 * [GMER](http://www.gmer.net/): Rootkit Detector and Remover
-* [Vulnerability Reproduction DataSet](https://vulnreproduction.github.io)
 
 ## Risk Assessment
 
@@ -711,7 +710,8 @@ Some mimikatz stuff:
 * [Thieves and Geeks: Russian and Chinese Hacking Communities](https://www.recordedfuture.com/russian-chinese-hacking-communities/)
 * [ephemera-miscellany](https://github.com/1337list/ephemera-miscellany): Ephemera and other documentation associated with the 1337list project.
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
-  
+* [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
+
 ---
 
 ## Conferences and Slides
@@ -759,7 +759,6 @@ Some good places to visit:
   * [gabrielmachado](https://github.com/gabrielmachado/)
 * [Damn Vulnerable Web Application Docker container](https://hub.docker.com/r/vulnerables/web-dvwa/)
 * Nelson Brito's [Source](https://github.com/nbrito/source): This repository is a collection of information, code and/or tool, which I've released and/or presented in some of the most notorious conferences, helping the audience to study and understand some cybersecurity related topics.
-* [This repo records all the vulnerabilities of linux software I have reproduced in my local workspace](https://github.com/VulnReproduction/LinuxFlaw)
 
 ---
 
@@ -771,7 +770,9 @@ Some good places to visit:
 * [InfoSec BS Bingo](https://www.bullshitbingo.net/cards/custom/?title=InfoSec+BS+Bingo&exclamation=CYBERWAR+%21%21%21&free_square=&terms=Cyber%0D%0AChina%0D%0ABillion%0D%0AAPT%0D%0ANation+State%0D%0AGovernment%0D%0APCI%0D%0AWe+are+compliant%0D%0A%24Vendor+claimed%0D%0AAdvanced+Malware%0D%0ASCADA%0D%0AStuxnet+%0D%0ARussia%0D%0ABreach%0D%0AMillion+Records%0D%0ACyberwar%0D%0AInternet+of+Things%0D%0AMimikatz%0D%0AHacker%0D%0AVPN%0D%0ASQL+Injection%0D%0ACredentials%0D%0AEncrypted+passwords%0D%0ANo+financial+data%0D%0ASnowden)
 * [How to fit all of Shakespeare in one tweet (and why not to do it!)](https://nakedsecurity.sophos.com/2018/11/12/how-to-fit-all-of-shakespeare-in-one-tweet-and-why-not-to-do-it/)
 * [Attrition.org](http://attrition.org/security/rant/z/dc/results.txt): defacement rank.
-* [PWNAdventure](https://sourcery.pwnadventure.com): the hacker's game ;)
+* [rot8000](http://rot8000.com/Index): rot13 for the Unicode generation ([github](https://github.com/rottytooth/rot8000))
+* [Reverse Engineering Pokémon GO Plus](https://tinyhack.com/2018/11/21/reverse-engineering-pokemon-go-plus/): TL;DR; You can clone a Pokemon GO Plus device that you own. [pgpemu](https://github.com/yohanes/pgpemu): github repo.
+
 ---
 
 ## CFPs
