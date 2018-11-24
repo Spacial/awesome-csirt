@@ -153,6 +153,7 @@ CSIRT links and resources.
 * [lighthouse](https://github.com/gaasedelen/lighthouse): Code Coverage Explorer for IDA Pro & Binary Ninja
 * [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
 * [Beam me up, CFG.](https://86hh.github.io/cfg.html): Earlier in 2018 while revisiting the Delay Import Table, I used dumpbin to check the Load Configuration data of a file and noticed new fields in it. And at the time of writing this, more fields were added! The first CFGuard caught my attention and I learned about Control Flow Guard, it is a new security feature. To put it simple, it protects the execution flow from redirection - for example, from exploits that overwrite an address in the stack. Maybe they should call it the Security Directory instead.
+* Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)
 
 ## Frameworks
 
@@ -321,6 +322,7 @@ CSIRT links and resources.
 * [MarkBaggett’s gists](https://gist.github.com/MarkBaggett): This is a collection of code snippets used in my Pen Test Hackfest 2018 Presentation.
 * [Serverless Toolkit for Pentesters](https://blog.ropnop.com/serverless-toolkit-for-pentesters/)
 * [pentest_scripts](https://github.com/highmeh/pentest_scripts): scrapes linkedin and generates emails list.
+* [Penetration Testing Tools Cheat Sheet ∞](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/): Penetration testing tools cheat sheet, a quick reference high level overview for typical penetration testing engagements. Designed as a quick reference cheat sheet providing a high level overview of the typical commands you would run when performing a penetration test.
 
 ### Vulnerability
 
