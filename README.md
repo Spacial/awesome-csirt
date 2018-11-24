@@ -330,6 +330,7 @@ CSIRT links and resources.
 * [BLEAH](https://github.com/evilsocket/bleah): A BLE scanner for "smart" devices hacking.
 * [Introduction to IDAPython for Vulnerability Hunting — Somerset Recon](http://www.somersetrecon.com/blog/2018/7/6/introduction-to-idapython-for-vulnerability-hunting)
 * [Beating the OWASP Benchmark](https://blog.shiftleft.io/beating-the-owasp-benchmark-24a7b1601031)
+* [CMSScan](https://github.com/ajinabraham/CMSScan): Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues.
 
 ### WAFs
 
