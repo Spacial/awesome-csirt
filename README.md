@@ -604,6 +604,7 @@ Some mimikatz stuff:
 * [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * (PT-BR) [Análise de binários em Linux](https://wiki.hackstore.com.br/An%C3%A1lise_de_bin%C3%A1rios_em_Linux)
 * [GMER](http://www.gmer.net/): Rootkit Detector and Remover
+* [suprotect](https://github.com/perceptionpoint/suprotect): Changing memory protection in an arbitrary process
 
 ## Risk Assessment
 
@@ -682,6 +683,7 @@ Some mimikatz stuff:
 * [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [Netflix Cloud Security SIRT releases Diffy](https://medium.com/netflix-techblog/netflix-sirt-releases-diffy-a-differencing-engine-for-digital-forensics-in-the-cloud-37b71abd2698): A Differencing Engine for Digital Forensics in the Cloud - [diffy repo](https://github.com/Netflix-Skunkworks/diffy).
 * [Command-Line Snippets](https://snippets.shodan.io/): A place to share useful, one-line commands that make your life easier.
+* [free Entropy Service](https://rng.13-37.org/).
 
 ## General
 
@@ -714,6 +716,7 @@ Some mimikatz stuff:
 * [ephemera-miscellany](https://github.com/1337list/ephemera-miscellany): Ephemera and other documentation associated with the 1337list project.
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 * [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
+* [HTTP/3 Explained](https://daniel.haxx.se/blog/2018/11/26/http3-explained/) - [github](https://github.com/bagder/http3-explained)/[http2 explained](https://daniel.haxx.se/http2/) - [github](https://github.com/bagder/http2-explained)
 
 ---
 
@@ -728,7 +731,9 @@ Some mimikatz stuff:
 * (pt-br)[Uma Introdução a Threat Intelligence e Threat Hunting para Empresas Sem Orçamento Infinito](https://www.slideshare.net/AlexandreSieira/uma-introduo-a-threat-intelligence-e-threat-hunting-para-empresas-sem-oramento-infinito)
 * Outflank [Presentations](https://github.com/outflanknl/Presentations)
 * [The Art of De-obfuscation](https://speakerdeck.com/ntddk/the-art-of-de-obfuscation)
-* [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations
+* [H2HC](https://www.h2hc.com.br/) - Hackers To Hackers Conference:
+  * [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations
+  * [H2HC 2018](https://github.com/h2hconference/2018): Slides/Materials/Presentations
 * [SBSeg 2018](http://portaldeconteudo.sbc.org.br/index.php/sbseg): Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg)
 * [Smartphone Privacy](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf): How Your Smartphone Tracks Your Entire Life
 * [Fun with LDAP and Kerberos* in AD environments](https://speakerd.s3.amazonaws.com/presentations/1ddba788017347ff8cfdb3336204fd17/FunWithLDAPandKerberos_Flathers_Thotcon2018_05052018.pdf)
@@ -745,7 +750,9 @@ Some mimikatz stuff:
   * [MacDoored](https://objectivebythesea.com/talks/OBTS_v1_Bradley.pdf) - Jaron Bradley
   * [Who Moved my Pixels?](https://objectivebythesea.com/talks/OBTS_v1_Sosonkin.pdf) - Mikahail Sosonkin
   * [Aliens Among Us](https://objectivebythesea.com/talks/OBTS_v1_Lynn.pdf) - Michael Lynn
-  
+* [Malware: Anti-forensics](http://www.blackstormsecurity.com/docs/BHACK_2018.pdf)
+* [The 35C3 halfnarp](https://halfnarp.events.ccc.de/)
+
 ---
 
 ## Sources
@@ -762,6 +769,7 @@ Some good places to visit:
   * [gabrielmachado](https://github.com/gabrielmachado/)
 * [Damn Vulnerable Web Application Docker container](https://hub.docker.com/r/vulnerables/web-dvwa/)
 * Nelson Brito's [Source](https://github.com/nbrito/source): This repository is a collection of information, code and/or tool, which I've released and/or presented in some of the most notorious conferences, helping the audience to study and understand some cybersecurity related topics.
+* (pt-br)[PwnLab: init](https://lcesteves.wordpress.com/2018/11/24/pwnlab-init-writeup/)
 
 ---
 
@@ -789,3 +797,4 @@ Some good places to visit:
 * [[1808.00659] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
 * [[1809.08325] The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem](https://arxiv.org/abs/1809.08325)
 * [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386)
+* [Quantum Blockchain using entanglement in time](https://arxiv.org/pdf/1804.05979.pdf)
