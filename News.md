@@ -40,6 +40,7 @@
 * [The seven deadly paradoxes of cryptocurrency | Bank Underground](https://bankunderground.co.uk/2018/11/13/the-seven-deadly-paradoxes-of-cryptocurrency/)
 * [Private by Design: How we built Firefox Sync - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/11/firefox-sync-privacy/)
 * [Internet Vulnerability Takes Down Google](https://blog.thousandeyes.com/internet-vulnerability-takes-down-google/)
+* [New Data Breach exposes 57 million records](https://blog.hackenproof.com/industry-news/new-data-breach-exposes-57-million-records)
 
 ## Politics
 

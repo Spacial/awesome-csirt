@@ -612,6 +612,7 @@ Some mimikatz stuff:
 * [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
 * (PT-BR) [Análise de binários em Linux](https://wiki.hackstore.com.br/An%C3%A1lise_de_bin%C3%A1rios_em_Linux)
 * [GMER](http://www.gmer.net/): Rootkit Detector and Remover
+* [suprotect](https://github.com/perceptionpoint/suprotect): Changing memory protection in an arbitrary process
 
 ## Risk Assessment
 
@@ -692,6 +693,7 @@ Some mimikatz stuff:
 * [Command-Line Snippets](https://snippets.shodan.io/): A place to share useful, one-line commands that make your life easier.
 * [IP-to-ASN - Team Cymru](https://www.team-cymru.com/IP-ASN-mapping.html)
 * [4nonimizer](https://github.com/Hackplayers/4nonimizer): A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN).
+* [free Entropy Service](https://rng.13-37.org/).
 
 ## General
 
@@ -725,6 +727,7 @@ Some mimikatz stuff:
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 * [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
 * [How to Roll a Strong Password with 20-Sided Dice and Fandom-Inspired Wordlists | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/08/dragon-con-diceware)
+* [HTTP/3 Explained](https://daniel.haxx.se/blog/2018/11/26/http3-explained/) - [github](https://github.com/bagder/http3-explained)/[http2 explained](https://daniel.haxx.se/http2/) - [github](https://github.com/bagder/http2-explained)
 
 ---
 
@@ -739,7 +742,9 @@ Some mimikatz stuff:
 * (pt-br)[Uma Introdução a Threat Intelligence e Threat Hunting para Empresas Sem Orçamento Infinito](https://www.slideshare.net/AlexandreSieira/uma-introduo-a-threat-intelligence-e-threat-hunting-para-empresas-sem-oramento-infinito)
 * Outflank [Presentations](https://github.com/outflanknl/Presentations)
 * [The Art of De-obfuscation](https://speakerdeck.com/ntddk/the-art-of-de-obfuscation)
-* [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations
+* [H2HC](https://www.h2hc.com.br/) - Hackers To Hackers Conference:
+  * [H2HC 2017](https://github.com/h2hconference/2017): H2HC 2017 Slides/Materials/Presentations
+  * [H2HC 2018](https://github.com/h2hconference/2018): Slides/Materials/Presentations
 * [SBSeg 2018](http://portaldeconteudo.sbc.org.br/index.php/sbseg): Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg)
 * [Smartphone Privacy](https://conference.hitb.org/hitbsecconf2018pek/materials/D2T2%20-%20How%20Your%20Smartphone%20Tracks%20Your%20Entire%20Life%20-%20Vladimir%20Katalov.pdf): How Your Smartphone Tracks Your Entire Life
 * [Fun with LDAP and Kerberos* in AD environments](https://speakerd.s3.amazonaws.com/presentations/1ddba788017347ff8cfdb3336204fd17/FunWithLDAPandKerberos_Flathers_Thotcon2018_05052018.pdf)
@@ -757,6 +762,8 @@ Some mimikatz stuff:
   * [Who Moved my Pixels?](https://objectivebythesea.com/talks/OBTS_v1_Sosonkin.pdf) - Mikahail Sosonkin
   * [Aliens Among Us](https://objectivebythesea.com/talks/OBTS_v1_Lynn.pdf) - Michael Lynn
 * BlackHoodie 2018 Workshop: [An Introduction To Binary Exploitation](https://github.com/tharina/BlackHoodie-2018-Workshop)
+* [Malware: Anti-forensics](http://www.blackstormsecurity.com/docs/BHACK_2018.pdf)
+* [The 35C3 halfnarp](https://halfnarp.events.ccc.de/)
 
 ---
 
@@ -774,6 +781,7 @@ Some good places to visit:
   * [gabrielmachado](https://github.com/gabrielmachado/)
 * [Damn Vulnerable Web Application Docker container](https://hub.docker.com/r/vulnerables/web-dvwa/)
 * Nelson Brito's [Source](https://github.com/nbrito/source): This repository is a collection of information, code and/or tool, which I've released and/or presented in some of the most notorious conferences, helping the audience to study and understand some cybersecurity related topics.
+* (pt-br)[PwnLab: init](https://lcesteves.wordpress.com/2018/11/24/pwnlab-init-writeup/)
 
 ---
 
@@ -808,3 +816,4 @@ Some good places to visit:
 ## Black Friday 2018
 
 * [Infosec/IT Black Friday/Cyber Monday 2018 - Pastebin.com](https://pastebin.com/aLBfQT6H)
+* [Quantum Blockchain using entanglement in time](https://arxiv.org/pdf/1804.05979.pdf)
