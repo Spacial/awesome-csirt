@@ -8,6 +8,7 @@ Some CVEs PoCs repos on github or internet.
 * To search (without PoCs): [cve-search](https://github.com/cve-search/cve-search) you can use it off-line too.
 * This is a nice Wrapper:[vFeed](https://github.com/toolswatch/vFeed).
 * Automated Generation of Proofs of Vulnerability with [S2E](https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst)
+* [SecurityExploits](https://github.com/Semmle/SecurityExploits): This repository contains proof-of-concept exploits developed by the Semmle Security Research Team. We always disclose security vulnerabilities responsibly, so this repository only contains exploits for vulnerabilities which have already been fixed and publicly disclosed.
 
 ## Linux
 
@@ -29,6 +30,7 @@ Some CVEs PoCs repos on github or internet.
 * Malicious Command Execution via bash-completion: [CVE-2018-7738](https://blog.grimm-co.com/post/malicious-command-execution-via-bash-completion-cve-2018-7738/)
 * An integer overflow flaw was found in the Linux kernel's create_elf_tables() function: [CVE-2018-14634](https://access.redhat.com/security/cve/cve-2018-14634)
 * [This repo records all the vulnerabilities of linux software I have reproduced in my local workspace](https://github.com/VulnReproduction/LinuxFlaw)
+* [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation): A bunch of links related to Linux kernel exploitation
 
 ## Solaris
 
