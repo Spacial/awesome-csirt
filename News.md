@@ -41,6 +41,8 @@
 * [Private by Design: How we built Firefox Sync - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2018/11/firefox-sync-privacy/)
 * [Internet Vulnerability Takes Down Google](https://blog.thousandeyes.com/internet-vulnerability-takes-down-google/)
 * [New Data Breach exposes 57 million records](https://blog.hackenproof.com/industry-news/new-data-breach-exposes-57-million-records)
+* [What the Marriott Breach Says About Security](https://krebsonsecurity.com/2018/12/what-the-marriott-breach-says-about-security/)
+* [Bad Consumer Security Advice](https://www.schneier.com/blog/archives/2018/12/bad_consumer_se.html)
 
 ## Politics
 

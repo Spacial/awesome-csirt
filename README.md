@@ -78,7 +78,7 @@ CSIRT links and resources.
 * [When a malware is more complex than the paper.](https://medium.com/@Sebdraven/when-a-malware-is-more-complex-than-the-paper-5822fc7ff257)
 * [Vba2Graph](https://github.com/MalwareCantFly/Vba2Graph): Vba2Graph - Generate call graphs from VBA code, for easier analysis of malicious documents.
 * [malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview.py is a first response tool to perform an initial and quick triage on either a directory containing malware samples or a specific malware sample.
-* SECT CTF 2018 :: [Gh0st](http://mslc.ctf.su/wp/sect-ctf-2018-gh0st/) | More Smoked Leet Chicken
+* SECT CTF 2018 :: [Gh0st](http://mslc.ctf.su/wp/sect-ctf-2018-gh0st/), More Smoked Leet Chicken
 * [What you need to know about “LoJax”—the new, stealthy malware from Fancy Bear](https://www.eset.com/us/about/newsroom/corporate-blog/what-you-need-to-know-about-lojax-the-new-stealthy-malware-from-fancy-bear/)
 * [Linux.Malware](https://github.com/marcusbotacin/Linux.Malware): Additional Material for the Linux Malware Paper
 * [PHP Malware Examination](https://blog.manchestergreyhats.co.uk/2018/11/07/php-malware-examination/)
@@ -106,6 +106,7 @@ CSIRT links and resources.
 * [Ransomware Overview](https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#)
 * [Analyzing GrandSoft Exploit Kit](http://www.nao-sec.org/2018/02/analyzing-grandsoft-exploit-kit.html) and [code](https://gist.github.com/anonymous/089810f4581b86edf27827a0a4ebeff4)
 * [Rapidly Evolving Ransomware GandCrab Version 5 Partners With Crypter Service for Obfuscation](https://securingtomorrow.mcafee.com/mcafee-labs/rapidly-evolving-ransomware-gandcrab-version-5-partners-with-crypter-service-for-obfuscation/)
+* [hidden-tear](https://github.com/goliate/hidden-tear): It's a ransomware-like file crypter sample which can be modified for specific purposes.
 
 ### Virus/Anti-Virus
 
@@ -120,10 +121,11 @@ CSIRT links and resources.
 * [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner
 * [The ELF Virus Writing HOWTO](http://www.linuxsecurity.com/resource_files/documentation/virus-writing-HOWTO/_html/index.html)
 
-### Trojans
+### Trojans/Loggers
 
 * [IcedID Banking Trojan Shares Code with Pony 2.0 Trojan](http://www.intezer.com/icedid-banking-trojan-shares-code-pony-2-0-trojan/)
 * [Turla](https://www.welivesecurity.com/2018/08/22/turla-unique-outlook-backdoor/): In and out of its unique Outlook backdoor
+* [QMKhuehuebr](https://github.com/mthbernardes/QMKhuehuebr): Trying to hack into keyboards
 
 ## Reverse Engineering
 
@@ -257,6 +259,7 @@ CSIRT links and resources.
 * [Write-ups for crackmes and CTF challenges](https://github.com/eleemosynator/writeups) by eleemosynator
 * [pwntools](https://github.com/Gallopsled/pwntools): CTF framework and exploit development library
 * [google-ctf](https://github.com/google/google-ctf)
+* [Pwn2Win 2018](https://www.reddit.com/r/securityCTF/comments/a2q4oj/pwn2win_2018_unsolved_tasks_part_1/). [unsolved](https://static.pwn2win.party/unsolved-pt1.txt)
 
 ## Phreak
 
@@ -344,9 +347,10 @@ CSIRT links and resources.
 * [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
 * [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions): A curated list of amazingly awesome Burp Extensions
 * [Femida-xss](https://github.com/wish-i-was/femida): Automated blind-xss search for Burp Suite
-[dotNetBeautifier](https://github.com/allfro/dotNetBeautifier): A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).
+* [dotNetBeautifier](https://github.com/allfro/dotNetBeautifier): A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).
 * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner): All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
 * [JavaSerialKiller](https://github.com/NetSPI/JavaSerialKiller): Burp extension to perform Java Deserialization Attacks.
+
 ### Exploits
 
 * [IOSurface exploit](https://github.com/Siguza/v0rtex)
@@ -413,6 +417,7 @@ CSIRT links and resources.
 * [Exfiltrating credentials via PAM backdoors & DNS requests](https://x-c3ll.github.io/posts/PAM-backdoor-DNS/)
 * [Building simple DNS endpoints for exfiltration or C&C](https://x-c3ll.github.io/posts/DNS-endpoint-exfiltration/)
 * [evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
+* [CheckPlease](https://github.com/Arvanaghi/CheckPlease): Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.
 
 ## Forensics
 
@@ -449,7 +454,8 @@ CSIRT links and resources.
 * [RedELK](https://github.com/outflanknl/RedELK): Red Team's SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 * [plaso](https://github.com/log2timeline/plaso/): Super timeline all the things.
 * [Heatmaps Make Ops Better](https://www.honeycomb.io/blog/heatmaps-make-ops-better/)
-
+* [graylog-guide-snort](https://github.com/Graylog2/graylog-guide-snort): How to send structured Snort IDS alert logs into Graylog
+  
 ## Browsers
 
 * [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
@@ -467,7 +473,7 @@ CSIRT links and resources.
 ### UEFI
 
 * [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck): A JIT compiler for Brainfuck running on x86_64 UEFI
-* [Secure Boot in the Era of the T2](https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2): 
+* [Secure Boot in the Era of the T2](https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2): Continuing our series on Apple’s new T2 platform and examining the role it plays in Apple’s vision of Secure Boot.
 
 ### Windows
 
@@ -694,6 +700,9 @@ Some mimikatz stuff:
 * [IP-to-ASN - Team Cymru](https://www.team-cymru.com/IP-ASN-mapping.html)
 * [4nonimizer](https://github.com/Hackplayers/4nonimizer): A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN).
 * [free Entropy Service](https://rng.13-37.org/).
+* [Correct Horse Battery Staple](http://correcthorsebatterystaple.net/): Secure password generator to help keep you safer online. [code](https://bitbucket.org/jvdl/correcthorsebatterystaple)
+* [RKMS](https://github.com/armanshan12/rkms): RKMS is a highly available key management service, built on top of AWS's KMS.
+* [Using a Hardened Container Image for Secure Applications in the Cloud](https://www.cisecurity.org/blog/using-hardened-container-image-secure-applications-cloud/)
 
 ## General
 
@@ -728,6 +737,8 @@ Some mimikatz stuff:
 * [CleverHans](https://github.com/tensorflow/cleverhans): An adversarial example library for constructing attacks, building defenses, and benchmarking both
 * [How to Roll a Strong Password with 20-Sided Dice and Fandom-Inspired Wordlists | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/08/dragon-con-diceware)
 * [HTTP/3 Explained](https://daniel.haxx.se/blog/2018/11/26/http3-explained/) - [github](https://github.com/bagder/http3-explained)/[http2 explained](https://daniel.haxx.se/http2/) - [github](https://github.com/bagder/http2-explained)
+* [The Practical Guide to Hacking Bluetooth Low Energy](https://blog.attify.com/the-practical-guide-to-hacking-bluetooth-low-energy/)
+* [Exploiting IoT enabled BLE smart bulb security](https://blog.attify.com/exploiting-iot-enabled-ble-smart-bulb-security/)
 
 ---
 
@@ -795,7 +806,7 @@ Some good places to visit:
 * [Attrition.org](http://attrition.org/security/rant/z/dc/results.txt): defacement rank.
 * [rot8000](http://rot8000.com/Index): rot13 for the Unicode generation ([github](https://github.com/rottytooth/rot8000))
 * [Reverse Engineering Pokémon GO Plus](https://tinyhack.com/2018/11/21/reverse-engineering-pokemon-go-plus/): TL;DR; You can clone a Pokemon GO Plus device that you own. [pgpemu](https://github.com/yohanes/pgpemu): github repo.
-* [grugq quotes](https://gist.github.com/0xdabbad00/18c4743455022109e69cca1de11e9cb6) 
+* [grugq quotes](https://gist.github.com/0xdabbad00/18c4743455022109e69cca1de11e9cb6)
 
 ---
 
@@ -810,7 +821,7 @@ Some good places to visit:
 * [[1808.00659] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
 * [[1809.08325] The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem](https://arxiv.org/abs/1809.08325)
 * [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386)
- 
+
 ---
 
 ## Black Friday 2018
