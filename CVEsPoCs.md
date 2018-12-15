@@ -55,6 +55,8 @@ Some CVEs PoCs repos on github or internet.
 * Use-after-free (UAF) vulnerability: [CVE-2018-8373](https://blog.trendmicro.com/trendlabs-security-intelligence/new-cve-2018-8373-exploit-spotted/)
 * Microsoft Edge RCE: [CVE-2018-8495](https://leucosite.com/Microsoft-Edge-RCE/)
 * Device Guard/CLM bypass using MSFT_ScriptResource: [CVE-2018–8212](https://posts.specterops.io/cve-2018-8212-device-guard-clm-bypass-using-msft-scriptresource-b6cc2318e885)
+* [A PoC function to corrupt the g_amsiContext global variable in clr.dll in .NET Framework Early Access build 3694](https://gist.github.com/mattifestation/ef0132ba4ae3cc136914da32a88106b9)
+* [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits): windows-kernel-exploits Windows平台提权漏洞集合
 
 ## macOS/iOS
 
@@ -69,6 +71,7 @@ Some CVEs PoCs repos on github or internet.
 * brokentooth: POC for [CVE-2018-4327](https://github.com/omerporze/brokentooth)
 * Kernel RCE caused by buffer overflow in Apple's ICMP packet-handling code: [CVE-2018-4407](https://lgtm.com/blog/apple_xnu_icmp_error_CVE-2018-4407)
 * [Offensive testing to make Dropbox (and the world) a safer place](https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/)
+* [WebKit-RegEx-Exploit](https://github.com/LinusHenze/WebKit-RegEx-Exploit): Safari 12.1.1
 
 ## Android
 
@@ -132,7 +135,13 @@ Some CVEs PoCs repos on github or internet.
 * [JPEG [JAY-peg]](https://github.com/corkami/docs/blob/master/images/jpeg.md), some pocs [JPEG PoCs](https://github.com/corkami/pocs/blob/master/images/jpg/README.md)
 * Kubernets: [CVE-2018-1002105](https://github.com/evict/poc_CVE-2018-1002105)
 * QEMU: vga: OOB read access during display update: [CVE-2017-13672](https://twitter.com/David3141593/status/903284919803277312),
-  
+* Exploiting LaTeX with [CVE-2018-17407](http://nickroessler.com/latex-cve-2018-17407/)
+* GitHub Desktop RCE (OSX)[H1-702 2018](https://pwning.re/2018/12/04/github-desktop-rce/), [poc](https://github.com/0xACB/github-desktop-poc/)
+* [unprivileged users with UID > INT_MAX can successfully execute any systemctl command (#74)](https://gitlab.freedesktop.org/polkit/polkit/issues/74)
+* Authenticated RCE in [Polycom Trio 8800](http://unkl4b.github.io/Authenticated-RCE-in-Polycom-Trio-8800-pt-1/), pt.1
+* Tenable Research Advisory: Zoom Unauthorized Command Execution - [CVE-2018-15715](https://www.tenable.com/blog/tenable-research-advisory-zoom-unauthorized-command-execution-cve-2018-15715)
+* [Crash Chrome 70 with the SQLite Magellan bug](https://worthdoingbadly.com/sqlitebug/) [code](https://github.com/zhuowei/worthdoingbadly.com/blob/master/_posts/2018-12-14-sqlitebug.html)
+
 '''bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
 '''

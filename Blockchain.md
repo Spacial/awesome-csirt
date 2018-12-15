@@ -1,6 +1,7 @@
 # BlockChain
 
 * [blockchain-security-contacts](https://github.com/trailofbits/blockchain-security-contacts): Directory of security contacts for blockchain companies
+* [MIT DCI's Cryptocurrency Research Review #1](https://mitcryptocurrencyresearch.substack.com/p/mit-dcis-cryptocurrency-research)
 
 ## Bitcoin
 
@@ -25,6 +26,7 @@
 * [Valuing Cryptoassets from the Ground Up](https://medium.com/@sall/valuing-cryptoassets-from-the-ground-up-441ad5a9ff03)
 * [CVM promete para maio um parecer sobre investimentos de fundos em criptomoedas](http://www.convergenciadigital.com.br/cgi/cgilua.exe/sys/start.htm?UserActiveTemplate=site&infoid=47787) (pt-br)
 * [The seven deadly paradoxes of cryptocurrency | Bank Underground](https://bankunderground.co.uk/2018/11/13/the-seven-deadly-paradoxes-of-cryptocurrency/)
+* [Blockchain study finds 0.00% success rate and vendors don't call back when asked for evidence](https://www.theregister.co.uk/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/) • The Register
 
 ## Voting
 

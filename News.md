@@ -43,6 +43,7 @@
 * [New Data Breach exposes 57 million records](https://blog.hackenproof.com/industry-news/new-data-breach-exposes-57-million-records)
 * [What the Marriott Breach Says About Security](https://krebsonsecurity.com/2018/12/what-the-marriott-breach-says-about-security/)
 * [Bad Consumer Security Advice](https://www.schneier.com/blog/archives/2018/12/bad_consumer_se.html)
+* [Civil War Photo Sleuth is using facial recognition software to identify people in pictures.](https://slate.com/technology/2018/11/civil-war-photo-sleuth-facial-recognition.html)
 
 ## Politics
 
