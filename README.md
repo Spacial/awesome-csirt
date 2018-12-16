@@ -51,7 +51,6 @@
   - [Tools](#tools)
   - [General](#general)
   - [Conferences and Slides](#conferences-and-slides)
-  - [* Hardware Memory Tagging to make C/C++ memory safe(r)](#hardware-memory-tagging-to-make-cc-memory-safer)
   - [Sources](#sources)
   - [Fun](#fun)
   - [CFPs](#cfps)
@@ -870,6 +869,7 @@ Some mimikatz stuff:
 * [Code Obfuscation 10**2+(2*a+3)%2](https://www.synacktiv.com/ressources/jsecin_code_obfu.pdf)
 * [DeepState](http://www.petergoodman.me/docs/secdev-2018-slides.pdf): Bringing vulnerability detection tools into the development lifecycle, [paper](http://www.petergoodman.me/docs/bar-2018-paper.pdf): DeepState: Symbolic Unit Testing for C and C++
 * [Hardware Memory Tagging to make C/C++ memory safe(r)](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe%28r%29%20-%20iSecCon%202018.pdf)
+
 ---
 
 ## Sources
