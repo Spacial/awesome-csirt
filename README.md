@@ -1,10 +1,6 @@
-# CSIRT
-
-CSIRT links and resources.
+# CSIRT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  **Please contribute through pull requests** ;)
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 
