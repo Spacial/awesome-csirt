@@ -8,6 +8,62 @@ CSIRT links and resources.
 
  Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 
+<!-- TOC -->
+
+- [CSIRT](#csirt)
+  - [Books](#books)
+  - [Links](#links)
+  - [CVEs](#cves)
+  - [Malware Analysis](#malware-analysis)
+    - [Samples](#samples)
+    - [Repos](#repos)
+    - [Ransomwares](#ransomwares)
+    - [Virus/Anti-Virus](#virusanti-virus)
+    - [Trojans/Loggers](#trojansloggers)
+  - [Reverse Engineering](#reverse-engineering)
+  - [Frameworks](#frameworks)
+  - [Patching](#patching)
+  - [Hardening](#hardening)
+    - [Apache](#apache)
+  - [Credentials](#credentials)
+  - [Secure Programming](#secure-programming)
+    - [Fuzzing](#fuzzing)
+  - [CTFs](#ctfs)
+  - [Phreak](#phreak)
+  - [Archs](#archs)
+  - [Pentesting](#pentesting)
+    - [Vulnerability](#vulnerability)
+    - [WAFs](#wafs)
+    - [Exploits](#exploits)
+    - [Red Team](#red-team)
+  - [DNS](#dns)
+  - [Exfiltration](#exfiltration)
+  - [Forensics](#forensics)
+  - [Blue Team](#blue-team)
+    - [Threat Hunting](#threat-hunting)
+    - [SIEM](#siem)
+  - [Browsers](#browsers)
+  - [Operating Systems](#operating-systems)
+    - [UEFI](#uefi)
+    - [Windows](#windows)
+      - [Mimikatz](#mimikatz)
+    - [macOS/iOS](#macosios)
+    - [Android](#android)
+    - [Linux](#linux)
+  - [Risk Assessment](#risk-assessment)
+  - [Satellite](#satellite)
+  - [Tools](#tools)
+  - [General](#general)
+  - [Conferences and Slides](#conferences-and-slides)
+  - [* Hardware Memory Tagging to make C/C++ memory safe(r)](#hardware-memory-tagging-to-make-cc-memory-safer)
+  - [Sources](#sources)
+  - [Fun](#fun)
+  - [CFPs](#cfps)
+  - [2018](#2018)
+  - [Articles](#articles)
+
+<!-- /TOC -->
+
 ## Books
 
 * Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br)
@@ -204,7 +260,6 @@ CSIRT links and resources.
 * [CCAT](https://github.com/cisco-config-analysis-tool/ccat): Cisco Config Analysis Tool
 * [Keystone Project](https://keystone-enclave.org/). Github: [Keystone Enclave](https://github.com/keystone-enclave/)
 
-
 ### Apache
 
 * [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
@@ -251,7 +306,8 @@ CSIRT links and resources.
 * [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
 * [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
 * [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
-  
+* [Tooling for verification of PGP signed commits](https://github.com/bitcoin/bitcoin/tree/master/contrib/verify-commits)
+
 ### Fuzzing
 
 * [Generating Software Tests](https://www.fuzzingbook.org/) ([github](https://github.com/uds-se/fuzzingbook/))
@@ -356,17 +412,19 @@ CSIRT links and resources.
 
 ### WAFs
 
-* [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
-* [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
 * [Web Application Penetration Testing Course URLs](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
-* [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
-* [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions): A curated list of amazingly awesome Burp Extensions
-* [Femida-xss](https://github.com/wish-i-was/femida): Automated blind-xss search for Burp Suite
-* [dotNetBeautifier](https://github.com/allfro/dotNetBeautifier): A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).
-* [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner): All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
-* [JavaSerialKiller](https://github.com/NetSPI/JavaSerialKiller): Burp extension to perform Java Deserialization Attacks.
 * [Web Application Penetration Testing Notes](https://techvomit.net/web-application-penetration-testing-notes/)
 * [quarantyne](https://github.com/quarantyne/quarantyne): Modern Web Firewall: stop account takeovers, weak passwords, cloud IPs, DoS attacks, disposable emails
+* Burp Suite:
+  * [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions): A curated list of amazingly awesome Burp Extensions
+  * [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
+  * [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
+  * [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
+  * [Femida-xss](https://github.com/wish-i-was/femida): Automated blind-xss search for Burp Suite
+  * [dotNetBeautifier](https://github.com/allfro/dotNetBeautifier): A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).
+  * [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner): All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
+  * [JavaSerialKiller](https://github.com/NetSPI/JavaSerialKiller): Burp extension to perform Java Deserialization Attacks.
+  * [BurpBounty](https://github.com/wagiro/BurpBounty): Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that improve an active and passiv
 
 ### Exploits
 
@@ -392,6 +450,7 @@ CSIRT links and resources.
 * [Attacking Google Authenticator](https://www.unix-ninja.com/p/attacking_google_authenticator)
 * [Pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. [installation guide](https://github.com/RhinoSecurityLabs/pacu/wiki/Installation), [starting guide](https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html)
 * Glibc Heap Exploitation Basics: [Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
+* [movfuscator](https://github.com/xoreaxeaxeax/movfuscator): The single instruction C compiler
 
 ### Red Team
 
@@ -466,6 +525,7 @@ CSIRT links and resources.
 * Talos Blog || Cisco Talos Intelligence Group - [Comprehensive Threat Intelligence](https://blog.talosintelligence.com/2018/09/adwind-dodgesav-dde.html): Adwind Dodges AV via DDE
 * [strelka](https://github.com/target/strelka): Scanning files at scale with Python and ZeroMQ
 * [Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting): Personal compilation of APT malware from whitepaper releases, documents and own research
+* [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ### SIEM
 
@@ -491,6 +551,7 @@ CSIRT links and resources.
 * [CLIP OS](https://www.ssi.gouv.fr/en/actualite/clip-os-open-source-secured-operating-system/): Open Source secured operating system by Agence nationale de la sécurité des systèmes d'information
 * [How to Get Started With VMware vSphere Security « vMiss.net](https://vmiss.net/2018/09/19/how-to-get-started-with-vmware-vsphere-security/)
 * [routeros](https://github.com/tenable/routeros): RouterOS Bug Hunt Materials Presented at Derbycon 2018
+* [Awesome-Study-Resources-for-Kernel-Hacking](https://github.com/yeyintminthuhtut/Awesome-Study-Resources-for-Kernel-Hacking): Kernel Hacking study materials collection
 
 ### UEFI
 
@@ -498,16 +559,6 @@ CSIRT links and resources.
 * [Secure Boot in the Era of the T2](https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2): Continuing our series on Apple’s new T2 platform and examining the role it plays in Apple’s vision of Secure Boot.
 
 ### Windows
-
-#### Mimikatz
-
-Some mimikatz stuff:
-
-* [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
-* [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
-* [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python
-
-#### Win General
 
 * [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
 * [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
@@ -592,7 +643,17 @@ Some mimikatz stuff:
 * [shed](https://github.com/enkomio/shed): .NET runtime inspector
 * [Recovering Plaintext Domain Credentials from WPA2 Enterprise on a Compromised Host](https://0x00-0x00.github.io/research/2018/11/06/Recovering-Plaintext-Domain-Credentials-From-WPA2-Enterprise-on-a-compromised-host.html)
 * [How to steal NTLMv2 hashes using file download vulnerability in web application](http://www.mannulinux.org/2018/12/how-to-steal-ntlmv2-hashes-using-file.html)
+* [Securing SCOM in a Privilege Tiered Access Model](https://nathangau.wordpress.com/2018/07/17/securing-scom-in-a-privilege-tiered-access-model-part-1/)–Part 1
+* [Simpleator](https://github.com/ionescu007/Simpleator): ("Simple-ator") is an innovative Windows-centric x64 user-mode application emulator that lever
   
+#### Mimikatz
+
+Some mimikatz stuff:
+
+* [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
+* [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
+* [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python
+
 ### macOS/iOS
 
 * An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
@@ -777,7 +838,7 @@ Some mimikatz stuff:
 
 ## Conferences and Slides
 
-* [Security Guidelines for Congressional Campaigns](https://techsolidarity.org/resources/congressional_howto.html)
+* [Security Guidelines for Congressional Campaigns](https://techsoliRdarity.org/resources/congressional_howto.html)
 * [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
 * [Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
 * Black Hat 2018: [Expert demonstrated a new PHP code execution attack](https://securityaffairs.co/wordpress/75419/hacking/php-code-execution-attack.html)
@@ -809,7 +870,10 @@ Some mimikatz stuff:
 * [Malware: Anti-forensics](http://www.blackstormsecurity.com/docs/BHACK_2018.pdf)
 * [The 35C3 halfnarp](https://halfnarp.events.ccc.de/)
 * [SeL4-Enabled Security Mechanisms for Cyber-Physical Systems](https://www.sel4-us.org/summit/presentations/Session_4_Talk_2_Payton_Nogin_HRL.pdf)
-
+* [Mojave's Sandbox is Leaky](https://www.youtube.com/watch?v=sW2zlW7lMjM)
+* [Code Obfuscation 10**2+(2*a+3)%2](https://www.synacktiv.com/ressources/jsecin_code_obfu.pdf)
+* [DeepState](http://www.petergoodman.me/docs/secdev-2018-slides.pdf): Bringing vulnerability detection tools into the development lifecycle, [paper](http://www.petergoodman.me/docs/bar-2018-paper.pdf): DeepState: Symbolic Unit Testing for C and C++
+* [Hardware Memory Tagging to make C/C++ memory safe(r)](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe%28r%29%20-%20iSecCon%202018.pdf)
 ---
 
 ## Sources
@@ -859,10 +923,11 @@ Some good places to visit:
 * [[1809.08325] The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem](https://arxiv.org/abs/1809.08325)
 * [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386)
 * [Stealing Webpages Rendered on Your Browser by Exploiting GPU Vulnerabilities](https://www.cc.gatech.edu/~slee3036/papers/lee:gpu.pdf)
+* [The Hunt for 3ve](https://services.google.com/fh/files/blogs/3ve_google_whiteops_whitepaper_final_nov_2018.pdf): Taking down a major ad fraud operation through industry collaboration.
 
 ---
 
-## Black Friday 2018
+* Black Friday 2018
 
-* [Infosec/IT Black Friday/Cyber Monday 2018 - Pastebin.com](https://pastebin.com/aLBfQT6H)
-* [Quantum Blockchain using entanglement in time](https://arxiv.org/pdf/1804.05979.pdf)
+  * [Infosec/IT Black Friday/Cyber Monday 2018 - Pastebin.com](https://pastebin.com/aLBfQT6H)
+  * [Quantum Blockchain using entanglement in time](https://arxiv.org/pdf/1804.05979.pdf)

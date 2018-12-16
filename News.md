@@ -1,5 +1,18 @@
 # News
 
+## Contents
+
+<!-- TOC -->
+- [News](#news)
+  - [Contents](#contents)
+  - [2018](#2018)
+  - [Politics](#politics)
+    - [Online Voting](#online-voting)
+  - [Health](#health)
+  - [Brazil](#brazil)
+
+<!-- /TOC -->
+
 * [IOTA Vulnerability Report](https://github.com/mit-dci/tangled-curl/blob/master/vuln-iota.md)
 * [Symantec distrust impact on the webpki](https://gist.github.com/jvehent/0fbfb71bae06e48163f276592417079a)
 * [How long does it take for a MongoDB to be compromised](https://mackeepersecurity.com/post/how-long-does-it-take-for-a-mongodb-to-be-compromised)
@@ -44,6 +57,8 @@
 * [What the Marriott Breach Says About Security](https://krebsonsecurity.com/2018/12/what-the-marriott-breach-says-about-security/)
 * [Bad Consumer Security Advice](https://www.schneier.com/blog/archives/2018/12/bad_consumer_se.html)
 * [Civil War Photo Sleuth is using facial recognition software to identify people in pictures.](https://slate.com/technology/2018/11/civil-war-photo-sleuth-facial-recognition.html)
+* [ID Numbers for 120 Million Brazilians taxpayers exposed onlineSecurity Affairs](https://securityaffairs.co/wordpress/78874/data-breach/brazilian-taxpayers-data-leak.html)
+* [Operation Sharpshooter](https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/) Targets Global Defense, Critical Infrastructure
 
 ## Politics
 
