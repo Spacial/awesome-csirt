@@ -2,7 +2,8 @@
 
 * [blockchain-security-contacts](https://github.com/trailofbits/blockchain-security-contacts): Directory of security contacts for blockchain companies
 * [MIT DCI's Cryptocurrency Research Review #1](https://mitcryptocurrencyresearch.substack.com/p/mit-dcis-cryptocurrency-research)
-
+* [What is Stellar?](https://achainofblocks.com/2018/12/13/what-is-stellar-consensus-protocol-federated-byzantine-agreement/)  Deep Dive into Stellar Consensus Protocol | Federated Byzantine Agreement
+  
 ## Bitcoin
 
 * [Bitcoin keys and elliptic curve secp256k1](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
