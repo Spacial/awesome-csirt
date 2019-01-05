@@ -60,6 +60,10 @@
 * [ID Numbers for 120 Million Brazilians taxpayers exposed onlineSecurity Affairs](https://securityaffairs.co/wordpress/78874/data-breach/brazilian-taxpayers-data-leak.html)
 * [Operation Sharpshooter](https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/) Targets Global Defense, Critical Infrastructure
 
+
+- [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
+- [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
+
 ## Politics
 
 * [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)

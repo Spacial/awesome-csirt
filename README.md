@@ -44,13 +44,13 @@
     - [UEFI](#uefi)
     - [Windows](#windows)
       - [Mimikatz](#mimikatz)
-      - [Mimikatz](#mimikatz-1)
     - [macOS/iOS](#macosios)
     - [Android](#android)
     - [Linux](#linux)
   - [Risk Assessment](#risk-assessment)
   - [Satellite](#satellite)
   - [Tools](#tools)
+    - [VPN](#vpn)
   - [General](#general)
   - [Conferences and Slides](#conferences-and-slides)
   - [Sources](#sources)
@@ -232,6 +232,7 @@
 - [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
 - [Beam me up, CFG.](https://86hh.github.io/cfg.html): Earlier in 2018 while revisiting the Delay Import Table, I used dumpbin to check the Load Configuration data of a file and noticed new fields in it. And at the time of writing this, more fields were added! The first CFGuard caught my attention and I learned about Control Flow Guard, it is a new security feature. To put it simple, it protects the execution flow from redirection - for example, from exploits that overwrite an address in the stack. Maybe they should call it the Security Directory instead.
 - Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)
+- [functrace](https://github.com/invictus1306/functrace): is a tool that helps to analyze a binary file with dynamic instrumentation using DynamoRIO 
 
 ## Frameworks
 
@@ -272,6 +273,7 @@
 - [nftables](https://www.funtoo.org/Package:Nftables): nftables is the successor to iptables. It replaces the existing iptables, ip6tables, arptables and ebtables framework. It uses the Linux kernel and a new userspace utility called nft. nftables provides a compatibility layer for the ip(6)tables and framework.
 - [CCAT](https://github.com/cisco-config-analysis-tool/ccat): Cisco Config Analysis Tool
 - [Keystone Project](https://keystone-enclave.org/). Github: [Keystone Enclave](https://github.com/keystone-enclave/)
+- [Zero-knowledge attestation](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
 
 ### Apache
 
@@ -339,6 +341,7 @@
 - [google-ctf](https://github.com/google/google-ctf)
 - [Pwn2Win 2018](https://www.reddit.com/r/securityCTF/comments/a2q4oj/pwn2win_2018_unsolved_tasks_part_1/). [unsolved](https://static.pwn2win.party/unsolved-pt1.txt)
 - [Leap Security](https://leapsecurity.io/)
+- [35c3ctf-challs](https://github.com/niklasb/35c3ctf-challs)
 
 ## Phreak
 
@@ -465,6 +468,7 @@
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. [installation guide](https://github.com/RhinoSecurityLabs/pacu/wiki/Installation), [starting guide](https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html)
 - Glibc Heap Exploitation Basics: [Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator): The single instruction C compiler
+- [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
 
 ### Red Team
 
@@ -473,6 +477,8 @@
 - [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
 - [Flying under the radar](https://itsecx.fhstp.ac.at/wp-content/uploads/2018/11/02_Rene_Freingruber_Flying_under_the_radar_freingruber_v1.00.pdf): Hack into a „highly protected“ company without getting caught
 - [demiguise](https://github.com/nccgroup/demiguise): HTA encryption tool for RedTeams
+- [Sn1per](https://github.com/1N3/Sn1per): Automated pentest framework for offensive security experts
+- [jenkins-shell](https://github.com/joesmithjaffa/jenkins-shell): Automating Jenkins Hacking using Shodan API
 
 ## DNS
 
@@ -481,6 +487,7 @@
 - [dref](https://github.com/mwrlabs/dref): DNS Rebinding Exploitation Framework
 - [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks.
 - [Bypass firewalls by abusing DNS history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history): Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
+- [dnstwist](https://github.com/elceef/dnstwist): Domain name permutation engine for detecting typo squatting, phishing and corporate espionage
 
 ## Exfiltration
 
@@ -512,6 +519,7 @@
 - [evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
 - [CheckPlease](https://github.com/Arvanaghi/CheckPlease): Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.
 - [okhttp-peer-certificate-extractor](https://github.com/fabiomsr/okhttp-peer-certificate-extractor): This tool extracts peer certificates from given certificates.
+- [DET](https://github.com/sensepost/DET): (extensible) Data Exfiltration Toolkit (DET)
 
 ## Forensics
 
@@ -661,12 +669,11 @@
 - [Securing SCOM in a Privilege Tiered Access Model](https://nathangau.wordpress.com/2018/07/17/securing-scom-in-a-privilege-tiered-access-model-part-1/)–Part 1
 - [Simpleator](https://github.com/ionescu007/Simpleator): ("Simple-ator") is an innovative Windows-centric x64 user-mode application emulator that lever
 - [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
+- [Windows Privilege Escalation Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/): This guide is influenced by g0tm1lk’s Basic Linux Privilege Escalation, which at some point you should have already seen and used. I wanted to try to mirror his guide, except for Windows. So this guide will mostly focus on the enumeration aspect.
 
 #### Mimikatz
+
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
-
-#### Mimikatz
-
 - [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
 - [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
 - [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python
@@ -727,6 +734,7 @@
 - [GMER](http://www.gmer.net/): Rootkit Detector and Remover
 - [suprotect](https://github.com/perceptionpoint/suprotect): Changing memory protection in an arbitrary process
 - [A look at home routers, and a surprising bug in Linux/MIPS](https://cyber-itl.org/2018/12/07/a-look-at-home-routers-and-linux-mips.html)
+- [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/): It's just a basic & rough guide. 
 
 ## Risk Assessment
 
@@ -764,7 +772,6 @@
 - [structured-text-tools](https://github.com/dbohdan/structured-text-tools): A list of command line tools for manipulating structured text data
 - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger): Simulates enough of a Telnet connection in order to log failed login attempts.
 - [vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management
-- [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
 - [WeakNet LINUX 8](http://www.weaknetlabs.com/p/weaknet-linux.html): This is an information-security themed distribution that has been in development since 2010.
 - [HiTB](https://www.vulnhub.com/entry/hackthebox-nineveh-v03,222/): It was a part of HackTheBox platform.
 - [arphid](https://github.com/arphid/arphid): DYI 125KHz RFID read/write/emulate guide
@@ -783,7 +790,6 @@
 - [Google Chromium](https://github.com/Eloston/ungoogled-chromium), sans integration with Google
 - [Gammux](https://github.com/carl-mastrangelo/gammux): A Gamma muxing tool. This tool merges two pictures together by splitting them into high and low brightness images.
 - [PDF Tools](https://blog.didierstevens.com/programs/pdf-tools/)
-- [SSHuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 - [openvotenetwork](https://git.openprivacy.ca/sarah/openvotenetwork): Implementation of anonymous [Open Vote Network](https://en.wikipedia.org/wiki/Open_vote_network) in go
 - [put2win](https://github.com/sysdevploit/put2win): Script to automatize shell upload by PUT HTTP method to get meterpreter
 - [Tools by Morphus Labs](https://morphuslabs.com/tools/home)
@@ -818,6 +824,13 @@
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
 - [kbd-audio](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture
 - [certstreamcatcher](https://github.com/6IX7ine/certstreamcatcher): This tool is based on regex with effective standards for detecting phishing sites in real time using certstream and can also detect punycode (IDNA) attacks. 
+- [Wifiphisher](https://github.com/wifiphisher/wifiphisher): is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
+
+### VPN
+
+- [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
+- [SSHuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
+- [WireGuard](https://www.wireguard.com/): is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. 
 
 ## General
 
@@ -901,6 +914,7 @@
 - [Hardware Memory Tagging to make C/C++ memory safe(r)](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe%28r%29%20-%20iSecCon%202018.pdf)
 - [Reverse Engineering](https://docs.google.com/presentation/d/1ljVUiXVi2PfEdolGXr7Wpepj0x2RxaOo9rzMKWXebG4/mobilepresent?slide=id.p): Closed, heterogeneous platforms and the defenders’ dilemma Looking back at the last 20 years of RE and looking ahead at the next few SSTIC 2018 -- Thomas Dullien (“Halvar Flake”) 
 - [Making C Less Dangerous in the Linux kernel](https://2019.linux.conf.au/schedule/presentation/178/)
+- [Modchips of the State](https://media.ccc.de/v/35c3-9597-modchips_of_the_state#t=22): Hardware implants in the supply-chain - CCC 2018
 
 ---
 
