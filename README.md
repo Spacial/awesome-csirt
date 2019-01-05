@@ -44,6 +44,7 @@
     - [UEFI](#uefi)
     - [Windows](#windows)
       - [Mimikatz](#mimikatz)
+      - [Mimikatz](#mimikatz-1)
     - [macOS/iOS](#macosios)
     - [Android](#android)
     - [Linux](#linux)
@@ -53,7 +54,6 @@
   - [General](#general)
   - [Conferences and Slides](#conferences-and-slides)
   - [Sources](#sources)
-  - [- Corkami PoCs: Proof of Concepts (PE, PDF...), **hash collision**](#corkami-pocs-proof-of-concepts-pe-pdf-hash-collision)
   - [Fun](#fun)
   - [CFPs](#cfps)
   - [2018](#2018)
@@ -103,6 +103,9 @@
 - [Indicators: Champing at the Cyberbit](https://github.com/citizenlab/malware-indicators/tree/master/201712_Cyberbit)
 - [Limon - Sandbox for Analyzing Linux Malwares](https://github.com/monnappa22/Limon)
 - [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
+- [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
+- [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
+- [binary ninja](https://binary.ninja/demo/)
 - Analyzing a New macOS DNS Hijacker: [OSX/MaMi](https://objective-see.com/blog/blog_0x26.html)
 - A PoC "malware" application with good intentions that aims to stress your anti-malware system: [al-khaser](https://github.com/LordNoteworthy/al-khaser)
 - Great analysis of [mal100.evad.spre.rans.spyw.troj.winEXE@34/9@31/10](https://www.joesandbox.com/analysis/46216/0/html)
@@ -200,6 +203,10 @@
 - [Xori](https://github.com/endgameinc/xori): Custom disassembly framework
 - [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform
 - [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
+- [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
+- [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform
+- [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
+- [binja-ipython](https://github.com/ernw/binja-ipython): A plugin to integrate an IPython kernel into Binary Ninja.
 - [PySameSame](https://github.com/DissectMalware/PySameSame): This is a python version of samesame repo to generate homograph strings
 - [Reversing a Japanese Wireless SD Card From Zero to Code Execution](https://docs.google.com/presentation/d/13OJNOb2IMwp79SDrbxSLF3i7StTgWLdD7QlYpic39r8/edit#slide=id.g3d28bb72e8_5_74)
 - [Practical-Reverse-Engineering-using-Radare2](https://github.com/s4n7h0/Practical-Reverse-Engineering-using-Radare2): Training Materials of Practical Reverse Engineering using Radare2
@@ -220,6 +227,11 @@
 - [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
 - [binary ninja](https://binary.ninja/demo/)
 - [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
+- [Analyzing ARM Cortex-based MCU firmwares using Binary Ninja](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
+- [lighthouse](https://github.com/gaasedelen/lighthouse): Code Coverage Explorer for IDA Pro & Binary Ninja
+- [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
+- [Beam me up, CFG.](https://86hh.github.io/cfg.html): Earlier in 2018 while revisiting the Delay Import Table, I used dumpbin to check the Load Configuration data of a file and noticed new fields in it. And at the time of writing this, more fields were added! The first CFGuard caught my attention and I learned about Control Flow Guard, it is a new security feature. To put it simple, it protects the execution flow from redirection - for example, from exploits that overwrite an address in the stack. Maybe they should call it the Security Directory instead.
+- Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)
 
 ## Frameworks
 
@@ -468,6 +480,7 @@
 - [Plight At The End Of The Tunnel](https://www.endgame.com/blog/technical-blog/plight-end-tunnel)
 - [dref](https://github.com/mwrlabs/dref): DNS Rebinding Exploitation Framework
 - [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit): A front-end JavaScript toolkit for creating DNS rebinding attacks.
+- [Bypass firewalls by abusing DNS history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history): Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.
 
 ## Exfiltration
 
@@ -650,8 +663,9 @@
 - [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 
 #### Mimikatz
+- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 
-Some mimikatz stuff:
+#### Mimikatz
 
 - [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
 - [Preventing Mimikatz Attacks – Blue Team – Medium](https://medium.com/blue-team/preventing-mimikatz-attacks-ed283e7ebdd5)
@@ -725,6 +739,8 @@ Some mimikatz stuff:
 - [Capture data from QPSK-demodulated OOB bitstream with Saleae logic analyzer and output byte stream.](https://github.com/akacastor/noob)
 - [Process QPSK-demodulated data into transport stream (SCTE 55-1)](https://github.com/akacastor/oobin)
 - [OpenSatelliteProject](https://github.com/opensatelliteproject/OpenSatelliteProject): Open Satellite Project Information. [osp-build.sh](https://gist.github.com/hdoverobinson/82e3f08c34052d36c92e8db5a027d129): Builds Open Satellite Project xritdemod and goesdump from source
+  - [Capture data from QPSK-demodulated OOB bitstream with Saleae logic analyzer and output byte stream.](https://github.com/akacastor/noob)
+  - [Process QPSK-demodulated data into transport stream (SCTE 55-1)](https://github.com/akacastor/oobin)
 
 ## Tools
 
@@ -802,7 +818,7 @@ Some mimikatz stuff:
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
 - [kbd-audio](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture
 - [certstreamcatcher](https://github.com/6IX7ine/certstreamcatcher): This tool is based on regex with effective standards for detecting phishing sites in real time using certstream and can also detect punycode (IDNA) attacks. 
-  
+
 ## General
 
 - [Explain Shell](https://explainshell.com)
@@ -841,6 +857,7 @@ Some mimikatz stuff:
 - [security](https://github.com/tc39/security): Discussion area for security aspects of ECMAScript
 - [Template for Data Protection Impact Assessment (DPIA)](https://iapp.org/resources/article/template-for-data-protection-impact-assessment-dpia/)
 - [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html)
+- [hash collisions](https://github.com/corkami/pocs/blob/master/collisions/README.md) exploitation and other [pocs](https://github.com/corkami/pocs), a [script to collide PDFs](https://github.com/corkami/pocs/commit/3832f62d8aad64d541c5d1fee755f30c44535374)
 
 ---
 
@@ -906,6 +923,7 @@ Some good places to visit:
 - [fuzz.txt](https://github.com/Bo0oM/fuzz.txt): Potentially dangerous files
 - Sprites [Hacks](http://spritesmods.com/?art=hacks): I'm an avid hacker: While some people like to spend their times by, for example, playing games, I enjoy ripping different pieces of hardware apart and using them in a way they weren't meant to use. Some of these projects are documented here.
 - [Corkami PoCs](https://github.com/corkami/pocs): Proof of Concepts (PE, PDF...), **hash collision**
+
 ---
 
 ## Fun
