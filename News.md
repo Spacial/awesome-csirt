@@ -52,6 +52,10 @@
 - [Operation Sharpshooter](https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/) Targets Global Defense, Critical Infrastructure
 - [Our Security Models Will Never Work—No Matter What We Do](https://www.schneier.com/essays/archives/2013/03/our_security_models.html).
 
+## 2019
+
+-[Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie)
+
 ## Politics
 
 - [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
