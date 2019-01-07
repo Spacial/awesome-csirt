@@ -188,6 +188,7 @@
 - [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth)
 - [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
 - [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
+- [solo-hw](https://github.com/SoloKeysSec/solo-hw): Hardware sources for Solo
 - [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
 - [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes.
 - [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
