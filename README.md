@@ -4,61 +4,6 @@
 
  Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 
-<!-- TOC -->
-
-- [CSIRT ![Awesome](https://github.com/sindresorhus/awesome)](#csirt-awesomehttpsgithubcomsindresorhusawesome)
-  - [Books](#books)
-  - [Links](#links)
-  - [CVEs](#cves)
-  - [Malware Analysis](#malware-analysis)
-    - [Samples](#samples)
-    - [Repos](#repos)
-    - [Ransomwares](#ransomwares)
-    - [Virus/Anti-Virus](#virusanti-virus)
-    - [Trojans/Loggers](#trojansloggers)
-  - [Reverse Engineering](#reverse-engineering)
-  - [Frameworks](#frameworks)
-  - [Patching](#patching)
-  - [Hardening](#hardening)
-    - [Apache](#apache)
-  - [Credentials](#credentials)
-  - [Secure Programming](#secure-programming)
-    - [Fuzzing](#fuzzing)
-  - [CTFs](#ctfs)
-  - [Phreak](#phreak)
-  - [Archs](#archs)
-  - [Pentesting](#pentesting)
-    - [Vulnerability](#vulnerability)
-    - [WAFs](#wafs)
-    - [Exploits](#exploits)
-    - [Red Team](#red-team)
-  - [DNS](#dns)
-  - [Exfiltration](#exfiltration)
-  - [Forensics](#forensics)
-  - [Blue Team](#blue-team)
-    - [Threat Hunting](#threat-hunting)
-    - [SIEM](#siem)
-  - [Browsers](#browsers)
-  - [Operating Systems](#operating-systems)
-    - [UEFI](#uefi)
-    - [Windows](#windows)
-      - [Mimikatz](#mimikatz)
-    - [macOS/iOS](#macosios)
-    - [Android](#android)
-    - [Linux](#linux)
-  - [Risk Assessment](#risk-assessment)
-  - [Satellite](#satellite)
-  - [Tools](#tools)
-  - [General](#general)
-  - [Conferences and Slides](#conferences-and-slides)
-  - [Sources](#sources)
-  - [Fun](#fun)
-  - [CFPs](#cfps)
-  - [2018](#2018)
-  - [Articles](#articles)
-
-<!-- /TOC -->
-
 ## Books
 
 - Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br)
@@ -83,6 +28,7 @@
 - [SPLOITUS](https://sploitus.com/): Exploit search engine.
 - [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
 - [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
+- [CRYPTO101](https://www.crypto101.io/): Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
 
 ## CVEs
 
@@ -142,6 +88,8 @@
 - [Mac malware combines EmPyre backdoor and XMRig miner](https://blog.malwarebytes.com/threat-analysis/2018/12/mac-malware-combines-empyre-backdoor-and-xmrig-miner/)
 - [The Full Guide Understanding Fileless Malware Infections](https://www.peerlyst.com/posts/understanding-fileless-malware-infections-the-full-guide-andra-zaharia)
 - ['Injection' Without Injection](https://secrary.com/Random/injectionwithoutinjection/)
+- [Analysis of Neutrino Bot Sample](http://www.peppermalware.com/2019/01/analysis-of-neutrino-bot-sample-2018-08-27.html) (dated 2018-08-27): In this post I analyze a Neutrino Bot sample.
+- [pafish](https://github.com/a0rtega/pafish): Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 
 ### Samples
 
@@ -444,7 +392,9 @@
 - [linpostexp](https://github.com/reider-roque/linpostexp): Linux post exploitation enumeration and exploit checking tools
 - [Attacking Google Authenticator](https://www.unix-ninja.com/p/attacking_google_authenticator)
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. [installation guide](https://github.com/RhinoSecurityLabs/pacu/wiki/Installation), [starting guide](https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html)
-- Glibc Heap Exploitation Basics: [Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
+- Glibc Heap Exploitation Basics:
+  - [Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
+  - [ptmalloc2 internals (Part 2)](https://blog.k3170makan.com/2018/12/glibc-heap-exploitation-basics.html) - Fast Bins and First Fit Redirection
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator): The single instruction C compiler
 
 ### Red Team
@@ -454,6 +404,7 @@
 - [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
 - [Flying under the radar](https://itsecx.fhstp.ac.at/wp-content/uploads/2018/11/02_Rene_Freingruber_Flying_under_the_radar_freingruber_v1.00.pdf): Hack into a „highly protected“ company without getting caught
 - [demiguise](https://github.com/nccgroup/demiguise): HTA encryption tool for RedTeams
+- [Cobalt Strike](https://www.cobaltstrike.com/): is software for Adversary Simulations and Red Team Operations. 3.13 [release notes](https://blog.cobaltstrike.com/2019/01/02/cobalt-strike-3-13-why-do-we-argue/)
 
 ## DNS
 
@@ -537,6 +488,7 @@
 
 - [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
 - The 9 Lives of Bleichenbacher's CAT: [New Cache ATtacks on TLS Implementations](https://www.nccgroup.trust/us/our-research/the-9-lives-of-bleichenbachers-cat-new-cache-attacks-on-tls-implementations/)
+- [How To Blow Your Online Cover With URL Previews](https://hunch.ly/osint-articles/osint-article-how-to-blow-your-online-cover)
 
 ## Operating Systems
 
@@ -654,17 +606,19 @@
 - An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
 - [Having fun with macOS 1days](https://github.com/theori-io/zer0con2018_singi)  
 - [x18-leak](https://github.com/bazad/x18-leak): iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.
-- [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
 - [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7
 - [SDQAnalyzer](https://github.com/nezza/SDQAnalyzer): a Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 - [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 - [jelbrekTime](https://github.com/tihmstar/jelbrekTime): An developer jailbreak for Apple watch S3 watchOS 4.1
 - [Disabling MacOS SIP via a VirtualBox kext Vulnerability](https://www.mdsec.co.uk/2018/08/disabling-macos-sip-via-a-virtualbox-kext-vulnerability/)
 - [mOSL](https://github.com/0xmachos/mOSL): Bash script to audit and fix macOS High Sierra (10.13.x) security settings
-- [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
+- Objective-See:
+  - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
+  - [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
+  - [Remote Mac Exploitation Via Custom URL Schemes](https://objective-see.com/blog/blog_0x38.html)
+  - [The Mac Malware of 2018](https://objective-see.com/blog/blog_0x3C.html)
 - [KisMac2](https://github.com/IGRSoft/KisMac2): KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
 - [osx-security-awesome](https://github.com/kai5263499/osx-security-awesome): A collection of OSX and iOS security resources
-- [Remote Mac Exploitation Via Custom URL Schemes](https://objective-see.com/blog/blog_0x38.html)
 - [threadexec](https://github.com/bazad/threadexec): A library to execute code in the context of other processes on iOS 11.
 - [Knowledge is Power! Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)
 - [iOS12 Kernelcache Laundering](https://www.synacktiv.com/posts/exploit/ios12-kernelcache-laundering.html)
@@ -790,6 +744,10 @@
 - [freedomfighting](https://github.com/JusticeRage/freedomfighting/): A collection of scripts which may come in handy during your freedom fighting activities.
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
 - [kbd-audio](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture
+- [Crockford’s base 32 encoding](https://www.johndcook.com/blog/2018/12/28/base-32-and-base-64-encoding/): Crockford’s base 32 encoding is a compromise between efficiency and human legibility.
+- [Sputnik](https://medium.com/bugbountywriteup/sputnik-an-open-source-intelligence-browser-extension-da2f2c22c8ec) -An Open Source Intelligence Browser Extension
+- [PCredz](https://github.com/lgandx/PCredz): This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
+- [..Modlishka..](https://github.com/drk1wi/Modlishka): Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
 
 ## General
 
