@@ -54,7 +54,7 @@
 
 ## 2019
 
--[Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie)
+-[Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
 
 ## Politics
 

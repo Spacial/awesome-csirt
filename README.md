@@ -162,6 +162,7 @@
 - [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
 - [Beam me up, CFG.](https://86hh.github.io/cfg.html): Earlier in 2018 while revisiting the Delay Import Table, I used dumpbin to check the Load Configuration data of a file and noticed new fields in it. And at the time of writing this, more fields were added! The first CFGuard caught my attention and I learned about Control Flow Guard, it is a new security feature. To put it simple, it protects the execution flow from redirection - for example, from exploits that overwrite an address in the stack. Maybe they should call it the Security Directory instead.
 - Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)
+- [PBA - Analysis Tools](https://github.com/Fare9/PBA_Analysis_Tools): My own versions from the programs of the book "Practical Binary Analysis"
 
 ## Frameworks
 
@@ -658,6 +659,7 @@
 - [GMER](http://www.gmer.net/): Rootkit Detector and Remover
 - [suprotect](https://github.com/perceptionpoint/suprotect): Changing memory protection in an arbitrary process
 - [A look at home routers, and a surprising bug in Linux/MIPS](https://cyber-itl.org/2018/12/07/a-look-at-home-routers-and-linux-mips.html)
+- (pt-br) [Hacking Tricks](http://maycon.hacknroll.io/hacking-tricks/2019/01/08/linux-privesc-with-capability.html): Escalação de Privilégio em Linux com Capability
 
 ## Risk Assessment
 
@@ -749,6 +751,8 @@
 - [Sputnik](https://medium.com/bugbountywriteup/sputnik-an-open-source-intelligence-browser-extension-da2f2c22c8ec) -An Open Source Intelligence Browser Extension
 - [PCredz](https://github.com/lgandx/PCredz): This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
 - [..Modlishka..](https://github.com/drk1wi/Modlishka): Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
+- [uncaptcha2](https://github.com/ecthros/uncaptcha2): defeating the latest version of ReCaptcha with 91% accuracy
+- [Nefarious LinkedIn](https://github.com/dandrews/nefarious-linkedin): A look at how LinkedIn spies on its users.
 
 ## General
 
@@ -788,6 +792,7 @@
 - [security](https://github.com/tc39/security): Discussion area for security aspects of ECMAScript
 - [Template for Data Protection Impact Assessment (DPIA)](https://iapp.org/resources/article/template-for-data-protection-impact-assessment-dpia/)
 - [hash collisions](https://github.com/corkami/pocs/blob/master/collisions/README.md) exploitation and other [pocs](https://github.com/corkami/pocs), a [script to collide PDFs](https://github.com/corkami/pocs/commit/3832f62d8aad64d541c5d1fee755f30c44535374)
+- [Shodan - A tool for Security and Market Research](http://aliarsalankazmi.github.io/blog_DA/posts/r/2017/11/21/shodan-r-market-security-research.html)
 
 ---
 
@@ -829,6 +834,7 @@
 - [Code Obfuscation 10**2+(2*a+3)%2](https://www.synacktiv.com/ressources/jsecin_code_obfu.pdf)
 - [DeepState](http://www.petergoodman.me/docs/secdev-2018-slides.pdf): Bringing vulnerability detection tools into the development lifecycle, [paper](http://www.petergoodman.me/docs/bar-2018-paper.pdf): DeepState: Symbolic Unit Testing for C and C++
 - [Hardware Memory Tagging to make C/C++ memory safe(r)](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe%28r%29%20-%20iSecCon%202018.pdf)
+- [wallet.fail](https://media.ccc.de/v/35c3-9563-wallet_fail#t=1152): Hacking the most popular cryptocurrency hardware wallets
 
 ---
 
@@ -880,6 +886,7 @@ Some good places to visit:
 - [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386)
 - [Stealing Webpages Rendered on Your Browser by Exploiting GPU Vulnerabilities](https://www.cc.gatech.edu/~slee3036/papers/lee:gpu.pdf)
 - [The Hunt for 3ve](https://services.google.com/fh/files/blogs/3ve_google_whiteops_whitepaper_final_nov_2018.pdf): Taking down a major ad fraud operation through industry collaboration.
+- [Page Cache Attacks](https://arxiv.org/abs/1901.01161): We present a new hardware-agnostic side-channel attack that targets one of the most fundamental software caches in modern computer systems: the operating system page cache.
 
 ---
 
