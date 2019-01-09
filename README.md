@@ -4,63 +4,6 @@
 
  Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 
-<!-- TOC -->
-
-- [CSIRT ![Awesome](https://github.com/sindresorhus/awesome)](#csirt-awesomehttpsgithubcomsindresorhusawesome)
-  - [Books](#books)
-  - [Links](#links)
-  - [CVEs](#cves)
-  - [Malware Analysis](#malware-analysis)
-    - [Samples](#samples)
-    - [Repos](#repos)
-    - [Ransomwares](#ransomwares)
-    - [Virus/Anti-Virus](#virusanti-virus)
-    - [Trojans/Loggers](#trojansloggers)
-  - [Reverse Engineering](#reverse-engineering)
-    - [Binary Analysis](#binary-analysis)
-  - [Frameworks](#frameworks)
-  - [Patching](#patching)
-  - [Hardening](#hardening)
-    - [Apache](#apache)
-  - [Credentials](#credentials)
-  - [Secure Programming](#secure-programming)
-    - [Fuzzing](#fuzzing)
-  - [CTFs](#ctfs)
-  - [Phreak](#phreak)
-  - [Archs](#archs)
-  - [Pentesting](#pentesting)
-    - [Vulnerability](#vulnerability)
-    - [WAFs](#wafs)
-    - [Exploits](#exploits)
-    - [Red Team](#red-team)
-  - [DNS](#dns)
-  - [Exfiltration](#exfiltration)
-  - [Forensics](#forensics)
-  - [Blue Team](#blue-team)
-    - [Threat Hunting](#threat-hunting)
-    - [SIEM](#siem)
-  - [Browsers](#browsers)
-  - [Operating Systems](#operating-systems)
-    - [UEFI](#uefi)
-    - [Windows](#windows)
-      - [Mimikatz](#mimikatz)
-    - [macOS/iOS](#macosios)
-    - [Android](#android)
-    - [Linux](#linux)
-  - [Risk Assessment](#risk-assessment)
-  - [Satellite](#satellite)
-  - [Tools](#tools)
-    - [VPN](#vpn)
-  - [General](#general)
-  - [Conferences and Slides](#conferences-and-slides)
-  - [Sources](#sources)
-  - [Fun](#fun)
-  - [CFPs](#cfps)
-  - [2018](#2018)
-  - [Articles](#articles)
-
-<!-- /TOC -->
-
 ## Books
 
 - Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br)
@@ -85,6 +28,7 @@
 - [SPLOITUS](https://sploitus.com/): Exploit search engine.
 - [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
 - [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
+- [CRYPTO101](https://www.crypto101.io/): Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
 
 ## CVEs
 
@@ -102,7 +46,6 @@
 - [Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
 - [Indicators: Champing at the Cyberbit](https://github.com/citizenlab/malware-indicators/tree/master/201712_Cyberbit)
 - [Limon - Sandbox for Analyzing Linux Malwares](https://github.com/monnappa22/Limon)
-- [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
 - [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
 - [Framework for building Windows malware, written in C++](https://github.com/richkmeli/Richkware)
 - [binary ninja](https://binary.ninja/demo/)
@@ -145,6 +88,8 @@
 - [Mac malware combines EmPyre backdoor and XMRig miner](https://blog.malwarebytes.com/threat-analysis/2018/12/mac-malware-combines-empyre-backdoor-and-xmrig-miner/)
 - [The Full Guide Understanding Fileless Malware Infections](https://www.peerlyst.com/posts/understanding-fileless-malware-infections-the-full-guide-andra-zaharia)
 - ['Injection' Without Injection](https://secrary.com/Random/injectionwithoutinjection/)
+- [Analysis of Neutrino Bot Sample](http://www.peppermalware.com/2019/01/analysis-of-neutrino-bot-sample-2018-08-27.html) (dated 2018-08-27): In this post I analyze a Neutrino Bot sample.
+- [pafish](https://github.com/a0rtega/pafish): Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 
 ### Samples
 
@@ -201,8 +146,6 @@
 - [Reverse Engineering for Beginners](https://www.begin.re)
 - [VivienneVMM](https://github.com/changeofpace/VivienneVMM): VivienneVMM is a stealthy debugging framework implemented via an Intel VT-x hypervisor.
 - [Xori](https://github.com/endgameinc/xori): Custom disassembly framework
-- [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform
-- [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
 - [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
 - [starshipraider](https://github.com/azonenberg/starshipraider): High performance embedded systems debug/reverse engineering platform
 - [GBA-IDA-Pseudo-Terminal](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal): IDAPython tools to aid with analysis, disassembly and data extraction using IDA python commands, tailored for the GBA architecture at some parts
@@ -214,19 +157,6 @@
 - [LIEF](https://lief.quarkslab.com/): Library to Instrument Executable Formats  ([github](https://github.com/lief-project/LIEF/))
 - [pwndbg](https://github.com/pwndbg/pwndbg): Exploit Development and Reverse Engineering with GDB Made Easy  
 - [DEBIN](https://debin.ai/): Predicting Debug Information in Stripped Binaries
-- [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
-- [Beam me up, CFG.](https://86hh.github.io/cfg.html): Earlier in 2018 while revisiting the Delay Import Table, I used dumpbin to check the Load Configuration data of a file and noticed new fields in it. And at the time of writing this, more fields were added! The first CFGuard caught my attention and I learned about Control Flow Guard, it is a new security feature. To put it simple, it protects the execution flow from redirection - for example, from exploits that overwrite an address in the stack. Maybe they should call it the Security Directory instead.
-- Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)
-
-### Binary Analysis
-
-- [Practical Binary Analysis](https://practicalbinaryanalysis.com): Practical Binary Analysis covers all major binary analysis topics in an accessible way, from binary formats, disassembly, and basic analysis to advanced techniques like binary instrumentation, taint analysis, and symbolic execution.
-- [Analyzing ARM Cortex-based MCU firmwares using Binary Ninja](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
-- [lighthouse](https://github.com/gaasedelen/lighthouse): Code Coverage Explorer for IDA Pro & Binary Ninja
-- [binja-ipython](https://github.com/ernw/binja-ipython): A plugin to integrate an IPython kernel into Binary Ninja.
-- [rattle](https://github.com/trailofbits/rattle): Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts.
-- [binary ninja](https://binary.ninja/demo/)
-- [A Dynamic Binary Instrumentation framework based on LLVM](https://github.com/quarkslab/QBDI)
 - [Analyzing ARM Cortex-based MCU firmwares using Binary Ninja](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
 - [lighthouse](https://github.com/gaasedelen/lighthouse): Code Coverage Explorer for IDA Pro & Binary Ninja
 - [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
@@ -259,6 +189,7 @@
 - [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth)
 - [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
 - [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
+- [solo-hw](https://github.com/SoloKeysSec/solo-hw): Hardware sources for Solo
 - [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
 - [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes.
 - [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
@@ -414,7 +345,6 @@
 - [IVRE](https://ivre.rocks/): Network recon framework ([github](https://github.com/cea-sec/ivre)).
 - (pt-br) [DomainInformation](https://github.com/GreyHatsBR/DomainInformation): Tool para a identificação de arquivos, pastas, servidores DNS, E-mail. Tenta fazer transferência de zona, Busca por subdomínios e por ultimo, procura por portas abertas em cada ip dos subdomínios.. Desfrutem =)
 - [GTRS](https://github.com/mthbernardes/GTRS): GTRS - Google Translator Reverse Shell
-- [w3Brute](https://github.com/aprilahijriyan/w3brute): Automatic Web Application Brute Force Attack Tool
 
 ### Vulnerability
 
@@ -466,7 +396,9 @@
 - [linpostexp](https://github.com/reider-roque/linpostexp): Linux post exploitation enumeration and exploit checking tools
 - [Attacking Google Authenticator](https://www.unix-ninja.com/p/attacking_google_authenticator)
 - [Pacu](https://github.com/RhinoSecurityLabs/pacu): The AWS exploitation framework, designed for testing the security of Amazon Web Services environments. [installation guide](https://github.com/RhinoSecurityLabs/pacu/wiki/Installation), [starting guide](https://www.kitploit.com/2018/11/pacu-aws-exploitation-framework.html)
-- Glibc Heap Exploitation Basics: [Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
+- Glibc Heap Exploitation Basics:
+  - [Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
+  - [ptmalloc2 internals (Part 2)](https://blog.k3170makan.com/2018/12/glibc-heap-exploitation-basics.html) - Fast Bins and First Fit Redirection
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator): The single instruction C compiler
 - [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
 
@@ -479,6 +411,7 @@
 - [demiguise](https://github.com/nccgroup/demiguise): HTA encryption tool for RedTeams
 - [Sn1per](https://github.com/1N3/Sn1per): Automated pentest framework for offensive security experts
 - [jenkins-shell](https://github.com/joesmithjaffa/jenkins-shell): Automating Jenkins Hacking using Shodan API
+- [Cobalt Strike](https://www.cobaltstrike.com/): is software for Adversary Simulations and Red Team Operations. 3.13 [release notes](https://blog.cobaltstrike.com/2019/01/02/cobalt-strike-3-13-why-do-we-argue/)
 
 ## DNS
 
@@ -564,6 +497,7 @@
 
 - [Bypassing Browser Security Warnings with Pseudo Password Fields](https://www.troyhunt.com/bypassing-browser-security-warnings-with-pseudo-password-fields/)
 - The 9 Lives of Bleichenbacher's CAT: [New Cache ATtacks on TLS Implementations](https://www.nccgroup.trust/us/our-research/the-9-lives-of-bleichenbachers-cat-new-cache-attacks-on-tls-implementations/)
+- [How To Blow Your Online Cover With URL Previews](https://hunch.ly/osint-articles/osint-article-how-to-blow-your-online-cover)
 
 ## Operating Systems
 
@@ -670,6 +604,7 @@
 - [Simpleator](https://github.com/ionescu007/Simpleator): ("Simple-ator") is an innovative Windows-centric x64 user-mode application emulator that lever
 - [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 - [Windows Privilege Escalation Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/): This guide is influenced by g0tm1lk’s Basic Linux Privilege Escalation, which at some point you should have already seen and used. I wanted to try to mirror his guide, except for Windows. So this guide will mostly focus on the enumeration aspect.
+- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 
 #### Mimikatz
 
@@ -683,23 +618,24 @@
 - An iOS App In [Assembly](https://github.com/richardjrossiii/iOSAppInAssembly)
 - [Having fun with macOS 1days](https://github.com/theori-io/zer0con2018_singi)  
 - [x18-leak](https://github.com/bazad/x18-leak): iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.
-- [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
 - [EmPyre](https://github.com/empireproject/empyre): A post-exploitation OS X/Linux agent written in Python 2.7
 - [SDQAnalyzer](https://github.com/nezza/SDQAnalyzer): a Saleae analyzer plugin for the SDQ (Apple Lightning, MagSafe, Battery) protocol.
 - [Inside Code Signing](https://www.objc.io/issues/17-security/inside-code-signing/)
 - [jelbrekTime](https://github.com/tihmstar/jelbrekTime): An developer jailbreak for Apple watch S3 watchOS 4.1
 - [Disabling MacOS SIP via a VirtualBox kext Vulnerability](https://www.mdsec.co.uk/2018/08/disabling-macos-sip-via-a-virtualbox-kext-vulnerability/)
 - [mOSL](https://github.com/0xmachos/mOSL): Bash script to audit and fix macOS High Sierra (10.13.x) security settings
-- [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
+- Objective-See:
+  - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb): Detect Evil Maid Attacks
+  - [sniffMK](https://github.com/objective-see/sniffMK): sniff mouse and keyboard events
+  - [Remote Mac Exploitation Via Custom URL Schemes](https://objective-see.com/blog/blog_0x38.html)
+  - [The Mac Malware of 2018](https://objective-see.com/blog/blog_0x3C.html)
 - [KisMac2](https://github.com/IGRSoft/KisMac2): KisMAC is a free, open source wireless stumbling and security tool for Mac OS X.
 - [osx-security-awesome](https://github.com/kai5263499/osx-security-awesome): A collection of OSX and iOS security resources
-- [Remote Mac Exploitation Via Custom URL Schemes](https://objective-see.com/blog/blog_0x38.html)
 - [threadexec](https://github.com/bazad/threadexec): A library to execute code in the context of other processes on iOS 11.
 - [Knowledge is Power! Using the macOS/iOS knowledgeC.db Database to Determine Precise User and Application Usage](https://www.mac4n6.com/blog/2018/8/5/knowledge-is-power-using-the-knowledgecdb-database-on-macos-and-ios-to-determine-precise-user-and-application-usage)
 - [iOS12 Kernelcache Laundering](https://www.synacktiv.com/posts/exploit/ios12-kernelcache-laundering.html)
 - [kernelcache-laundering](https://github.com/Synacktiv/kernelcache-laundering): load iOS12 kernelcaches and PAC code in IDA
 - [Armor](https://github.com/tokyoneon/Armor): is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners. [Tool Designed To Create Encrypted macOS Payloads](https://www.kitploit.com/2018/11/armor-tool-designed-to-create-encrypted.html)
-- [Middle East Cyber-Espionage](https://objective-see.com/blog/blog_0x3B.html)
 
 ### Android
 
@@ -710,7 +646,6 @@
 - [android-device-check](https://github.com/nelenkov/android-device-check): Check Android device security settings
 - [Project Zero](https://googleprojectzero.blogspot.com/2018/09/oatmeal-on-universal-cereal-bus.html): OATmeal on the Universal Cereal Bus: Exploiting Android phones over USB
 - [I'm looking at a Huawei P20 from China, let see what can I found](https://threader.app/thread/1051204370543648770)
-- [Dwarf](https://github.com/iGio90/Dwarf): Aka my debugger for android reverse engineers and crackers. Built on top of pyqt5 (compatible with all os's), frida and some terrible code.
 
 ### Linux
 
@@ -744,9 +679,6 @@
 ## Satellite
 
 - [How Do I Crack Satellite and Cable Pay TV? (33c3)](https://www.youtube.com/watch?v=lhbSD1Jba0Q)
-- [Capture data from QPSK-demodulated OOB bitstream with Saleae logic analyzer and output byte stream.](https://github.com/akacastor/noob)
-- [Process QPSK-demodulated data into transport stream (SCTE 55-1)](https://github.com/akacastor/oobin)
-- [OpenSatelliteProject](https://github.com/opensatelliteproject/OpenSatelliteProject): Open Satellite Project Information. [osp-build.sh](https://gist.github.com/hdoverobinson/82e3f08c34052d36c92e8db5a027d129): Builds Open Satellite Project xritdemod and goesdump from source
   - [Capture data from QPSK-demodulated OOB bitstream with Saleae logic analyzer and output byte stream.](https://github.com/akacastor/noob)
   - [Process QPSK-demodulated data into transport stream (SCTE 55-1)](https://github.com/akacastor/oobin)
 
@@ -831,6 +763,10 @@
 - [jigsaw project](https://jigsaw.google.com/vision/) by Alphabet/Google. [Outline](https://github.com/Jigsaw-Code/outline-server): VPN Server.
 - [SSHuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 - [WireGuard](https://www.wireguard.com/): is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPSec, while avoiding the massive headache. 
+- [Crockford’s base 32 encoding](https://www.johndcook.com/blog/2018/12/28/base-32-and-base-64-encoding/): Crockford’s base 32 encoding is a compromise between efficiency and human legibility.
+- [Sputnik](https://medium.com/bugbountywriteup/sputnik-an-open-source-intelligence-browser-extension-da2f2c22c8ec) -An Open Source Intelligence Browser Extension
+- [PCredz](https://github.com/lgandx/PCredz): This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
+- [..Modlishka..](https://github.com/drk1wi/Modlishka): Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
 
 ## General
 
@@ -869,7 +805,6 @@
 - [Exploiting IoT enabled BLE smart bulb security](https://blog.attify.com/exploiting-iot-enabled-ble-smart-bulb-security/)
 - [security](https://github.com/tc39/security): Discussion area for security aspects of ECMAScript
 - [Template for Data Protection Impact Assessment (DPIA)](https://iapp.org/resources/article/template-for-data-protection-impact-assessment-dpia/)
-- [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html)
 - [hash collisions](https://github.com/corkami/pocs/blob/master/collisions/README.md) exploitation and other [pocs](https://github.com/corkami/pocs), a [script to collide PDFs](https://github.com/corkami/pocs/commit/3832f62d8aad64d541c5d1fee755f30c44535374)
 
 ---
@@ -935,8 +870,6 @@ Some good places to visit:
 - (pt-br)[PwnLab: init](https://lcesteves.wordpress.com/2018/11/24/pwnlab-init-writeup/)
 - [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
 - [fuzz.txt](https://github.com/Bo0oM/fuzz.txt): Potentially dangerous files
-- Sprites [Hacks](http://spritesmods.com/?art=hacks): I'm an avid hacker: While some people like to spend their times by, for example, playing games, I enjoy ripping different pieces of hardware apart and using them in a way they weren't meant to use. Some of these projects are documented here.
-- [Corkami PoCs](https://github.com/corkami/pocs): Proof of Concepts (PE, PDF...), **hash collision**
 
 ---
 
