@@ -2,8 +2,6 @@
 
 ## Contents
 
-<!-- TOC -->autoauto- [News](#news)auto    - [Contents](#contents)auto    - [2018](#2018)auto    - [Politics](#politics)auto        - [Online Voting](#online-voting)auto    - [Health](#health)auto    - [Brazil](#brazil)autoauto<!-- /TOC -->
-
 - [IOTA Vulnerability Report](https://github.com/mit-dci/tangled-curl/blob/master/vuln-iota.md)
 - [Symantec distrust impact on the webpki](https://gist.github.com/jvehent/0fbfb71bae06e48163f276592417079a)
 - [How long does it take for a MongoDB to be compromised](https://mackeepersecurity.com/post/how-long-does-it-take-for-a-mongodb-to-be-compromised)
@@ -54,7 +52,9 @@
 
 ## 2019
 
--[Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
+- [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
+- [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
+- [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
 
 ## Politics
 
@@ -66,7 +66,7 @@
 - [We are taking new steps against broadening threats to democracy](https://blogs.microsoft.com/on-the-issues/2018/08/20/we-are-taking-new-steps-against-broadening-threats-to-democracy/)
 - [violencia-nao-tem-partido](https://github.com/okfn-brasil/violencia-nao-tem-partido/): Hate crimes monitor for political motivated assaults in Brazil.
 - [Our Security Community - Microsoft Tech Community - 57519](https://techcommunity.microsoft.com/t5/Security-Privacy-Compliance/Our-Security-Community/td-p/57519)
-* Yale Professor Jason Stanley Identifies Three Essential Features of [Fascism](http://www.openculture.com/2018/10/yale-professor-jason-stanley-identifies-three-essential-features-of-fascism.html): Invoking a Mythic Past, Sowing Division & Attacking Truth.
+- Yale Professor Jason Stanley Identifies Three Essential Features of [Fascism](http://www.openculture.com/2018/10/yale-professor-jason-stanley-identifies-three-essential-features-of-fascism.html): Invoking a Mythic Past, Sowing Division & Attacking Truth.
 - [How social media is crippling democracy, and why we seem powerless to stop it](https://www.zdnet.com/article/how-weaponized-social-media-is-crippling-democracy-and-why-were-helpless-to-stop-it/)
 - [WHY THE LEFT-WING NEEDS A GUN CULTURE](https://diversityoftactics.org/2017/01/21/why-the-left-wing-needs-a-gun-culture/)  
 - [GLOBAL COMMISSION INTRODUCES SIX CRITICAL NORMS TOWARDS CYBER STABILITY](https://cyberstability.org/news/global-commission-introduces-six-critical-norms-towards-cyber-stability/)
