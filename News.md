@@ -52,10 +52,17 @@
 
 ## 2019
 
+<<<<<<< HEAD
 - [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
 - [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
 - [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
 - [UNDERCLOCKING THE ESP8266 LEADS TO WIFI WEIRDNESS](https://hackaday.com/2019/01/04/underclocking-the-esp8266-leads-to-wifi-weirdness/): Sometimes the best hacks come from the most basic of questions. In this case, [CNLohr] was wondering what would happen if he started to reduce the clock speed of the ESP8266’s Baseband PLL (BBPLL) while still trying to communicate with it.
+=======
+-[Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie)
+- [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
+- [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
+- [why-telegram-is-insecure.md](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
+>>>>>>> 8ce371d88e3437fe52ab240c44c54ae2a43f226c
 
 ## Politics
 

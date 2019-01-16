@@ -91,6 +91,7 @@
 - ['Injection' Without Injection](https://secrary.com/Random/injectionwithoutinjection/)
 - [Analysis of Neutrino Bot Sample](http://www.peppermalware.com/2019/01/analysis-of-neutrino-bot-sample-2018-08-27.html) (dated 2018-08-27): In this post I analyze a Neutrino Bot sample.
 - [pafish](https://github.com/a0rtega/pafish): Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
+- [Thunderstrike2 details](https://trmm.net/Thunderstrike2_details): This is the annotated transcript of our DefCon 23 / BlackHat 2015 talk, which presented the full details of Thunderstrike 2, the first firmware worm for Apple's Macs that can spread via both software or Thunderbolt hardware accessories and writes itself to the boot flash on the system's motherboard.
 
 ### Samples
 
@@ -257,6 +258,8 @@
 - [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
 - [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
 - [Tooling for verification of PGP signed commits](https://github.com/bitcoin/bitcoin/tree/master/contrib/verify-commits)
+- [tlse](https://github.com/eduardsui/tlse): Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
+- [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
 
 ### Fuzzing
 
@@ -819,6 +822,7 @@
 - [Template for Data Protection Impact Assessment (DPIA)](https://iapp.org/resources/article/template-for-data-protection-impact-assessment-dpia/)
 - [hash collisions](https://github.com/corkami/pocs/blob/master/collisions/README.md) exploitation and other [pocs](https://github.com/corkami/pocs), a [script to collide PDFs](https://github.com/corkami/pocs/commit/3832f62d8aad64d541c5d1fee755f30c44535374)
 - [Shodan - A tool for Security and Market Research](http://aliarsalankazmi.github.io/blog_DA/posts/r/2017/11/21/shodan-r-market-security-research.html)
+- [Engineering Security](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf): general book about a range of topics in security.
 
 ---
 
@@ -899,6 +903,7 @@ Some good places to visit:
 - [Reverse Engineering Pokémon GO Plus](https://tinyhack.com/2018/11/21/reverse-engineering-pokemon-go-plus/): TL;DR; You can clone a Pokemon GO Plus device that you own. [pgpemu](https://github.com/yohanes/pgpemu): github repo.
 - [grugq quotes](https://gist.github.com/0xdabbad00/18c4743455022109e69cca1de11e9cb6)
 - [Pivots & Payloads Board Game](https://www.sans.org/webcasts/introducing-pen-test-poster-pivots-payloads-board-game-109505): Introducing the NEW SANS Pen Test Poster by SANS Institute
+- [Chess Steganography](https://incoherency.co.uk/chess-steg/)
 
 ---
 
