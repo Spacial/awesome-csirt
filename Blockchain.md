@@ -3,11 +3,7 @@
 - [blockchain-security-contacts](https://github.com/trailofbits/blockchain-security-contacts): Directory of security contacts for blockchain companies
 - [MIT DCI's Cryptocurrency Research Review #1](https://mitcryptocurrencyresearch.substack.com/p/mit-dcis-cryptocurrency-research)
 - [What is Stellar?](https://achainofblocks.com/2018/12/13/what-is-stellar-consensus-protocol-federated-byzantine-agreement/)  Deep Dive into Stellar Consensus Protocol | Federated Byzantine Agreement
-<<<<<<< HEAD
 
-=======
-  
->>>>>>> 664b9635c8dddc0bc6367eb9596be486d51d7d5f
 ## Bitcoin
 
 - [Bitcoin keys and elliptic curve secp256k1](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
@@ -37,7 +33,7 @@
 
 #### 2019
 
-- [Arvind Narayanan on Twitter](https://twitter.com/random_walker/status/1079759096272818178): "In 2018 the blockchain/decentralization story fell apart. For example, a study of 43 use cases found a 0% success rate. https://t.co/FTEKKCPAy8 Let's talk about some mistaken assumptions about decentralization that led to the blockchain hype, and what we can learn from them."
+- [Arvind Narayanan on Twitter](https://twitter.com/random_walker/status/1079759096272818178): "In 2018 the blockchain/decentralization story fell apart. For example, a study of 43 use cases found a 0% success rate. [link](https://t.co/FTEKKCPAy8) Let's talk about some mistaken assumptions about decentralization that led to the blockchain hype, and what we can learn from them."
 
 ## Voting
 

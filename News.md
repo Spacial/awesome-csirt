@@ -52,6 +52,7 @@
 
 ## 2019
 
+<<<<<<< HEAD
 - [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie)
 - [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
 - [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
@@ -59,6 +60,20 @@
 - (pt-br) Brazilian Leak: [e5qwt - Ghostbin](https://ghostbin.com/paste/e5qwt)
 - [Advancing Human-Rights-By-Design In The Dual-Use Technology Industry](https://jia.sipa.columbia.edu/advancing-human-rights-design-dual-use-technology-industry)
 - 
+=======
+<<<<<<< HEAD
+- [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
+- [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
+- [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
+- [UNDERCLOCKING THE ESP8266 LEADS TO WIFI WEIRDNESS](https://hackaday.com/2019/01/04/underclocking-the-esp8266-leads-to-wifi-weirdness/): Sometimes the best hacks come from the most basic of questions. In this case, [CNLohr] was wondering what would happen if he started to reduce the clock speed of the ESP8266’s Baseband PLL (BBPLL) while still trying to communicate with it.
+=======
+-[Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie)
+- [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
+- [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
+- [why-telegram-is-insecure.md](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
+>>>>>>> 8ce371d88e3437fe52ab240c44c54ae2a43f226c
+
+>>>>>>> ee693cad898b0a8e59e21319626aa07025cf0b53
 ## Politics
 
 - [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
@@ -69,7 +84,7 @@
 - [We are taking new steps against broadening threats to democracy](https://blogs.microsoft.com/on-the-issues/2018/08/20/we-are-taking-new-steps-against-broadening-threats-to-democracy/)
 - [violencia-nao-tem-partido](https://github.com/okfn-brasil/violencia-nao-tem-partido/): Hate crimes monitor for political motivated assaults in Brazil.
 - [Our Security Community - Microsoft Tech Community - 57519](https://techcommunity.microsoft.com/t5/Security-Privacy-Compliance/Our-Security-Community/td-p/57519)
-* Yale Professor Jason Stanley Identifies Three Essential Features of [Fascism](http://www.openculture.com/2018/10/yale-professor-jason-stanley-identifies-three-essential-features-of-fascism.html): Invoking a Mythic Past, Sowing Division & Attacking Truth.
+- Yale Professor Jason Stanley Identifies Three Essential Features of [Fascism](http://www.openculture.com/2018/10/yale-professor-jason-stanley-identifies-three-essential-features-of-fascism.html): Invoking a Mythic Past, Sowing Division & Attacking Truth.
 - [How social media is crippling democracy, and why we seem powerless to stop it](https://www.zdnet.com/article/how-weaponized-social-media-is-crippling-democracy-and-why-were-helpless-to-stop-it/)
 - [WHY THE LEFT-WING NEEDS A GUN CULTURE](https://diversityoftactics.org/2017/01/21/why-the-left-wing-needs-a-gun-culture/)  
 - [GLOBAL COMMISSION INTRODUCES SIX CRITICAL NORMS TOWARDS CYBER STABILITY](https://cyberstability.org/news/global-commission-introduces-six-critical-norms-towards-cyber-stability/)
