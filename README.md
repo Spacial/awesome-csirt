@@ -206,6 +206,8 @@
 - [CCAT](https://github.com/cisco-config-analysis-tool/ccat): Cisco Config Analysis Tool
 - [Keystone Project](https://keystone-enclave.org/). Github: [Keystone Enclave](https://github.com/keystone-enclave/)
 - [Zero-knowledge attestation](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
+- [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
+- [Secure & Ad-free Internet Anywhere With Streisand and Pi Hole](https://ifelse.io/2019/01/12/secure-ad-free-internet-anywhere-with-streisand-and-pi-hole/)
 
 ### Apache
 
@@ -348,6 +350,7 @@
 - [IVRE](https://ivre.rocks/): Network recon framework ([github](https://github.com/cea-sec/ivre)).
 - (pt-br) [DomainInformation](https://github.com/GreyHatsBR/DomainInformation): Tool para a identificação de arquivos, pastas, servidores DNS, E-mail. Tenta fazer transferência de zona, Busca por subdomínios e por ultimo, procura por portas abertas em cada ip dos subdomínios.. Desfrutem =)
 - [GTRS](https://github.com/mthbernardes/GTRS): GTRS - Google Translator Reverse Shell
+- [shellcode2asmjs](https://github.com/rh0dev/shellcode2asmjs): Automatically generate ASM.JS JIT-Spray payloads
 
 ### Vulnerability
 
@@ -472,6 +475,7 @@
 - [imago-forensics](https://github.com/redaelli/imago-forensics): Imago is a python tool that extract digital evidences from images.
 - [remedi-infrastructure](https://github.com/NationalCrimeAgency/remedi-infrastructure): setup and deployment code for setting up a REMEDI machine translation cluster
 - [Tsurugi Linux](https://tsurugi-linux.org/index.php) is a new DFIR open source project that is and will be totally free, independent without involving any commercial brand
+- [libelfmaster](https://github.com/elfmaster/libelfmaster): Secure ELF parsing/loading library for forensics reconstruction of malware, and robust reverse engineering tools
 
 ## Blue Team
 
@@ -608,6 +612,7 @@
 - [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 - [Windows Privilege Escalation Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/): This guide is influenced by g0tm1lk’s Basic Linux Privilege Escalation, which at some point you should have already seen and used. I wanted to try to mirror his guide, except for Windows. So this guide will mostly focus on the enumeration aspect.
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
+- [OrgKit](https://github.com/SwiftOnSecurity/OrgKit): Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 
 #### Mimikatz
 
@@ -760,6 +765,7 @@
 - [kbd-audio](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture
 - [certstreamcatcher](https://github.com/6IX7ine/certstreamcatcher): This tool is based on regex with effective standards for detecting phishing sites in real time using certstream and can also detect punycode (IDNA) attacks. 
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher): is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
+- [chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles securely across multiple machines.
 
 ### VPN
 
