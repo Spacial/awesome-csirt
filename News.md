@@ -52,6 +52,19 @@
 
 ## 2019
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+- [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie)
+- [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
+- [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
+- [why-telegram-is-insecure.md](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
+- (pt-br) Brazilian Leak: [e5qwt - Ghostbin](https://ghostbin.com/paste/e5qwt)
+- [Advancing Human-Rights-By-Design In The Dual-Use Technology Industry](https://jia.sipa.columbia.edu/advancing-human-rights-design-dual-use-technology-industry)
+- 
+=======
+<<<<<<< HEAD
+>>>>>>> 51f28517c35fd78eb0df2b1dad2ec4c732373405
 - [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
 - [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
 - [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
@@ -59,6 +72,7 @@
 - [why-telegram-is-insecure.md](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
 - [This Runner Is a Hitman. His GPS Watch Tied Him to a Mob Boss Murder](https://www.runnersworld.com/news/a25924256/mark-fellows-runner-hitman-murder/)
 
+>>>>>>> ee693cad898b0a8e59e21319626aa07025cf0b53
 ## Politics
 
 - [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
