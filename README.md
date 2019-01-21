@@ -92,6 +92,7 @@
 - [Analysis of Neutrino Bot Sample](http://www.peppermalware.com/2019/01/analysis-of-neutrino-bot-sample-2018-08-27.html) (dated 2018-08-27): In this post I analyze a Neutrino Bot sample.
 - [pafish](https://github.com/a0rtega/pafish): Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 - [Thunderstrike2 details](https://trmm.net/Thunderstrike2_details): This is the annotated transcript of our DefCon 23 / BlackHat 2015 talk, which presented the full details of Thunderstrike 2, the first firmware worm for Apple's Macs that can spread via both software or Thunderbolt hardware accessories and writes itself to the boot flash on the system's motherboard.
+- [Malboxes](https://gosecure.net/2017/02/16/introducing-malboxes-a-tool-to-build-malware-analysis-virtual-machines/): a Tool to Build Malware Analysis Virtual Machines, [github](https://github.com/GoSecure/malboxes)
 
 ### Samples
 
@@ -164,10 +165,14 @@
 - [lighthouse](https://github.com/gaasedelen/lighthouse): Code Coverage Explorer for IDA Pro & Binary Ninja
 - [Manticore](https://www.kitploit.com/2018/11/manticore-symbolic-execution-tool-for.html?m=1): Symbolic Execution Tool For Analysis Of Binaries And Smart Contracts. [manticore](https://github.com/trailofbits/manticore):  Symbolic execution tool
 - [Beam me up, CFG.](https://86hh.github.io/cfg.html): Earlier in 2018 while revisiting the Delay Import Table, I used dumpbin to check the Load Configuration data of a file and noticed new fields in it. And at the time of writing this, more fields were added! The first CFGuard caught my attention and I learned about Control Flow Guard, it is a new security feature. To put it simple, it protects the execution flow from redirection - for example, from exploits that overwrite an address in the stack. Maybe they should call it the Security Directory instead.
+- [Getting Started with Frida Tools](https://medium.com/@int0x33/day-19-getting-started-with-frida-tools-3aeb2f0063c3)
 - Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)
 - [PBA - Analysis Tools](https://github.com/Fare9/PBA_Analysis_Tools): My own versions from the programs of the book "Practical Binary Analysis"
 - [functrace](https://github.com/invictus1306/functrace): is a tool that helps to analyze a binary file with dynamic instrumentation using DynamoRIO
-
+- [Signature-Base](https://github.com/Neo23x0/signature-base): signature-base is the signature database for my scanners LOKI and SPARK Core.
+  - [Generic Anomalies](https://github.com/Neo23x0/signature-base/blob/master/yara/generic_anomalies.yar#L379): Detects an embedded executable in a non-executable file
+- [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction
+  
 ## Frameworks
 
 - [Inject code into running Python processes](https://github.com/lmacken/pyrasite)
@@ -413,7 +418,8 @@
   - [ptmalloc2 internals (Part 2)](https://blog.k3170makan.com/2018/12/glibc-heap-exploitation-basics.html) - Fast Bins and First Fit Redirection
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator): The single instruction C compiler
 - [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
-
+- [UEFI vulnerabilities classification focused on BIOS implant delivery](https://medium.com/@matrosov/uefi-vulnerabilities-classification-4897596e60af) and [What makes OS drivers dangerous for BIOS?](https://medium.com/@matrosov/dangerous-update-tools-c246f7299459)
+  
 ### Red Team
 
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
@@ -620,6 +626,7 @@
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit): Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [Leveraging WSUS](https://ijustwannared.team/2018/10/15/leveraging-wsus-part-one/).
+- [windowsblindread](https://github.com/soffensive/windowsblindread): A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system
 
 #### Mimikatz
 
@@ -829,6 +836,7 @@
 - [hash collisions](https://github.com/corkami/pocs/blob/master/collisions/README.md) exploitation and other [pocs](https://github.com/corkami/pocs), a [script to collide PDFs](https://github.com/corkami/pocs/commit/3832f62d8aad64d541c5d1fee755f30c44535374)
 - [Shodan - A tool for Security and Market Research](http://aliarsalankazmi.github.io/blog_DA/posts/r/2017/11/21/shodan-r-market-security-research.html)
 - [Engineering Security](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf): general book about a range of topics in security.
+- (ru) [Плакаты по информационной безопасности Российской армии](https://topwar.ru/129563-plakaty-po-informacionnoy-bezopasnosti-rossiyskoy-armii.html): Russian counter information posters.
 
 ---
 
