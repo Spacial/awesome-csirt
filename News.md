@@ -78,6 +78,7 @@
 - [Web Browsing Data Offer Better Election Predictions | Research](http://www.bu.edu/research/articles/better-election-predictions/)
 - [An Archive of 800+ Propaganda Maps Designed to Shape Opinions & Beliefs: Enter Cornell’s Persuasive Maps Collection](http://www.openculture.com/2018/11/cornells-persuasive-maps-collection.html)
 - [Spies Without Borders](https://www.bellingcat.com/news/uk-and-europe/2018/11/16/spies-without-borders-fsb-infiltrated-international-visa-system/): How the FSB Infiltrated the International Visa System
+- [The Plot Against George Soros](https://www.buzzfeednews.com/article/hnsgrassegger/george-soros-conspiracy-finkelstein-birnbaum-orban-netanyahu)
 
 ### Online Voting
 

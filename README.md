@@ -658,6 +658,7 @@
 - [iOS12 Kernelcache Laundering](https://www.synacktiv.com/posts/exploit/ios12-kernelcache-laundering.html)
 - [kernelcache-laundering](https://github.com/Synacktiv/kernelcache-laundering): load iOS12 kernelcaches and PAC code in IDA
 - [Armor](https://github.com/tokyoneon/Armor): is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners. [Tool Designed To Create Encrypted macOS Payloads](https://www.kitploit.com/2018/11/armor-tool-designed-to-create-encrypted.html)
+- [iPhone Baseband Hacking](https://github.com/userlandkernel/baseband-research): Hacking the iPhone Baseband because we paid for it.
 
 ### Android
 
@@ -837,6 +838,7 @@
 - [Shodan - A tool for Security and Market Research](http://aliarsalankazmi.github.io/blog_DA/posts/r/2017/11/21/shodan-r-market-security-research.html)
 - [Engineering Security](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf): general book about a range of topics in security.
 - (ru) [Плакаты по информационной безопасности Российской армии](https://topwar.ru/129563-plakaty-po-informacionnoy-bezopasnosti-rossiyskoy-armii.html): Russian counter information posters.
+- [disclose.io](https://github.com/disclose/disclose): Driving safety, simplicity, and standardization in vulnerability disclosure. [bug-bounty-list.json](https://github.com/disclose/disclose/blob/master/bug-bounty-list/bug-bounty-list.json)
 
 ---
 
