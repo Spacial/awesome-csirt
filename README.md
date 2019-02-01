@@ -627,6 +627,7 @@
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit): Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [Leveraging WSUS](https://ijustwannared.team/2018/10/15/leveraging-wsus-part-one/).
 - [windowsblindread](https://github.com/soffensive/windowsblindread): A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system
+- [azucar](https://github.com/nccgroup/azucar): Security auditing tool for Azure environments
 
 #### Mimikatz
 
