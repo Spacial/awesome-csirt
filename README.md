@@ -30,12 +30,16 @@
 - [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
 - [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
 - [CRYPTO101](https://www.crypto101.io/): Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
-
+- [Pagerduty Incident Response](https://response.pagerduty.com/): This documentation covers parts of the PagerDuty Incident Response process.
+  - [security-training](https://github.com/PagerDuty/security-training): Public version of PagerDuty's employee security training courses.
+  - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs): PagerDuty's Incident Response Documentation.
+  
 ## CVEs
 
 - Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md) and in [here](https://github.com/Spacial/csirt/tree/master/PoCs)
 - [MikroTik](https://www.shodan.io/report/Re9jsGpB) search on shodan.
-- [TROMMEL: Sift Through Directories of Files to Identify Indicators That May Contain Vulnerabilities](https://github.com/CERTCC-Vulnerability-Analysis/trommel/)
+- [TROMMEL](https://github.com/CERTCC-Vulnerability-Analysis/trommel/): Sift Through Directories of Files to Identify Indicators That May Contain Vulnerabilities
+- [cve_manager](https://github.com/aatlasis/cve_manager): A python script that a) parses NIST NVD CVEs, b) prcoesses and exports them to CSV files, c) creates a postgres database and imports all the data in it, d) provides query capabilities for this CVEs database.
 
 ## Malware Analysis
 
@@ -217,6 +221,7 @@
 - [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
 - [Secure & Ad-free Internet Anywhere With Streisand and Pi Hole](https://ifelse.io/2019/01/12/secure-ad-free-internet-anywhere-with-streisand-and-pi-hole/)
 - [ERNW Repository of Hardening Guides](https://github.com/ernw/hardening): This repository contains various hardening guides compiled by ERNW for various purposes.
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide): 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
 
 ### Apache
 
@@ -231,6 +236,7 @@
 - [XSS Exploit code for retrieving passwords stored in a Password Vault](https://gist.github.com/shawarkhanethicalhacker/e40a7c3956fdd24b9fb63d03d94c3d34)
 - [login_duress](https://github.com/jcs/login_duress): A BSD authentication module for duress passwords
 - [XSStrike](https://github.com/s0md3v/XSStrike): Most advanced XSS detection suite.
+- [Was my password leaked?](https://davidtavarez.github.io/osint/2019/01/25/pwndb-command-line-tool-python.html) [pwndb](https://github.com/davidtavarez/pwndb): Search for creadentials leaked on pwndb.
 
 ## Secure Programming
 
@@ -259,8 +265,6 @@
 - [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc)
 - [Practical case: Buffer Overflow 0x01](https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-buffer-overflow-0x01/)
 - [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
-- [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
-- [BFuzz](https://github.com/RootUp/BFuzz): Fuzzing Browsers
 - [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
 - [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
 - [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
@@ -277,6 +281,9 @@
 - [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
 - [Start-Hollow.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Start-Hollow.ps1): My musings with PowerShell
 - [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
+- [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
+- [BFuzz](https://github.com/RootUp/BFuzz): Fuzzing Browsers
+- [Structure-Aware Fuzzing with libFuzzer](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md) with [fuzzer test suite](https://github.com/google/fuzzer-test-suite)
 
 ## CTFs
 
@@ -361,6 +368,7 @@
 - [GTRS](https://github.com/mthbernardes/GTRS): GTRS - Google Translator Reverse Shell
 - [shellcode2asmjs](https://github.com/rh0dev/shellcode2asmjs): Automatically generate ASM.JS JIT-Spray payloads
 - [LeakLooker](https://hackernoon.com/leaklooker-find-open-databases-in-a-second-9da4249c8472): Find Open Databases in Seconds. [github](https://github.com/woj-ciech/LeakLooker)
+- [sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager
 
 ### Vulnerability
 
@@ -627,6 +635,11 @@
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit): Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [Leveraging WSUS](https://ijustwannared.team/2018/10/15/leveraging-wsus-part-one/).
 - [windowsblindread](https://github.com/soffensive/windowsblindread): A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system
+- [volatility-wnf](https://github.com/citronneur/volatility-wnf): Browse and dump Windows Notification Facilities.
+- [NetNTLMtoSilverTicket](https://github.com/NotMedic/NetNTLMtoSilverTicket): SpoolSample -> Responder w/NetNTLM Downgrade -> NetNTLMv1 -> NTLM -> Kerberos Silver Ticket.
+- [Domain Goodness](https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer/) – How I Learned to LOVE AD Explorer
+- [Yet another sdclt UAC bypass](http://blog.sevagas.com/?Yet-another-sdclt-UAC-bypass): As often with UAC, the flaw comes from an auto-elevated process. These processes have the particularity to run with high integrity level without prompting the local admin with the usual UAC window.
+- [#TR19 Active Directory Security Track](https://insinuator.net/2019/01/tr19-active-directory-security-track/)
 
 #### Mimikatz
 
@@ -658,7 +671,6 @@
 - [iOS12 Kernelcache Laundering](https://www.synacktiv.com/posts/exploit/ios12-kernelcache-laundering.html)
 - [kernelcache-laundering](https://github.com/Synacktiv/kernelcache-laundering): load iOS12 kernelcaches and PAC code in IDA
 - [Armor](https://github.com/tokyoneon/Armor): is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners. [Tool Designed To Create Encrypted macOS Payloads](https://www.kitploit.com/2018/11/armor-tool-designed-to-create-encrypted.html)
-- [iPhone Baseband Hacking](https://github.com/userlandkernel/baseband-research): Hacking the iPhone Baseband because we paid for it.
 
 ### Android
 
@@ -767,6 +779,7 @@
 - [debugger-netwalker](https://github.com/opsxcq/debugger-netwalker): NetWalker Debugger
 - [USB armory](https://github.com/inversepath/usbarmory): [open source flash-drive-sized computer](http://inversepath.com/usbarmory)
 - [batch_deobfuscator](https://github.com/DissectMalware/batch_deobfuscator): Deobfuscate batch scripts obfuscated using string substitution and escape character techniques.
+- [Bashfuscator](https://github.com/Bashfuscator/Bashfuscator): A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 - [Netflix Cloud Security SIRT releases Diffy](https://medium.com/netflix-techblog/netflix-sirt-releases-diffy-a-differencing-engine-for-digital-forensics-in-the-cloud-37b71abd2698): A Differencing Engine for Digital Forensics in the Cloud - [diffy repo](https://github.com/Netflix-Skunkworks/diffy).
@@ -775,6 +788,8 @@
 - [4nonimizer](https://github.com/Hackplayers/4nonimizer): A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN).
 - [free Entropy Service](https://rng.13-37.org/).
 - [Correct Horse Battery Staple](http://correcthorsebatterystaple.net/): Secure password generator to help keep you safer online. [code](https://bitbucket.org/jvdl/correcthorsebatterystaple)
+- [CorrectHorse](https://github.com/artgromov/CorrectHorse): random secure password generator.
+- [XKCD-password-generator](https://github.com/redacted/XKCD-password-generator): Generate secure multiword passwords/passphrases, inspired by XKCD
 - [RKMS](https://github.com/armanshan12/rkms): RKMS is a highly available key management service, built on top of AWS's KMS.
 - [Using a Hardened Container Image for Secure Applications in the Cloud](https://www.cisecurity.org/blog/using-hardened-container-image-secure-applications-cloud/)
 - [freedomfighting](https://github.com/JusticeRage/freedomfighting/): A collection of scripts which may come in handy during your freedom fighting activities.
@@ -784,6 +799,9 @@
 - [Wifiphisher](https://github.com/wifiphisher/wifiphisher): is a rogue Access Point framework for conducting red team engagements or Wi-Fi security testing.
 - [chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles securely across multiple machines.
 - [hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer.
+- [Giggity](https://github.com/needmorecowbell/giggity): Wraps github api for openly available information about an organization, user, or repo.
+- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound): Count the number of people around you ￼ by monitoring wifi signals .
+- [pompa](https://github.com/m1nl/pompa): Fully-featured spear-phishing toolkit - web front-end.
 
 ### VPN
 
@@ -838,7 +856,6 @@
 - [Shodan - A tool for Security and Market Research](http://aliarsalankazmi.github.io/blog_DA/posts/r/2017/11/21/shodan-r-market-security-research.html)
 - [Engineering Security](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf): general book about a range of topics in security.
 - (ru) [Плакаты по информационной безопасности Российской армии](https://topwar.ru/129563-plakaty-po-informacionnoy-bezopasnosti-rossiyskoy-armii.html): Russian counter information posters.
-- [disclose.io](https://github.com/disclose/disclose): Driving safety, simplicity, and standardization in vulnerability disclosure. [bug-bounty-list.json](https://github.com/disclose/disclose/blob/master/bug-bounty-list/bug-bounty-list.json)
 
 ---
 
@@ -884,6 +901,7 @@
 - [Reverse Engineering](https://docs.google.com/presentation/d/1ljVUiXVi2PfEdolGXr7Wpepj0x2RxaOo9rzMKWXebG4/mobilepresent?slide=id.p): Closed, heterogeneous platforms and the defenders’ dilemma Looking back at the last 20 years of RE and looking ahead at the next few SSTIC 2018 -- Thomas Dullien (“Halvar Flake”)
 - [Making C Less Dangerous in the Linux kernel](https://2019.linux.conf.au/schedule/presentation/178/)
 - [Modchips of the State](https://media.ccc.de/v/35c3-9597-modchips_of_the_state#t=22): Hardware implants in the supply-chain - CCC 2018
+- [Workshop-BSidesMunich2018](https://github.com/invictus1306/Workshop-BSidesMunich2018): ARM shellcode and exploit development - BSidesMunich 2018
 
 ---
 
