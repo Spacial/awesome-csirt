@@ -18,6 +18,7 @@
 - [How an international hacker network turned stolen press releases into $100 million](https://www.theverge.com/2018/8/22/17716622/sec-business-wire-hack-stolen-press-release-fraud-ukraine)
 - [Five-Eyes Intelligence Services Choose Surveillance Over Security](https://www.schneier.com/blog/archives/2018/09/five-eyes_intel.html)
 - [Oh for fuck's sake, not this fucking bullshit again](https://boingboing.net/2018/09/04/illegal-math.html) (cryptography edition)
+- [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html): how we found, analyzed (with the help of Reddit) and in the end caught the culprit of a malicious device in our network
 
 ## 2018
 
@@ -59,7 +60,11 @@
 - [why-telegram-is-insecure.md](https://gitlab.com/edu4rdshl/blog/blob/master/why-telegram-is-insecure.md)
 - [This Runner Is a Hitman. His GPS Watch Tied Him to a Mob Boss Murder](https://www.runnersworld.com/news/a25924256/mark-fellows-runner-hitman-murder/)
 - [Advancing Human-Rights-By-Design In The Dual-Use Technology Industry](https://jia.sipa.columbia.edu/advancing-human-rights-design-dual-use-technology-industry)
-
+- [How To Find Hidden Cameras & Spy Gear Like a Professional: The Definitive Guide](https://www.senteltechsecurity.com/blog/post/how-to-find-hidden-cameras/)
+- [Sorry, your data can still be identified even if it’s anonymized](https://www.fastcompany.com/90278465/sorry-your-data-can-still-be-identified-even-its-anonymized)
+- [How I abused 2FA to maintain persistence after a password change](https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1)(Google, Microsoft, Instagram, Cloudflare, etc)
+- [UAE USED CYBER SUPER-WEAPON TO SPY ON IPHONES OF FOES](https://www.reuters.com/investigates/special-report/usa-spying-karma/)
+  
 ## Politics
 
 - [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
@@ -78,7 +83,6 @@
 - [Web Browsing Data Offer Better Election Predictions | Research](http://www.bu.edu/research/articles/better-election-predictions/)
 - [An Archive of 800+ Propaganda Maps Designed to Shape Opinions & Beliefs: Enter Cornell’s Persuasive Maps Collection](http://www.openculture.com/2018/11/cornells-persuasive-maps-collection.html)
 - [Spies Without Borders](https://www.bellingcat.com/news/uk-and-europe/2018/11/16/spies-without-borders-fsb-infiltrated-international-visa-system/): How the FSB Infiltrated the International Visa System
-- [The Plot Against George Soros](https://www.buzzfeednews.com/article/hnsgrassegger/george-soros-conspiracy-finkelstein-birnbaum-orban-netanyahu)
 
 ### Online Voting
 
