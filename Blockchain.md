@@ -9,7 +9,8 @@
 - [Bitcoin keys and elliptic curve secp256k1](https://www.johndcook.com/blog/2018/08/14/bitcoin-elliptic-curves/)
 - [subzero](https://github.com/square/subzero): Square's Bitcoin Cold Storage solution.
 - [beancounter](https://github.com/square/beancounter/): Utility to audit the balance of Hierarchical Deterministic (HD) wallets. Supports multisig + segwit wallets.
-- [Electrum](https://github.com/spesmilo/electrum) Bitcoin thin client
+- [Electrum](https://github.com/spesmilo/electrum) Bitcoin thin client.
+- [bit](https://github.com/ofek/bit): Bitcoin made easy.
 
 ## Ethereum
 

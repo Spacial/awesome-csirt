@@ -33,6 +33,7 @@
 - [Pagerduty Incident Response](https://response.pagerduty.com/): This documentation covers parts of the PagerDuty Incident Response process.
   - [security-training](https://github.com/PagerDuty/security-training): Public version of PagerDuty's employee security training courses.
   - [incident-response-docs](https://github.com/PagerDuty/incident-response-docs): PagerDuty's Incident Response Documentation.
+- [SMHasher](https://github.com/rurban/smhasher/) is a test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions. [another repo](https://github.com/aappleby/smhasher)
   
 ## CVEs
 
@@ -97,6 +98,7 @@
 - [pafish](https://github.com/a0rtega/pafish): Pafish is a demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 - [Thunderstrike2 details](https://trmm.net/Thunderstrike2_details): This is the annotated transcript of our DefCon 23 / BlackHat 2015 talk, which presented the full details of Thunderstrike 2, the first firmware worm for Apple's Macs that can spread via both software or Thunderbolt hardware accessories and writes itself to the boot flash on the system's motherboard.
 - [Malboxes](https://gosecure.net/2017/02/16/introducing-malboxes-a-tool-to-build-malware-analysis-virtual-machines/): a Tool to Build Malware Analysis Virtual Machines, [github](https://github.com/GoSecure/malboxes)
+- [Triton is the world’s most murderous malware, and it’s spreading](https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/)
 
 ### Samples
 
@@ -175,7 +177,8 @@
 - [functrace](https://github.com/invictus1306/functrace): is a tool that helps to analyze a binary file with dynamic instrumentation using DynamoRIO
 - [Signature-Base](https://github.com/Neo23x0/signature-base): signature-base is the signature database for my scanners LOKI and SPARK Core.
   - [Generic Anomalies](https://github.com/Neo23x0/signature-base/blob/master/yara/generic_anomalies.yar#L379): Detects an embedded executable in a non-executable file
-- [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction
+- [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction.
+- [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/).
   
 ## Frameworks
 
@@ -222,6 +225,8 @@
 - [Secure & Ad-free Internet Anywhere With Streisand and Pi Hole](https://ifelse.io/2019/01/12/secure-ad-free-internet-anywhere-with-streisand-and-pi-hole/)
 - [ERNW Repository of Hardening Guides](https://github.com/ernw/hardening): This repository contains various hardening guides compiled by ERNW for various purposes.
 - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide): 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
+- [security.txt](https://securitytxt.org/): A proposed standard which allows websites to define security policies.
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
 
 ### Apache
 
@@ -294,6 +299,7 @@
 - [Pwn2Win 2018](https://www.reddit.com/r/securityCTF/comments/a2q4oj/pwn2win_2018_unsolved_tasks_part_1/). [unsolved](https://static.pwn2win.party/unsolved-pt1.txt)
 - [Leap Security](https://leapsecurity.io/)
 - [35c3ctf-challs](https://github.com/niklasb/35c3ctf-challs)
+- [ctf-tasks](https://github.com/j00ru/ctf-tasks): An archive of low-level CTF challenges developed over the years.
 
 ## Phreak
 
@@ -316,6 +322,7 @@
 - [Lexra](https://www.linux-mips.org/wiki/Lexra): Lexra did implement a 32-bit variant of the MIPS architecture.
 - [IntelTEX-PoC](https://github.com/ptresearch/IntelTXE-PoC): Intel Management Engine JTAG Proof of Concept
 - [IDA-scripts](https://github.com/secrary/IDA-scripts/): IDAPro scripts/plugins
+- [Why is My Perfectly Good Shellcode Not Working?](https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm): Cache Coherency on MIPS and ARM.
 
 ## Pentesting
 
@@ -369,6 +376,8 @@
 - [shellcode2asmjs](https://github.com/rh0dev/shellcode2asmjs): Automatically generate ASM.JS JIT-Spray payloads
 - [LeakLooker](https://hackernoon.com/leaklooker-find-open-databases-in-a-second-9da4249c8472): Find Open Databases in Seconds. [github](https://github.com/woj-ciech/LeakLooker)
 - [sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager
+- [pown-recon](https://github.com/pownjs/pown-recon): A powerful target reconnaissance framework powered by graph theory.
+- [Micro8](https://github.com/Micropoor/Micro8): The Micro8 series is suitable for junior and intermediate security practitioners, Party B security testing, Party A security self-test, network security enthusiasts, etc., enterprise security protection and improvement, the series complies with: Free, free, shared, open source.
 
 ### Vulnerability
 
@@ -427,6 +436,8 @@
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator): The single instruction C compiler
 - [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
 - [UEFI vulnerabilities classification focused on BIOS implant delivery](https://medium.com/@matrosov/uefi-vulnerabilities-classification-4897596e60af) and [What makes OS drivers dangerous for BIOS?](https://medium.com/@matrosov/dangerous-update-tools-c246f7299459)
+- [MikroTik Firewall & NAT Bypass](https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf24)
+- [3D Accelerated Exploitation](https://github.com/mwrlabs/3d-accelerated-exploitation): The content of this repository is meant to be the official release of the tooling/exploit that was discussed during the OffensiveCon 2019 talk - 3D Accelerated Exploitation. The talk dealt with research into the VirtualBox 3D Acceleration feature, which is backed by a software component called Chromium.
   
 ### Red Team
 
@@ -438,6 +449,9 @@
 - [Sn1per](https://github.com/1N3/Sn1per): Automated pentest framework for offensive security experts
 - [jenkins-shell](https://github.com/joesmithjaffa/jenkins-shell): Automating Jenkins Hacking using Shodan API
 - [Cobalt Strike](https://www.cobaltstrike.com/): is software for Adversary Simulations and Red Team Operations. 3.13 [release notes](https://blog.cobaltstrike.com/2019/01/02/cobalt-strike-3-13-why-do-we-argue/)
+- [Red Team's SIEM](https://github.com/outflanknl/RedELK): easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
+- [The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation): 对 The Hacker Playbook 3 的翻译。
+- [How Do I Prepare to Join a Red Team?](https://medium.com/@redteamwrangler/how-do-i-prepare-to-join-a-red-team-d74ffb5fdbe6)
 
 ## DNS
 
@@ -479,6 +493,7 @@
 - [CheckPlease](https://github.com/Arvanaghi/CheckPlease): Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.
 - [okhttp-peer-certificate-extractor](https://github.com/fabiomsr/okhttp-peer-certificate-extractor): This tool extracts peer certificates from given certificates.
 - [DET](https://github.com/sensepost/DET): (extensible) Data Exfiltration Toolkit (DET)
+- [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model): login access for webscrapping.
 
 ## Forensics
 
@@ -547,13 +562,9 @@
 - [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
 - [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
 - Security Research from the Microsoft Security Response Center ([MSRC](https://github.com/Microsoft/MSRC-Security-Research))
-- [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
 - [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor)
 - [Total Meltdown?](http://blog.frizk.net/2018/03/total-meltdown.html)
 - [DetectionLab](https://github.com/clong/DetectionLab): Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices. Post [here](https://medium.com/@clong/introducing-detection-lab-61db34bed6ae)
-- [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
-- [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
-- [ADImporter](https://github.com/curi0usJack/ADImporter)
 - [powerlessshell](https://github.com/Mr-Un1k0d3r/PowerLessShell): Run PowerShell command without invoking powershell.exe.
 - [internal-monologue](https://github.com/eladshamir/Internal-Monologue): Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS
 - [Robber](https://github.com/MojtabaTajik/Robber) is open source tool for finding executables prone to DLL hijacking
@@ -561,7 +572,6 @@
 - [Remote-Desktop-Caching](https://github.com/Viralmaniar/Remote-Desktop-Caching-/blob/master/README.md)
 - [LogRM](https://github.com/tasox/LogRM/): LogRM is a post exploitation powershell script which it uses windows event logs to gather information abou
 - [InvisiblePersistence](https://github.com/ewhitehats/InvisiblePersistence): Persisting in the Windows registry "invisibly"
-- [Low Privilege Active Directory Enumeration from a non-Domain Joined Host](https://www.attackdebris.com/?p=470)
 - [Dynamic Tracing in Windows 10 19H1](http://www.alex-ionescu.com/?p=358)
 - [Capturing NetNTLM Hashes with Office [DOT] XML Documents](https://bohops.com/2018/08/04/capturing-netntlm-hashes-with-office-dot-xml-documents/)
 - [LoL Malware Meets Python-Based Command and Control (C2) Server, Part I](https://blog.varonis.com/koadic-lol-malware-meets-python-based-command-and-control-c2-server-part-i/)
@@ -610,14 +620,12 @@
 - [randomrepo](https://github.com/SandboxEscaper/randomrepo): Repo for random stuff
 - [Microsoft Windows win32k.sys](https://nafiez.github.io/security/pointer/2018/11/09/Microsoft-win32ksys-invalid-pointer.html): Invalid Pointer Vulnerability (MSRC Case 48212) - Security Research
 - [rdpy](https://github.com/citronneur/rdpy): Remote Desktop Protocol in Twisted Python
-- [Active Directory as a C2](https://akijosberryblog.wordpress.com/2018/03/17/active-directory-as-a-c2-command-control/)
 - [SharpWeb](https://github.com/djhohnstein/SharpWeb): NET 2.0 CLR project to retrieve saved browser credentials from Google Chrome, Mozilla Firefox and Microsoft Internet Explorer/Edge.
 - [reconerator](https://github.com/stufus/reconerator): C# Targeted Attack Reconnissance Tools
 - [ManbagedInjection](https://github.com/malcomvetter/ManagedInjection): A proof of concept for dynamically loading .net assemblies at runtime with only a minimal convention pre-knowledge
 - [InveighZero](https://github.com/Kevin-Robertson/InveighZero): C# LLMNR/NBNS spoofer
 - [DanderSpritz Lab](https://github.com/francisck/DanderSpritz_lab): A fully functional [DanderSpritz](https://danderspritz.com/) lab in 2 commands.
 - [Lateral movement using URL Protocol](https://medium.com/@mattharr0ey/lateral-movement-using-url-protocol-e6f7d2d6cf2e) [gist](https://gist.github.com/homjxi0e/2e47ffa59e314df04324937a13f8f320)
-- [Escalating privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
 - [HiddenPowerShell](https://github.com/b4rtik/HiddenPowerShellDll): This project was created to explore the various evasion techniques involving PowerShell: Amsi, ScriptBlockLogging, Constrained Language Mode and AppLocker.
 - [One Windows Kernel](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/One-Windows-Kernel/ba-p/267142).
 - [The Dog Whisperer’s Handbook](https://insinuator.net/2018/11/the-dog-whisperers-handbook/): This PDF is a collection of bits and pieces that were scattered across the web and that I collected in the last two years while writing the CypherDog PowerShell module.
@@ -631,7 +639,6 @@
 - [Simpleator](https://github.com/ionescu007/Simpleator): ("Simple-ator") is an innovative Windows-centric x64 user-mode application emulator that lever
 - [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 - [Windows Privilege Escalation Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/): This guide is influenced by g0tm1lk’s Basic Linux Privilege Escalation, which at some point you should have already seen and used. I wanted to try to mirror his guide, except for Windows. So this guide will mostly focus on the enumeration aspect.
-- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit): Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [Leveraging WSUS](https://ijustwannared.team/2018/10/15/leveraging-wsus-part-one/).
 - [windowsblindread](https://github.com/soffensive/windowsblindread): A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system
@@ -640,9 +647,23 @@
 - [NetNTLMtoSilverTicket](https://github.com/NotMedic/NetNTLMtoSilverTicket): SpoolSample -> Responder w/NetNTLM Downgrade -> NetNTLMv1 -> NTLM -> Kerberos Silver Ticket.
 - [Domain Goodness](https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer/) – How I Learned to LOVE AD Explorer
 - [Yet another sdclt UAC bypass](http://blog.sevagas.com/?Yet-another-sdclt-UAC-bypass): As often with UAC, the flaw comes from an auto-elevated process. These processes have the particularity to run with high integrity level without prompting the local admin with the usual UAC window.
-- [#TR19 Active Directory Security Track](https://insinuator.net/2019/01/tr19-active-directory-security-track/)
+- [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development): windows kernel security development.
 
-#### Mimikatz
+#### Active Directory
+
+- [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
+- [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
+- [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
+- [ADImporter](https://github.com/curi0usJack/ADImporter)
+- [Low Privilege Active Directory Enumeration from a non-Domain Joined Host](https://www.attackdebris.com/?p=470)
+- [Active Directory as a C2](https://akijosberryblog.wordpress.com/2018/03/17/active-directory-as-a-c2-command-control/)
+- [Escalating privileges with ACLs in Active Directory](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/)
+- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
+- [#TR19 Active Directory Security Track](https://insinuator.net/2019/01/tr19-active-directory-security-track/)
+- [Penetration Testing Active Directory, Part I](https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/): I’ve had several customers come to me before a pentest and say they think they’re in a good shape because their vulnerability scan shows no critical vulnerabilities and that they’re ready for a pentest, which then leads me to getting domain administrator in fifteen minutes by just exploiting misconfigurations in AD.
+- [Penetration Testing Active Directory, Part II](https://hausec.com/2019/03/12/penetration-testing-active-directory-part-ii/): For most of this part of the series, I will use the rsmith user credentials, as they are low-level, forcing us to do privilege escalation.
+
+##### Mimikatz
 
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense): This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 - [A little tool to play with Windows security](https://github.com/gentilkiwi/mimikatz)
@@ -672,6 +693,7 @@
 - [iOS12 Kernelcache Laundering](https://www.synacktiv.com/posts/exploit/ios12-kernelcache-laundering.html)
 - [kernelcache-laundering](https://github.com/Synacktiv/kernelcache-laundering): load iOS12 kernelcaches and PAC code in IDA
 - [Armor](https://github.com/tokyoneon/Armor): is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners. [Tool Designed To Create Encrypted macOS Payloads](https://www.kitploit.com/2018/11/armor-tool-designed-to-create-encrypted.html)
+- [inject_trusts-iOS-v12.1.2-16C104-iPhone11,x.c](https://gist.github.com/Proteas/22525ef733eed42313627a94af022221)
 
 ### Android
 
@@ -803,6 +825,8 @@
 - [Giggity](https://github.com/needmorecowbell/giggity): Wraps github api for openly available information about an organization, user, or repo.
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound): Count the number of people around you ￼ by monitoring wifi signals .
 - [pompa](https://github.com/m1nl/pompa): Fully-featured spear-phishing toolkit - web front-end.
+- [LASCAR](https://github.com/Ledger-Donjon/lascar): Ledger's Advanced Side-Channel Analysis Repository.
+- [Hostintel](https://www.kitploit.com/2019/03/hostintel-modular-python-application-to.html): A Modular Python Application To Collect Intelligence For Malicious Hosts - [github](https://github.com/keithjjones/hostintel)
 
 ### VPN
 
@@ -923,6 +947,7 @@ Some good places to visit:
 - (pt-br)[PwnLab: init](https://lcesteves.wordpress.com/2018/11/24/pwnlab-init-writeup/)
 - [Mamont's open FTP Index](http://www.mmnt.net/): a lot of open FTPs!!!
 - [fuzz.txt](https://github.com/Bo0oM/fuzz.txt): Potentially dangerous files
+- [Free Training: New Certified Learning Paths](https://blog.qualys.com/news/2019/03/18/free-training-new-certified-learning-paths): The Qualys Training team is eager to share all of the recent additions to our free training program, as well as provide insight into what is coming in 2019. You can expect to see regular updates as we continue to improve our training offerings!
 
 ---
 
