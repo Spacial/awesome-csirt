@@ -64,7 +64,8 @@
 - [Sorry, your data can still be identified even if it’s anonymized](https://www.fastcompany.com/90278465/sorry-your-data-can-still-be-identified-even-its-anonymized)
 - [How I abused 2FA to maintain persistence after a password change](https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1)(Google, Microsoft, Instagram, Cloudflare, etc)
 - [UAE USED CYBER SUPER-WEAPON TO SPY ON IPHONES OF FOES](https://www.reuters.com/investigates/special-report/usa-spying-karma/)
-  
+- [Protecting your online privacy is tough—but here's a start — Quartz](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
+
 ## Politics
 
 - [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
