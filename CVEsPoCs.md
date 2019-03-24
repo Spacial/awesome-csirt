@@ -60,6 +60,7 @@ Some CVEs PoCs repos on github or internet.
 - [A PoC function to corrupt the g_amsiContext global variable in clr.dll in .NET Framework Early Access build 3694](https://gist.github.com/mattifestation/ef0132ba4ae3cc136914da32a88106b9)
 - [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits): windows-kernel-exploits Windows平台提权漏洞集合
 - [docx-embeddedhtml-injection](https://github.com/thom-s/docx-embeddedhtml-injection): This PowerShell script exploits a known vulnerability in Word 2016 documents with embedded online videos by injecting HTML code into a docx file, replacing the values of all pre-existing embeddedHtml tags.
+- Root Cause of the Kernel Privilege Escalation Vulnerabilities: [CVE-2019-0808](http://blogs.360.cn/post/RootCause_CVE-2019-0808_EN.html)
 
 ## macOS/iOS
 
@@ -109,6 +110,7 @@ Some CVEs PoCs repos on github or internet.
 - [Multiple vulnerabilities found in Wireless IP Camera](https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html#backdoor-account): CVE-2017-8224, CVE-2017-8222, CVE-2017-8225, CVE-2017-8223, CVE-2017-8221
 - [DoubleDoor](https://blog.newskysecurity.com/doubledoor-iot-botnet-bypasses-firewall-as-well-as-modem-security-using-two-backdoor-exploits-88457627306d), IoT Botnet bypasses firewall as well as modem security using two backdoor exploits: CVE-2015–7755 and CVE-2016–10401
 - [i.MX7 M4 Atomic Cache Bug](https://rschaefertech.wordpress.com/2018/02/17/imx7-hardware-bug/)
+- [MikroTik Firewall & NAT Bypass](https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf24)
 
 ## VirtualBox
 
@@ -151,6 +153,7 @@ Some CVEs PoCs repos on github or internet.
 - ES File Explorer Open Port Vulnerability: [CVE-2019-6447](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln)
 - Atlassian Jira vulnerable: [CVE-2017-9506](https://github.com/random-robbie/Jira-Scan)
 - Libreoffice - Remote Code Execution via Macro/Event execution: [CVE-2018-16858](https://insert-script.blogspot.com/2019/02/libreoffice-cve-2018-16858-remote-code.html)
+- Chrome: [CVE-2019-5782](https://github.com/vngkv123/aSiagaming)
 
 '''bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
