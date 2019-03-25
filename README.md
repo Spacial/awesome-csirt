@@ -179,6 +179,7 @@
   - [Generic Anomalies](https://github.com/Neo23x0/signature-base/blob/master/yara/generic_anomalies.yar#L379): Detects an embedded executable in a non-executable file
 - [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction.
 - [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/).
+- [Python for Reverse Engineering 1](https://icyphox.sh/blog/python-for-re-1/): ELF Binaries
   
 ## Frameworks
 
@@ -276,7 +277,8 @@
 - [Tooling for verification of PGP signed commits](https://github.com/bitcoin/bitcoin/tree/master/contrib/verify-commits)
 - [tlse](https://github.com/eduardsui/tlse): Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
 - [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
-
+- [Sandboxed API](https://github.com/google/sandboxed-api): Sandboxed API automatically generates sandboxes for C/C++ libraries
+  
 ### Fuzzing
 
 - [Generating Software Tests](https://www.fuzzingbook.org/) ([github](https://github.com/uds-se/fuzzingbook/))
@@ -323,6 +325,7 @@
 - [IntelTEX-PoC](https://github.com/ptresearch/IntelTXE-PoC): Intel Management Engine JTAG Proof of Concept
 - [IDA-scripts](https://github.com/secrary/IDA-scripts/): IDAPro scripts/plugins
 - [Why is My Perfectly Good Shellcode Not Working?](https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm): Cache Coherency on MIPS and ARM.
+- [Something about IR optimization](https://brrt-to-the-future.blogspot.com/2019/03/something-about-ir-optimization.html): Hi hackers! Today I want to write about optimizing IR in the MoarVM JIT, and also a little bit about IR design itself.
 
 ## Pentesting
 
@@ -494,6 +497,7 @@
 - [okhttp-peer-certificate-extractor](https://github.com/fabiomsr/okhttp-peer-certificate-extractor): This tool extracts peer certificates from given certificates.
 - [DET](https://github.com/sensepost/DET): (extensible) Data Exfiltration Toolkit (DET)
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model): login access for webscrapping.
+- [Hamburglar](https://github.com/needmorecowbell/Hamburglar): collect useful information from urls, directories, and files.
 
 ## Forensics
 
@@ -648,7 +652,8 @@
 - [Domain Goodness](https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer/) – How I Learned to LOVE AD Explorer
 - [Yet another sdclt UAC bypass](http://blog.sevagas.com/?Yet-another-sdclt-UAC-bypass): As often with UAC, the flaw comes from an auto-elevated process. These processes have the particularity to run with high integrity level without prompting the local admin with the usual UAC window.
 - [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development): windows kernel security development.
-
+- [An introduction to privileged file operation abuse on Windows](https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html): This is a (bit long) introduction on how to abuse file operations performed by privileged processes on Windows for local privilege escalation (user to admin/system), and a presentation of available techniques, tools and procedures to exploit these types of bugs.
+  
 #### Active Directory
 
 - [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
@@ -827,6 +832,8 @@
 - [pompa](https://github.com/m1nl/pompa): Fully-featured spear-phishing toolkit - web front-end.
 - [LASCAR](https://github.com/Ledger-Donjon/lascar): Ledger's Advanced Side-Channel Analysis Repository.
 - [Hostintel](https://www.kitploit.com/2019/03/hostintel-modular-python-application-to.html): A Modular Python Application To Collect Intelligence For Malicious Hosts - [github](https://github.com/keithjjones/hostintel)
+- [DarkNet_ChineseTrading](https://github.com/aoii103/DarkNet_ChineseTrading)
+- [mXtract](https://github.com/rek7/mXtract): Memory Extractor & Analyzer.
 
 ### VPN
 
@@ -881,6 +888,8 @@
 - [Shodan - A tool for Security and Market Research](http://aliarsalankazmi.github.io/blog_DA/posts/r/2017/11/21/shodan-r-market-security-research.html)
 - [Engineering Security](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf): general book about a range of topics in security.
 - (ru) [Плакаты по информационной безопасности Российской армии](https://topwar.ru/129563-plakaty-po-informacionnoy-bezopasnosti-rossiyskoy-armii.html): Russian counter information posters.
+- [Kerberos (I)](https://www.tarlogic.com/en/blog/how-kerberos-works/): How does Kerberos work? – Theory
+- [Beagle](https://github.com/yampelo/beagle) is an incident response and digital forensics tool which transforms security logs and data into graphs.
 
 ---
 
@@ -964,6 +973,7 @@ Some good places to visit:
 - [grugq quotes](https://gist.github.com/0xdabbad00/18c4743455022109e69cca1de11e9cb6)
 - [Pivots & Payloads Board Game](https://www.sans.org/webcasts/introducing-pen-test-poster-pivots-payloads-board-game-109505): Introducing the NEW SANS Pen Test Poster by SANS Institute
 - [Chess Steganography](https://incoherency.co.uk/chess-steg/)
+- [Enigma, the Bombe, and Typex](https://github.com/gchq/CyberChef/wiki/Enigma,-the-Bombe,-and-Typex)
 
 ---
 

