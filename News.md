@@ -66,6 +66,7 @@
 - [UAE USED CYBER SUPER-WEAPON TO SPY ON IPHONES OF FOES](https://www.reuters.com/investigates/special-report/usa-spying-karma/)
 - [2019 Threat Detection Report](https://redcanary.com/resources/guides/threat-detection-report/) - Red Canary
 - [Why Phone Numbers Stink As Identity Proof](https://krebsonsecurity.com/2019/03/why-phone-numbers-stink-as-identity-proof/)
+- [Protecting your online privacy is tough—but here's a start — Quartz](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 
 ## Politics
 
@@ -106,7 +107,10 @@
 ## Brazil
 
 - [Roadsec SP 2018](https://medium.com/@daiane.santos/roadsec-sp-2018-e35ba4bb0bdf)
+<<<<<<< HEAD
 
 ## Old
 
 - [Password Security:](https://diogomonica.com/2014/10/11/password-security-why-the-horse-battery-staple-is-not-correct/): Why the horse battery staple is not correct
+=======
+>>>>>>> fb221fa65323d3295d5686e1b24943baa67c00cd

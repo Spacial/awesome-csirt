@@ -720,6 +720,11 @@
 - [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
 - [Ground Zero: Reverse Engineering](https://scriptdotsh.com):
   - Part 1-2: [Password Protected Reverse Shells – Linux x64](https://scriptdotsh.com/index.php/2018/07/26/ground-zero-part-1-2-reverse-engineering-password-protected-reverse-shells-linux-x64/)
+  - Active Directory Dojo:
+    - [Active Directory Penetration Dojo - Setup of AD Penetration Lab : Part 1 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/06/09/active-directory-penetration-dojo-setup-of-ad-penetration-lab-part-1/)
+    - [Active Directory Penetration Dojo- Setup of AD Penetration Lab : Part 2 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/08/26/active-directory-penetration-dojo-setup-of-ad-penetration-lab-part-2/)
+    - [Active Directory Penetration Dojo- Creation of Forest Trust: Part 3 - ScriptDotSh](https://scriptdotsh.com/index.php/2018/10/29/active-directory-penetration-dojo-creation-of-forest-trust/)
+    - [Active Directory Penetration Dojo – AD Environment Enumeration -1 - ScriptDotSh](https://scriptdotsh.com/index.php/2019/01/01/active-directory-penetration-dojo-ad-environment-enumeration-1/)
 - [Dmesg under the hood](https://ops.tips/blog/dmesg-under-the-hood/): Dmesg allows us to grasp what's going on under the hood when the kernel gets bad. Check out how dmesg is able to read kernel logs and show to the user.
 - [Randomize your MAC address using NetworkManager](https://fedoramagazine.org/randomize-mac-address-nm/)
 - [Shadow-Box](https://github.com/kkamagui/shadow-box-for-x86/tree/gatekeeper): Lightweight and Practical Kernel Protector for x86 (Presented at BlackHat Asia 2017/2018, beVX 2018 and HITBSecConf 2017) - [presentation](https://github.com/kkamagui/papers/blob/master/bevx-2018/presentation.pdf) and [other papers](https://github.com/kkamagui/papers)
