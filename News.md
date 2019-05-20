@@ -66,7 +66,12 @@
 - [UAE USED CYBER SUPER-WEAPON TO SPY ON IPHONES OF FOES](https://www.reuters.com/investigates/special-report/usa-spying-karma/)
 - [2019 Threat Detection Report](https://redcanary.com/resources/guides/threat-detection-report/) - Red Canary
 - [Why Phone Numbers Stink As Identity Proof](https://krebsonsecurity.com/2019/03/why-phone-numbers-stink-as-identity-proof/)
-- [Protecting your online privacy is tough—but here's a start — Quartz](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
+- [Protecting your online privacy is tough—but here's a start](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
+- [Thoughts on personal data vs non-personal data](https://medium.com/@yaso/thoughts-on-personal-data-vs-non-personal-data-9d84addfe820)
+- (pt-br) [A Interceptação Telemática no Projeto de Lei “Anticrime”: os riscos do Hacker Estatal](https://medium.com/contrarraz%C3%B5es/a-intercepta%C3%A7%C3%A3o-telem%C3%A1tica-no-projeto-de-lei-anticrime-os-ricos-do-hacker-estatal-28bef7656f98)
+- [Chinese companies have leaked over 590 million resumes via open databases](https://www.zdnet.com/article/chinese-companies-have-leaked-over-590-million-resumes-via-open-databases/)
+- [Cryptography That Can’t Be Hacked](https://www.quantamagazine.org/how-the-evercrypt-library-creates-hacker-proof-cryptography-20190402/): Researchers have just released hacker-proof cryptographic code — programs with the same level of invincibility as a mathematical proof.
+- [Cybercrime market selling full digital fingerprints of over 60,000 users](https://www.zdnet.com/article/cybercrime-market-selling-full-digital-fingerprints-of-over-60000-users/)
 
 ## Politics
 

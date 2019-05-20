@@ -77,7 +77,8 @@ Some CVEs PoCs repos on github or internet.
 - [Offensive testing to make Dropbox (and the world) a safer place](https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/)
 - [WebKit-RegEx-Exploit](https://github.com/LinusHenze/WebKit-RegEx-Exploit): Safari 12.1.1
 - [Chaos iOS](https://github.com/GeoSn0w/Chaos): < 12.1.2 PoC by @S0rryMyBad since he posted it as a photo rather than a source code. Also cleaned up.
-  
+- [powerd](https://github.com/0x36/powend) exploit : Sandbox escape to root for Apple iOS < 12.2 on A11 devices
+
 ## Android
 
 - [Please Stop Naming Vulnerabilities](https://pleasestopnamingvulnerabilities.com): Exploring 6 Previously Unknown Remote Kernel Bugs Affecting Android Phones
@@ -119,9 +120,15 @@ Some CVEs PoCs repos on github or internet.
 - [Multiple Vulnerabilities on Kerui Endoscope Camera](https://utkusen.com/blog/multiple-vulnerabilities-on-kerui-endoscope-camera.html)
 - [virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day):  VirtualBox E1000 Guest-to-Host Escape
 
-## Others
+## PHP
 
 - PHPMailer: [CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033)
+- PHP PrestaShop 1.6.x Privilege Escalation: [CVE-2018-13784](https://www.ambionics.io/blog/prestashop-privilege-escalation)
+- [phpLdapAdmin multiple vulns](https://github.com/opsxcq/exploit-phpldapadmin-remote-dump): phpldapadmin remote exploit and vulnerable container.
+- imagecolormatch() OOB Heap Write exploit: [CVE-2019-6977](https://github.com/cfreal/exploits/tree/master/CVE-2019-6977-imagecolormatch)
+
+## Others
+
 - Apache Tomcat: [CVE-2017-12617](https://github.com/cyberheartmi9/CVE-2017-12617)
 - Palo Alto Networks firewalls: Palo Alto Networks firewalls remote root code execution [CVE-2017-15944](http://seclists.org/fulldisclosure/2017/Dec/38)
 - [https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/](https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/) and  [A fully implemented kernel exploit for the PS4 on 4.05FW](https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit)
@@ -130,14 +137,12 @@ Some CVEs PoCs repos on github or internet.
 - [Play with FILE Structure - Yet Another Binary Exploit Technique](https://www.slideshare.net/AngelBoy1/play-with-file-structure-yet-another-binary-exploit-technique)
 - [Geovision Inc. IP Camera](https://github.com/mcw0/PoC/blob/master/Geovision%20IP%20Camera%20Multiple%20Remote%20Command%20Execution%20-%20Multiple%20Stack%20Overflow%20-%20Double%20free%20-%20Unauthorized%20Access.txt), with a lot others in this [repo](https://github.com/mcw0/PoC)
 - [Zero-day vulnerability in Telegram](https://securelist.com/zero-day-vulnerability-in-telegram/83800/)
-- PHP PrestaShop 1.6.x Privilege Escalation: [CVE-2018-13784](https://www.ambionics.io/blog/prestashop-privilege-escalation)
 - [Bug or Backdoor](https://0x09al.github.io/security/ispconfig/exploit/vulnerability/2018/08/20/bug-or-backdoor-ispconfig-rce.html): Exploiting a Remote Code Execution in ISPConfig by 0x09AL Security blog.
 - SSH Exploit written in Python for CVE-2018-15473 with threading and export formats: [CVE-2018-15473](https://github.com/Rhynorater/CVE-2018-15473-Exploit), [analysis](https://sekurak.pl/openssh-users-enumeration-cve-2018-15473/)
 - [RICOH MP 2001 Printer Cross Site Scripting ≈ Packet Storm](https://packetstormsecurity.com/files/149443/RICOH-MP-2001-Printer-Cross-Site-Scripting.html), [code](https://dl.packetstormsecurity.net/1809-exploits/richomp2001-xss.txt), [Cross-Site Scripting](https://www.exploit-db.com/exploits/45460/)
 - Oracle WebLogic WLS-WSAT Remote Code Execution Exploit: [CVE-2017-10271](https://github.com/kkirsche/CVE-2017-10271)
 - WebLogic Exploit: [CVE-2017-10271](https://github.com/c0mmand3rOpSec/CVE-2017-10271)
 - Talos Vulnerability Deep Dive: Sophos HitmanPro.Alert vulnerability -  [CVE-2018-3971](https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html)
-- [phpLdapAdmin multiple vulns](https://github.com/opsxcq/exploit-phpldapadmin-remote-dump): phpldapadmin remote exploit and vulnerable container.
 - [JPEG [JAY-peg]](https://github.com/corkami/docs/blob/master/images/jpeg.md), some pocs [JPEG PoCs](https://github.com/corkami/pocs/blob/master/images/jpg/README.md)
 - Kubernets: [CVE-2018-1002105](https://github.com/evict/poc_CVE-2018-1002105)
 - QEMU: vga: OOB read access during display update: [CVE-2017-13672](https://twitter.com/David3141593/status/903284919803277312),
@@ -158,6 +163,9 @@ Some CVEs PoCs repos on github or internet.
 - [Google Books X-Hacking](https://medium.com/@terjanq/google-books-x-hacking-29c249862f19)
 - Ruby on Rails: File Content Disclosure on Rails - [CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)
 - Libreoffice - Remote Code Execution via Macro/Event execution: [CVE-2018-16858](https://insert-script.blogspot.com/2019/02/libreoffice-cve-2018-16858-remote-code.html)
+- Signal IDN homograph attack: [CVE-2019-9970](https://wildfire.blazeinfosec.com/security-advisory-signal-idn-homograph-attack-2/).
+- [Grandstream Exploits](https://github.com/scarvell/grandstream_exploits): Grandstream Exploits
+- Apache HTTPD Root Privilege Escalation - CARPE (DIEM): [CVE-2019-0211](https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html), [github](https://github.com/cfreal/exploits/tree/master/CVE-2019-0211-apache)
 
 '''bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
@@ -170,7 +178,6 @@ GET /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../.
 ```
 
 - Web/Javscript/WAF [Payload will run in a lot of contexts](): Short but lethal. No script tags, thus bypassing a lot of WAF and executes in multiple environments.
-
 
 ```javascript
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
