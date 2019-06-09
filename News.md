@@ -67,6 +67,8 @@
 - [Sorry, your data can still be identified even if it’s anonymized](https://www.fastcompany.com/90278465/sorry-your-data-can-still-be-identified-even-its-anonymized)
 - [How I abused 2FA to maintain persistence after a password change](https://medium.com/@lukeberner/how-i-abused-2fa-to-maintain-persistence-after-a-password-change-google-microsoft-instagram-7e3f455b71a1)(Google, Microsoft, Instagram, Cloudflare, etc)
 - [UAE USED CYBER SUPER-WEAPON TO SPY ON IPHONES OF FOES](https://www.reuters.com/investigates/special-report/usa-spying-karma/)
+- [2019 Threat Detection Report](https://redcanary.com/resources/guides/threat-detection-report/) - Red Canary
+- [Why Phone Numbers Stink As Identity Proof](https://krebsonsecurity.com/2019/03/why-phone-numbers-stink-as-identity-proof/)
 - [Protecting your online privacy is tough—but here's a start — Quartz](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 
 ## Politics
@@ -87,6 +89,7 @@
 - [Web Browsing Data Offer Better Election Predictions | Research](http://www.bu.edu/research/articles/better-election-predictions/)
 - [An Archive of 800+ Propaganda Maps Designed to Shape Opinions & Beliefs: Enter Cornell’s Persuasive Maps Collection](http://www.openculture.com/2018/11/cornells-persuasive-maps-collection.html)
 - [Spies Without Borders](https://www.bellingcat.com/news/uk-and-europe/2018/11/16/spies-without-borders-fsb-infiltrated-international-visa-system/): How the FSB Infiltrated the International Visa System
+- [A New Age of Warfare: How Internet Mercenaries Do Battle for Authoritarian Governments](https://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html)
 
 ### Online Voting
 
@@ -107,3 +110,7 @@
 ## Brazil
 
 - [Roadsec SP 2018](https://medium.com/@daiane.santos/roadsec-sp-2018-e35ba4bb0bdf)
+
+## Old
+
+- [Password Security:](https://diogomonica.com/2014/10/11/password-security-why-the-horse-battery-staple-is-not-correct/): Why the horse battery staple is not correct
