@@ -179,7 +179,11 @@
   - [Generic Anomalies](https://github.com/Neo23x0/signature-base/blob/master/yara/generic_anomalies.yar#L379): Detects an embedded executable in a non-executable file
 - [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction.
 - [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/).
-  
+- [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer): Tool for viewing and analyzing execution traces
+- [Reverse Engineering of a Not-so-Secure IoT Device](https://mcuoneclipse.com/2019/05/26/reverse-engineering-of-a-not-so-secure-iot-device/)
+- [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils): Ghidra utilities for analyzing firmware
+- [dragondance](https://github.com/0ffffffffh/dragondance): Binary code coverage visualizer plugin for Ghidra
+
 ## Frameworks
 
 - [Inject code into running Python processes](https://github.com/lmacken/pyrasite)
@@ -378,6 +382,7 @@
 - [sn0int](https://github.com/kpcyrd/sn0int): Semi-automatic OSINT framework and package manager
 - [pown-recon](https://github.com/pownjs/pown-recon): A powerful target reconnaissance framework powered by graph theory.
 - [Micro8](https://github.com/Micropoor/Micro8): The Micro8 series is suitable for junior and intermediate security practitioners, Party B security testing, Party A security self-test, network security enthusiasts, etc., enterprise security protection and improvement, the series complies with: Free, free, shared, open source.
+- [liffy](https://github.com/mzfr/liffy/): Local file inclusion exploitation tool
 
 ### Vulnerability
 
@@ -465,7 +470,7 @@
 ## Exfiltration
 
 - [Script for searching the extracted firmware file system for goodies!](https://github.com/craigz28/firmwalker)
-- [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC): - Malicious payload evasion tool
+- [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC): Malicious payload evasion tool
 - [Tunna](https://github.com/SECFORCE/Tunna) is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
 - [gitleaks](https://github.com/zricethezav/gitleaks): Searches full repo history for secrets and keys
 - [Phishing on Twitter](https://github.com/omergunal/PoT)
@@ -494,6 +499,7 @@
 - [okhttp-peer-certificate-extractor](https://github.com/fabiomsr/okhttp-peer-certificate-extractor): This tool extracts peer certificates from given certificates.
 - [DET](https://github.com/sensepost/DET): (extensible) Data Exfiltration Toolkit (DET)
 - [awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model): login access for webscrapping.
+- [shellphish](https://github.com/thelinuxchoice/shellphish): Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest
 
 ## Forensics
 
@@ -735,7 +741,9 @@
 - (pt-br) [Hacking Tricks](http://maycon.hacknroll.io/hacking-tricks/2019/01/08/linux-privesc-with-capability.html): Escalação de Privilégio em Linux com Capability
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/): It's just a basic & rough guide.
 - [Linux process infection (part I)](https://www.tarlogic.com/en/blog/linux-process-infection-part-i/):Among the different tasks that a Red Team should carry out, there is one that is remarkable by its intrinsic craftsmanship: putting an APT inside a computer system and ensuring its persistence.
-  
+- [The 101 of ELF files on Linux](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/): Understanding and Analysis - Linux Audit
+- [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter): Prometheus exporter for custom eBPF metrics
+
 ## Risk Assessment
 
 - (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
@@ -986,6 +994,7 @@ Some good places to visit:
 - [Stealing Webpages Rendered on Your Browser by Exploiting GPU Vulnerabilities](https://www.cc.gatech.edu/~slee3036/papers/lee:gpu.pdf)
 - [The Hunt for 3ve](https://services.google.com/fh/files/blogs/3ve_google_whiteops_whitepaper_final_nov_2018.pdf): Taking down a major ad fraud operation through industry collaboration.
 - [Page Cache Attacks](https://arxiv.org/abs/1901.01161): We present a new hardware-agnostic side-channel attack that targets one of the most fundamental software caches in modern computer systems: the operating system page cache.
+- [China’s Maxim](https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1050&context=mca): Leave No Access Point Unexploited: The Hidden Story of China Telecom’s BGP Hijacking
 
 ---
 
