@@ -99,6 +99,7 @@
 - [Thunderstrike2 details](https://trmm.net/Thunderstrike2_details): This is the annotated transcript of our DefCon 23 / BlackHat 2015 talk, which presented the full details of Thunderstrike 2, the first firmware worm for Apple's Macs that can spread via both software or Thunderbolt hardware accessories and writes itself to the boot flash on the system's motherboard.
 - [Malboxes](https://gosecure.net/2017/02/16/introducing-malboxes-a-tool-to-build-malware-analysis-virtual-machines/): a Tool to Build Malware Analysis Virtual Machines, [github](https://github.com/GoSecure/malboxes)
 - [Triton is the world’s most murderous malware, and it’s spreading](https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/)
+- [Cloak and Dagger — Mobile Malware Techniques Demystified](https://medium.com/@targetpractice/cloak-and-dagger-malware-techniques-demystified-c4d8a035b94e)
 
 ### Samples
 
@@ -183,7 +184,10 @@
 - [Kaitai Struct](https://formats.kaitai.io/): A new way to develop parsers for binary structures.
 - [findLoop](https://github.com/secrary/findLoop): find possible encryption/decryption or compression/decompression code.
 - [Decompiler Analysis Engine](https://ghidra-decompiler-docs.netlify.com/index.html): Welcome to the Decompiler Analysis Engine. It is a complete library for performing automated data-flow analysis on software, starting from the binary executable.
+- [Working With Ghidra's P-Code To Identify Vulnerable Function Calls](https://www.riverloopsecurity.com/blog/2019/05/pcode/)
 - [mkYARA](https://blog.fox-it.com/2019/03/28/mkyara-writing-yara-rules-for-the-lazy-analyst/): Writing YARA rules for the lazy analyst ([github](https://github.com/fox-it/mkyara))
+- [Reverse Engineering 'A Link to the Past (GBA)' ep 1](https://sideway.re/Reverse-Engineering-alttp-GBA-ep1/)
+- [wiggle](https://github.com/ChiChou/wiggle): The concepting self hosted executable binary search engine.
   
 ## Frameworks
 
@@ -284,7 +288,9 @@
 - [Sandboxed API](https://github.com/google/sandboxed-api): Sandboxed API automatically generates sandboxes for C/C++ libraries
 - [HACL*](https://github.com/project-everest/hacl-star): a formally verified cryptographic library written in F*
 - [Villoc](https://github.com/wapiflapi/villoc): Villoc is a heap visualisation tool, it's a python script that renders a static html file.
-  
+- [How C array sizes become part of the binary interface of a library](https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/)
+- [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools) 
+
 ### Fuzzing
 
 - [Generating Software Tests](https://www.fuzzingbook.org/) ([github](https://github.com/uds-se/fuzzingbook/))
@@ -334,10 +340,12 @@
 - [IDA-scripts](https://github.com/secrary/IDA-scripts/): IDAPro scripts/plugins
 - [Why is My Perfectly Good Shellcode Not Working?](https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm): Cache Coherency on MIPS and ARM.
 - [Something about IR optimization](https://brrt-to-the-future.blogspot.com/2019/03/something-about-ir-optimization.html): Hi hackers! Today I want to write about optimizing IR in the MoarVM JIT, and also a little bit about IR design itself.
+- [Dragonblood](https://wpa3.mathyvanhoef.com/): Analysing WPA3's Dragonfly Handshake
 - Arm Heap Exploitation, by Azeria:
   - [AZM Online Arm Assembler](https://azm.azerialabs.com/)
   - Part 1: [Understanding the Glibc Heap Implementation](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
   - Part 2: [Understanding the GLIBC Heap Implementation](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)
+- [The Hacker's Hardware Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit): The best hacker's gadgets for Red Team pentesters and security researchers.
 
 ## Pentesting
 
@@ -395,6 +403,10 @@
 - [Micro8](https://github.com/Micropoor/Micro8): The Micro8 series is suitable for junior and intermediate security practitioners, Party B security testing, Party A security self-test, network security enthusiasts, etc., enterprise security protection and improvement, the series complies with: Free, free, shared, open source.
 - A Pentester’s Guide – Part 1: [OSINT – Passive Recon and Discovery of Assets](https://www.sequoiacybersolutions.com/a-pentesters-guide-part-1-osint-passive-recon-and-discovery-of-assets/)
 - A Pentester’s Guide - Part 2: [OSINT – LinkedIn is Not Just for Jobs](https://www.sequoiacybersolutions.com/a-pentesters-guide-part-2-osint-linkedin-is-not-just-for-jobs/)
+- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques!
+- [Penetration Test Guide based on the OWASP + Extra](https://github.com/Voorivex/pentest-guide): This guid is for the penetration testers seeking for the appropriate test cases required during a penetration test project. I rearranged the OWASP Testing Guide v4 from my point of view including 9 Test Classes and each class has several Test Cases to conduct against the target. Each Test Case covers several OWASP tests which also is useful for the report document. I've also added 15 extra Tests Cases marked by the EXTRA-TEST. I hope it will be useful in both penetration test projects and bug-bounty.
+  - [Insecure Direct Object References](https://github.com/Voorivex/pentest-guide/tree/master/Insecure-Direct-Object-References) (OTG-AUTHZ-004)
+- [Order of the Overflow Proxy Service](https://github.com/o-o-overflow/dc2019q-ooops): 
 
 ### Vulnerability
 
@@ -579,7 +591,11 @@
 
 ### Windows
 
+- [Awesome Advanced Windows Exploitation References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
+- [windows kernel security development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development)
 - [A process scanner detecting and dumping hollowed PE modules.](https://github.com/hasherezade/hollows_hunter)
+- [dll_to_exe](https://github.com/hasherezade/dll_to_exe): Converts a DLL into EXE
+- [pe-sieve](https://github.com/hasherezade/pe-sieve): Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).
 - [A PowerShell utility to dynamically uncover a DCShadow attack](https://github.com/AlsidOfficial/UncoverDCShadow/)
 - Security Research from the Microsoft Security Response Center ([MSRC](https://github.com/Microsoft/MSRC-Security-Research))
 - [DCSYNCMonitor](https://github.com/shellster/DCSYNCMonitor)
@@ -627,7 +643,6 @@
 - [hUACME](https://github.com/hfiref0x/UACME/): Defeating Windows User Account Control
 - [SysmonTools](https://github.com/nshalabi/SysmonTools): Utilities for Sysmon
 - [Hiding malware in Windows](https://prdeving.wordpress.com/2018/09/21/hiding-malware-in-windows-code-injection/) – The basics of code injection
-- [dll_to_exe](https://github.com/hasherezade/dll_to_exe): Converts a DLL into EXE
 - [Inveigh](https://github.com/Kevin-Robertson/Inveigh): Windows PowerShell ADIDNS/LLMNR/mDNS/NBNS spoofer/man-in-the-middle tool. [announcement](https://blog.netspi.com/inveigh-whats-new-in-version-1-4/)
 - [Bypassing AppLocker Custom Rules](https://0x09al.github.io/security/applocker/bypass/custom/rules/windows/2018/09/13/applocker-custom-rules-bypass.html): 0x09AL Security blog
 - [Detailed properties in the Office 365 audit log](https://docs.microsoft.com/en-us/office365/securitycompliance/detailed-properties-in-the-office-365-audit-log)
@@ -672,6 +687,8 @@
 - [Excel4-DCOM](https://github.com/outflanknl/Excel4-DCOM): PowerShell and Cobalt Strike scripts for lateral movement using Excel 4.0 / XLM macros via DCOM (direct shellcode injection in Excel.exe).
 - [ALPC-BypassUAC](https://github.com/DimopoulosElias/alpc-mmc-uac-bypass): UAC Bypass with mmc via alpc.
 - [ThreadBoat](https://github.com/cutesunshine/ThreadBoat): Program uses Thread Execution Hijacking to Inject Native Shellcode into a Standard Win32 Application
+- [ManagedPasswordFilter](https://github.com/raandree/ManagedPasswordFilter): Windows Password Filter that uses managed code internally
+- [DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses): A repository of some of my Windows 10 Device Guard Bypasses
   
 #### Active Directory
 
@@ -686,7 +703,11 @@
 - [#TR19 Active Directory Security Track](https://insinuator.net/2019/01/tr19-active-directory-security-track/)
 - [Penetration Testing Active Directory, Part I](https://hausec.com/2019/03/05/penetration-testing-active-directory-part-i/): I’ve had several customers come to me before a pentest and say they think they’re in a good shape because their vulnerability scan shows no critical vulnerabilities and that they’re ready for a pentest, which then leads me to getting domain administrator in fifteen minutes by just exploiting misconfigurations in AD.
 - [Penetration Testing Active Directory, Part II](https://hausec.com/2019/03/12/penetration-testing-active-directory-part-ii/): For most of this part of the series, I will use the rsmith user credentials, as they are low-level, forcing us to do privilege escalation.
-- [Wagging the Dog](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html): Abusing Resource-Based Constrained Delegation to Attack Active Directory. 
+- [Wagging the Dog](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html): Abusing Resource-Based Constrained Delegation to Attack Active Directory.
+- [Exploiting PrivExchange](https://chryzsh.github.io/exploiting-privexchange/): The PrivExchange tool simply logs in on Exchange Web Services to subscribe to push notifications to a specific host.
+- [Case Study: Password Analysis with BloodHound](https://posts.specterops.io/case-study-password-analysis-with-bloodhound-a3d264736c7?gi=f1d43999d905)
+- [Bypassing AD account lockout for a compromised account](https://medium.com/@markmotig/bypassing-ad-account-lockout-for-a-compromised-account-5c908d663de8)
+- [Azure AD and ADFS best practices](https://www.microsoft.com/en-us/microsoft-365/blog/2018/03/05/azure-ad-and-adfs-best-practices-defending-against-password-spray-attacks/): Defending against password spray attacks
 
 ##### Mimikatz
 
@@ -761,6 +782,8 @@
 - [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/): It's just a basic & rough guide.
 - [Linux process infection (part I)](https://www.tarlogic.com/en/blog/linux-process-infection-part-i/):Among the different tasks that a Red Team should carry out, there is one that is remarkable by its intrinsic craftsmanship: putting an APT inside a computer system and ensuring its persistence.
 - [tpotce](https://github.com/dtag-dev-sec/tpotce): T-Pot Universal Installer and ISO Creator.
+- [Linux Privilege Escalation via LXD & Hijacked UNIX Socket Credentials](https://shenaniganslabs.io/2019/05/21/LXD-LPE.html): LXD is a management API for dealing with LXC containers on Linux systems. It will perform tasks for any members of the local lxd group. It does not make an effort to match the permissions of the calling user to the function it is asked to perform.
+- [Linux Kernel exploitation Tutorial.](https://github.com/Lazenca/Kernel-exploit-tech)
 
 ## Risk Assessment
 
@@ -847,6 +870,7 @@
 - [RKMS](https://github.com/armanshan12/rkms): RKMS is a highly available key management service, built on top of AWS's KMS.
 - [Using a Hardened Container Image for Secure Applications in the Cloud](https://www.cisecurity.org/blog/using-hardened-container-image-secure-applications-cloud/)
 - [freedomfighting](https://github.com/JusticeRage/freedomfighting/): A collection of scripts which may come in handy during your freedom fighting activities.
+- [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security): Source code about machine learning and security.
 - [octofairy](https://github.com/evilsocket/octofairy): A machine learning based GitHub bot for Issues.
 - [kbd-audio](https://github.com/ggerganov/kbd-audio): Tools for capturing and analysing keyboard input paired with microphone capture
 - [certstreamcatcher](https://github.com/6IX7ine/certstreamcatcher): This tool is based on regex with effective standards for detecting phishing sites in real time using certstream and can also detect punycode (IDNA) attacks.
@@ -862,6 +886,8 @@
 - [mXtract](https://github.com/rek7/mXtract): Memory Extractor & Analyzer.
 - [commando-vm](https://github.com/fireeye/commando-vm): a fully customized, Windows-based security distribution for penetration testing and red teaming.
 - [FireProx](https://github.com/ustayready/fireprox): AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation.
+- [DarkSearch](https://darksearch.io/): [The 1st real Dark Web search engine (Darksearch vs Ahmia)](https://medium.com/@darksearch/darksearch-the-1st-real-search-engine-dark-web-darksearch-vs-ahmia-84852fd4c51b)
+- [Request Tracker for Incident Response](https://bestpractical.com/rtir/)
 
 ### VPN
 
@@ -919,7 +945,8 @@
 - [Kerberos (I)](https://www.tarlogic.com/en/blog/how-kerberos-works/): How does Kerberos work? – Theory
 - [Beagle](https://github.com/yampelo/beagle) is an incident response and digital forensics tool which transforms security logs and data into graphs.
 - [Vulncode-DB project](https://github.com/google/vulncode-db): The vulnerable code database (Vulncode-DB) is a database for vulnerabilities and their corresponding source code if available.
-
+- [One-End Encryption (OEE)](https://github.com/veorq/oee): Stronger than End-to-End Encryption
+- [Configuring MTA-STS and TLS Reporting For Your Domain](https://isc.sans.edu/forums/diary/Configuring+MTASTS+and+TLS+Reporting+For+Your+Domain/24840/)
 ---
 
 ## Conferences and Slides
@@ -966,6 +993,7 @@
 - [Modchips of the State](https://media.ccc.de/v/35c3-9597-modchips_of_the_state#t=22): Hardware implants in the supply-chain - CCC 2018
 - [Workshop-BSidesMunich2018](https://github.com/invictus1306/Workshop-BSidesMunich2018): ARM shellcode and exploit development - BSidesMunich 2018
 - [REhint's Publications](https://github.com/REhints/Publications).
+- [INFILTRATE 2019 Demo Materials](https://github.com/0xAlexei/INFILTRATE2019)
 
 ---
 
@@ -1022,6 +1050,7 @@ Some good places to visit:
 - [Stealing Webpages Rendered on Your Browser by Exploiting GPU Vulnerabilities](https://www.cc.gatech.edu/~slee3036/papers/lee:gpu.pdf)
 - [The Hunt for 3ve](https://services.google.com/fh/files/blogs/3ve_google_whiteops_whitepaper_final_nov_2018.pdf): Taking down a major ad fraud operation through industry collaboration.
 - [Page Cache Attacks](https://arxiv.org/abs/1901.01161): We present a new hardware-agnostic side-channel attack that targets one of the most fundamental software caches in modern computer systems: the operating system page cache.
+- [Identification and Illustration of Insecure Direct Object References and their Countermeasures](https://www.researchgate.net/publication/307580906_Identification_and_Illustration_of_Insecure_Direct_Object_References_and_their_Countermeasures)
 
 ---
 

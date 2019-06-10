@@ -61,6 +61,8 @@ Some CVEs PoCs repos on github or internet.
 - [windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits): windows-kernel-exploits Windows平台提权漏洞集合
 - [docx-embeddedhtml-injection](https://github.com/thom-s/docx-embeddedhtml-injection): This PowerShell script exploits a known vulnerability in Word 2016 documents with embedded online videos by injecting HTML code into a docx file, replacing the values of all pre-existing embeddedHtml tags.
 - Root Cause of the Kernel Privilege Escalation Vulnerabilities: [CVE-2019-0808](http://blogs.360.cn/post/RootCause_CVE-2019-0808_EN.html)
+- DACL Permissions Overwrite Privilege Escalation: [CVE-2019-0841](https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/)
+- Scanner PoC for RDP RCE vuln: [CVE-2019-0708](https://github.com/zerosum0x0/CVE-2019-0708)
 
 ## macOS/iOS
 

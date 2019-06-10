@@ -72,6 +72,8 @@
 - [Chinese companies have leaked over 590 million resumes via open databases](https://www.zdnet.com/article/chinese-companies-have-leaked-over-590-million-resumes-via-open-databases/)
 - [Cryptography That Can’t Be Hacked](https://www.quantamagazine.org/how-the-evercrypt-library-creates-hacker-proof-cryptography-20190402/): Researchers have just released hacker-proof cryptographic code — programs with the same level of invincibility as a mathematical proof.
 - [Cybercrime market selling full digital fingerprints of over 60,000 users](https://www.zdnet.com/article/cybercrime-market-selling-full-digital-fingerprints-of-over-60000-users/)
+- [When Engineers Become Whistleblowers](https://blogs.scientificamerican.com/observations/when-engineers-become-whistleblowers/?redirect=1)
+- [The Most Expensive Lesson Of My Life](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124): Details of SIM port hack
 
 ## Politics
 
