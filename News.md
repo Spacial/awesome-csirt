@@ -53,6 +53,9 @@
 
 ## 2019
 
+- [Over 25,000 Linksys Smart Wi-Fi routers vulnerable to sensitive information disclosure flaw](https://badpackets.net/over-25000-linksys-smart-wi-fi-routers-vulnerable-to-sensitive-information-disclosure-flaw/), - [models affected](https://pastebin.com/raw/ZHgWnu4C)
+
+- [How does Apple (privately) find your offline devices?](https://blog.cryptographyengineering.com/2019/06/05/how-does-apple-privately-find-your-offline-devices/): A Few Thoughts on Cryptographic Engineering
 - [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
 - [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
 - [First-Ever UEFI Rootkit Tied to Sednit APT | Threatpost | The first stop for security news](https://threatpost.com/uefi-rootkit-sednit/140420/)
@@ -114,10 +117,7 @@
 ## Brazil
 
 - [Roadsec SP 2018](https://medium.com/@daiane.santos/roadsec-sp-2018-e35ba4bb0bdf)
-<<<<<<< HEAD
 
 ## Old
 
 - [Password Security:](https://diogomonica.com/2014/10/11/password-security-why-the-horse-battery-staple-is-not-correct/): Why the horse battery staple is not correct
-=======
->>>>>>> fb221fa65323d3295d5686e1b24943baa67c00cd
