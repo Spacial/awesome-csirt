@@ -63,6 +63,7 @@ Some CVEs PoCs repos on github or internet.
 - Root Cause of the Kernel Privilege Escalation Vulnerabilities: [CVE-2019-0808](http://blogs.360.cn/post/RootCause_CVE-2019-0808_EN.html)
 - DACL Permissions Overwrite Privilege Escalation: [CVE-2019-0841](https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/)
 - Scanner PoC for RDP RCE vuln: [CVE-2019-0708](https://github.com/zerosum0x0/CVE-2019-0708)
+- Exploiting the Windows Task Scheduler Through: [CVE-2019-1069](https://www.zerodayinitiative.com/blog/2019/6/11/exploiting-the-windows-task-scheduler-through-cve-2019-1069)
 
 ## macOS/iOS
 

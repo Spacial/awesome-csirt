@@ -54,7 +54,6 @@
 ## 2019
 
 - [Over 25,000 Linksys Smart Wi-Fi routers vulnerable to sensitive information disclosure flaw](https://badpackets.net/over-25000-linksys-smart-wi-fi-routers-vulnerable-to-sensitive-information-disclosure-flaw/), - [models affected](https://pastebin.com/raw/ZHgWnu4C)
-
 - [How does Apple (privately) find your offline devices?](https://blog.cryptographyengineering.com/2019/06/05/how-does-apple-privately-find-your-offline-devices/): A Few Thoughts on Cryptographic Engineering
 - [Chromecast hack promoting PewDiePie reveals security bug](https://www.siliconrepublic.com/enterprise/chromecast-hack-pewdiepie) - [github](https://github.com/ACA30/CastHack)
 - [Ask HN: Good technical GDPR resources? | Hacker News](https://news.ycombinator.com/item?id=18801732)
@@ -77,6 +76,9 @@
 - [Cybercrime market selling full digital fingerprints of over 60,000 users](https://www.zdnet.com/article/cybercrime-market-selling-full-digital-fingerprints-of-over-60000-users/)
 - [When Engineers Become Whistleblowers](https://blogs.scientificamerican.com/observations/when-engineers-become-whistleblowers/?redirect=1)
 - [The Most Expensive Lesson Of My Life](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124): Details of SIM port hack
+- [Full(er) House: Exposing high-end poker cheating devices](https://elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices/)
+- [FBI agent accidentally reveals own 8chan posts; attempts to redirect white supremacist rage against Russia](https://ceinquiry.wordpress.com/2019/06/17/fbi-8chan/)
+- [ORIGIN OF WIRELESS SECURITY](https://hackaday.com/2017/03/02/great-hacks-of-history-the-marconi-radio-hack-1903/): THE MARCONI RADIO HACK OF 1903
 
 ## Politics
 

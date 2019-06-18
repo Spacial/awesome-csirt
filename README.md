@@ -297,6 +297,8 @@
 - [How C array sizes become part of the binary interface of a library](https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/)
 - [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools)
 - [MazuCC](https://github.com/jserv/MazuCC): A minimalist C compiler with x86_64 code generation
+- [When the going gets tough](https://lambdasec.github.io/When-the-going-gets-tough-Understanding-the-challenges-with-Product-commoditization-in-SCA/): Understanding the challenges with Product commoditization in SCA.
+- [huskyCI](https://github.com/globocom/huskyCI): huskyCI is an open source tool that performs security tests inside CI pipelines of multiple projects and centralizes all results into a database for further analysis and metrics.
 
 ### Fuzzing
 
@@ -323,6 +325,7 @@
 - [35c3ctf-challs](https://github.com/niklasb/35c3ctf-challs)
 - [ctf-tasks](https://github.com/j00ru/ctf-tasks): An archive of low-level CTF challenges developed over the years.
 - [$50 million CTF Writeup](https://github.com/manoelt/50M_CTF_Writeup).
+- [Alice sent Bob a meme](https://blog.bi0s.in/2019/03/12/Crypto/Elliptic-Curves/utctf19-alicebob/) - UTCTF 2019. tl;dr:  Extract data from given images using binwalk, Tranform given diophantine equation into a cubic curve and retrieve EC parameters, Solve ECDLP given in extracted data using Pohlig Hellman Algorithm.
 
 ## Phreak
 
@@ -345,6 +348,7 @@
 - [Lexra](https://www.linux-mips.org/wiki/Lexra): Lexra did implement a 32-bit variant of the MIPS architecture.
 - [IntelTEX-PoC](https://github.com/ptresearch/IntelTXE-PoC): Intel Management Engine JTAG Proof of Concept
 - [me_cleaner](https://github.com/corna/me_cleaner): Tool for partial deblobbing of Intel ME/TXE firmware images.
+- [Potential candidate for open source bootloaders? Complete removal of Intel ME firmware possible on certain Intel HEDT/Server platforms](https://www.reddit.com/r/linux/comments/byyxow/potential_candidate_for_open_source_bootloaders/)
 - [me_removal](https://github.com/nkht/me_removal): Testing complete ME removal on Intel HEDT systems
 - [IDA-scripts](https://github.com/secrary/IDA-scripts/): IDAPro scripts/plugins
 - [Why is My Perfectly Good Shellcode Not Working?](https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm): Cache Coherency on MIPS and ARM.
@@ -515,7 +519,6 @@
 - [Tunna](https://github.com/SECFORCE/Tunna) is a set of tools which will wrap and tunnel any TCP communication over HTTP. It can be used to bypass network restrictions in fully firewalled environments.
 - [gitleaks](https://github.com/zricethezav/gitleaks): Searches full repo history for secrets and keys
 - [Twitter Scraper](https://github.com/kennethreitz/twitter-scraper)
-- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound): Six Degrees of Domain Admin, and a [Python](https://github.com/fox-it/BloodHound.py) based ingestor for BloodHound
 - [tinfoleak](https://www.vicenteaguileradiaz.com/tools/) ([github](https://github.com/vaguileradiaz/tinfoleak)):The most complete open-source tool for Twitter intelligence analysis  
 - [Social IDs](https://github.com/guillermo-carrasco/social_ids): Get user ids from social network handlers
@@ -591,6 +594,7 @@
 - [Heatmaps Make Ops Better](https://www.honeycomb.io/blog/heatmaps-make-ops-better/)
 - [graylog-guide-snort](https://github.com/Graylog2/graylog-guide-snort): How to send structured Snort IDS alert logs into Graylog
 - [TALR](https://github.com/SecurityRiskAdvisors/TALR): Threat Alert Logic Repository
+- [Auditing Continuously vs. Monitoring Continuously](https://medium.com/faun/auditing-continuously-vs-monitoring-continuously-749e7c248d92)
 
 ## Browsers
 
@@ -718,6 +722,7 @@
   
 #### Active Directory
 
+- [Active Directory Control Paths](https://github.com/ANSSI-FR/AD-control-paths)
 - [Gaining Domain Admin from Outside Active Directory](https://markitzeroday.com/pass-the-hash/crack-map-exec/2018/03/04/da-from-outside-the-domain.html), using [Responder](https://github.com/lgandx/Responder)(LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay)
 - [Invoke-ADLabDeployer](https://github.com/outflanknl/Invoke-ADLabDeployer): Automated deployment of Windows and Active Directory test lab networks. Useful for red and blue teams.
 - [PowerShellClassLab](https://github.com/jaredhaight/PowerShellClassLab): This is a set of Azure Resource Manager Templates that generates an Active Directory lab consisting of a Domain Controller, two Windows servers and a Linux server.
@@ -734,6 +739,8 @@
 - [Case Study: Password Analysis with BloodHound](https://posts.specterops.io/case-study-password-analysis-with-bloodhound-a3d264736c7?gi=f1d43999d905)
 - [Bypassing AD account lockout for a compromised account](https://medium.com/@markmotig/bypassing-ad-account-lockout-for-a-compromised-account-5c908d663de8)
 - [Azure AD and ADFS best practices](https://www.microsoft.com/en-us/microsoft-365/blog/2018/03/05/azure-ad-and-adfs-best-practices-defending-against-password-spray-attacks/): Defending against password spray attacks
+- [windapsearch](https://github.com/ropnop/windapsearch): Python script to enumerate users, groups and computers from a Windows domain through LDAP queries
+- [LDAP Ping and Determining Your Machine’s Site](https://blog.joeware.net/2019/03/31/5935/)
 
 ##### Mimikatz
 
@@ -916,6 +923,7 @@
 - [FireProx](https://github.com/ustayready/fireprox): AWS API Gateway management tool for creating on the fly HTTP pass-through proxies for unique IP rotation.
 - [DarkSearch](https://darksearch.io/): [The 1st real Dark Web search engine (Darksearch vs Ahmia)](https://medium.com/@darksearch/darksearch-the-1st-real-search-engine-dark-web-darksearch-vs-ahmia-84852fd4c51b)
 - [Request Tracker for Incident Response](https://bestpractical.com/rtir/)
+- [Introducing Inkdrop 4](https://blog.inkdrop.info/introducing-inkdrop-4-9d0c63de16d2)
 
 ### VPN
 
@@ -1022,6 +1030,7 @@
 - [Workshop-BSidesMunich2018](https://github.com/invictus1306/Workshop-BSidesMunich2018): ARM shellcode and exploit development - BSidesMunich 2018
 - [REhint's Publications](https://github.com/REhints/Publications).
 - [INFILTRATE 2019 Demo Materials](https://github.com/0xAlexei/INFILTRATE2019)
+- [A Practical Approach to Purple Teaming](http://www.irongeek.com/i.php?page=videos/showmecon2019/showmecon-2019-00-a-practical-approach-to-purple-teaming-matt-thelen)
 
 ---
 
