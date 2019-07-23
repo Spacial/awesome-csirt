@@ -79,6 +79,7 @@
 - [Full(er) House: Exposing high-end poker cheating devices](https://elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices/)
 - [FBI agent accidentally reveals own 8chan posts; attempts to redirect white supremacist rage against Russia](https://ceinquiry.wordpress.com/2019/06/17/fbi-8chan/)
 - [ORIGIN OF WIRELESS SECURITY](https://hackaday.com/2017/03/02/great-hacks-of-history-the-marconi-radio-hack-1903/): THE MARCONI RADIO HACK OF 1903
+- [An Army of Robot Surveillance Guards Is Coming](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/army-robot-surveillance-guards-coming)
 
 ## Politics
 

@@ -33,6 +33,7 @@ Some CVEs PoCs repos on github or internet.
 - [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation): A bunch of links related to Linux kernel exploitation
 - [Linux Privilege Escalation – Using apt-get/apt/dpkg to abuse sudo “NOPASSWD” misconfiguration](https://lsdsecurity.com/2019/01/linux-privilege-escalation-using-apt-get-apt-dpkg-to-abuse-sudo-nopasswd-misconfiguration/)
 - [System Down](https://www.qualys.com/2019/01/09/system-down/system-down.txt): A systemd-journald exploit. Combined Exploitation of CVE-2018-16865 and CVE-2018-16866
+- [mario_baslr](https://github.com/felixwilhelm/mario_baslr): PoC for breaking hypervisor ASLR using branch target buffer collisions.
   
 ## Solaris
 
