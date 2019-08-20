@@ -204,6 +204,8 @@
 - [Reverse Engineering 'A Link to the Past (GBA)' ep 1](https://sideway.re/Reverse-Engineering-alttp-GBA-ep1/)
 - [wiggle](https://github.com/ChiChou/wiggle): The concepting self hosted executable binary search engine.
 - [Python for Reverse Engineering 1](https://icyphox.sh/blog/python-for-re-1/): ELF Binaries
+- [uncompyle6](https://github.com/rocky/python-uncompyle6): A cross-version [Python bytecode decompiler](https://www.kitploit.com/2019/07/uncompyle6-cross-version-python.html)
+- [Decompyle++](https://github.com/zrax/pycdc): C++ python bytecode disassembler and decompiler 
   
 ## Frameworks
 
@@ -248,10 +250,13 @@
 - [Zero-knowledge attestation](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
 - [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
 - [Secure & Ad-free Internet Anywhere With Streisand and Pi Hole](https://ifelse.io/2019/01/12/secure-ad-free-internet-anywhere-with-streisand-and-pi-hole/)
+- [Streisand](https://github.com/StreisandEffect/streisand) sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [ERNW Repository of Hardening Guides](https://github.com/ernw/hardening): This repository contains various hardening guides compiled by ERNW for various purposes.
 - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide): 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
 - [security.txt](https://securitytxt.org/): A proposed standard which allows websites to define security policies.
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
+- [opmsg](https://github.com/stealth/opmsg): is a replacement for gpg which can encrypt/sign/verify your mails or create/verify detached signatures of local files. Even though the opmsg output looks similar, the concept is entirely different.
+- [CloudMapper](https://github.com/duo-labs/cloudmapper): CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 
 ### Apache
 
@@ -267,6 +272,7 @@
 - [login_duress](https://github.com/jcs/login_duress): A BSD authentication module for duress passwords
 - [XSStrike](https://github.com/s0md3v/XSStrike): Most advanced XSS detection suite.
 - [Was my password leaked?](https://davidtavarez.github.io/osint/2019/01/25/pwndb-command-line-tool-python.html) [pwndb](https://github.com/davidtavarez/pwndb): Search for creadentials leaked on pwndb.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs/): Unofficial Bitwarden compatible server written in Rust
 
 ## Secure Programming
 
@@ -311,6 +317,7 @@
 - [huskyCI](https://github.com/globocom/huskyCI): huskyCI is an open source tool that performs security tests inside CI pipelines of multiple projects and centralizes all results into a database for further analysis and metrics.
 - (pt-br) [GTER 47 | GTS 33 - Dia 2 (parte 1)](https://www.youtube.com/watch?v=7XgwJHOSmoE): nice talk by Daniel Carlier and Silvia Pimpão.
 - [secDevLabs](https://github.com/globocom/secDevLabs): A laboratory for learning secure web development in a practical manner.
+- [HTTP Security Headers](https://nullsweep.com/http-security-headers-a-complete-guide/) - A Complete Guide
 
 ### Fuzzing
 
@@ -454,6 +461,15 @@
   - [Part 2](https://blog.secureideas.com/2019/03/better-api-penetration-testing-with-postman-part-2.html)
   - [Part 3](https://blog.secureideas.com/2019/04/better-api-penetration-testing-with-postman-part-3.html)
   - [Part 4](https://blog.secureideas.com/2019/06/better-api-penetration-testing-with-postman-part-4.html)
+- [DNS and DHCP Recon using Powershell](https://isc.sans.edu/diary/DNS+and+DHCP+Recon+using+Powershell/20995)
+  
+### Reporting
+
+- [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports): 
+Curated list of public penetration test reports released by several consulting firms and academic security groups
+- [report-ng](https://github.com/hvqzao/report-ng): Generate MS Word template-based reports with HP WebInspect / Burp Suite Pro input, own custom data and knowledge base.
+- [PandocPentestReport](https://github.com/herrfeder/PandocPentestReport): This repository shows my effort to create a pandoc based pentest report template.
+- [Technical Report template](https://github.com/OR-Bologna/tech-report-template): LaTeX template for technical reports
 
 ### OSINT - Open Source INTelligence
 
@@ -481,6 +497,8 @@
 - [Beating the OWASP Benchmark](https://blog.shiftleft.io/beating-the-owasp-benchmark-24a7b1601031)
 - [CMSScan](https://github.com/ajinabraham/CMSScan): Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues.
 - [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html): some tips with Server Side Request Forgery.
+- [Meteor Blind NoSQL Injection](https://medium.com/rangeforce/meteor-blind-nosql-injection-29211775cd01)
+- [Security Bulletins that relate to Netflix Open Source](https://github.com/Netflix/security-bulletins)
 
 ### WAFs
 
@@ -551,6 +569,7 @@
 - [How Do I Prepare to Join a Red Team?](https://medium.com/@redteamwrangler/how-do-i-prepare-to-join-a-red-team-d74ffb5fdbe6)
 - [Red Team & Physical Entry Gear](https://scund00r.com/all/gear/2019/06/25/red-team-and-physical-entry-gear.html)
 - Red Team Techniques: [Gaining access on an external engagement through spear-phishing](https://blog.sublimesecurity.com/red-team-techniques-gaining-access-on-an-external-engagement-through-spear-phishing/)
+- [Phantom Tap (PhanTap)](https://github.com/nccgroup/phantap): an ‘invisible’ network tap aimed at red teams.
 
 ## DNS
 
@@ -607,6 +626,7 @@
 - [pompa](https://github.com/m1nl/pompa): Fully-featured spear-phishing toolkit - web front-end.
 - [..Modlishka..](https://github.com/drk1wi/Modlishka): Modlishka is a flexible and powerful reverse proxy, that will take your phishing campaigns to the next level (with minimal effort required from your side).
 - [Using phishing tools against the phishers](https://medium.com/mycrypto/using-phishing-tools-against-the-phishers-and-uncovering-a-massive-binance-phishing-campaign-58132e2f0e09) — and uncovering a massive Binance phishing campaign.
+- [Lure](https://github.com/highmeh/lure): User Recon Automation for GoPhish
 
 ## Forensics
 
@@ -624,6 +644,7 @@
 - [remedi-infrastructure](https://github.com/NationalCrimeAgency/remedi-infrastructure): setup and deployment code for setting up a REMEDI machine translation cluster
 - [Tsurugi Linux](https://tsurugi-linux.org/index.php) is a new DFIR open source project that is and will be totally free, independent without involving any commercial brand
 - [libelfmaster](https://github.com/elfmaster/libelfmaster): Secure ELF parsing/loading library for forensics reconstruction of malware, and robust reverse engineering tools
+- [usbrip](https://github.com/snovvcrash/usbrip) (derived from "USB Ripper", not "USB R.I.P." 😲) is an open source forensics tool with CLI interface that lets you keep track of USB device artifacts (aka USB event history, "Connected" and "Disconnected" events) on Linux machines.
 
 ## Blue Team
 
@@ -638,6 +659,7 @@
 - [strelka](https://github.com/target/strelka): Scanning files at scale with Python and ZeroMQ
 - [Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting): Personal compilation of APT malware from whitepaper releases, documents and own research
 - [ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
+- [HELK](https://www.kitploit.com/2019/08/helk-hunting-elk.html) - [The Hunting ELK](https://github.com/Cyb3rWard0g/HELK): The Hunting ELK or simply the HELK is one of the first open source hunt platforms with advanced analytics capabilities such as SQL declarative language, graphing, structured streaming, and even machine learning via Jupyter notebooks and Apache Spark over an ELK stack.
 
 ### SIEM
 
@@ -656,6 +678,8 @@
 - The 9 Lives of Bleichenbacher's CAT: [New Cache ATtacks on TLS Implementations](https://www.nccgroup.trust/us/our-research/the-9-lives-of-bleichenbachers-cat-new-cache-attacks-on-tls-implementations/)
 - [How To Blow Your Online Cover With URL Previews](https://hunch.ly/osint-articles/osint-article-how-to-blow-your-online-cover)
 - [Nefarious LinkedIn](https://prophitt.me/articles/nefarious-linkedin): A look at how LinkedIn exfiltrates extension data from your browser.
+- [Lightnion](https://github.com/spring-epfl/lightnion): A light version of Tor portable to the browser.
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer): Headless Chrome Node API. [site](https://pptr.dev/)
 
 ## Operating Systems
 
@@ -667,6 +691,7 @@
 - [How to Get Started With VMware vSphere Security « vMiss.net](https://vmiss.net/2018/09/19/how-to-get-started-with-vmware-vsphere-security/)
 - [routeros](https://github.com/tenable/routeros): RouterOS Bug Hunt Materials Presented at Derbycon 2018
 - [Awesome-Study-Resources-for-Kernel-Hacking](https://github.com/yeyintminthuhtut/Awesome-Study-Resources-for-Kernel-Hacking): Kernel Hacking study materials collection
+- [Skadi](https://github.com/orlikoski/Skadi): Collect, Process, and Hunt with host based data from MacOS, Windows, and Linux.
 
 ### UEFI
 
@@ -778,6 +803,7 @@
 - [ManagedPasswordFilter](https://github.com/raandree/ManagedPasswordFilter): Windows Password Filter that uses managed code internally
 - [DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses): A repository of some of my Windows 10 Device Guard Bypasses
 - [rifiuti2](https://github.com/abelcheung/rifiuti2): Windows Recycle Bin analyser
+- [Control Flow Guard Teleportation](https://86hh.github.io/cfg2.html): The idea that I tried in 2018 was to use Control Flow Guard (CFG) to regenerate my code in a special memory region. CFG is a security feature that aims to mitigate the redirection of the execution flow, for example, by checking if the target address for an indirect call is valid function. [demo](https://github.com/86hh/cfg-teleport-demo)
   
 #### Active Directory
 
@@ -801,6 +827,8 @@
 - [windapsearch](https://github.com/ropnop/windapsearch): Python script to enumerate users, groups and computers from a Windows domain through LDAP queries
 - [LDAP Ping and Determining Your Machine’s Site](https://blog.joeware.net/2019/03/31/5935/)
 - [Non-Admin NTLM Relaying & ETERNALBLUE Exploitation](https://medium.com/@technicalsyn/eternalrelayx-py-non-admin-ntlm-relaying-eternalblue-exploitation-dab9e2b97337)
+- [Active Directory administrative tier model](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material)
+- [Exchange-AD-Privesc](https://github.com/gdedrouas/Exchange-AD-Privesc): Exchange privilege escalations to Active Directory
 
 ##### Mimikatz
 
@@ -833,6 +861,7 @@
 - [kernelcache-laundering](https://github.com/Synacktiv/kernelcache-laundering): load iOS12 kernelcaches and PAC code in IDA
 - [Armor](https://github.com/tokyoneon/Armor): is a simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners. [Tool Designed To Create Encrypted macOS Payloads](https://www.kitploit.com/2018/11/armor-tool-designed-to-create-encrypted.html)
 - [inject_trusts-iOS-v12.1.2-16C104-iPhone11,x.c](https://gist.github.com/Proteas/22525ef733eed42313627a94af022221)
+- [opendrop](https://github.com/seemoo-lab/opendrop): An open Apple AirDrop implementation written in Python
 
 ### Android
 
@@ -905,7 +934,7 @@
 - [Network Security Monitoring on Raspberry Pi type devices](https://github.com/TravisFSmith/SweetSecurity)
 - [A secure, shared workspace for secrets](https://github.com/manifoldco/torus-cli)
 - [bettercap](https://github.com/evilsocket/bettercap-ng), the Swiss army knife for network attacks and monitoring.
-- [Security Monkey](https://github.com/Netflix/security_monkey)
+- [Security Monkey](https://github.com/Netflix/security_monkey): Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [Tool Analysis Result Sheet](https://github.com/JPCERTCC/ToolAnalysisResultSheet) and [guide](https://jpcertcc.github.io/ToolAnalysisResultSheet/), via [Detecting Lateral Movement through Tracking Event Logs](http://www.jpcert.or.jp/english/pub/sr/ir_research.html) by jpcertcc
 - [EKOLABS](https://github.com/ekoparty/ekolabs) tools repo
 - [Vapor PwnedPasswords Provider](https://github.com/joscdk/pwnedpasswords-provider): Package for testing a password against Pwned Passwords V2 API in Vapor
@@ -1140,6 +1169,7 @@ Some good places to visit:
 - [Enigma, the Bombe, and Typex](https://github.com/gchq/CyberChef/wiki/Enigma,-the-Bombe,-and-Typex)
 - [How I hacked modern Vending Machines](https://hackernoon.com/how-i-hacked-modern-vending-machines-43f4ae8decec)
 - [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/)  
+- [Goodbye-World](https://github.com/datacorruption/Goodbye-World): The last program that every developer writes.
 
 ---
 

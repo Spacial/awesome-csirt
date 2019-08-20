@@ -80,7 +80,16 @@
 - [FBI agent accidentally reveals own 8chan posts; attempts to redirect white supremacist rage against Russia](https://ceinquiry.wordpress.com/2019/06/17/fbi-8chan/)
 - [ORIGIN OF WIRELESS SECURITY](https://hackaday.com/2017/03/02/great-hacks-of-history-the-marconi-radio-hack-1903/): THE MARCONI RADIO HACK OF 1903
 - [An Army of Robot Surveillance Guards Is Coming](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/army-robot-surveillance-guards-coming)
-
+- [Viral App FaceApp Now Owns Access To More Than 150 Million People's Faces And Names](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#11d7a9fa62f1)
+- [EvilGnome: Rare Malware Spying on Linux Desktop Users](https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/)
+- [Capital One Data Theft Impacts 106M People](https://krebsonsecurity.com/2019/07/capital-one-data-theft-impacts-106m-people/)
+- [The Encryption Debate Is Over - Dead At The Hands Of Facebook](https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/)
+- [Attorney General William Barr on Encryption Policy](https://www.schneier.com/blog/archives/2019/07/attorney_genera_1.html)
+- [Tracking sex: The implications of widespread sexual data leakage and tracking on porn websites](https://arxiv.org/abs/1907.06520)
+- [Hundreds of exposed Amazon cloud backups found leaking sensitive data](https://techcrunch.com/2019/08/09/aws-ebs-cloud-backups-leak/)
+- [Inside the Hidden World of Elevator Phone Phreaking](https://www.wired.com/story/elevator-phone-phreaking-defcon/)
+- [GDPR privacy law exploited to reveal personal data](https://www.bbc.co.uk/news/technology-49252501)
+  
 ## Politics
 
 - [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
