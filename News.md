@@ -109,6 +109,7 @@
 - [An Archive of 800+ Propaganda Maps Designed to Shape Opinions & Beliefs: Enter Cornell’s Persuasive Maps Collection](http://www.openculture.com/2018/11/cornells-persuasive-maps-collection.html)
 - [Spies Without Borders](https://www.bellingcat.com/news/uk-and-europe/2018/11/16/spies-without-borders-fsb-infiltrated-international-visa-system/): How the FSB Infiltrated the International Visa System
 - [A New Age of Warfare: How Internet Mercenaries Do Battle for Authoritarian Governments](https://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html)
+- [Twitter is Trying to Erase the Past](https://fightthefuture.org/article/twitter-is-trying-to-erase-the-past/)
 
 ### Online Voting
 
@@ -125,6 +126,7 @@
 ## Health
 
 - [Cryptomining and IoT attacks gunning for healthcare industry](https://securitybrief.co.nz/story/cryptomining-and-iot-attacks-gunning-healthcare-industry/)
+- [Performance Matters](https://www.hillelwayne.com/post/performance-matters/)
 
 ## Brazil
 

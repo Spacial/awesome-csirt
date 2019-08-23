@@ -698,6 +698,7 @@ Curated list of public penetration test reports released by several consulting f
 - [uefi-jitfuck](https://github.com/m4tx/uefi-jitfuck): A JIT compiler for Brainfuck running on x86_64 UEFI
 - [Secure Boot in the Era of the T2](https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2): Continuing our series on Apple’s new T2 platform and examining the role it plays in Apple’s vision of Secure Boot.
 - [PSPTool](https://github.com/cwerling/psptool): Display, extract, and manipulate PSP firmware inside UEFI images
+- [Project Mu](https://microsoft.github.io/mu/): is a modular adaptation of TianoCore's edk2 tuned for building modern devices using a scalable, maintainable, and reusable pattern. [github repo](https://github.com/microsoft/mu/)
 
 ### Windows
 
@@ -804,6 +805,7 @@ Curated list of public penetration test reports released by several consulting f
 - [DeviceGuardBypasses](https://github.com/tyranid/DeviceGuardBypasses): A repository of some of my Windows 10 Device Guard Bypasses
 - [rifiuti2](https://github.com/abelcheung/rifiuti2): Windows Recycle Bin analyser
 - [Control Flow Guard Teleportation](https://86hh.github.io/cfg2.html): The idea that I tried in 2018 was to use Control Flow Guard (CFG) to regenerate my code in a special memory region. CFG is a security feature that aims to mitigate the redirection of the execution flow, for example, by checking if the target address for an indirect call is valid function. [demo](https://github.com/86hh/cfg-teleport-demo)
+- [Down the Rabbit-Hole...](https://googleprojectzero.blogspot.com/2019/08/down-rabbit-hole.html): It wouldn’t make sense if an unprivileged window could just send commands to a highly privileged window, and that’s what UIPI, User Interface Privilege Isolation, prevents. This isn’t a story about UIPI, but it is how it began. [ctftool](https://github.com/taviso/ctftool) - Interactive CTF Exploration Tool 
   
 #### Active Directory
 

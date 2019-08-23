@@ -65,6 +65,7 @@ Some CVEs PoCs repos on github or internet.
 - DACL Permissions Overwrite Privilege Escalation: [CVE-2019-0841](https://krbtgt.pw/dacl-permissions-overwrite-privilege-escalation-cve-2019-0841/)
 - Scanner PoC for RDP RCE vuln: [CVE-2019-0708](https://github.com/zerosum0x0/CVE-2019-0708)
 - Exploiting the Windows Task Scheduler Through: [CVE-2019-1069](https://www.zerodayinitiative.com/blog/2019/6/11/exploiting-the-windows-task-scheduler-through-cve-2019-1069)
+- [cve-2019-0708-scan](https://github.com/major203/cve-2019-0708-scan)
 
 ## macOS/iOS
 
@@ -82,6 +83,7 @@ Some CVEs PoCs repos on github or internet.
 - [WebKit-RegEx-Exploit](https://github.com/LinusHenze/WebKit-RegEx-Exploit): Safari 12.1.1
 - [Chaos iOS](https://github.com/GeoSn0w/Chaos): < 12.1.2 PoC by @S0rryMyBad since he posted it as a photo rather than a source code. Also cleaned up.
 - [powerd](https://github.com/0x36/powend) exploit : Sandbox escape to root for Apple iOS < 12.2 on A11 devices
+- iMessage: The Many Possibilities of [CVE-2019-8646](https://googleprojectzero.blogspot.com/2019/08/the-many-possibilities-of-cve-2019-8646.html) [poc](PoCs/CVE-2019-8646-messageleak.zip)
 
 ## Android
 
