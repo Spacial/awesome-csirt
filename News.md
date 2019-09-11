@@ -89,7 +89,12 @@
 - [Hundreds of exposed Amazon cloud backups found leaking sensitive data](https://techcrunch.com/2019/08/09/aws-ebs-cloud-backups-leak/)
 - [Inside the Hidden World of Elevator Phone Phreaking](https://www.wired.com/story/elevator-phone-phreaking-defcon/)
 - [GDPR privacy law exploited to reveal personal data](https://www.bbc.co.uk/news/technology-49252501)
-  
+- [Pulse Secure VPN servers vulnerable to CVE-2019-11510 by country](https://docs.google.com/spreadsheets/d/1ynf6Eh0Z3j1-HWxHHd3HgqqmgxqGSTckZpvWj6D52gw/edit#gid=1141509958) – Scan date: August 31, 2019
+- [Fraudsters deepfake CEO’s voice to trick manager into transferring $243,000](https://thenextweb.com/security/2019/09/02/fraudsters-deepfake-ceos-voice-to-trick-manager-into-transferring-243000/)
+- [600,000 GPS trackers for people and pets are using 123456 as a password](https://arstechnica.com/information-technology/2019/09/600000-gps-trackers-for-people-and-pets-are-using-123456-as-a-password/#p3)
+- [The Work Diary of Parisa Tabriz, Google’s ‘Security Princess’](https://www.nytimes.com/2019/09/05/business/parisa-tabriz-google-work-diary.html)
+- [Google accused of secretly feeding personal data to advertisers](https://www.irishtimes.com/business/technology/google-accused-of-secretly-feeding-personal-data-to-advertisers-1.4007629)
+
 ## Politics
 
 - [Vault 8](https://wikileaks.org/vault8/document/repo_hive/server/cryptcat/selfDestruct_c/)
@@ -135,3 +140,8 @@
 ## Old
 
 - [Password Security:](https://diogomonica.com/2014/10/11/password-security-why-the-horse-battery-staple-is-not-correct/): Why the horse battery staple is not correct
+
+## PRivacy
+
+- "[The truly harmful targeted ads aren’t the ones trying to sell us something we’ve already searched for. It’s the ones that undermine our autonomy by covertly manipulating us into new desires and behaviors, molding our consumption patterns to maximize long-term revenue extraction.](https://twitter.com/random_walker/status/1168841220535324672)"
+  
