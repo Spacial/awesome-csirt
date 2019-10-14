@@ -67,6 +67,8 @@ Some CVEs PoCs repos on github or internet.
 - Scanner PoC for RDP RCE vuln: [CVE-2019-0708](https://github.com/zerosum0x0/CVE-2019-0708)
 - Exploiting the Windows Task Scheduler Through: [CVE-2019-1069](https://www.zerodayinitiative.com/blog/2019/6/11/exploiting-the-windows-task-scheduler-through-cve-2019-1069)
 - [cve-2019-0708-scan](https://github.com/major203/cve-2019-0708-scan)
+- More Than a Penetration Test: [CVE-2019–1082](https://medium.com/@bazyli.michal/more-than-a-penetration-test-cve-2019-1082-647ba2e59034).
+- Out-Of-Bounds Read\Write: [CVE-2019-1164](https://cpr-zero.checkpoint.com/vulns/cprid-2133/)
 
 ## macOS/iOS
 
@@ -134,9 +136,11 @@ Some CVEs PoCs repos on github or internet.
 - PHP PrestaShop 1.6.x Privilege Escalation: [CVE-2018-13784](https://www.ambionics.io/blog/prestashop-privilege-escalation)
 - [phpLdapAdmin multiple vulns](https://github.com/opsxcq/exploit-phpldapadmin-remote-dump): phpldapadmin remote exploit and vulnerable container.
 - imagecolormatch() OOB Heap Write exploit: [CVE-2019-6977](https://github.com/cfreal/exploits/tree/master/CVE-2019-6977-imagecolormatch)
+- vBulletin: [2019_vbulletin_0day_info.txt](https://gist.github.com/jamesbercegay/a8f169059c6184e76b12d98d887542b3)
 
 ## Others
 
+- Tenable a lot of [Proof of Concepts](https://github.com/tenable/poc)
 - Apache Tomcat: [CVE-2017-12617](https://github.com/cyberheartmi9/CVE-2017-12617)
 - Palo Alto Networks firewalls: Palo Alto Networks firewalls remote root code execution [CVE-2017-15944](http://seclists.org/fulldisclosure/2017/Dec/38)
 - [https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/](https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/) and  [A fully implemented kernel exploit for the PS4 on 4.05FW](https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit)
@@ -150,6 +154,7 @@ Some CVEs PoCs repos on github or internet.
 - SSH Exploit written in Python for CVE-2018-15473 with threading and export formats: [CVE-2018-15473](https://github.com/Rhynorater/CVE-2018-15473-Exploit), [analysis](https://sekurak.pl/openssh-users-enumeration-cve-2018-15473/)
 - [RICOH MP 2001 Printer Cross Site Scripting ≈ Packet Storm](https://packetstormsecurity.com/files/149443/RICOH-MP-2001-Printer-Cross-Site-Scripting.html), [code](https://dl.packetstormsecurity.net/1809-exploits/richomp2001-xss.txt), [Cross-Site Scripting](https://www.exploit-db.com/exploits/45460/)
 - Oracle WebLogic WLS-WSAT Remote Code Execution Exploit: [CVE-2017-10271](https://github.com/kkirsche/CVE-2017-10271)
+- Oracle BI, [Out of Band XXE Injection Via gopher](https://medium.com/@osama.alaa/xxe-injection-in-oracle-application-server-11g-cc05f6ab55ab): [CVE-2016-3473](https://www.exploit-db.com/exploits/40590)
 - WebLogic Exploit: [CVE-2017-10271](https://github.com/c0mmand3rOpSec/CVE-2017-10271)
 - Talos Vulnerability Deep Dive: Sophos HitmanPro.Alert vulnerability -  [CVE-2018-3971](https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html)
 - [JPEG [JAY-peg]](https://github.com/corkami/docs/blob/master/images/jpeg.md), some pocs [JPEG PoCs](https://github.com/corkami/pocs/blob/master/images/jpg/README.md)

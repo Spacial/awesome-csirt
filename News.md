@@ -94,6 +94,10 @@
 - [600,000 GPS trackers for people and pets are using 123456 as a password](https://arstechnica.com/information-technology/2019/09/600000-gps-trackers-for-people-and-pets-are-using-123456-as-a-password/#p3)
 - [The Work Diary of Parisa Tabriz, Google’s ‘Security Princess’](https://www.nytimes.com/2019/09/05/business/parisa-tabriz-google-work-diary.html)
 - [Google accused of secretly feeding personal data to advertisers](https://www.irishtimes.com/business/technology/google-accused-of-secretly-feeding-personal-data-to-advertisers-1.4007629)
+- [Instagram Confirms Security Issue Exposed User Accounts And Phone Numbers—Exclusive](https://www.forbes.com/sites/zakdoffman/2019/09/12/new-instagram-hack-exclusive-facebook-confirms-user-accounts-and-phone-numbers-at-risk/)
+- [Centralised DoH is bad for privacy, in 2019 and beyond](https://blog.powerdns.com/2019/09/25/centralised-doh-is-bad-for-privacy-in-2019-and-beyond/)
+- [Google Chrome Keystone is modifying /var symlink on non SIP Macs causing Boot Issues](https://mrmacintosh.com/google-chrome-keystone-is-modifying-var-symlink-on-non-sip-macs-causing-boot-issues/)
+- [Twitter executive for Middle East is British Army 'psyops' soldier](https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit)
 
 ## Politics
 
@@ -115,6 +119,7 @@
 - [Spies Without Borders](https://www.bellingcat.com/news/uk-and-europe/2018/11/16/spies-without-borders-fsb-infiltrated-international-visa-system/): How the FSB Infiltrated the International Visa System
 - [A New Age of Warfare: How Internet Mercenaries Do Battle for Authoritarian Governments](https://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html)
 - [Twitter is Trying to Erase the Past](https://fightthefuture.org/article/twitter-is-trying-to-erase-the-past/)
+- [At Least 70 Countries Have Had Disinformation Campaigns, Study Finds](https://www.nytimes.com/2019/09/26/technology/government-disinformation-cyber-troops.html)
 
 ### Online Voting
 
