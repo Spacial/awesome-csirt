@@ -70,7 +70,6 @@
 - [Why Phone Numbers Stink As Identity Proof](https://krebsonsecurity.com/2019/03/why-phone-numbers-stink-as-identity-proof/)
 - [Protecting your online privacy is tough—but here's a start](https://qz.com/1525661/your-digital-identity-has-three-layers-and-you-can-only-protect-one-of-them/)
 - [Thoughts on personal data vs non-personal data](https://medium.com/@yaso/thoughts-on-personal-data-vs-non-personal-data-9d84addfe820)
-- (pt-br) [A Interceptação Telemática no Projeto de Lei “Anticrime”: os riscos do Hacker Estatal](https://medium.com/contrarraz%C3%B5es/a-intercepta%C3%A7%C3%A3o-telem%C3%A1tica-no-projeto-de-lei-anticrime-os-ricos-do-hacker-estatal-28bef7656f98)
 - [Chinese companies have leaked over 590 million resumes via open databases](https://www.zdnet.com/article/chinese-companies-have-leaked-over-590-million-resumes-via-open-databases/)
 - [Cryptography That Can’t Be Hacked](https://www.quantamagazine.org/how-the-evercrypt-library-creates-hacker-proof-cryptography-20190402/): Researchers have just released hacker-proof cryptographic code — programs with the same level of invincibility as a mathematical proof.
 - [Cybercrime market selling full digital fingerprints of over 60,000 users](https://www.zdnet.com/article/cybercrime-market-selling-full-digital-fingerprints-of-over-60000-users/)
@@ -98,6 +97,29 @@
 - [Centralised DoH is bad for privacy, in 2019 and beyond](https://blog.powerdns.com/2019/09/25/centralised-doh-is-bad-for-privacy-in-2019-and-beyond/)
 - [Google Chrome Keystone is modifying /var symlink on non SIP Macs causing Boot Issues](https://mrmacintosh.com/google-chrome-keystone-is-modifying-var-symlink-on-non-sip-macs-causing-boot-issues/)
 - [Twitter executive for Middle East is British Army 'psyops' soldier](https://www.middleeasteye.net/news/twitter-executive-also-part-time-officer-uk-army-psychological-warfare-unit)
+- [Vulnerabilities exploited in VPN products used worldwide](https://www.ncsc.gov.uk/news/alert-vpn-vulnerabilities)
+- [Schneier slams Australia's encryption laws and CyberCon speaker bans](https://www.zdnet.com/article/schneier-slams-australias-encryption-laws-cybercon-speaker-bans/)
+- [China’s New Cybersecurity Program: NO Place to Hide](https://www.chinalawblog.com/2019/09/chinas-new-cybersecurity-program-no-place-to-hide.html)
+- [Clash Over Surveillance Software Turns Personal in Germany](https://www.bloomberg.com/news/articles/2019-10-13/clash-over-surveillance-software-turns-personal-in-germany)
+- [New surveillance tech means you'll never be anonymous again](https://www.wired.co.uk/article/surveillance-technology-biometrics)
+- [The Untold Story of the 2018 Olympics Cyberattack, the Most Deceptive Hack in History](https://www.wired.com/story/untold-story-2018-olympics-destroyer-cyberattack/)
+- SCHILLING: [If You Value Freedom On The Internet, Stop Using Google Chrome](https://dailycaller.com/2019/10/22/schilling-stop-google-chrome/)
+- [Uncovered: 265 coordinated fake local media outlets serving Indian interests](https://www.disinfo.eu/2019/11/13/uncovered:-265-coordinated-fake-local-media-outlets-serving-indian-interests/). [map](https://www.google.com/maps/d/viewer?ll=2.171532852531854,0&z=2&mid=1-_KpPuAyLGUhz_R84V12Hu5C_i2oJPSs).
+- [How Attackers Could Hijack Your Android Camera to Spy on You](https://www.checkmarx.com/blog/how-attackers-could-hijack-your-android-camera)
+- [Here’s why pop culture and passwords don’t mix](https://blog.mozilla.org/firefox/pop-culture-bad-passwords/)
+- [Private Internet Access VPN to be acquired by malware company founded by former Israeli spy](https://telegra.ph/Private-Internet-Access-VPN-acquired-by-malware-business-founded-by-former-Israeli-spies-12-01)
+- [Is true hacking dead? What we lost.](http://c0de517e.blogspot.com/2019/12/is-true-hacking-dead-what-we-lost.html)
+- [Some Fortinet products shipped with hardcoded encryption keys](https://www.zdnet.com/article/some-fortinet-products-shipped-with-hardcoded-encryption-keys/)
+- [Microsoft says new Dexphot malware infected more than 80,000 computers](https://www.zdnet.com/article/microsoft-says-new-dexphot-malware-infected-more-than-80000-computers/)
+- [We are pleased to announce the factorization of RSA-240](https://lists.gforge.inria.fr/pipermail/cado-nfs-discuss/2019-December/001139.html)
+- [Ministry for Foreign Affairs launches a bug bounty programme for finding vulnerabilities in online services](https://valtioneuvosto.fi/en/article/-/asset_publisher/ministry-for-foreign-affairs-launches-a-bug-bounty-programme-for-finding-vulnerabilities-in-online-services)
+- [The Great Cannon DDoS Tool Used Against Hong Kong Protestors’ Forum](https://www.bleepingcomputer.com/news/security/the-great-cannon-ddos-tool-used-against-hong-kong-protestors-forum/)
+
+## 2020
+
+- [DNS Hijacking: A New Method of MitM Attack Observed in the Wild.](https://www.airoav.com/dns-hijacking-a-new-method-of-mitm-attack-observed-in-the-wild/)
+- [The First Official NSA Exploit (CVE-2020-0601)](https://blog.cygenta.co.uk/first-nsa-exploit/)
+- [Win10 Crypto Vulnerability: Cheating in Elliptic Curve Billiards 2](https://medium.com/zengo/win10-crypto-vulnerability-cheating-in-elliptic-curve-billiards-2-69b45f2dcab6)
 
 ## Politics
 
@@ -120,6 +142,15 @@
 - [A New Age of Warfare: How Internet Mercenaries Do Battle for Authoritarian Governments](https://www.nytimes.com/2019/03/21/us/politics/government-hackers-nso-darkmatter.html)
 - [Twitter is Trying to Erase the Past](https://fightthefuture.org/article/twitter-is-trying-to-erase-the-past/)
 - [At Least 70 Countries Have Had Disinformation Campaigns, Study Finds](https://www.nytimes.com/2019/09/26/technology/government-disinformation-cyber-troops.html)
+- [Freedom on the Net Countries](https://freedomhouse.org/report/countries-net-freedom-2018)
+- [OpenSanctions](https://docs.alephdata.org/data-commons/sanctions): OpenSanctions is a database of persons and companies of political, criminal, or economic interest. We combine sanctioned entities, politically exposed persons, and other public information. [OpenSanctions.org](https://github.com/alephdata/opensanctions)
+- [TakeDown Spain Notes](https://github.com/github/gov-takedowns/blob/master/Spain/2019/2019-10-23-GuardiaCivil.md): Text of Spain government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
+- [China’s New Cybersecurity Program: NO Place to Hide](https://www.chinalawblog.com/2019/09/chinas-new-cybersecurity-program-no-place-to-hide.html)
+- [Avast fights off cyber-espionage attempt, Abiss](https://blog.avast.com/ccleaner-fights-off-cyberespionage-attempt-abiss)
+- [Hong Kong Police Already Have AI Tech That Can Recognize Faces](https://www.bloomberg.com/news/articles/2019-10-22/hong-kong-police-already-have-ai-tech-that-can-recognize-faces)
+- [Tracking down the developer of Android adware affecting millions of users](https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/)
+- (pt-br) [Falha de cartórios expõe dados de ao menos 1 milhão de pais, mães e filhos](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2019/10/29/falha-de-cartorios-expoe-dados-de-ao-menos-1-milhao-de-pais-maes-e-filhos.htm)
+- [ICANN races towards regulatory capture: the great .ORG heist](http://blogs.harvard.edu/sj/2019/11/23/a-tale-of-icann-and-regulatory-capture-the-dot-org-heist/). [Private equity firm buys .org domain months after ICANN lifted price caps](https://arstechnica.com/tech-policy/2019/11/private-equity-firm-buys-org-domain-months-after-icann-lifted-price-caps/)
 
 ### Online Voting
 
@@ -149,4 +180,6 @@
 ## PRivacy
 
 - "[The truly harmful targeted ads aren’t the ones trying to sell us something we’ve already searched for. It’s the ones that undermine our autonomy by covertly manipulating us into new desires and behaviors, molding our consumption patterns to maximize long-term revenue extraction.](https://twitter.com/random_walker/status/1168841220535324672)"
+- [TCP ISN CPU Information Leak Protection - tirdad](https://forums.whonix.org/t/tcp-isn-cpu-information-leak-protection-tirdad/8552)
+- (pt-br) [Exclusivo: ViaQuatro expõe dados de mais de 10 mil usuários da Linha 4 do Metrô de SP](https://thehack.com.br/exclusivo-viaquatro-expoe-dados-de-mais-de-10-mil-usuarios-da-linha-4-do-metro-de-sp/)
   

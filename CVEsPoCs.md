@@ -35,6 +35,7 @@ Some CVEs PoCs repos on github or internet.
 - [System Down](https://www.qualys.com/2019/01/09/system-down/system-down.txt): A systemd-journald exploit. Combined Exploitation of CVE-2018-16865 and CVE-2018-16866
 - [mario_baslr](https://github.com/felixwilhelm/mario_baslr): PoC for breaking hypervisor ASLR using branch target buffer collisions.
 - waitid: [CVE-2017-5123](https://github.com/nongiach/CVE/tree/master/CVE-2017-5123)
+- sudo: [CVE-2019-14287](https://sensorstechforum.com/cve-2019-14287-sudo-bug/) - Sudo Bug Allows Restricted Users to Run Commands as Root. [redhat](https://access.redhat.com/security/cve/cve-2019-14287), [PoC](https://www.sudo.ws/alerts/minus_1_uid.html)
   
 ## Solaris
 
@@ -69,6 +70,8 @@ Some CVEs PoCs repos on github or internet.
 - [cve-2019-0708-scan](https://github.com/major203/cve-2019-0708-scan)
 - More Than a Penetration Test: [CVE-2019–1082](https://medium.com/@bazyli.michal/more-than-a-penetration-test-cve-2019-1082-647ba2e59034).
 - Out-Of-Bounds Read\Write: [CVE-2019-1164](https://cpr-zero.checkpoint.com/vulns/cprid-2133/)
+- Bluekeep: [CVE-2019-0708](https://www.kryptoslogic.com/blog/2019/11/bluekeep-cve-2019-0708-exploitation-spotted-in-the-wild/)
+- Full exploit chain against Firefox on Windows 64-bit: [CVE-2019-11708 & CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-11708)
 
 ## macOS/iOS
 
@@ -92,6 +95,7 @@ Some CVEs PoCs repos on github or internet.
 ## Android
 
 - [Please Stop Naming Vulnerabilities](https://pleasestopnamingvulnerabilities.com): Exploring 6 Previously Unknown Remote Kernel Bugs Affecting Android Phones
+- [qu1ckr00t](https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/): Tailoring [CVE-2019-2215](https://github.com/grant-h/qu1ckr00t) to Achieve Root.
 
 ## Java
 
@@ -108,14 +112,17 @@ Some CVEs PoCs repos on github or internet.
 
 - HPE iLO4: [CVE-2017-12542](https://github.com/airbus-seclab/ilo4_toolbox/blob/master/README.rst)
 
-## x86
+## Hardware
+
+### x86
 
 - Spectre: [CVE-2017-5753,CVE-2017-5715](https://spectreattack.com/)
 - Meltdown: [CVE-2017-5754](https://meltdownattack.com/)
 - Cyberus: [Meltdown](http://blog.cyberus-technology.de/posts/2018-01-03-meltdown.html)
 - L1 Terminal Fault: [CVE-2018-3615/CVE-2018-3620/CVE-2018-3646/INTEL-SA-00161](https://software.intel.com/security-software-guidance/software-guidance/l1-terminal-fault)
+- [TPM—Fail](http://tpm.fail/): TPM meets Timing and Lattice Attacks. [TPM-FAIL vulnerabilities impact TPM chips in desktops, laptops, servers](https://www.zdnet.com/article/tpm-fail-vulnerabilities-impact-tpm-chips-in-desktops-laptops-servers/), [github](https://github.com/VernamLab/TPM-Fail).
 
-## ARM
+### ARM
 
 - [ARM exploitation for IoT – Episode 3](https://quequero.org/2017/11/arm-exploitation-iot-episode-3/)
 - [Multiple vulnerabilities found in Wireless IP Camera](https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html#backdoor-account): CVE-2017-8224, CVE-2017-8222, CVE-2017-8225, CVE-2017-8223, CVE-2017-8221
@@ -137,6 +144,10 @@ Some CVEs PoCs repos on github or internet.
 - [phpLdapAdmin multiple vulns](https://github.com/opsxcq/exploit-phpldapadmin-remote-dump): phpldapadmin remote exploit and vulnerable container.
 - imagecolormatch() OOB Heap Write exploit: [CVE-2019-6977](https://github.com/cfreal/exploits/tree/master/CVE-2019-6977-imagecolormatch)
 - vBulletin: [2019_vbulletin_0day_info.txt](https://gist.github.com/jamesbercegay/a8f169059c6184e76b12d98d887542b3)
+
+## API
+
+- [Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html), [poc](https://not-an-aardvark.github.io/oauth-bypass-poc-fbdf56605489c74b2951/)
 
 ## Others
 
@@ -175,6 +186,7 @@ Some CVEs PoCs repos on github or internet.
 - Chrome:
   - [CVE-2019-5782](https://github.com/vngkv123/aSiagaming)
   - [CVE-2019-5786](https://github.com/exodusintel/CVE-2019-5786): FileReader Exploit
+  - [CVE-2019-13054](https://github.com/mame82/munifying-web): The page utilizes the new WebHID API to extract AES encryption keys from vulnerable dongles. [PoC Page](https://mame82.github.io/munifying-web/)
 - [Google Books X-Hacking](https://medium.com/@terjanq/google-books-x-hacking-29c249862f19)
 - Ruby on Rails: File Content Disclosure on Rails - [CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)
 - Libreoffice - Remote Code Execution via Macro/Event execution: [CVE-2018-16858](https://insert-script.blogspot.com/2019/02/libreoffice-cve-2018-16858-remote-code.html)
@@ -202,6 +214,10 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [Thrangrycat](https://xn--538haa.fm/)
 - [Responding to Firefox 0-days in the wild](https://blog.coinbase.com/responding-to-firefox-0-days-in-the-wild-d9c85a57f15b)
 - Bitbucket 6.1.1 Path Traversal to RCE: [CVE-2019-3397](https://blog.ripstech.com/2019/bitbucket-path-traversal-to-rce/)
+- ThinVNC Client Authentication Bypass: [CVE-2019-17662](https://redteamzone.com/ThinVNC/) - with [PoC](https://github.com/shashankmangal2/Exploits/tree/master/CVE-2019-17662)
+- metasploit http DoS module: [CVE-2019-5645](https://github.com/rapid7/metasploit-framework/pull/12433)
+- PandoraFMS v7.0NG authenticated Remote Code Execution: [CVE-2019-20224](https://shells.systems/pandorafms-v7-0ng-authenticated-remote-code-execution-cve-2019-20224/)
+- First Active Attack Exploiting [CVE-2019-2215](https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/) Found on Google Play, Linked to SideWinder APT Group
 
 ## Additions
 
