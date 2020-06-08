@@ -120,6 +120,7 @@
 - [DNS Hijacking: A New Method of MitM Attack Observed in the Wild.](https://www.airoav.com/dns-hijacking-a-new-method-of-mitm-attack-observed-in-the-wild/)
 - [The First Official NSA Exploit (CVE-2020-0601)](https://blog.cygenta.co.uk/first-nsa-exploit/)
 - [Win10 Crypto Vulnerability: Cheating in Elliptic Curve Billiards 2](https://medium.com/zengo/win10-crypto-vulnerability-cheating-in-elliptic-curve-billiards-2-69b45f2dcab6)
+- [United Nations Targeted With Emotet Malware Phishing Attack](https://www.bleepingcomputer.com/news/security/united-nations-targeted-with-emotet-malware-phishing-attack/)
 
 ## Politics
 

@@ -72,6 +72,10 @@ Some CVEs PoCs repos on github or internet.
 - Out-Of-Bounds Read\Write: [CVE-2019-1164](https://cpr-zero.checkpoint.com/vulns/cprid-2133/)
 - Bluekeep: [CVE-2019-0708](https://www.kryptoslogic.com/blog/2019/11/bluekeep-cve-2019-0708-exploitation-spotted-in-the-wild/)
 - Full exploit chain against Firefox on Windows 64-bit: [CVE-2019-11708 & CVE-2019-9810](https://github.com/0vercl0k/CVE-2019-11708)
+- [CVE-2020-0601](https://research.kudelskisecurity.com/2020/01/15/cve-2020-0601-the-chainoffools-attack-explained-with-poc/): the ChainOfFools/CurveBall attack explained with PoC
+- Chainoffools: A PoC for [CVE-2020-0601](https://github.com/kudelskisecurity/chainoffools)
+- CurveBall: PoC for [CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601)
+- [Microsoft Windows - CryptoAPI (Crypt32.dll) Elliptic Curve Cryptography (ECC) Spoof Code-Signing Certificate](https://www.exploit-db.com/exploits/47933)
 
 ## macOS/iOS
 
@@ -144,6 +148,7 @@ Some CVEs PoCs repos on github or internet.
 - [phpLdapAdmin multiple vulns](https://github.com/opsxcq/exploit-phpldapadmin-remote-dump): phpldapadmin remote exploit and vulnerable container.
 - imagecolormatch() OOB Heap Write exploit: [CVE-2019-6977](https://github.com/cfreal/exploits/tree/master/CVE-2019-6977-imagecolormatch)
 - vBulletin: [2019_vbulletin_0day_info.txt](https://gist.github.com/jamesbercegay/a8f169059c6184e76b12d98d887542b3)
+- [PHP 7.0-7.4 disable_functions bypass](https://github.com/mm0r1/exploits/tree/master/php7-backtrace-bypass)
 
 ## API
 

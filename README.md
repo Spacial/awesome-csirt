@@ -40,7 +40,7 @@
 ### Hashing
 
 - [MD5 Decryption](https://www.md5online.org/md5-decrypt.html)
-- [SHA-1 is a Shambles](https://sha-mbles.github.io/)
+- [SHA-1 is a Shambles](https://sha-mbles.github.io/): First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust
   
 ## CVEs
 
@@ -149,6 +149,7 @@
 - [Analyzing GrandSoft Exploit Kit](http://www.nao-sec.org/2018/02/analyzing-grandsoft-exploit-kit.html) and [code](https://gist.github.com/anonymous/089810f4581b86edf27827a0a4ebeff4)
 - [Rapidly Evolving Ransomware GandCrab Version 5 Partners With Crypter Service for Obfuscation](https://securingtomorrow.mcafee.com/mcafee-labs/rapidly-evolving-ransomware-gandcrab-version-5-partners-with-crypter-service-for-obfuscation/)
 - [hidden-tear](https://github.com/goliate/hidden-tear): It's a ransomware-like file crypter sample which can be modified for specific purposes.
+- [Tracking REvil](https://www.kpn.com/security-blogs/Tracking-REvil.htm): This blog describes our efforts in tracking the REvil ransomware and its affiliates for the past six months. REvil has been around since 2019 and is one of the top variants of ransomware causing havoc at many organizations around the globe ever since. The KPN Security Research Team was able to acquire C2 sinkholes allowing for the tracking of infections across the globe.
 
 ### Virus/Anti-Virus
 
@@ -159,9 +160,9 @@
 - [Curtis' Blog: Bypassing Next Gen AV During a Pentest](https://curtbraz.blogspot.com/2018/08/bypassing-next-gen-av-during-pentest.html)
 - [Inception](https://github.com/two06/Inception/): Provides In-memory compilation and reflective loading of C# apps for AV evasion.
 - [Invoke-NeutralizeAV](https://github.com/curtbraz/Invoke-NeutralizeAV): Quick PoC I Wrote for Bypassing Next Gen AV Remotely for Pentesting.
-- [BinariesThatDoesOtherStuff](https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt)
-- [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner
-- [The ELF Virus Writing HOWTO](http://www.linuxsecurity.com/resource_files/documentation/virus-writing-HOWTO/_html/index.html)
+- [BinariesThatDoesOtherStuff](https://gist.github.com/api0cradle/8cdc53e2a80de079709d28a2d96458c2#file-binariesthatdoesotherstuff-txt).
+- [Circlean](https://github.com/CIRCL/Circlean): USB key cleaner.
+- [The ELF Virus Writing HOWTO](http://www.linuxsecurity.com/resource_files/documentation/virus-writing-HOWTO/_html/index.html).
 - [mcreator](https://github.com/blacknbunny/mcreator): Encoded Reverse Shell Generator With Techniques To Bypass AV's.
 - [metame](https://github.com/a0rtega/metame): is a simple metamorphic code engine for [arbitrary executables](https://www.kitploit.com/2019/09/metame-metame-is-metamorphic-code.html).
 
@@ -380,6 +381,7 @@
 - [QL](https://github.com/Semmle/ql): The libraries and queries that power CodeQL and LGTM.com
 - [Sendy is Insecure](https://victorzhou.com/blog/sendy-recaptcha-security/): How Not to Implement reCAPTCHA
 - Win10 Crypto Vulnerability: [Cheating in Elliptic Curve Billiards 2](https://medium.com/zengo/win10-crypto-vulnerability-cheating-in-elliptic-curve-billiards-2-69b45f2dcab6)
+- [DevSecOps](https://dzone.com/articles/devsecops-securing-software-in-a-devops-world): Securing Software in a DevOps World
 
 ### Fuzzing
 
@@ -599,7 +601,8 @@ Curated list of public penetration test reports released by several consulting f
 
 #### OSINT Webscraping
 
-- []()
+- [OSINT framework](https://osintframework.com/) focused on gathering information from free tools or resources.
+- [h8mail](https://github.com/khast3x/h8mail): Password Breach Hunting & Email OSINT tool, locally or using premium services. Supports chasing down related email
 
 ### Vulnerability
 
@@ -1171,6 +1174,7 @@ SELECT-id-1.FROM`test`
 - [Ken Thompson's Unix password](https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html)
 - [Exploiting Wi-Fi Stack on Tesla Model S](https://keenlab.tencent.com/en/2020/01/02/exploiting-wifi-stack-on-tesla-model-s/)
 - [dlinject.py](https://github.com/DavidBuchanan314/dlinject): Inject a shared library (i.e. arbitrary code) into a live linux process, without ptrace
+- [(Ab)using Kerberos from Linux](https://www.onsecurity.co.uk/blog/abusing-kerberos-from-linux)
 
 ### Cloud
 
@@ -1390,6 +1394,7 @@ SELECT-id-1.FROM`test`
 - [AWAE-Preparation](https://github.com/M507/AWAE-Preparation): This repository will contain all trainings and tutorials I have done/read to prepare for OSWE / AWAE.
 - [From AWAE to OSWE: The Preperation Guide](https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en)
 - [AWAE/OSWE](https://github.com/ManhNho/AWAE-OSWE/): Preparation for coming AWAE Training.
+- [Security Certification Progress Chart](https://twitter.com/Marmusha/status/1222810038898712576/photo/1)
 
 ## Conferences and Slides
 
