@@ -121,6 +121,14 @@
 - [The First Official NSA Exploit (CVE-2020-0601)](https://blog.cygenta.co.uk/first-nsa-exploit/)
 - [Win10 Crypto Vulnerability: Cheating in Elliptic Curve Billiards 2](https://medium.com/zengo/win10-crypto-vulnerability-cheating-in-elliptic-curve-billiards-2-69b45f2dcab6)
 - [United Nations Targeted With Emotet Malware Phishing Attack](https://www.bleepingcomputer.com/news/security/united-nations-targeted-with-emotet-malware-phishing-attack/)
+- [Spies Can Listen To Your Conversations By Analyzing A Light Bulb In Your Room](https://www.techworm.net/2020/06/spies-listen-conversations-light-bulb.html)
+- [Who’s Behind Wednesday’s Epic Twitter Hack?](https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/)
+- [A catastrophe at Twitter](https://www.getrevue.co/profile/caseynewton/issues/a-catastrophe-at-twitter-263960)
+- [Hackers Convinced Twitter Employee to Help Them Hijack Accounts](https://www.vice.com/en_us/article/jgxd3d/twitter-insider-access-panel-account-hacks-biden-uber-bezos)
+- [Ransomware gang demands $7.5 million from Argentinian ISP](https://www.zdnet.com/article/ransomware-gang-demands-7-5-million-from-argentinian-isp/)
+- [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
+- [TikTok](https://medium.com/@fs0c131y/tiktok-logs-logs-logs-e93e8162647a): Logs, Logs, Logs
+- [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
 
 ## Politics
 

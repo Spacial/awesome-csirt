@@ -95,6 +95,7 @@ Some CVEs PoCs repos on github or internet.
 - [powerd](https://github.com/0x36/powend) exploit : Sandbox escape to root for Apple iOS < 12.2 on A11 devices
 - iMessage: The Many Possibilities of [CVE-2019-8646](https://googleprojectzero.blogspot.com/2019/08/the-many-possibilities-of-cve-2019-8646.html) [poc](PoCs/CVE-2019-8646-messageleak.zip)
 - [PoC tool for setting nonce without triggering KPP/KTRR/PAC.](https://github.com/0x7ff/dimentio) (requires tfp0)
+- [CVE-2020-9934](https://github.com/mattshockl/CVE-2020-9934)
 
 ## Android
 
@@ -223,6 +224,8 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - metasploit http DoS module: [CVE-2019-5645](https://github.com/rapid7/metasploit-framework/pull/12433)
 - PandoraFMS v7.0NG authenticated Remote Code Execution: [CVE-2019-20224](https://shells.systems/pandorafms-v7-0ng-authenticated-remote-code-execution-cve-2019-20224/)
 - First Active Attack Exploiting [CVE-2019-2215](https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/) Found on Google Play, Linked to SideWinder APT Group
+- Mikrotik Winbox: [CVE-2018-14847](https://github.com/BigNerd95/WinboxExploit) [metasploit 45578](https://www.exploit-db.com/exploits/45578)
+- [MkCheck](https://github.com/s1l3nt78/MkCheck): Script to check MikroTik Routers the WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities
 
 ## Additions
 
