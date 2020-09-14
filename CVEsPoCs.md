@@ -9,6 +9,7 @@ Some CVEs PoCs repos on github or internet.
 - This is a nice Wrapper:[vFeed](https://github.com/toolswatch/vFeed).
 - Automated Generation of Proofs of Vulnerability with [S2E](https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst)
 - [SecurityExploits](https://github.com/Semmle/SecurityExploits): This repository contains proof-of-concept exploits developed by the Semmle Security Research Team. We always disclose security vulnerabilities responsibly, so this repository only contains exploits for vulnerabilities which have already been fixed and publicly disclosed.
+- [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC): About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms.
 
 ## Linux
 
@@ -36,6 +37,7 @@ Some CVEs PoCs repos on github or internet.
 - [mario_baslr](https://github.com/felixwilhelm/mario_baslr): PoC for breaking hypervisor ASLR using branch target buffer collisions.
 - waitid: [CVE-2017-5123](https://github.com/nongiach/CVE/tree/master/CVE-2017-5123)
 - sudo: [CVE-2019-14287](https://sensorstechforum.com/cve-2019-14287-sudo-bug/) - Sudo Bug Allows Restricted Users to Run Commands as Root. [redhat](https://access.redhat.com/security/cve/cve-2019-14287), [PoC](https://www.sudo.ws/alerts/minus_1_uid.html)
+- Memory corruption in net/packet/af_packet.c: [CVE-2020-14386](https://www.openwall.com/lists/oss-security/2020/09/03/3), [poc](https://www.openwall.com/lists/oss-security/2020/09/03/3/2)
   
 ## Solaris
 
@@ -76,6 +78,12 @@ Some CVEs PoCs repos on github or internet.
 - Chainoffools: A PoC for [CVE-2020-0601](https://github.com/kudelskisecurity/chainoffools)
 - CurveBall: PoC for [CVE-2020-0601](https://github.com/ollypwn/CVE-2020-0601)
 - [Microsoft Windows - CryptoAPI (Crypt32.dll) Elliptic Curve Cryptography (ECC) Spoof Code-Signing Certificate](https://www.exploit-db.com/exploits/47933)
+- Glueball, CVE-2020-1464: [Interesting tactic by Ratty & Adwind for distribution of JAR appended to signed MSI – CVE-2020-1464](https://www.securityinbits.com/malware-analysis/interesting-tactic-by-ratty-adwind-distribution-of-jar-appended-to-signed-msi/), [GlueBall: The story of CVE-2020–1464](https://medium.com/@TalBeerySec/glueball-the-story-of-cve-2020-1464-50091a1f98bd)
+- Analysis of Recently Fixed IE Zero-Day: [CVE-2020-1380](https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html)
+- [MIcrosoft-Word-Use-After-Free](https://github.com/whiteHat001/MIcrosoft-Word-Use-After-Free) - Word Docx with exploit.
+- [Half Life 1](https://hackerone.com/reports/832750) - Buffer overflow In hl.exe's launch -game argument allows an attacker to execute arbitrary code locally or from browser
+- [PoC for enabling wdigest to bypass credential guard ](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
+- Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/)
 
 ## macOS/iOS
 
@@ -96,6 +104,7 @@ Some CVEs PoCs repos on github or internet.
 - iMessage: The Many Possibilities of [CVE-2019-8646](https://googleprojectzero.blogspot.com/2019/08/the-many-possibilities-of-cve-2019-8646.html) [poc](PoCs/CVE-2019-8646-messageleak.zip)
 - [PoC tool for setting nonce without triggering KPP/KTRR/PAC.](https://github.com/0x7ff/dimentio) (requires tfp0)
 - [CVE-2020-9934](https://github.com/mattshockl/CVE-2020-9934)
+- [Stealing local files using Safari Web Share API](https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html) [PoC](https://overflow.pl/webshare/poc1.html)
 
 ## Android
 
@@ -158,6 +167,7 @@ Some CVEs PoCs repos on github or internet.
 ## Others
 
 - Tenable a lot of [Proof of Concepts](https://github.com/tenable/poc)
+- [Disclosures](https://github.com/DrunkenShells/Disclosures) by DrunkenShells
 - Apache Tomcat: [CVE-2017-12617](https://github.com/cyberheartmi9/CVE-2017-12617)
 - Palo Alto Networks firewalls: Palo Alto Networks firewalls remote root code execution [CVE-2017-15944](http://seclists.org/fulldisclosure/2017/Dec/38)
 - [https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/](https://fail0verflow.com/blog/2017/ps4-namedobj-exploit/) and  [A fully implemented kernel exploit for the PS4 on 4.05FW](https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit)
@@ -226,6 +236,21 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - First Active Attack Exploiting [CVE-2019-2215](https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/) Found on Google Play, Linked to SideWinder APT Group
 - Mikrotik Winbox: [CVE-2018-14847](https://github.com/BigNerd95/WinboxExploit) [metasploit 45578](https://www.exploit-db.com/exploits/45578)
 - [MkCheck](https://github.com/s1l3nt78/MkCheck): Script to check MikroTik Routers the WinBox Authentication Bypass Disclosure & RouterOS Jailbreak vulnerabilities
+- [Jenkins Security Advisory 2020-08-17](https://www.jenkins.io/security/advisory/2020-08-17/)/[CVE-2019-17638: Operation on a Resource after Expiration or Release in Jetty Server](https://github.com/advisories/GHSA-x3rh-m7vp-35f2) [on hacker news](https://thehackernews.com/2020/08/jenkins-server-vulnerability.html)
+- Some [PoCs](https://github.com/CCob/PoC) about: CVE-2020-8207 and CVE-2020-8324.
+- [Richsploit](https://github.com/redtimmy/Richsploit): [One tool to exploit all versions of RichFaces ever released](https://www.redtimmy.com/java-hacking/richsploit-one-tool-to-exploit-all-versions-of-richfaces-ever-released/) [CVE-2018-14667](https://github.com/syriusbughunt/CVE-2018-14667)
+- Forget Your Perimeter - RCE in Pulse Connect Secure: [CVE-2020-8218](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/).
+- some Starlabs [CVES](https://twitter.com/starlabs_sg/status/1299886166406127617): 
+  - [CVE-2020-2674](https://starlabs.sg/advisories/20-2674/)
+  - [CVE-2020-2682](https://starlabs.sg/advisories/20-2682/)
+  - [CVE-2020-2575](https://starlabs.sg/advisories/20-2575/)
+  - [CVE-2020-2748](https://starlabs.sg/advisories/20-2748/)
+  - [CVE-2020-2758](https://starlabs.sg/advisories/20-2758/)
+  - [CVE-2020-2894](https://starlabs.sg/advisories/20-2894/)
+  - [CVE-2020-3800](https://starlabs.sg/advisories/20-3800/)
+  - [CVE-2020-3801](https://starlabs.sg/advisories/20-3801/)
+  - [CVE-2020-10907](https://starlabs.sg/advisories/20-10907/)
+- [cve-scanner-exploiting-pocs ](https://github.com/gmatuz/cve-scanner-exploiting-pocs): Collection of ideas and specific exploits against Docker CVE scanners
 
 ## Additions
 

@@ -20,6 +20,14 @@
 - [Oh for fuck's sake, not this fucking bullshit again](https://boingboing.net/2018/09/04/illegal-math.html) (cryptography edition)
 - [The curious case of the Raspberry Pi in the network closet](https://blog.haschek.at/2018/the-curious-case-of-the-RasPi-in-our-network.html): how we found, analyzed (with the help of Reddit) and in the end caught the culprit of a malicious device in our network
 
+## 2002
+
+- [‘NTFS Hard Links Subvert Auditing’](https://securiteam.com/windowsntfocus/5bp0e2a80i/)
+
+## 2013
+
+- [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
+
 ## 2018
 
 - [70+ different types of home routers(all together 100,000+) are being hijacked by GhostDNS](https://blog.netlab.360.com/70-different-types-of-home-routers-all-together-100000-are-being-hijacked-by-ghostdns-en/)
@@ -129,6 +137,19 @@
 - [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)
 - [TikTok](https://medium.com/@fs0c131y/tiktok-logs-logs-logs-e93e8162647a): Logs, Logs, Logs
 - [On the Twitter Hack](https://www.schneier.com/blog/archives/2020/07/on_the_twitter_.html)
+- [Hacking Zoom](https://mazinahmed.net/blog/hacking-zoom/): Uncovering Tales of Security Vulnerabilities in Zoom
+- [Water Nue Phishing Campaign Targets C-Suite’s Office 365 Accounts](https://blog.trendmicro.com/trendlabs-security-intelligence/water-nue-campaign-targets-c-suites-office-365-accounts/)
+- Tripwire Research: [IoT Smart Lock Vulnerability Spotlights Bigger Issues](https://www.tripwire.com/state-of-security/featured/tripwire-research-iot-smart-lock-vulnerability/)
+- [TeamViewer Flaw Could Let Hackers Steal System Password Remotely](https://thehackernews.com/2020/08/teamviewer-password-hacking.html)
+- [NSA and FBI Expose Russian Previously Undisclosed Malware “Drovorub” in Cybersecurity Advisory](https://www.nsa.gov/news-features/press-room/Article/2311407/nsa-and-fbi-expose-russian-previously-undisclosed-malware-drovorub-in-cybersecu/)
+- [Terrifying Cybercrime and Cybersecurity Statistics & Trends - 2020](https://www.comparitech.com/vpn/cybersecurity-cyber-crime-statistics-facts-trends/)
+- [Microsoft Put Off Fixing Zero Day for 2 Years](https://krebsonsecurity.com/2020/08/microsoft-put-off-fixing-zero-day-for-2-years/), Security-in-bits analysis: [Interesting tactic by Ratty & Adwind for distribution of JAR appended to signed MSI – CVE-2020-1464](https://www.securityinbits.com/malware-analysis/interesting-tactic-by-ratty-adwind-distribution-of-jar-appended-to-signed-msi/), [GlueBall: The story of CVE-2020–1464](https://medium.com/@TalBeerySec/glueball-the-story-of-cve-2020-1464-50091a1f98bd)
+- [Detection Deficit: A Year in Review of 0-days Used In-The-Wild in 2019](https://googleprojectzero.blogspot.com/2020/07/detection-deficit-year-in-review-of-0.html)
+- [The Big Tesla Hack](https://electrek.co/2020/08/27/tesla-hack-control-over-entire-fleet/): A hacker gained control over the entire fleet, but fortunately he’s a good guy
+- [Now you C me, now you don't: An introduction to the hidden attack surface of interpreted languages](https://securitylab.github.com/research/now-you-c-me)
+- [The Sound of Silence: Mining Security Vulnerabilities fromSecret Integration Channels in Open-Source Projects](https://arxiv.org/pdf/2009.01694.pdf)
+- [Hackers stole 738 GB of data from Australian government agency](https://www.hackread.com/hackers-stole-738-gb-data-australian-government-agency/)
+- [GhostDNSbusters](https://team-cymru.com/2020/09/08/ghostdnsbusters/): Illuminating GhostDNS Infrastructure
 
 ## Politics
 
@@ -160,6 +181,9 @@
 - [Tracking down the developer of Android adware affecting millions of users](https://www.welivesecurity.com/2019/10/24/tracking-down-developer-android-adware/)
 - (pt-br) [Falha de cartórios expõe dados de ao menos 1 milhão de pais, mães e filhos](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2019/10/29/falha-de-cartorios-expoe-dados-de-ao-menos-1-milhao-de-pais-maes-e-filhos.htm)
 - [ICANN races towards regulatory capture: the great .ORG heist](http://blogs.harvard.edu/sj/2019/11/23/a-tale-of-icann-and-regulatory-capture-the-dot-org-heist/). [Private equity firm buys .org domain months after ICANN lifted price caps](https://arstechnica.com/tech-policy/2019/11/private-equity-firm-buys-org-domain-months-after-icann-lifted-price-caps/)
+- [Fascism is back. Blame the Internet.](https://www.washingtonpost.com/news/posteverything/wp/2018/05/21/fascism-is-back-blame-the-internet/)
+- [A Guide to Cholinesterase Inhibitors in Wake of Suspected Alexei Navalny Poisoning](https://www.bellingcat.com/uncategorized/2020/08/28/cholinesterase-inhibitors-alexei-navalny/)
+- [In the New Cold War, Deindustrialization Means Disarmament](https://foreignpolicy.com/2020/08/12/china-industry-manufacturing-cold-war/)
 
 ### Online Voting
 
@@ -186,7 +210,7 @@
 
 - [Password Security:](https://diogomonica.com/2014/10/11/password-security-why-the-horse-battery-staple-is-not-correct/): Why the horse battery staple is not correct
 
-## PRivacy
+## Privacy
 
 - "[The truly harmful targeted ads aren’t the ones trying to sell us something we’ve already searched for. It’s the ones that undermine our autonomy by covertly manipulating us into new desires and behaviors, molding our consumption patterns to maximize long-term revenue extraction.](https://twitter.com/random_walker/status/1168841220535324672)"
 - [TCP ISN CPU Information Leak Protection - tirdad](https://forums.whonix.org/t/tcp-isn-cpu-information-leak-protection-tirdad/8552)
