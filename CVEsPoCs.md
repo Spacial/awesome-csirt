@@ -38,7 +38,8 @@ Some CVEs PoCs repos on github or internet.
 - waitid: [CVE-2017-5123](https://github.com/nongiach/CVE/tree/master/CVE-2017-5123)
 - sudo: [CVE-2019-14287](https://sensorstechforum.com/cve-2019-14287-sudo-bug/) - Sudo Bug Allows Restricted Users to Run Commands as Root. [redhat](https://access.redhat.com/security/cve/cve-2019-14287), [PoC](https://www.sudo.ws/alerts/minus_1_uid.html)
 - Memory corruption in net/packet/af_packet.c: [CVE-2020-14386](https://www.openwall.com/lists/oss-security/2020/09/03/3), [poc](https://www.openwall.com/lists/oss-security/2020/09/03/3/2)
-  
+- [BlindSide](https://www.vusec.net/projects/blindside/)
+
 ## Solaris
 
 - Kernel Level Privilege Escalation in Oracle Solaris: [CVE-2018-2892](https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-2892---Kernel-Level-Privilege-Escalation-in-Oracle-Solaris/)
@@ -83,7 +84,7 @@ Some CVEs PoCs repos on github or internet.
 - [MIcrosoft-Word-Use-After-Free](https://github.com/whiteHat001/MIcrosoft-Word-Use-After-Free) - Word Docx with exploit.
 - [Half Life 1](https://hackerone.com/reports/832750) - Buffer overflow In hl.exe's launch -game argument allows an attacker to execute arbitrary code locally or from browser
 - [PoC for enabling wdigest to bypass credential guard ](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
-- Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/)
+- Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon)
 
 ## macOS/iOS
 
@@ -110,6 +111,8 @@ Some CVEs PoCs repos on github or internet.
 
 - [Please Stop Naming Vulnerabilities](https://pleasestopnamingvulnerabilities.com): Exploring 6 Previously Unknown Remote Kernel Bugs Affecting Android Phones
 - [qu1ckr00t](https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/): Tailoring [CVE-2019-2215](https://github.com/grant-h/qu1ckr00t) to Achieve Root.
+- [s8_2019_2215_poc](https://github.com/chompie1337/s8_2019_2215_poc): PoC 2019-2215 exploit for S8/S8 active with DAC + SELinux + Knox/RKP bypass.
+- Universal XSS in Android WebView: [CVE-2020-6506](https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/)
 
 ## Java
 
@@ -197,6 +200,7 @@ Some CVEs PoCs repos on github or internet.
 - From vulnerability report to a crafted packet using instrumentation: [CVE-2018-4013](https://invictus1306.github.io/vulnerabilitis/2018/12/29/functrace.html)
 - PoC for Foxit Reader: [CVE-2018-14442](https://github.com/payatu/CVE-2018-14442)
 - Social Network Tabs Wordpress Plugin Vulnerability: [CVE-2018-20555](https://github.com/fs0c131y/CVE-2018-20555)
+- [700,000 WordPress Users Affected by Zero-Day Vulnerability in File Manager Plugin](https://www.wordfence.com/blog/2020/09/700000-wordpress-users-affected-by-zero-day-vulnerability-in-file-manager-plugin/)
 - ES File Explorer Open Port Vulnerability: [CVE-2019-6447](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln)
 - Atlassian Jira vulnerable: [CVE-2017-9506](https://github.com/random-robbie/Jira-Scan)
 - Chrome:

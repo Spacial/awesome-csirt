@@ -150,6 +150,7 @@
 - [The Sound of Silence: Mining Security Vulnerabilities fromSecret Integration Channels in Open-Source Projects](https://arxiv.org/pdf/2009.01694.pdf)
 - [Hackers stole 738 GB of data from Australian government agency](https://www.hackread.com/hackers-stole-738-gb-data-australian-government-agency/)
 - [GhostDNSbusters](https://team-cymru.com/2020/09/08/ghostdnsbusters/): Illuminating GhostDNS Infrastructure
+- [Rampant Kitten – An Iranian Espionage Campaign](https://research.checkpoint.com/2020/rampant-kitten-an-iranian-espionage-campaign/)
 
 ## Politics
 
