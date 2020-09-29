@@ -157,6 +157,8 @@
 - [abuse.ch Feodo Tracker Botnet C2 IP Blocklist](https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt)
 - [simple_ransomware](https://github.com/bing0o/simple_ransomware): this script isn't ransomware, it's just script collect all your system files and encrypt it, Can be considered it a simple ransomware 
 - [Mirai "Batkek"](https://gist.github.com/unixfreaxjp/2bc9100d167992a768642777d850e1c0)
+- [FinFisher Filleted 🐟](https://objective-see.com/blog/blog_0x4F.html), a triage of the FinSpy (macOS) malware
+- [the Emerald Connection: EquationGroup collaboration with Stuxnet](https://fmmresearch.wordpress.com/2020/09/28/the-emerald-connection-equationgroup-collaboration-with-stuxnet/)
 
 ### Repos
 
@@ -452,7 +454,7 @@
 - [Projects/OWASP Node js Goat Project](https://wiki.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project), [repo](https://github.com/OWASP/NodeGoat)
 - [Prototype pollution – and bypassing client-side HTML sanitizers](https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/)
 - [Understanding the CSRF Vulnerability (A Beginner’s Guide)](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
-- [VulnyCode](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis): PHP Code Static Analysis
+- [VulnyCode](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis): PHP Code Static Analysis. Python script to detect vulnerabilities inside PHP source code using static analysis, based on regex
 
 ### Formal Analysis
 
@@ -674,6 +676,7 @@
 - [fiddler](https://www.telerik.com/fiddler/fiddlercap): Capturing web traffic logs
 - [SecLists](https://github.com/danielmiessler/SecLists): is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. 
 - [21 - Pentesting FTP](https://book.hacktricks.xyz/pentesting/pentesting-ftp)
+- [PwnWiki.io](http://pwnwiki.io/#!index.md) is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained. [The notes section of the pentesters mind.](https://github.com/pwnwiki/pwnwiki.github.io/)
 
 ### Enumeration
 
@@ -917,6 +920,7 @@ SELECT-id-1.FROM`test`
 - [BankSecurity - Red_Team](https://github.com/BankSecurity/Red_Team): Some scripts useful for red team activities
 - [FIN6 Adversary Emulation](https://github.com/center-for-threat-informed-defense/adversary_emulation_library/tree/master/fin6)
 - [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit): A collection of open source and commercial tools that aid in red team operations.
+- [RedFile](https://github.com/outflanknl/RedFile): A flask wsgi application that serves files with intelligence, good for serving conditional RedTeam payloads
 
 ### Purple Team
 
@@ -1089,6 +1093,8 @@ SELECT-id-1.FROM`test`
 - [DigitalSide Threat-Intel](https://github.com/davidonzo/Threat-Intel): Threat-Intel repository. [API](https://github.com/davidonzo/apiosintDS)
 - [MISP-sizer](https://github.com/MISP/MISP-sizer): Sizing your MISP instance.
 - [MISP CERT.br ](https://www.cert.br/misp/)
+- [misp-warninglist](https://github.com/MISP/misp-warninglists): Warning lists to inform users of MISP about potential false-positives or other information in indicators
+- [MISP-maltego](https://github.com/MISP/MISP-maltego): Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
 
 #### APT - Advanced Persistent Threat
 
@@ -1101,6 +1107,8 @@ SELECT-id-1.FROM`test`
 - [Tracking A Malware Campaign Through VT](https://isc.sans.edu/forums/diary/Tracking+A+Malware+Campaign+Through+VT/26498/)
 - [More Evidence of APT Hackers-for-Hire Used for Industrial Espionage](https://www.bitdefender.com/files/News/CaseStudies/study/365/Bitdefender-PR-Whitepaper-APTHackers-creat4740-en-EN-GenericUse.pdf)
 - APT41: [US Charges Five Alleged Members of APT41 Group](https://duo.com/decipher/us-charges-five-alleged-members-of-apt41-group)
+- [Analysis Report (AR20-268A)](https://us-cert.cisa.gov/ncas/analysis-reports/ar20-268a)
+- CYPRESS - [Cyber Planning for Response and Recovery Study](https://cms.ferc.gov/sites/default/files/2020-09/FERC%26NERC_CYPRES_Report.pdf) 2020 FERC, NERC and REs Report.
 
 ### IoCs
 
@@ -1335,6 +1343,9 @@ SELECT-id-1.FROM`test`
   - [NTCore](https://ntcore.com/?page_id=388) Explorer Suite
   - [exeinfo](http://exeinfo.byethost18.com/?i=1) [github](https://github.com/ExeinfoASL/ASL)
 - [MitigationFlagsCliTool](https://github.com/yardenshafir/MitigationFlagsCliTool): Prints mitigation policy information for processes in a dump file.
+- [Windows 10 System Programming book samples](https://github.com/zodiacon/Win10SysProgBookSamples) [Windows Internals Book 7th Edition Tools](https://github.com/zodiacon/WindowsInternals), [The Windows Kernel Programming book samples](https://github.com/zodiacon/windowskernelprogrammingbook)
+- [DriverMon](https://github.com/zodiacon/DriverMon): Monitor activity of any driver
+- [Windows AllTools](https://github.com/zodiacon/AllTools): All reasonably stable tools
 
 #### Active Directory
 
@@ -1768,9 +1779,11 @@ SELECT-id-1.FROM`test`
 - [study material used for the 2018 CISSP exam](https://github.com/so87/CISSP-Study-Guide), [site](https://simonowens157.gitlab.io/cissp/)
 - [JustTryHarder](https://github.com/sinfulz/JustTryHarder): a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings).
 - [Hacking Your Pen Testing / Red Teaming Career: Part 1](https://medium.com/munrobotic/hacking-your-pen-testing-red-teaming-career-part-1-cc816aca0980)
+- [PentesterAcademy](https://www.pentesteracademy.com/): Courses and Online Labs.
 
 ## Conferences and Slides
 
+- [Black Hat 2014 Keynote: Cybersecurity as Realpolitik](https://duo.com/blog/black-hat-2014-keynote-cybersecurity-as-realpolitik), amazing keynote by Dan Geer (Geertinho)
 - [Security Guidelines for Congressional Campaigns](https://techsoliRdarity.org/resources/congressional_howto.html)
 - [From Assembly to JavaScript and back](https://github.com/rh0dev/slides/blob/master/OffensiveCon2018_From_Assembly_to_JavaScript_and_back.pdf) (OffensiveCon2018)
 - [Kudelski Security's 2018 pre-Black Hat crypto challenge](https://github.com/kudelskisecurity/cryptochallenge18)
@@ -1884,7 +1897,8 @@ Some good places to visit:
 - [Enigma I](https://enigma.lh.mk/), Navy M3/M4 [Machine Emulator](https://github.com/lubeskih/enigma-emulator).
 - [FYI, I'm going to drive home on Florida's Turnpike with a code that QR-enabled license plate readers will log in their ASCII databases ... which could trigger #antivirus software to QUARANTINE those databases](https://twitter.com/vmyths/status/1212201412068818944) by Rob Rosenberger.
 - (pt-br)[pivoting](https://diegoalbuquerque.github.io/pivoting.html)
-
+- [Posters, drawings... ](https://github.com/corkami/pics)
+  
 ---
 
 ## CFPs

@@ -84,7 +84,7 @@ Some CVEs PoCs repos on github or internet.
 - [MIcrosoft-Word-Use-After-Free](https://github.com/whiteHat001/MIcrosoft-Word-Use-After-Free) - Word Docx with exploit.
 - [Half Life 1](https://hackerone.com/reports/832750) - Buffer overflow In hl.exe's launch -game argument allows an attacker to execute arbitrary code locally or from browser
 - [PoC for enabling wdigest to bypass credential guard ](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
-- Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon)
+- Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon), [A different way of abusing Zerologon (CVE-2020-1472)](https://dirkjanm.io/a-different-way-of-abusing-zerologon/)
 
 ## macOS/iOS
 
@@ -106,6 +106,7 @@ Some CVEs PoCs repos on github or internet.
 - [PoC tool for setting nonce without triggering KPP/KTRR/PAC.](https://github.com/0x7ff/dimentio) (requires tfp0)
 - [CVE-2020-9934](https://github.com/mattshockl/CVE-2020-9934)
 - [Stealing local files using Safari Web Share API](https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html) [PoC](https://overflow.pl/webshare/poc1.html)
+- xnu local privilege escalation via [os x 10.10.5 kernel local privilege escalation](https://github.com/kpwn/tpwn)
 
 ## Android
 

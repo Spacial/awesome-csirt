@@ -151,6 +151,9 @@
 - [Hackers stole 738 GB of data from Australian government agency](https://www.hackread.com/hackers-stole-738-gb-data-australian-government-agency/)
 - [GhostDNSbusters](https://team-cymru.com/2020/09/08/ghostdnsbusters/): Illuminating GhostDNS Infrastructure
 - [Rampant Kitten – An Iranian Espionage Campaign](https://research.checkpoint.com/2020/rampant-kitten-an-iranian-espionage-campaign/)
+- [We need to talk about criminal hackers using Cobalt Strike, says Cisco Talos](https://www.theregister.com/2020/09/24/cobalt_strike_cisco_talos/) paper: [The art and science of detecting Cobalt Strike](https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/095/031/original/Talos_Cobalt_Strike.pdf)
+- [Let's Stop the 5G Hysteria: Understanding Hoaxes and Disinformation Campaigns](https://www.troyhunt.com/lets-stop-the-5g-hysteria-understanding-hoaxes-and-disinformation-campaigns/)
+- []()
 
 ## Politics
 
