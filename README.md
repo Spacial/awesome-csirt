@@ -61,7 +61,7 @@
 
 ## Malware Analysis
 
-- Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg)
+- Great online [course](https://malwareunicorn.org/workshops/re101.html) by [MalwareUnicorn](https://github.com/securedorg)
 - Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
 - [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
 - [Digital Certificates Used by Malware](http://www.ccssforum.org/malware-certificates.php)
