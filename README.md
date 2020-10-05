@@ -61,6 +61,7 @@
 
 ## Malware Analysis
 
+- [Assembly Language / Reversing / Malware Analysis](https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121) - resources
 - Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg)
 - Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
 - [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
@@ -146,6 +147,7 @@
 - [The Tetrade](https://securelist.com/the-tetrade-brazilian-banking-malware/97779/): Brazilian banking malware goes global
 - [Is macOS under the biggest malware attack ever?](https://reverse.put.as/2020/09/17/evilquest-revisited/): EvilQuest/ThiefQuest malware.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
+- [MosaicRegressor](https://securelist.com/mosaicregressor/98849/): Lurking in the Shadows of UEFI. [Technical details](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2020/10/05094208/MosaicRegressor_Technical-details.pdf)
 
 ### Samples
 
@@ -677,6 +679,8 @@
 - [SecLists](https://github.com/danielmiessler/SecLists): is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. 
 - [21 - Pentesting FTP](https://book.hacktricks.xyz/pentesting/pentesting-ftp)
 - [PwnWiki.io](http://pwnwiki.io/#!index.md) is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained. [The notes section of the pentesters mind.](https://github.com/pwnwiki/pwnwiki.github.io/)
+- [post-exploitation](https://github.com/mubix/post-exploitation): Post Exploitation Collection.
+- [Proxyjump, the SSH option you probably never heard of](https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464)
 
 ### Enumeration
 
@@ -893,6 +897,8 @@ SELECT-id-1.FROM`test`
 - [cxsecurity](https://cxsecurity.com/exploit/): is an open project developed and moderated fully by one independent person.
 - [Security Focus](https://www.securityfocus.com/vulnerabilities)
 - packet storm: [Exploit Files](https://packetstormsecurity.com/files/tags/exploit/)
+- [Graphology of an Exploit](https://research.checkpoint.com/2020/graphology-of-an-exploit-volodya/): Hunting for exploits by looking for the author’s fingerprints
+- [Traditional Buffer Overflow Windows cheatsheet](https://sec4us.com.br/cheatsheet/bufferoverflow-windows)
 
 ### Red Team
 
@@ -1095,6 +1101,7 @@ SELECT-id-1.FROM`test`
 - [MISP CERT.br ](https://www.cert.br/misp/)
 - [misp-warninglist](https://github.com/MISP/misp-warninglists): Warning lists to inform users of MISP about potential false-positives or other information in indicators
 - [MISP-maltego](https://github.com/MISP/MISP-maltego): Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
+- [misp-modules](https://github.com/MISP/misp-modules): Modules for expansion services, import and export in MISP
 
 #### APT - Advanced Persistent Threat
 
@@ -1230,7 +1237,7 @@ SELECT-id-1.FROM`test`
   - [Windows 10 - Notifications](https://github.com/kacos2000/Win10/blob/master/Notifications/readme.md)
 - [UAC bypass using CreateNewLink COM interface](https://gist.github.com/hfiref0x/e58711820276fe8b1b36dd51faae59cf)
 - [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
-- [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire)
+- [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire). [OVERVIEW OF EMPIRE 3.4 FEATURES](https://www.bc-security.org/post/overview-of-empire-3-4-features/)
 - [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable.
 - [relayer](https://github.com/Jsitech/relayer): SMB Relay Attack Script
 - [Ps1jacker](https://github.com/darkw1z/Ps1jacker): Ps1jacker is a tool for generating COM Hijacking payload.
@@ -1346,6 +1353,7 @@ SELECT-id-1.FROM`test`
 - [Windows 10 System Programming book samples](https://github.com/zodiacon/Win10SysProgBookSamples) [Windows Internals Book 7th Edition Tools](https://github.com/zodiacon/WindowsInternals), [The Windows Kernel Programming book samples](https://github.com/zodiacon/windowskernelprogrammingbook)
 - [DriverMon](https://github.com/zodiacon/DriverMon): Monitor activity of any driver
 - [Windows AllTools](https://github.com/zodiacon/AllTools): All reasonably stable tools
+- [Sysmon Internals](https://undev.ninja/sysmon-internals-from-file-delete-event-to-kernel-code-execution/): From File Delete Event to Kernel Code Execution
 
 #### Active Directory
 
@@ -1665,6 +1673,8 @@ SELECT-id-1.FROM`test`
 - [VoightKampff](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/src/master/): Beating Google ReCaptcha and the funCaptcha using AWS Rekognition.
 - [John the Ripper in the cloud](https://www.openwall.com/john/cloud/): John the Ripper jumbo supports hundreds of hash and cipher types.
 - [SpamCop](https://www.spamcop.net/) is the premier service for reporting spam. 
+- [vector-edk](https://github.com/hackedteam/vector-edk): EFI Development Kit.
+- [H1R0GH057](https://github.com/H1R0GH057/Anonymous): tools (DDoS, lulz, etc..)
 
 ### Shell tools
 
