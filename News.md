@@ -153,7 +153,12 @@
 - [Rampant Kitten – An Iranian Espionage Campaign](https://research.checkpoint.com/2020/rampant-kitten-an-iranian-espionage-campaign/)
 - [We need to talk about criminal hackers using Cobalt Strike, says Cisco Talos](https://www.theregister.com/2020/09/24/cobalt_strike_cisco_talos/) paper: [The art and science of detecting Cobalt Strike](https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/095/031/original/Talos_Cobalt_Strike.pdf)
 - [Let's Stop the 5G Hysteria: Understanding Hoaxes and Disinformation Campaigns](https://www.troyhunt.com/lets-stop-the-5g-hysteria-understanding-hoaxes-and-disinformation-campaigns/)
-- []()
+- [Online avatar service Gravatar allows mass collection of user info](https://www.bleepingcomputer.com/news/security/online-avatar-service-gravatar-allows-mass-collection-of-user-info/)
+- [ZeroLogon is now detected by Microsoft Defender for Identity (CVE-2020-1472 exploitation)](https://techcommunity.microsoft.com/t5/microsoft-365-defender/zerologon-is-now-detected-by-microsoft-defender-for-identity-cve/ba-p/1734034)
+- [Advisory 2020-017: Resumption of Emotet malware campaign](https://www.cyber.gov.au/acsc/view-all-content/advisories/advisory-2020-017-resumption-emotet-malware-campaign)
+- [An overview of targeted attacks and APTs on Linux](https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/)
+- [More than 247,000 Microsoft Exchange servers are still vulnerable to attacks exploiting the CVE-2020-0688 RCE issue impacting Exchange Server.](https://securityaffairs.co/wordpress/108946/hacking/vulnerable-exchange-servers.html?utm_source=rss&utm_medium=rss&utm_campaign=vulnerable-exchange-servers) and [Phishing for SYSTEM on Microsoft Exchange (CVE-2020-0688)](https://blog.rapid7.com/2020/04/06/phishing-for-system-on-microsoft-exchange-cve-2020-0688/)
+- [The Fresh Smell of ransomed coffee](https://decoded.avast.io/martinhron/the-fresh-smell-of-ransomed-coffee/)
 
 ## Politics
 

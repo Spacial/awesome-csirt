@@ -62,7 +62,7 @@
 ## Malware Analysis
 
 - [Assembly Language / Reversing / Malware Analysis](https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121) - resources
-- Great online [course](https://securedorg.github.io/RE101/intro/) by [MalwareUnicorn](https://github.com/securedorg)
+- Great online [course](https://malwareunicorn.org/workshops/re101.html) by [MalwareUnicorn](https://github.com/securedorg)
 - Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
 - [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
 - [Digital Certificates Used by Malware](http://www.ccssforum.org/malware-certificates.php)
@@ -148,6 +148,13 @@
 - [Is macOS under the biggest malware attack ever?](https://reverse.put.as/2020/09/17/evilquest-revisited/): EvilQuest/ThiefQuest malware.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
 - [MosaicRegressor](https://securelist.com/mosaicregressor/98849/): Lurking in the Shadows of UEFI. [Technical details](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2020/10/05094208/MosaicRegressor_Technical-details.pdf)
+- Evading Static Machine Learning Malware Detection Models – [Part 1: The Black-Box Approach](https://blog.compass-security.com/2020/10/evading-static-machine-learning-malware-detection-models-the-black-box-approach/)
+- [ember](https://github.com/endgameinc/ember): The EMBER dataset is a collection of features from PE files that serve as a benchmark dataset for researchers. 
+- [Complementar resources to follow the EHREM course by GoHacking (Malware Reverse Engineering)](https://github.com/nuxmorpheus/EHREM/)
+
+### Web Malwares Tools
+
+- [Boa release](https://boa-dev.github.io/) is an experimental Javascript lexer, parser and compiler written in Rust. 
 
 ### Samples
 
@@ -202,6 +209,7 @@
 - [metame](https://github.com/a0rtega/metame): is a simple metamorphic code engine for [arbitrary executables](https://www.kitploit.com/2019/09/metame-metame-is-metamorphic-code.html).
 - [rustdsplit](https://github.com/epi052/rustdsplit): At some point, I learned about a method to perform a binary search on a file in order to identify its AV signature and change it to bypass signature-based AV. The tool I used back then is gone, so I wrote this.
 - [Virus Total API in Python](https://github.com/fr0gger/yeti/blob/master/plugins/feeds/public/virustotal_apiv3.py)
+- [rustdsplit](https://github.com/epi052/rustdsplit): At some point, I learned about a method to perform a binary search on a file in order to identify its AV signature and change it to bypass signature-based AV. The tool I used back then is gone, so I wrote this.
 
 ### Trojans/Loggers
 
@@ -215,6 +223,7 @@
 
 ## Reverse Engineering
 
+- (pt-br) [Fundamentos de Engenharia Reversa](https://mentebinaria.gitbook.io/engenharia-reversa/).
 - [Dangers of the Decompiler](https://blog.ret2.io/2017/11/16/dangers-of-the-decompiler/)
 - [RE guide for beginners: Methodology and tools](https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242)
 - [REDasm](https://github.com/REDasmOrg/REDasm): Crossplatform, interactive, multiarchitecture disassembler
@@ -304,7 +313,7 @@
 
 - [Inject code into running Python processes](https://github.com/lmacken/pyrasite)
 - [malspider](https://github.com/ciscocsirt/malspider): Malspider is a web spidering framework that detects characteristics of web compromises.
-- [AIL-framework](https://github.com/CIRCL/AIL-framework): AIL framework - Analysis Information Leak framework
+- [AIL-framework](https://github.com/CIRCL/AIL-framework): AIL framework - [Analysis Information Leak framework](https://github.com/ail-project/ail-framework): 
 
 ## Patching
 
@@ -312,9 +321,54 @@
 
 ## Hardening
 
-- See your site config with [Hardenize](https://www.hardenize.com/)
+- [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
+- [BlueWars](https://medium.com/blueops/bluewars-capture-the-flag-defensivo-que-aconteceu-na-h2hc-514c75e3f13c): Capture The Flag Defensivo que aconteceu na H2HC
+- [CCAT](https://github.com/cisco-config-analysis-tool/ccat): Cisco Config Analysis Tool
+- [Ciderpress](https://github.com/da667/Ciderpress): Hardened wordpress installer
+- [debian-cis](https://github.com/ovh/debian-cis): PCI-DSS compliant Debian 7/8 hardening.
+- [Endlessh](https://github.com/skeeto/endlessh): an SSH tarpit.
+- [ERNW Repository of Hardening Guides](https://github.com/ernw/hardening): This repository contains various hardening guides compiled by ERNW for various purposes.
+- [fero](https://github.com/coreos/fero): YubiHSM2-backed signing server
+- [FirewallChecker](https://github.com/Z3Prover/FirewallChecker): A self-contained firewall checker
+- [Get SSH login notification on Telegram](https://8192.one/post/ssh_login_notification_withtelegram/)
+- [Hardentools](https://github.com/securitywithoutborders/hardentools) is a utility that disables a number of risky Windows features.
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
+- [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
+- [Iptables Essentials](https://github.com/trimstray/iptables-essentials): Common Firewall Rules and Commands.
+- [iptables-essentials](https://github.com/trimstray/iptables-essentials): Iptables Essentials: Common Firewall Rules and Commands.
+- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check): A tool for checking the hardening options in the Linux kernel config
+- [Keyringer](https://keyringer.pw/): encrypted and distributed secret sharing software
+- [Keystone Project](https://keystone-enclave.org/). Github: [Keystone Enclave](https://github.com/keystone-enclave/)
+- [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes.
+- [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth)
+- [nftables](https://www.funtoo.org/Package:Nftables): nftables is the successor to iptables. It replaces the existing iptables, ip6tables, arptables and ebtables framework. It uses the Linux kernel and a new userspace utility called nft. nftables provides a compatibility layer for the ip(6)tables and framework.
 - Nice article with a lot of resources: [Common approaches to securing Linux servers and what runs on them.](https://medium.com/@ageis/common-approaches-to-securing-linux-servers-and-what-runs-on-them-dadcacc5388b)
+- [opmsg](https://github.com/stealth/opmsg): is a replacement for gpg which can encrypt/sign/verify your mails or create/verify detached signatures of local files. Even though the opmsg output looks similar, the concept is entirely different.
+- [prowler](https://github.com/toniblyx/prowler): AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
+- [reconbf](https://github.com/HewlettPackard/reconbf): Recon system hardening scanner
+- [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
+- [Secure & Ad-free Internet Anywhere With Streisand and Pi Hole](https://ifelse.io/2019/01/12/secure-ad-free-internet-anywhere-with-streisand-and-pi-hole/)
 - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) by [stribika](https://github.com/stribika)
+- [Securing Docker Containers](https://0x00sec.org/t/securing-docker-containers/16913). [The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.](https://github.com/docker/docker-bench-security)
+- [securityonion-docs](https://github.com/Security-Onion-Solutions/securityonion-docs)
+- [security.txt](https://securitytxt.org/): A proposed standard which allows websites to define security policies.
+- See your site config with [Hardenize](https://www.hardenize.com/)
+- [Set up two-factor authentication for SSH on Fedora](https://fedoramagazine.org/two-factor-authentication-ssh-fedora/)
+- [solo-hw](https://github.com/SoloKeysSec/solo-hw): Hardware sources for Solo
+- [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network
+- [Streisand](https://github.com/StreisandEffect/streisand) sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide): 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
+- [tls-what-can-go-wrong](https://github.com/hannob/tls-what-can-go-wrong): TLS - what can go wrong?
+- [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
+- [Using a Hardened Container Image for Secure Applications in the Cloud](https://www.cisecurity.org/blog/using-hardened-container-image-secure-applications-cloud/)
+- [Zero-knowledge attestation](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
+- RHEL Like systems:
+  - [CentOS7 Lockdown](https://github.com/naingyeminn/CentOS7_Lockdown)
+  - [RHEL7-CIS](https://github.com/radsec/RHEL7-CIS): Ansible RHEL 7 - CIS Benchmark Hardening Script
+  - [cisecurity](https://github.com/cohdjn/cisecurity): Configures Linux systems to Center for Internet Security Linux hardening standard.
+
+### WebServers
+
 - A lot of good posts by geek flare:
   - [How to Configure SSL Certificate on Google Cloud Load Balancer?](https://geekflare.com/google-load-balancer-enable-ssl/)
   - [Nginx Web Server Security & Hardening Guide](https://geekflare.com/nginx-webserver-security-hardening-guide/)
@@ -322,51 +376,33 @@
   - [Apache Tomcat Hardening and Security Guide](https://geekflare.com/apache-tomcat-hardening-and-security-guide/)
   - [How to Enable TLS 1.3 in Nginx, Cloudflare?](https://geekflare.com/enable-tls-1-3/)
   - [Apache Web Server Hardening & Security Guide](https://geekflare.com/apache-web-server-hardening-security/) (broken!??)
-- [List of sites with two factor auth](https://github.com/2factorauth/twofactorauth)
-- [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
-- [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
-- [solo-hw](https://github.com/SoloKeysSec/solo-hw): Hardware sources for Solo
-- [Sarlacc](https://github.com/scrapbird/sarlacc) is an SMTP server that I use in my malware lab to collect spam from infected hosts.
-- [linux-hardened](https://github.com/copperhead/linux-hardened): Minimal supplement to upstream Kernel Self Protection Project changes.
-- [upvote](https://github.com/google/upvote): A multi-platform binary whitelisting solution
-- [ssh-auditor](https://github.com/ncsa/ssh-auditor): The best way to scan for weak ssh passwords on your network
-- [iptables-essentials](https://github.com/trimstray/iptables-essentials): Iptables Essentials: Common Firewall Rules and Commands.
-- [reconbf](https://github.com/HewlettPackard/reconbf): Recon system hardening scanner
-- [FirewallChecker](https://github.com/Z3Prover/FirewallChecker): A self-contained firewall checker
-- [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
-- [BlueWars](https://medium.com/blueops/bluewars-capture-the-flag-defensivo-que-aconteceu-na-h2hc-514c75e3f13c): Capture The Flag Defensivo que aconteceu na H2HC
-- [Iptables Essentials](https://github.com/trimstray/iptables-essentials): Common Firewall Rules and Commands.
-- [prowler](https://github.com/toniblyx/prowler): AWS Security Best Practices Assessment, Auditing, Hardening and Forensics Readiness Tool. It follows guidelines of the CIS Amazon Web Services Foundations Benchmark and additional checks. Official CIS for [AWS guide](https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf).
-- [nftables](https://www.funtoo.org/Package:Nftables): nftables is the successor to iptables. It replaces the existing iptables, ip6tables, arptables and ebtables framework. It uses the Linux kernel and a new userspace utility called nft. nftables provides a compatibility layer for the ip(6)tables and framework.
-- [CCAT](https://github.com/cisco-config-analysis-tool/ccat): Cisco Config Analysis Tool
-- [Keystone Project](https://keystone-enclave.org/). Github: [Keystone Enclave](https://github.com/keystone-enclave/)
-- [Zero-knowledge attestation](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
-- [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
-- [Secure & Ad-free Internet Anywhere With Streisand and Pi Hole](https://ifelse.io/2019/01/12/secure-ad-free-internet-anywhere-with-streisand-and-pi-hole/)
-- [Streisand](https://github.com/StreisandEffect/streisand) sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-- [ERNW Repository of Hardening Guides](https://github.com/ernw/hardening): This repository contains various hardening guides compiled by ERNW for various purposes.
-- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide): 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress.
-- [security.txt](https://securitytxt.org/): A proposed standard which allows websites to define security policies.
-- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
-- [opmsg](https://github.com/stealth/opmsg): is a replacement for gpg which can encrypt/sign/verify your mails or create/verify detached signatures of local files. Even though the opmsg output looks similar, the concept is entirely different.
-- [Ciderpress](https://github.com/da667/Ciderpress): Hardened wordpress installer
-- [Securing Docker Containers](https://0x00sec.org/t/securing-docker-containers/16913). [The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.](https://github.com/docker/docker-bench-security)
-- [Keyringer](https://keyringer.pw/): encrypted and distributed secret sharing software
-- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check): A tool for checking the hardening options in the Linux kernel config
-- [Endlessh](https://github.com/skeeto/endlessh): an SSH tarpit.
-- [securityonion-docs](https://github.com/Security-Onion-Solutions/securityonion-docs)
-
-### Apache
-
-- [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
-- [dotdotslash](https://github.com/jcesarstef/dotdotslash): An tool to help you search for Directory Traversal Vulnerabilities
+- CaCerts
+  - [List of free rfc3161 servers.](https://gist.github.com/Manouchehri/fd754e402d98430243455713efada710) TSA Servers
+  - [certstream-server](https://github.com/CaliDog/certstream-server): Certificate Transparency Log aggregation, parsing, and streaming service written in Elixir
+- Apache:
+  - [Apache Security](https://www.feistyduck.com/library/apache-security/) by [Ivan Ristić](https://twitter.com/ivanristic)
+  - [dotdotslash](https://github.com/jcesarstef/dotdotslash): An tool to help you search for Directory Traversal Vulnerabilities
+  - [A new security header: Feature Policy](https://scotthelme.co.uk/a-new-security-header-feature-policy/)
+  - [How do I prevent apache from serving the .git directory?](https://serverfault.com/questions/128069/how-do-i-prevent-apache-from-serving-the-git-directory/128082#128082)
+- Nginx:
+  - [20 Essential Things to Know if You’re on Nginx Web Server](https://www.ubuntupit.com/essential-things-to-know-if-youre-on-nginx-web-server/)
+  - [Nginx C function](https://nginx-c-function.github.io): Create your desired C application on top of nginx module
+  - [NGINX config for SSL with Let's Encrypt certs](https://gist.github.com/nrollr/9a39bb636a820fb97eec2ed85e473d38)
+  - [How to Configure Nginx SSL Certifcate Chain](https://futurestud.io/tutorials/how-to-configure-nginx-ssl-certifcate-chain)
+- PHP:
+  - [Cheatsheet for finding vulnerable PHP code using grep](https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet): This will assist you in the finding of potentially vulnerable PHP code. Each type of grep command is categorized in the type of vulnerabilities you generally find with that function.
+  - [snuffleupagus](https://github.com/nbs-system/snuffleupagus): Security module for php7 - Killing bugclasses and virtual-patching the rest!
+  - [FOPO-PHP-Deobfuscator](https://github.com/Antelox/FOPO-PHP-Deobfuscator): A simple script to deobfuscate PHP file obfuscated with FOPO Obfuscator
+  - [Decode.Tools](https://malware.expert/general/decode-tools-decode-php-obfuscator-by-fopo/): Decode PHP Obfuscator by FOPO
 - [A new security header: Feature Policy](https://scotthelme.co.uk/a-new-security-header-feature-policy/)
-
-### Web
-
-- [snuffleupagus](https://github.com/nbs-system/snuffleupagus): Security module for php7 - Killing bugclasses and virtual-patching the rest!
-- [FOPO-PHP-Deobfuscator](https://github.com/Antelox/FOPO-PHP-Deobfuscator): A simple script to deobfuscate PHP file obfuscated with FOPO Obfuscator
-- [Decode.Tools](https://malware.expert/general/decode-tools-decode-php-obfuscator-by-fopo/): Decode PHP Obfuscator by FOPO
+- [CAA Mandated by CA/Browser Forum](https://blog.qualys.com/ssllabs/2017/03/13/caa-mandated-by-cabrowser-forum)
+- [dotdotslash](https://github.com/jcesarstef/dotdotslash): An tool to help you search for Directory Traversal Vulnerabilities
+- [ENVOY](https://www.envoyproxy.io/) is an open source edge and service proxy, designed for cloud-native applications. [code](https://github.com/envoyproxy/envoy)
+- [ghp](https://github.com/CurtisLusmore/ghp): A simple web server for serving static GitHub Pages locally
+- [LEAR](https://github.com/Glorf/lear): Linux Engine for Asset Retrieval
+- [NFHTTP](https://github.com/spotify/NFHTTP): A cross platform C++ HTTP library that interfaces natively to other platforms.
+- [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS) by Mozilla
+- [security.txt](https://securitytxt.org/): A proposed standard which allows websites to define security policies.
 - [urlscan.io](https://urlscan.io/): A sandbox for the web
 
 ## Credentials
@@ -379,6 +415,19 @@
 - [Was my password leaked?](https://davidtavarez.github.io/osint/2019/01/25/pwndb-command-line-tool-python.html) [pwndb](https://github.com/davidtavarez/pwndb): Search for creadentials leaked on pwndb.
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs/): Unofficial Bitwarden compatible server written in Rust
 - [pcfg_cracker](https://github.com/lakiw/pcfg_cracker): Probabilistic Context Free Grammar (PCFG) password guess generator
+
+### Tokens
+
+- [Use YubiKey security key to sign into AWS Management Console with YubiKey for multi-factor authentication](https://aws.amazon.com/pt/blogs/security/use-yubikey-security-key-sign-into-aws-management-console/)
+- [Introducing the Qubes U2F Proxy](https://www.qubes-os.org/news/2018/09/11/qubes-u2f-proxy/)
+- [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide): Guide to using YubiKey for GPG and SSH
+- [Using a Yubikey for GPG and SSH](https://0day.work/using-a-yubikey-for-gpg-and-ssh/): Sebastian Neef - 0day.work
+- [PIN and Management Key](https://developers.yubico.com/yubikey-piv-manager/PIN_and_Management_Key.html)
+- [Improve login security with challenge-response authentication](https://fedoramagazine.org/login-challenge-response-authentication/)
+- [URU Card](https://en.ovcharov.me/2020/06/29/uru-card-arduino-fido2-authenticator/): Arduino FIDO2 Authenticator. [uru-card](https://github.com/uru-card/uru-card)
+- [YubiKey at Datadog](https://github.com/DataDog/yubikey)
+- [This is a practical guide to using YubiKey as a SmartCard for storing GPG encryption and signing keys.](https://github.com/drduh/YubiKey-Guide)
+- [yubikey-ssh-setup](https://github.com/jessfraz/dotfiles/blob/master/bin/yubikey-ssh-setup)
 
 ## Secure Programming
 
@@ -479,6 +528,7 @@
 - [Materials from Fuzzing Bay Area meetups](https://github.com/MotherFuzzers/meetups).
 - [javafuzz](https://github.com/fuzzitdev/javafuzz): Javafuzz is coverage-guided fuzzer for testing Java packages.
 - [onefuzz](https://github.com/microsoft/onefuzz): A self-hosted Fuzzing-As-A-Service platform.
+- [Fuzzing Like A Caveman 3: Trying to Somewhat Understand The Importance Code Coverage](https://h0mbre.github.io/Fuzzing-Like-A-Caveman-3/#)
   
 ### API
 
@@ -524,6 +574,7 @@
 - [FIRST SecLounge CTF 2020 Solutions](https://cujo.com/first-seclounge-ctf-2020-solutions/)
 - [Hitcon2017CTF - 家徒四壁~Everlasting Imaginative Void~](https://ulexec.github.io/ulexec.github.io/writeup/2017/11/03/HitconCTF2017-Everlasting-Imaginative-Void.html)
 - [r2dec](https://ctf.radare.org/welcome.html)
+- [SASatHome](https://twitter.com/TheSAScon/status/1311585618250682370)
 
 ### CTFs tools
 
@@ -681,6 +732,14 @@
 - [PwnWiki.io](http://pwnwiki.io/#!index.md) is a collection TTPs (tools, tactics, and procedures) for what to do after access has been gained. [The notes section of the pentesters mind.](https://github.com/pwnwiki/pwnwiki.github.io/)
 - [post-exploitation](https://github.com/mubix/post-exploitation): Post Exploitation Collection.
 - [Proxyjump, the SSH option you probably never heard of](https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464)
+- [GLORP](https://github.com/denandz/GLORP): A CLI-based HTTP intercept and replay proxy 
+- [Sec4US's cheatsheets](https://sec4us.com.br/cheatsheet/): a lot of cheatsheets about shellcoding and bufferoverflow.
+- [Pentesting 101: Working With Exploits](https://www.infosecmatter.com/pentesting-101-working-with-exploits/)
+
+### Reconnaissance
+
+- [Automated Reconnaissance Pipeline](https://github.com/epi052/recon-pipeline): An automated target reconnaissance pipeline.
+- [PERFORMING DOMAIN RECONNAISSANCE USING POWERSHELL](https://blog.stealthbits.com/performing-domain-reconnaissance-using-powershell)
 
 ### Enumeration
 
@@ -699,6 +758,7 @@
 - [Z/OS System Enumeration Scripts](https://github.com/mainframed/Enumeration): PoC REXX Script to Help with z/OS System enumeration via OMVS/TSO/JCL. 
 - [WPExploitation](https://github.com/lgcarmo/WPExploitation): simples scripts to help windows enumeration.
 - [CTFR](https://github.com/UnaPibaGeek/ctfr) does not use neither dictionary attack nor brute-force, it just abuses of Certificate Transparency logs.
+- [feroxbuster](https://github.com/epi052/feroxbuster): A fast, simple, recursive content discovery tool written in Rust.
 
 ### WebShells
 
@@ -776,6 +836,7 @@ Curated list of public penetration test reports released by several consulting f
 - [h8mail](https://github.com/khast3x/h8mail): Password Breach Hunting & Email OSINT tool, locally or using premium services. Supports chasing down related email
 - [PwnBin](https://github.com/kahunalu/pwnbin): Python Pastebin Webcrawler that returns list of public pastebins containing keywords
 - [ODBParser](https://securityonline.info/odbparser-osint-tool/): OSINT tool to search, parse and dump only the open Elasticsearch and MongoDB directories.
+- [pastego](https://github.com/notdodo/pastego): Scrape/Parse Pastebin using GO and expression grammar (PEG)
 
 #### OSINT Chats
 
@@ -927,6 +988,7 @@ SELECT-id-1.FROM`test`
 - [FIN6 Adversary Emulation](https://github.com/center-for-threat-informed-defense/adversary_emulation_library/tree/master/fin6)
 - [Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit): A collection of open source and commercial tools that aid in red team operations.
 - [RedFile](https://github.com/outflanknl/RedFile): A flask wsgi application that serves files with intelligence, good for serving conditional RedTeam payloads
+- [Choose Your Own Red Team Adventure](https://medium.com/@malcomvetter/choose-your-own-red-team-adventure-f87d6a3b0b76)
 
 ### Purple Team
 
@@ -1102,6 +1164,8 @@ SELECT-id-1.FROM`test`
 - [misp-warninglist](https://github.com/MISP/misp-warninglists): Warning lists to inform users of MISP about potential false-positives or other information in indicators
 - [MISP-maltego](https://github.com/MISP/MISP-maltego): Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
 - [misp-modules](https://github.com/MISP/misp-modules): Modules for expansion services, import and export in MISP
+- [misp-taxonomies](https://github.com/MISP/misp-taxonomies): Taxonomies used in MISP taxonomy system and can be used by other information sharing tool.
+- [PyMISP](https://github.com/MISP/PyMISP): Python library using the MISP Rest API
 
 #### APT - Advanced Persistent Threat
 
@@ -1121,6 +1185,7 @@ SELECT-id-1.FROM`test`
 
 - [sophos labs IoCs](https://github.com/sophoslabs/IoCs): Sophos-originated indicators-of-compromise from published reports
 - [DailyIOC](https://github.com/StrangerealIntel/DailyIOC): IOC from articles, tweets for archives
+- [CVE-2020-1472 Zerologon IoCs](https://otx.alienvault.com/pulse/5f74a1a450843553be3ed593)
 
 ### SIEM
 
@@ -1354,6 +1419,7 @@ SELECT-id-1.FROM`test`
 - [DriverMon](https://github.com/zodiacon/DriverMon): Monitor activity of any driver
 - [Windows AllTools](https://github.com/zodiacon/AllTools): All reasonably stable tools
 - [Sysmon Internals](https://undev.ninja/sysmon-internals-from-file-delete-event-to-kernel-code-execution/): From File Delete Event to Kernel Code Execution
+- [Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples): This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 
 #### Active Directory
 
@@ -1390,7 +1456,9 @@ SELECT-id-1.FROM`test`
 - [New-KrbtgtKeys.ps1](https://github.com/microsoft/New-KrbtgtKeys.ps1): This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn): Automation for internal Windows Penetrationtest / AD-Security
 - [BadBlood](https://github.com/davidprowe/BadBlood) by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active… 
-- [Vulnerable-AD ](https://github.com/WazeHell/vulnerable-AD): Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab .
+- [Vulnerable-AD](https://github.com/WazeHell/vulnerable-AD): Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab .
+- [ATTACK MAPPING WITH BLOODHOUND](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
+- [EXTRACTING PASSWORD HASHES FROM THE NTDS.DIT FILE](https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/)
 
 ##### Mimikatz
 
@@ -1400,6 +1468,7 @@ SELECT-id-1.FROM`test`
 - [pypykatz](https://github.com/skelsec/pypykatz): Mimikatz implementation in pure Python
 - [Walk-through Mimikatz sekurlsa module](https://jetsecurity.github.io/post/mimikatz/walk-through_sekurlsa/)
 - (pt-br) [Mimikatz: Mitigando ataques de roubo de credenciais](https://medium.com/sidechannel-br/mimikatz-mitigando-ataques-de-roubo-de-credenciais-f18eddd32b34)
+- [PERFORMING PASS-THE-HASH ATTACKS WITH MIMIKATZ](https://blog.stealthbits.com/passing-the-hash-with-mimikatz)
 
 #### Powershell
 
@@ -1417,6 +1486,7 @@ SELECT-id-1.FROM`test`
 - [Office 365 Mail Forwarding Rules (and other Mail Rules too)](https://isc.sans.edu/forums/diary/Office+365+Mail+Forwarding+Rules+and+other+Mail+Rules+too/26484/)
 - [Application Guard for Office (public preview) for admins](https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/microsoft-365/security/office-365-security/install-app-guard.md)
 - [o365spray](https://github.com/0xZDH/o365spray): Username enumeration and password spraying tool aimed at Microsoft O365.
+- [AdminSubmissionsAPI scripts for URL and mail submission.](https://github.com/pawp81/AdminSubmissionsAPI) Admin Submission API allows submission of URLs, mail messages, file mail messages and files to Microsoft to re-scan and get newest verdict on submitted entity. Admin Submissions API is available both to Exchange Online Protection customers as well as to Office 365 ATP customers. 
 
 ### macOS/iOS
 
@@ -1461,6 +1531,7 @@ SELECT-id-1.FROM`test`
 - [macOS-Fortress](https://github.com/essandess/macOS-Fortress): Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
 - [From zero to tfp0 - Part 1: Prologue](http://highaltitudehacks.com/2020/06/01/from-zero-to-tfp0-part-1-prologue/)
 - [From zero to tfp0 - Part 2: A Walkthrough of the voucher_swap exploit](http://highaltitudehacks.com/2020/06/01/from-zero-to-tfp0-part-2-a-walkthrough-of-the-voucher-swap-exploit/)
+- [We Hacked Apple for 3 Months: Here’s What We Found](https://samcurry.net/hacking-apple/), [some](https://gist.github.com/samwcyo/f8387351ce9acb7cffce3f1dd94ce0d6) [useful](https://gist.github.com/ziot/ef5297cc1324b13a8fae706eeecc68a5) [scripts](https://gist.github.com/ziot/ef5297cc1324b13a8fae706eeecc68a5) [available](https://gist.github.com/ziot/3c079fb253f4e467212f2ee4ce6c33cb)
 
 ### Android
 
@@ -1522,6 +1593,7 @@ SELECT-id-1.FROM`test`
 - [(Ab)using Kerberos from Linux](https://www.onsecurity.co.uk/blog/abusing-kerberos-from-linux)
 - [LKRG](https://github.com/openwall/lkrg): Linux Kernel Runtime Guard
 - [Privilege Escalation via Python Library Hijacking](https://rastating.github.io/privilege-escalation-via-python-library-hijacking/)
+- [Logging Passwords on Linux](https://www.redsiege.com/blog/2019/05/logging-passwords-on-linux/)
 
 ### Cloud
 
@@ -1529,6 +1601,7 @@ SELECT-id-1.FROM`test`
 - [Cloud Security Research](https://github.com/RhinoSecurityLabs/Cloud-Security-Research): Cloud-related research releases from the Rhino Security Labs team.
 - [Azure-Readiness-Checklist](https://github.com/ghostinthewires/Azure-Readiness-Checklist): This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in Azure. Before you go live, go through each item, and make sure you haven't missed anything important!
 - [gVisor](https://github.com/google/gvisor): is an application kernel, written in Go, that implements a substantial portion of the Linux system surface.
+- [PARSEC](https://github.com/parallaxsecond/parsec): Platform AbstRaction for SECurity service
 
 ### AWS
 
@@ -1541,13 +1614,14 @@ SELECT-id-1.FROM`test`
 - [AWS IAM privileges as found using the AWS Policy Generator described at](https://gist.github.com/0xdabbad00/fa918ad85c0c3f0e0fa9a3f6b53696de)
 - [Sadcloud](https://github.com/nccgroup/sadcloud): A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure.
 
-## Risk Assessment
+## Risk Assessment and Vulnerability Management 
 
 - (PT-BR) [Gerenciamento de Risco Cibernético](http://minutodaseguranca.blog.br/gerenciamento-de-risco-de-seguranca-cibernetica/)
 - [RITA (Real Intelligence Threat Analytics)](https://github.com/ocmdev/rita)
 - [Blended threats are the future, because no matter how good your cloud security is, at some point a grumpy SRE who feels jilted over some work BS is gonna enjoy pulling one over on those C suite assholes, for $20k cash](https://twitter.com/thegrugq/status/1192270879687753728) by grugq.
 - [ISO27001 audit in real-time....](https://twitter.com/tjcmorgan/status/1305425180903313409)
 - [Gearing Towards Your Next Audit](https://www.tripwire.com/state-of-security/security-data-protection/security-configuration-management/compliance-efforts-audit-scm/): Understanding the Difference Between Best Practice Frameworks and Regulatory Compliance Standards.
+- [￼Nuclei](https://github.com/projectdiscovery/nuclei) is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find a security vulnerability in application.
 
 ## ICS (SCADA)
 
@@ -1675,11 +1749,13 @@ SELECT-id-1.FROM`test`
 - [SpamCop](https://www.spamcop.net/) is the premier service for reporting spam. 
 - [vector-edk](https://github.com/hackedteam/vector-edk): EFI Development Kit.
 - [H1R0GH057](https://github.com/H1R0GH057/Anonymous): tools (DDoS, lulz, etc..)
+- [uriDeep](https://github.com/mindcrypt/uriDeep): Unicode encoding attacks with machine learning
 
 ### Shell tools
 
 - [Python-Scripts](https://github.com/bing0o/Python-Scripts): some scripts for penetration testing.
 - [SubEnum](https://github.com/bing0o/SubEnum): bash script for Subdomain Enumeration
+- [password-store](https://git.zx2c4.com/password-store/): Simple password manager using gpg and ordinary unix directories.
 
 ### Search Engines
 
@@ -1693,6 +1769,7 @@ SELECT-id-1.FROM`test`
   - [publicwww.com](https://publicwww.com)
   - [hunter.io](https://hunter.io)
   - [haveibeenpwned.com](https://haveibeenpwned.com)
+  - [haveibeenEMOTET](https://www.haveibeenemotet.com/)
   - [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
   - [osintframework.com](https://osintframework.com)
 - [Insecam](https://www.insecam.org/): Network live IP video cameras directory.
@@ -1790,6 +1867,7 @@ SELECT-id-1.FROM`test`
 - [JustTryHarder](https://github.com/sinfulz/JustTryHarder): a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings).
 - [Hacking Your Pen Testing / Red Teaming Career: Part 1](https://medium.com/munrobotic/hacking-your-pen-testing-red-teaming-career-part-1-cc816aca0980)
 - [PentesterAcademy](https://www.pentesteracademy.com/): Courses and Online Labs.
+- [OSCE-exam-practice](https://github.com/epi052/OSCE-exam-practice), [OSCE Exam Practice - Part IX (LTER via SEH Overwrite w/ Restricted Character Set)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-25-osce-exam-practice-part-nine/)
 
 ## Conferences and Slides
 

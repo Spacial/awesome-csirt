@@ -39,6 +39,7 @@ Some CVEs PoCs repos on github or internet.
 - sudo: [CVE-2019-14287](https://sensorstechforum.com/cve-2019-14287-sudo-bug/) - Sudo Bug Allows Restricted Users to Run Commands as Root. [redhat](https://access.redhat.com/security/cve/cve-2019-14287), [PoC](https://www.sudo.ws/alerts/minus_1_uid.html)
 - Memory corruption in net/packet/af_packet.c: [CVE-2020-14386](https://www.openwall.com/lists/oss-security/2020/09/03/3), [poc](https://www.openwall.com/lists/oss-security/2020/09/03/3/2)
 - [BlindSide](https://www.vusec.net/projects/blindside/)
+- Exploiting a Linux kernel vulnerability in the V4L2 subsystem: [CVE-2019-18683](https://a13xp0p0v.github.io/2020/02/15/CVE-2019-18683.html)
 
 ## Solaris
 
@@ -84,7 +85,7 @@ Some CVEs PoCs repos on github or internet.
 - [MIcrosoft-Word-Use-After-Free](https://github.com/whiteHat001/MIcrosoft-Word-Use-After-Free) - Word Docx with exploit.
 - [Half Life 1](https://hackerone.com/reports/832750) - Buffer overflow In hl.exe's launch -game argument allows an attacker to execute arbitrary code locally or from browser
 - [PoC for enabling wdigest to bypass credential guard ](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
-- Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon), [A different way of abusing Zerologon (CVE-2020-1472)](https://dirkjanm.io/a-different-way-of-abusing-zerologon/)
+- Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon), [A different way of abusing Zerologon (CVE-2020-1472)](https://dirkjanm.io/a-different-way-of-abusing-zerologon/) [ZeroLogon detected by Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender/zerologon-is-now-detected-by-microsoft-defender-for-identity-cve/ba-p/1734034)
 
 ## macOS/iOS
 
@@ -255,7 +256,9 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
   - [CVE-2020-3800](https://starlabs.sg/advisories/20-3800/)
   - [CVE-2020-3801](https://starlabs.sg/advisories/20-3801/)
   - [CVE-2020-10907](https://starlabs.sg/advisories/20-10907/)
-- [cve-scanner-exploiting-pocs ](https://github.com/gmatuz/cve-scanner-exploiting-pocs): Collection of ideas and specific exploits against Docker CVE scanners
+- [cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs): Collection of ideas and specific exploits against Docker CVE scanners
+- [AT-TFTP_Long_Filename](https://github.com/Re4son/AT-TFTP_Long_Filename): Exploits a stack buffer overflow in AT-TFTP v1.9, by sending a request (get/write) for an overly long file name.
+- [The Anatomy of a Bug Door: Dissecting Two D-Link Router Authentication Bypasses](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses), CVEs CVE-2020-8863 and CVE-2020-8864. [dsp-w215-hnap](https://github.com/bikerp/dsp-w215-hnap): Tool for reading data from D-Link DSP-W215 Smart Plug 
 
 ## Additions
 
