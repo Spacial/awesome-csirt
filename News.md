@@ -159,6 +159,9 @@
 - [An overview of targeted attacks and APTs on Linux](https://securelist.com/an-overview-of-targeted-attacks-and-apts-on-linux/98440/)
 - [More than 247,000 Microsoft Exchange servers are still vulnerable to attacks exploiting the CVE-2020-0688 RCE issue impacting Exchange Server.](https://securityaffairs.co/wordpress/108946/hacking/vulnerable-exchange-servers.html?utm_source=rss&utm_medium=rss&utm_campaign=vulnerable-exchange-servers) and [Phishing for SYSTEM on Microsoft Exchange (CVE-2020-0688)](https://blog.rapid7.com/2020/04/06/phishing-for-system-on-microsoft-exchange-cve-2020-0688/)
 - [The Fresh Smell of ransomed coffee](https://decoded.avast.io/martinhron/the-fresh-smell-of-ransomed-coffee/)
+- [NPM nukes NodeJS malware opening Windows, Linux reverse shells](https://www.bleepingcomputer.com/news/security/npm-nukes-nodejs-malware-opening-windows-linux-reverse-shells/)
+- [The state of checkra1n on iOS 14](https://checkra.in/news/2020/09/iOS-14-announcement)
+- [Attackers are abusing Google’s App Engine to circumvent Enterprise Security Solutions…Again!](https://medium.com/@marcelx/attackers-are-abusing-googles-app-engine-to-circumvent-enterprise-security-solutions-again-eda8345d531d)
 
 ## Politics
 
@@ -224,4 +227,4 @@
 - "[The truly harmful targeted ads aren’t the ones trying to sell us something we’ve already searched for. It’s the ones that undermine our autonomy by covertly manipulating us into new desires and behaviors, molding our consumption patterns to maximize long-term revenue extraction.](https://twitter.com/random_walker/status/1168841220535324672)"
 - [TCP ISN CPU Information Leak Protection - tirdad](https://forums.whonix.org/t/tcp-isn-cpu-information-leak-protection-tirdad/8552)
 - (pt-br) [Exclusivo: ViaQuatro expõe dados de mais de 10 mil usuários da Linha 4 do Metrô de SP](https://thehack.com.br/exclusivo-viaquatro-expoe-dados-de-mais-de-10-mil-usuarios-da-linha-4-do-metro-de-sp/)
-  
+- [Propaganda, Censorship, and Surveillance are attributes of the same underlying aspect: Monopoly and Centralised Control.](https://joindiaspora.com/posts/7bfcf170eefc013863fa002590d8e506)

