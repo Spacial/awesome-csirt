@@ -171,6 +171,7 @@
 - [FinFisher Filleted 🐟](https://objective-see.com/blog/blog_0x4F.html), a triage of the FinSpy (macOS) malware
 - [the Emerald Connection: EquationGroup collaboration with Stuxnet](https://fmmresearch.wordpress.com/2020/09/28/the-emerald-connection-equationgroup-collaboration-with-stuxnet/)
 - [Ryuk’s Return](https://thedfirreport.com/2020/10/08/ryuks-return/)
+- [Ryuk Ransomware](https://community.riskiq.com/article/0bcefe76): Extensive Attack Infrastructure Revealed
 
 ### Repos
 
@@ -785,6 +786,7 @@
 - [CTFR](https://github.com/UnaPibaGeek/ctfr) does not use neither dictionary attack nor brute-force, it just abuses of Certificate Transparency logs.
 - [feroxbuster](https://github.com/epi052/feroxbuster): A fast, simple, recursive content discovery tool written in Rust.
 - [grinder](https://github.com/sdnewhop/grinder): Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)
+- [Admin-Scanner](https://github.com/swam-htet-a/Admin-Scanner): This tool is to design to find admin panel of websites.
 
 ### Bug Bounty
 
@@ -1212,6 +1214,8 @@ SELECT-id-1.FROM`test`
   - [Wireshark Tutorial: Exporting Objects from a Pcap](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/)
   - [Hex Packet Decoder](https://hpd.gasmi.net/): Hex Packet Decoder provides an [HTTP API](https://hpd.gasmi.net/api.html) for you to parse network packets.
   - [Packetor](http://packetor.com/): Packetor is an online hex-dump packet analyzer / decoder.
+- [Lookup Before You Go-Go...Hunting](https://www.splunk.com/en_us/blog/security/lookup-before-you-go-go-hunting.html).
+- [Insider Threat Hunting](http://findingbad.blogspot.com/2020/07/insider-threat-hunting.html) and [It's all in the numbers](http://findingbad.blogspot.com/2020/05/its-all-in-numbers.html).
 
 #### MISP
 
@@ -1240,6 +1244,7 @@ SELECT-id-1.FROM`test`
 - [Analysis Report (AR20-268A)](https://us-cert.cisa.gov/ncas/analysis-reports/ar20-268a)
 - CYPRESS - [Cyber Planning for Response and Recovery Study](https://cms.ferc.gov/sites/default/files/2020-09/FERC%26NERC_CYPRES_Report.pdf) 2020 FERC, NERC and REs Report.
 - CHIMBORAZO [TA505](https://twitter.com/MsftSecIntel/status/1313598440719355904)
+- Threat Group Cards: [A Threat Actor Encyclopedia](https://apt.thaicert.or.th/cgi-bin/aptgroups.cgi).
 
 ### IoCs
 
@@ -1247,6 +1252,7 @@ SELECT-id-1.FROM`test`
 - [DailyIOC](https://github.com/StrangerealIntel/DailyIOC): IOC from articles, tweets for archives
 - [CVE-2020-1472 Zerologon IoCs](https://otx.alienvault.com/pulse/5f74a1a450843553be3ed593)
 - [iocs](https://github.com/pan-unit42/iocs): Indicators from Unit 42 Public Reports
+- [Threat intelligence and threat detections](https://github.com/swisscom/detections): Threat intelligence and threat detection indicators (IOC, IOA).
 
 ### SIEM
 
@@ -1266,6 +1272,7 @@ SELECT-id-1.FROM`test`
 - [spectx](https://www.spectx.com/): Instantly parse and investigate raw log files  
 - [The log/event processing pipeline you can't have](https://apenwarr.ca/log/20190216)
 - [Building a SIEM: combining ELK, Wazuh HIDS and Elastalert for optimal performance](https://medium.com/bugbountywriteup/building-a-siem-combining-elk-wazuh-hids-and-elastalert-for-optimal-performance-f1706c2b73c6)
+- [Here's a Splunk way to score behaviors that are derived from detections](https://twitter.com/jackcr/status/1322178539496607744).
 
 ## Browsers
 
@@ -1555,6 +1562,7 @@ SELECT-id-1.FROM`test`
 - [o365spray](https://github.com/0xZDH/o365spray): Username enumeration and password spraying tool aimed at Microsoft O365.
 - [AdminSubmissionsAPI scripts for URL and mail submission.](https://github.com/pawp81/AdminSubmissionsAPI) Admin Submission API allows submission of URLs, mail messages, file mail messages and files to Microsoft to re-scan and get newest verdict on submitted entity. Admin Submissions API is available both to Exchange Online Protection customers as well as to Office 365 ATP customers. 
 - [Commentator](https://github.com/clr2of8/Commentator): Commentator is a tool written in PowerShell to add a comment to the file properties of a Microsoft Office document (xlsx/m, docx/m, or pptx/m).
+- [Exploiting MFA Inconsistencies on Microsoft Services](https://www.blackhillsinfosec.com/exploiting-mfa-inconsistencies-on-microsoft-services/). [MFASweep](https://github.com/dafthack/MFASweep): A tool for checking if MFA is enabled on multiple Microsoft Services
 
 ### macOS/iOS
 
