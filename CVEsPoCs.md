@@ -269,6 +269,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [The Anatomy of a Bug Door: Dissecting Two D-Link Router Authentication Bypasses](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses), CVEs CVE-2020-8863 and CVE-2020-8864. [dsp-w215-hnap](https://github.com/bikerp/dsp-w215-hnap): Tool for reading data from D-Link DSP-W215 Smart Plug 
 - [An Exercise in Practical Container Escapology](https://capsule8.com/blog/practical-container-escape-exercise/)
 - [VMware vCenter 6.5u1](https://twitter.com/ptswarm/status/1316016337550938122)
+- [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
 
 ## Additions
 
