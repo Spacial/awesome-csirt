@@ -156,6 +156,7 @@
 ### Web Malwares Tools
 
 - [Boa release](https://boa-dev.github.io/) is an experimental Javascript lexer, parser and compiler written in Rust. 
+- [midrashim](https://github.com/guitmz/midrashim): x64 ELF infector written in Assembly
 
 ### Samples
 
@@ -329,6 +330,7 @@
 - [SVD-Loader for Ghidra](https://leveldown.de/blog/svd-loader/): Simplifying bare-metal ARM reverse engineering. [repo](https://github.com/leveldown-security/SVD-Loader-Ghidra)
 - [GhidraX64Dbg](https://github.com/revolver-ocelot-saa/GhidraX64Dbg): Extract annoations from Ghidra into an X32/X64 dbg database.
 - [Reverse Engineering Go Binaries with Ghidra](https://cujo.com/reverse-engineering-go-binaries-with-ghidra/)
+- [Introduction to Reverse Engineering with Ghidra: A Four Session Course](https://wrongbaud.github.io/posts/ghidra-training/)
 
 ## Frameworks
 
@@ -387,6 +389,7 @@
   - [CentOS7 Lockdown](https://github.com/naingyeminn/CentOS7_Lockdown)
   - [RHEL7-CIS](https://github.com/radsec/RHEL7-CIS): Ansible RHEL 7 - CIS Benchmark Hardening Script
   - [cisecurity](https://github.com/cohdjn/cisecurity): Configures Linux systems to Center for Internet Security Linux hardening standard.
+- [bdshemu](https://hvmi.github.io/blog/2020/11/11/bdshemu.html): The [Bitdefender](https://github.com/bitdefender/bddisasm) shellcode emulator
 
 ### WebServers
 
@@ -494,7 +497,6 @@
 - (pt-br) [GTER 47 | GTS 33 - Dia 2 (parte 1)](https://www.youtube.com/watch?v=7XgwJHOSmoE): nice talk by Daniel Carlier and Silvia Pimpão.
 - [HTTP Security Headers](https://nullsweep.com/http-security-headers-a-complete-guide/) - A Complete Guide
 - [SAFECode](https://safecode.org/): is a non-profit organization exclusively dedicated to increasing trust in information and communications technology products and services through the advancement of effective software assurance methods.
-- [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project). [OWASP BWA](https://github.com/chuckfw/owaspbwa/) repository [files](https://sourceforge.net/projects/owaspbwa/files/1.2/).
 - [Security Code Review 101](https://medium.com/@paul_io/security-code-review-101-a3c593dc6854)
 - [Elliptic Curve Cryptography Explained](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 - [Cheatsheet for finding vulnerable PHP code using grep](https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet): This will assist you in the finding of potentially vulnerable PHP code. Each type of grep command is categorized in the type of vulnerabilities you generally find with that function.
@@ -506,9 +508,15 @@
 - [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices): Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian. [python API Client](https://github.com/GitGuardian/py-gitguardian)
 - [Vuln Cost - Security Scanner for VS Code](https://github.com/snyk/vulncost): Find security vulnerabilities in open source npm packages while you code.
 - [Most Popular Analysis Tools by Programming Language](https://analysis-tools.dev/)
-- [￼Deepsource](deepsource.io): tool that analyzes your repository.
+- [Deepsource](deepsource.io): tool that analyzes your repository.
 - [git-wild-hunt](https://github.com/d1vious/git-wild-hunt): A tool to hunt for credentials in github wild AKA git*hunt
 - [shhgit](https://github.com/eth0izzle/shhgit/): Ah shhgit! Find GitHub secrets in real time
+- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
+
+### Web Training
+
+- [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project). [OWASP BWA](https://github.com/chuckfw/owaspbwa/) repository [files](https://sourceforge.net/projects/owaspbwa/files/1.2/).
+- [dvna](https://github.com/appsecco/dvna): Damn Vulnerable NodeJS Application
 
 ### SAST
 
@@ -522,7 +530,7 @@
 - [Which Security Risks Do CORS Imply? ](https://mobilejazz.com/blog/which-security-risks-do-cors-imply/)
 - [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Secure Modular Runtimes](https://guybedford.com/secure-modular-runtimes.html)
-- [￼WebSecurity Academy](https://portswigger.net/web-security)
+- [WebSecurity Academy](https://portswigger.net/web-security)
 - [Projects/OWASP Node js Goat Project](https://wiki.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project), [repo](https://github.com/OWASP/NodeGoat)
 - [Prototype pollution – and bypassing client-side HTML sanitizers](https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/)
 - [Understanding the CSRF Vulnerability (A Beginner’s Guide)](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
@@ -787,15 +795,18 @@
 - [feroxbuster](https://github.com/epi052/feroxbuster): A fast, simple, recursive content discovery tool written in Rust.
 - [grinder](https://github.com/sdnewhop/grinder): Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)
 - [Admin-Scanner](https://github.com/swam-htet-a/Admin-Scanner): This tool is to design to find admin panel of websites.
+- [the-art-of-subdomain-enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration): This repository contains all the supplement material for the book "The art of sub-domain enumeration"
 
 ### Bug Bounty
 
 - [bbrecon](https://github.com/serain/bbrecon) Python library and CLI for the Bug Bounty Recon API
+- [RPC Bug Hunting Case Studies – Part 1](https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv)
 
 ### WebShells
 
 - [novahot](https://github.com/chrisallenlane/novahot):A webshell framework for penetration testers.
 - [Weevely](https://github.com/epinna/weevely3): Weaponized web shell
+- [Did you know that Python's simple web server can run CGI scripts](https://twitter.com/MarkBaggett/status/1327680468146384898)
 
 ### ShellCodes
 
@@ -821,6 +832,7 @@
 - [New XML technique! Encode any DTD/XML inside an internal entity, and fly under WAF radars!](https://twitter.com/ptswarm/status/1302966718227189761?s=09)
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 - [Reverse Shell Generator](https://weibell.github.io/reverse-shell-generator/) [repo](https://github.com/weibell/reverse-shell-generator)
+- [CallObfuscator](https://github.com/d35ha/CallObfuscator): Obfuscate specific windows apis with different apis
 
 ### Reporting
 
@@ -874,6 +886,7 @@ Curated list of public penetration test reports released by several consulting f
 #### OSINT Chats
 
 - [chatter](https://github.com/visualbasic6/chatter): internet monitoring osint telegram bot for windows
+- [Slackhound](https://github.com/BojackThePillager/Slackhound): Slackhound allows red and blue teams to perform fast reconnaissance on Slack workspaces/organizations to quickly search user profiles, locations, files, and other objects.
 
 ### Vulnerability
 
@@ -994,6 +1007,15 @@ SELECT-id-1.FROM`test`
 - [Traditional Buffer Overflow Windows cheatsheet](https://sec4us.com.br/cheatsheet/bufferoverflow-windows)
 - [Exploit writing tutorial part 3 : SEH Based Exploits](https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/)
 
+#### Web Exploitation
+
+- [Tomcat](https://fossies.org/linux/apache-tomcat/java/org/apache/naming/factory/BeanFactory.java): java/org/apache/naming/factory/BeanFactory.java - good to use for JRMI abuse
+- [Exploiting JNDI Injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java)
+- [How to exploit Liferay CVE-2020-7961 : quick journey to PoC](https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html)
+- [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
+- [Orange: How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
+- [code white | Blog: Liferay Portal JSON Web Service RCE Vulnerabilities](https://codewhitesec.blogspot.com/2020/03/liferay-portal-json-vulns.html)
+
 ### Red Team
 
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
@@ -1055,6 +1077,7 @@ SELECT-id-1.FROM`test`
   - [Thwarting and detecting malware with RPZ and OSSEC](https://www.redpill-linpro.com/sysadvent/2015/12/15/rpz-malware-detection.html)
   - [The Importance of DNS Logging in Enterprise Security](https://nxlog.co/whitepapers/dns-logging)
 - [DNSObserver](https://github.com/allyomalley/dnsobserver): A handy DNS service written in Go to aid in the detection of several types of blind vulnerabilities. It monitors a pentester's server for out-of-band DNS interactions and sends lookup notifications via Slack. [Discover Blind Vulnerabilities with DNSObserver: an Out-of-Band DNS Monitor](https://www.allysonomalley.com/2020/05/22/dnsobserver/)
+- [Unbound DNS Blacklist](https://vermaden.wordpress.com/2020/11/18/unbound-dns-blacklist/)
 
 ## Exfiltration
 
@@ -1512,6 +1535,7 @@ SELECT-id-1.FROM`test`
 - [Wagging the Dog](https://shenaniganslabs.io/2019/01/28/Wagging-the-Dog.html): Abusing Resource-Based Constrained Delegation to Attack Active Directory.
 - [Exploiting PrivExchange](https://chryzsh.github.io/exploiting-privexchange/): The PrivExchange tool simply logs in on Exchange Web Services to subscribe to push notifications to a specific host.
 - [Case Study: Password Analysis with BloodHound](https://posts.specterops.io/case-study-password-analysis-with-bloodhound-a3d264736c7?gi=f1d43999d905)
+- [Introducing BloodHound 4.0: The Azure Update](https://posts.specterops.io/introducing-bloodhound-4-0-the-azure-update-9b2b26c5e350)
 - [Bypassing AD account lockout for a compromised account](https://medium.com/@markmotig/bypassing-ad-account-lockout-for-a-compromised-account-5c908d663de8)
 - [Azure AD and ADFS best practices](https://www.microsoft.com/en-us/microsoft-365/blog/2018/03/05/azure-ad-and-adfs-best-practices-defending-against-password-spray-attacks/): Defending against password spray attacks
 - [windapsearch](https://github.com/ropnop/windapsearch): Python script to enumerate users, groups and computers from a Windows domain through LDAP queries
@@ -1701,7 +1725,7 @@ SELECT-id-1.FROM`test`
 - [Blended threats are the future, because no matter how good your cloud security is, at some point a grumpy SRE who feels jilted over some work BS is gonna enjoy pulling one over on those C suite assholes, for $20k cash](https://twitter.com/thegrugq/status/1192270879687753728) by grugq.
 - [ISO27001 audit in real-time....](https://twitter.com/tjcmorgan/status/1305425180903313409)
 - [Gearing Towards Your Next Audit](https://www.tripwire.com/state-of-security/security-data-protection/security-configuration-management/compliance-efforts-audit-scm/): Understanding the Difference Between Best Practice Frameworks and Regulatory Compliance Standards.
-- [￼Nuclei](https://github.com/projectdiscovery/nuclei) is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find a security vulnerability in application.
+- [Nuclei](https://github.com/projectdiscovery/nuclei) is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find a security vulnerability in application.
 
 ## ICS (SCADA)
 
@@ -1800,7 +1824,7 @@ SELECT-id-1.FROM`test`
 - [chezmoi](https://github.com/twpayne/chezmoi): Manage your dotfiles securely across multiple machines.
 - [hexyl](https://github.com/sharkdp/hexyl): A command-line hex viewer.
 - [Giggity](https://github.com/needmorecowbell/giggity): Wraps github api for openly available information about an organization, user, or repo.
-- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound): Count the number of people around you ￼ by monitoring wifi signals .
+- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound): Count the number of people around you  by monitoring wifi signals .
 - [LASCAR](https://github.com/Ledger-Donjon/lascar): Ledger's Advanced Side-Channel Analysis Repository.
 - [Hostintel](https://www.kitploit.com/2019/03/hostintel-modular-python-application-to.html): A Modular Python Application To Collect Intelligence For Malicious Hosts - [github](https://github.com/keithjjones/hostintel)
 - [DarkNet_ChineseTrading](https://github.com/aoii103/DarkNet_ChineseTrading)
@@ -1834,6 +1858,7 @@ SELECT-id-1.FROM`test`
 - [gaijin tools](https://www.gaijin.at/en/software/)
 - [Lord Of The Strings (LOTS)](https://github.com/eset-la/Lord-Of-The-Strings): String extraction and classification tool for binary files, designed to extract only the strings that can be considered relevant (i.e. not garbage or false positives)
 - [Unit 42 Public Tools Repo](https://github.com/pan-unit42/public_tools): Listing of tools released by Palo Alto Networks Threat Intelligence team.
+- [glsnip](https://github.com/bradwood/glsnip): copy and paste across machines
 
 ### Shell tools
 
@@ -2078,7 +2103,9 @@ Some good places to visit:
 - [FYI, I'm going to drive home on Florida's Turnpike with a code that QR-enabled license plate readers will log in their ASCII databases ... which could trigger #antivirus software to QUARANTINE those databases](https://twitter.com/vmyths/status/1212201412068818944) by Rob Rosenberger.
 - (pt-br)[pivoting](https://diegoalbuquerque.github.io/pivoting.html)
 - [Posters, drawings... ](https://github.com/corkami/pics)
+- ["Other good cyberpunk media to stream free on Tubi: Akira https://t.co/zNFOXzkdMP Ghost in the Shell https://t.co/ayGKJsGXsf Jin-Roh https://t.co/V6KUA0icSc Ergo Proxy https://t.co/uQv9WNGnHT AD Police https://t.co/UNBioD26MB Chappie https://t.co/YmLabtxk4z"](https://twitter.com/hackermaderas/status/1328153549411414018)
   
+
 ---
 
 ## CFPs
