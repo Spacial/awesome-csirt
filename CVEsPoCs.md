@@ -193,6 +193,7 @@ Some CVEs PoCs repos on github or internet.
 - Oracle WebLogic WLS-WSAT Remote Code Execution Exploit: [CVE-2017-10271](https://github.com/kkirsche/CVE-2017-10271)
 - Oracle BI, [Out of Band XXE Injection Via gopher](https://medium.com/@osama.alaa/xxe-injection-in-oracle-application-server-11g-cc05f6ab55ab): [CVE-2016-3473](https://www.exploit-db.com/exploits/40590)
 - WebLogic Exploit: [CVE-2017-10271](https://github.com/c0mmand3rOpSec/CVE-2017-10271)
+- [Weblogic RCE by only one GET request — CVE-2020–14882 Analysis](https://testbnull.medium.com/weblogic-rce-by-only-one-get-request-cve-2020-14882-analysis-6e4b09981dbf)
 - Talos Vulnerability Deep Dive: Sophos HitmanPro.Alert vulnerability -  [CVE-2018-3971](https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html)
 - [JPEG [JAY-peg]](https://github.com/corkami/docs/blob/master/images/jpeg.md), some pocs [JPEG PoCs](https://github.com/corkami/pocs/blob/master/images/jpg/README.md)
 - Kubernets: [CVE-2018-1002105](https://github.com/evict/poc_CVE-2018-1002105)

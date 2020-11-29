@@ -162,6 +162,10 @@
 - [NPM nukes NodeJS malware opening Windows, Linux reverse shells](https://www.bleepingcomputer.com/news/security/npm-nukes-nodejs-malware-opening-windows-linux-reverse-shells/)
 - [The state of checkra1n on iOS 14](https://checkra.in/news/2020/09/iOS-14-announcement)
 - [Attackers are abusing Google’s App Engine to circumvent Enterprise Security Solutions…Again!](https://medium.com/@marcelx/attackers-are-abusing-googles-app-engine-to-circumvent-enterprise-security-solutions-again-eda8345d531d)
+- [Hosting Provider Exposed 63M Records incl. WP & Magento](https://securethoughts.com/hosting-provider-exposed-63-million-customer-records/)
+- [New Ransom X Ransomware used in Texas TxDOT cyberattack](https://www.bleepingcomputer.com/news/security/new-ransom-x-ransomware-used-in-texas-txdot-cyberattack/)
+- [Apple notarizes new Mac malware… again](https://www.intego.com/mac-security-blog/apple-notarizes-new-mac-malware-again/)
+- [Windows kernel vulnerability disclosed by Google's Project Zero after bug exploited in the wild by hackers](https://www.theregister.com/2020/10/30/windows_kernel_zeroday/)
 
 ## Politics
 

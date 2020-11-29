@@ -173,6 +173,7 @@
 - [the Emerald Connection: EquationGroup collaboration with Stuxnet](https://fmmresearch.wordpress.com/2020/09/28/the-emerald-connection-equationgroup-collaboration-with-stuxnet/)
 - [Ryuk’s Return](https://thedfirreport.com/2020/10/08/ryuks-return/)
 - [Ryuk Ransomware](https://community.riskiq.com/article/0bcefe76): Extensive Attack Infrastructure Revealed
+- [Android-Malware-Samples](https://github.com/fouroctets/Android-Malware-Samples):  Android Malware Samples 
 
 ### Repos
 
@@ -225,10 +226,13 @@
 - [Turla](https://www.welivesecurity.com/2018/08/22/turla-unique-outlook-backdoor/): In and out of its unique Outlook backdoor
 - [QMKhuehuebr](https://github.com/mthbernardes/QMKhuehuebr): Trying to hack into keyboards
 
-### Malware Articles
+### Malware Articles and Sources
 
 - [“VANILLA” malware](https://link.springer.com/article/10.1007/s11416-019-00333-y): vanishing antiviruses by interleaving layers and layers of attacks
 - [A Mix of Python & VBA in a Malicious Word Document](https://isc.sans.edu/forums/diary/A+Mix+of+Python+VBA+in+a+Malicious+Word+Document/26578/)
+- [MalwareAnalysisForHedgehogs](https://www.youtube.com/c/MalwareAnalysisForHedgehogs/videos): Throw your bat cape over your spikes and get started with malware analysis and reverse engineering.
+I work as a malware analyst and like to share my knowledge.
+- [2020-10-22 - TRAFFIC ANALYSIS EXERCISE - OMEGACAST](https://malware-traffic-analysis.net/2020/10/22/index.html)
 
 ## Reverse Engineering
 
@@ -297,6 +301,7 @@
 - [VX Underground](https://vx-underground.org/)
   - [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode): Collection of malware source code for a variety of platforms in an array of different programming languages.
   - [VXUG-Papers](https://github.com/vxunderground/VXUG-Papers): Research code & papers from members of vx-underground.
+- (pt-br) [Como automaticamente atachar um processo a um debugger.](https://diegoalbuquerque.github.io/trick-to-bof-debugger.html)
 
 ### Decompilers
 
@@ -461,6 +466,7 @@
 - [Gitian](https://gitian.org) is a secure source-control oriented software distribution method.
 - [Canary](https://github.com/psecio/canary):Input Detection and Response
 - [Canarytokens](https://www.canarytokens.org/generate) by Thinkst, [Quick, Free, Detection for the Masses](https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html)
+- [CANARY FILES: GENERATING FAKE FILES TO DETECT CRITICAL DATA LOSS FROM COMPLEX COMPUTER NETWORKS](http://sdiwc.net/digital-library/canary-files-generating-fake-files-to-detect-critical-data-loss-from-complex-computer-networks)
 - [Wycheproof](https://github.com/google/wycheproof): Project Wycheproof tests crypto libraries against known attacks.
 - [Web App Security 101](https://kruschecompany.com/blog/post/web-app-security): Keep Calm and Do Threat Modeling
 - SSL/TLS for dummies:
@@ -508,7 +514,7 @@
 - [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices): Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian. [python API Client](https://github.com/GitGuardian/py-gitguardian)
 - [Vuln Cost - Security Scanner for VS Code](https://github.com/snyk/vulncost): Find security vulnerabilities in open source npm packages while you code.
 - [Most Popular Analysis Tools by Programming Language](https://analysis-tools.dev/)
-- [Deepsource](deepsource.io): tool that analyzes your repository.
+- [Deepsource](https://deepsource.io): tool that analyzes your repository.
 - [git-wild-hunt](https://github.com/d1vious/git-wild-hunt): A tool to hunt for credentials in github wild AKA git*hunt
 - [shhgit](https://github.com/eth0izzle/shhgit/): Ah shhgit! Find GitHub secrets in real time
 - [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
@@ -558,7 +564,8 @@
 - [javafuzz](https://github.com/fuzzitdev/javafuzz): Javafuzz is coverage-guided fuzzer for testing Java packages.
 - [onefuzz](https://github.com/microsoft/onefuzz): A self-hosted Fuzzing-As-A-Service platform.
 - [Fuzzing Like A Caveman 3: Trying to Somewhat Understand The Importance Code Coverage](https://h0mbre.github.io/Fuzzing-Like-A-Caveman-3/#)
-  
+- [ffuf](https://github.com/ffuf/ffuf): Fast web fuzzer written in Go
+
 ### API
 
 - [The Web API Checklist](https://mathieu.fenniak.net/the-api-checklist/): 43 Things To Think About When Designing, Testing, and Releasing your API
@@ -672,6 +679,7 @@
 - [Seclists](https://github.com/danielmiessler/SecLists) is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place.
 - Search operating systems on the network: [osquery](https://osquery.io/downloads/)
 - [osquery Across the Enterprise](https://medium.com/@palantir/osquery-across-the-enterprise-3c3c9d13ec55)
+- [fleet](https://github.com/fleetdm/fleet): The premier osquery [fleet manager](https://fleetdm.com/).
 - Penetration Testing Cheat Sheet For Windows Machine – [Intrusion Detection](https://techincidents.com/penetration-testing-cheat-sheet/)
 - Zero Day Zen Garden:
   - Windows Exploit Development - [Part 0](http://www.shogunlab.com/blog/2017/08/11/zdzg-windows-exploit-0.html)
@@ -731,10 +739,6 @@
   - [Part 3](https://blog.secureideas.com/2019/04/better-api-penetration-testing-with-postman-part-3.html)
   - [Part 4](https://blog.secureideas.com/2019/06/better-api-penetration-testing-with-postman-part-4.html)
 - [DNS and DHCP Recon using Powershell](https://isc.sans.edu/diary/DNS+and+DHCP+Recon+using+Powershell/20995)
-- REST Assured: Penetration Testing REST APIs Using Burp Suite:
-  - [Part 1 – Introduction & Configuration](https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-1-introduction-configuration/)
-  - [Part 2 – Testing](https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-2-testing/)
-  - [Part 3 – Reporting](https://www.mindpointgroup.com/blog/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-3-reporting/)
 - [SiteBroker](https://github.com/Anon-Exploiter/SiteBroker): A cross-platform python based utility for information gathering and penetration testing automation!
 - [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE): This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
 - [Nikto](https://github.com/sullo/nikto) web server scanner.
@@ -798,12 +802,15 @@
 - [the-art-of-subdomain-enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration): This repository contains all the supplement material for the book "The art of sub-domain enumeration"
 - [grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config): nmap strip to get beacon info.
 
+<<<<<<< HEAD
 ### Bug Bounty
 
 - [bbrecon](https://github.com/serain/bbrecon) Python library and CLI for the Bug Bounty Recon API
 - [RPC Bug Hunting Case Studies – Part 1](https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv)
 - [axiom](https://github.com/pry0cc/axiom): The dynamic infrastructure framework for anybody!
 
+=======
+>>>>>>> e9f164fa0bac88d3b7b3902f55aab27576423545
 ### WebShells
 
 - [novahot](https://github.com/chrisallenlane/novahot):A webshell framework for penetration testers.
@@ -834,6 +841,8 @@
 - [New XML technique! Encode any DTD/XML inside an internal entity, and fly under WAF radars!](https://twitter.com/ptswarm/status/1302966718227189761?s=09)
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 - [Reverse Shell Generator](https://weibell.github.io/reverse-shell-generator/) [repo](https://github.com/weibell/reverse-shell-generator)
+- [USING A C# SHELLCODE RUNNER AND CONFUSEREX TO BYPASS UAC WHILE EVADING AV](https://hausec.com/2020/10/30/using-a-c-shellcode-runner-and-confuserex-to-bypass-uac-while-evading-av/)
+- (pt-br) [Usando a pwntools para Binary Exploitation](https://diegoalbuquerque.github.io/binary-exploitation-with-pwntools.html)
 - [CallObfuscator](https://github.com/d35ha/CallObfuscator): Obfuscate specific windows apis with different apis
 
 ### Reporting
@@ -899,28 +908,17 @@ Curated list of public penetration test reports released by several consulting f
 - [Introduction to IDAPython for Vulnerability Hunting — Somerset Recon](http://www.somersetrecon.com/blog/2018/7/6/introduction-to-idapython-for-vulnerability-hunting)
 - [Beating the OWASP Benchmark](https://blog.shiftleft.io/beating-the-owasp-benchmark-24a7b1601031)
 - [CMSScan](https://github.com/ajinabraham/CMSScan): Scan Wordpress, Drupal, Joomla, vBulletin websites for Security issues.
-- [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html): some tips with Server Side Request Forgery.
 - [Meteor Blind NoSQL Injection](https://medium.com/rangeforce/meteor-blind-nosql-injection-29211775cd01)
 - [Security Bulletins that relate to Netflix Open Source](https://github.com/Netflix/security-bulletins)
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [Testing docker CVE scanners. Part 2.5 — Exploiting CVE scanners](https://medium.com/@matuzg/testing-docker-cve-scanners-part-2-5-exploiting-cve-scanners-b37766f73005), [repo](https://github.com/gmatuz/cve-scanner-exploiting-pocs)
+- [New NAT/Firewall Bypass Attack Lets Hackers Access Any TCP/UDP Service](https://thehackernews.com/2020/11/new-natfirewall-bypass-attack-lets.html). [NAT Slipstreaming](https://github.com/samyk/slipstream) allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
 
 ### WAFs
 
 - [Web Application Penetration Testing Course URLs](https://docs.google.com/document/d/101EsKlu41ICdeE7mEv189SS8wMtcdXfRtua0ClYjP1M/edit)
 - [Web Application Penetration Testing Notes](https://techvomit.net/web-application-penetration-testing-notes/)
 - [quarantyne](https://github.com/quarantyne/quarantyne): Modern Web Firewall: stop account takeovers, weak passwords, cloud IPs, DoS attacks, disposable emails
-- Burp Suite:
-  - [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions): A curated list of amazingly awesome Burp Extensions
-  - [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
-  - [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
-  - [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
-  - [Femida-xss](https://github.com/wish-i-was/femida): Automated blind-xss search for Burp Suite
-  - [dotNetBeautifier](https://github.com/allfro/dotNetBeautifier): A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).
-  - [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner): All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
-  - [JavaSerialKiller](https://github.com/NetSPI/JavaSerialKiller): Burp extension to perform Java Deserialization Attacks.
-  - [BurpBounty](https://github.com/wagiro/BurpBounty): Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that improve an active and passiv
-  - [Howto install and use the Burp Suite as HTTPS Proxy on Ubuntu 14.04](https://robert.penz.name/856/howto-install-and-use-the-burp-suite-as-https-proxy-on-ubuntu-14-04/)
 - [Sitadel](https://github.com/shenril/Sitadel): Web Application Security Scanner.
 - [WAF through the eyes of hackers](https://habr.com/ru/company/dsec/blog/454592/)
 - [Some nice payloads to bypass XSS WAF](https://twitter.com/Edu4rdSHL/status/1168518772052959232):
@@ -965,6 +963,7 @@ SELECT-id-1.FROM`test`
 - [Sage ACF Blocks](https://github.com/generoi/sage-acfblocks): A Sage 10 helper package for building ACF blocks rendered using blade templates.
 - [WebKit exploit](https://github.com/Cryptogenic/Exploit-Writeups/blob/master/WebKit/setAttributeNodeNS%20UAF%20Write-up.md)
 - [Modern Binary Exploitation - Spring 2015](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+- (video) [Python 2 vs 3 for Binary Exploitation Scripts](https://www.youtube.com/watch?v=FxNS-zSS7MQ)
 - [DriveCrypt](https://github.com/shjalayeri/DriveCrypt): DriveCrypt Dcr.sys vulnerability exploit
 - [Faxploit](https://research.checkpoint.com/sending-fax-back-to-the-dark-ages/): Sending Fax Back to the Dark Ages
 - [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
@@ -1009,14 +1008,59 @@ SELECT-id-1.FROM`test`
 - [Traditional Buffer Overflow Windows cheatsheet](https://sec4us.com.br/cheatsheet/bufferoverflow-windows)
 - [Exploit writing tutorial part 3 : SEH Based Exploits](https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/)
 
+#### Bug Bounty
+
+- [bbrecon](https://github.com/serain/bbrecon) Python library and CLI for the Bug Bounty Recon API
+- [RPC Bug Hunting Case Studies – Part 1](https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv)
+- [Top Penetration Testing & Bug Hunting YouTube Channels you should follow](https://www.linkedin.com/posts/omarsalama_pentesting-bugbounty-vulnerabilities-activity-6734397230221938688-c2Jq) - Updated 11/19/2020
+
 #### Web Exploitation
 
-- [Tomcat](https://fossies.org/linux/apache-tomcat/java/org/apache/naming/factory/BeanFactory.java): java/org/apache/naming/factory/BeanFactory.java - good to use for JRMI abuse
+- [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet): A list of interesting payloads, tips and tricks for bug bounty hunters.
+- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty): A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider): Mining parameters from dark corners of Web Archives.
+- SSRF:
+  - [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html): some tips with Server Side Request Forgery.
+  - [Server Side Request Forgery on MISP](https://heitorgouvea.me/2020/11/03/CVE-2020-28043): CVE-2020-28043
+  - [SSRF (Server Side Request Forgery) worth $4,913 | My Highest Bounty Ever !](https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb)
+  - [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
+- XXE:
+  - [Out of Band XXE in an E-commerce IOS app](https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b)
+  - [Comprehensive Guide on XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
+- Serialization: 
+  - [ysoserial](https://github.com/frohoff/ysoserial): A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
+  - [SerialVersionUID in Java](https://www.geeksforgeeks.org/serialversionuid-in-java/)
+  - [Java Serialization Magic Methods And Their Uses With Example](https://www.programmingmitra.com/2019/08/java-serialization-magic-methods-and-their-uses-with-example.html)
+  - [Apache Tomcat Deserialization of Untrusted Data RCE (CVE-2020–9484)](https://medium.com/@romnenko/apache-tomcat-deserialization-of-untrusted-data-rce-cve-2020-9484-afc9a12492c4), [Tomcat code](https://fossies.org/linux/apache-tomcat/java/org/apache/naming/factory/BeanFactory.java): java/org/apache/naming/factory/BeanFactory.java - good to use for JRMI abuse
+  - [CVE-2020-9484-Mass-Scan](https://github.com/osamahamad/CVE-2020-9484-Mass-Scan)
 - [Exploiting JNDI Injections in Java](https://www.veracode.com/blog/research/exploiting-jndi-injections-java)
 - [How to exploit Liferay CVE-2020-7961 : quick journey to PoC](https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html)
-- [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
 - [Orange: How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
 - [code white | Blog: Liferay Portal JSON Web Service RCE Vulnerabilities](https://codewhitesec.blogspot.com/2020/03/liferay-portal-json-vulns.html)
+- [GraphQL](https://the-bilal-rizwan.medium.com/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696): Common vulnerabilities & how to exploit them. [apis guru for](https://apis.guru/graphql-voyager/) [graphql](https://github.com/APIs-guru/graphql-voyager): ￼ Represent any GraphQL API as an interactive graph.
+
+##### Burp Suite
+
+- REST Assured: Penetration Testing REST APIs Using Burp Suite:
+  - [Part 1 – Introduction & Configuration](https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-1-introduction-configuration/)
+  - [Part 2 – Testing](https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-2-testing/)
+  - [Part 3 – Reporting](https://www.mindpointgroup.com/blog/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-3-reporting/)
+- [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions): A curated list of amazingly awesome Burp Extensions
+- [BurpSuiteHTTPSmuggler](https://github.com/nccgroup/BurpSuiteHTTPSmuggler/): A Burp Suite extension to help pentesters to bypass WAFs or test their effectiveness using a number of techniques
+- [AutoRepeater](https://github.com/nccgroup/autorepeater): Automated HTTP Request Repeating With Burp Suite
+- [privatecollaborator](https://github.com/putsi/privatecollaborator): A script for installing private Burp Collaborator with free Let's Encrypt SSL-certificate
+- [Deploying a private Burp Collaborator server](https://portswigger.net/burp/documentation/collaborator/deploying)
+- [Burp Collaborator Server docker container with LetsEncrypt certificate](https://github.com/integrity-sa/burpcollaborator-docker): This repository includes a set of scripts to install a Burp Collaborator Server in a docker environment, using a LetsEncrypt wildcard certificate. The objective is to simplify as much as possible the process of setting up and maintaining the server.
+- [SELF-HOSTED BURP COLLABORATOR FOR FUN AND PROFIT](https://teamrot.fi/self-hosted-burp-collaborator-with-custom-domain/): The Burp Suite Collaborator is a valuable tool for penetration testers and bug bounty hunters. It basically gives you unique subdomains and logs all interactions (DNS, HTTP(S), SMTP(S)) towards the subdomains. This can be used for example to detect SSRF-vulnerabilities and exfiltrate data.
+- [AES-Killer v3.0](https://www.kitploit.com/2018/11/aes-killer-v30-burp-plugin-to-decrypt.html): Burp Plugin To Decrypt AES Encrypted Traffic Of Mobile Apps On The Fly
+- [Femida-xss](https://github.com/wish-i-was/femida): Automated blind-xss search for Burp Suite
+- [dotNetBeautifier](https://github.com/allfro/dotNetBeautifier): A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE).
+- [Java-Deserialization-Scanner](https://github.com/federicodotta/Java-Deserialization-Scanner): All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities.
+- [JavaSerialKiller](https://github.com/NetSPI/JavaSerialKiller): Burp extension to perform Java Deserialization Attacks.
+- [BurpBounty](https://github.com/wagiro/BurpBounty): Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that improve an active and passiv
+- [Howto install and use the Burp Suite as HTTPS Proxy on Ubuntu 14.04](https://robert.penz.name/856/howto-install-and-use-the-burp-suite-as-https-proxy-on-ubuntu-14-04/)
+- [BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
+- [InQL](https://github.com/doyensec/inql) [Scanner](https://blog.doyensec.com/2020/11/19/inql-scanner-v3.html): A Burp Extension for GraphQL Security Testing.
 
 ### Red Team
 
@@ -1027,8 +1071,6 @@ SELECT-id-1.FROM`test`
 - [demiguise](https://github.com/nccgroup/demiguise): HTA encryption tool for RedTeams
 - [Sn1per](https://github.com/1N3/Sn1per): Automated pentest framework for offensive security experts
 - [jenkins-shell](https://github.com/joesmithjaffa/jenkins-shell): Automating Jenkins Hacking using Shodan API
-- [Cobalt Strike](https://www.cobaltstrike.com/): is software for Adversary Simulations and Red Team Operations. 3.13 [release notes](https://blog.cobaltstrike.com/2019/01/02/cobalt-strike-3-13-why-do-we-argue/)
-- [CrossC2](https://github.com/gloxec/CrossC2): generate CobaltStrike's cross-platform payload 
 - [Red Team's SIEM](https://github.com/outflanknl/RedELK): easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation): 对 The Hacker Playbook 3 的翻译。
 - [How Do I Prepare to Join a Red Team?](https://medium.com/@redteamwrangler/how-do-i-prepare-to-join-a-red-team-d74ffb5fdbe6)
@@ -1049,6 +1091,14 @@ SELECT-id-1.FROM`test`
 - [Red Tip #415](https://twitter.com/vysecurity/status/1313511859224547334): STATUS_PASSWORD_MUST_CHANGE when trying an AD account? Use “smbpasswd -r domain.fqdn -U username” to change the password so you can use the account.
 - [Red Team Tactics: Hiding Windows Services](https://www.sans.org/blog/red-team-tactics-hiding-windows-services/)
 - [AQUARMOURY](https://github.com/slaeryan/AQUARMOURY): This is a tool suite consisting of miscellaneous offensive tooling aimed at red teamers/penetration testers to primarily aid in Defense Evasion TA0005
+- [Prelude Operator](https://www.prelude.org/): is the first intelligent and autonomous platform built to attack, defend and train your critical assets through continuous red teaming. [repo](https://github.com/preludeorg/community)
+
+#### Command & Control (C2)
+
+- [Cobalt Strike](https://www.cobaltstrike.com/): is software for Adversary Simulations and Red Team Operations. 3.13 [release notes](https://blog.cobaltstrike.com/2019/01/02/cobalt-strike-3-13-why-do-we-argue/)
+- [CrossC2](https://github.com/gloxec/CrossC2): generate CobaltStrike's cross-platform payload 
+- [Octopus](https://github.com/mhaskar/Octopus): Open source pre-operation C2 server based on python and powershell
+- [Covenant](https://github.com/cobbr/Covenant): Covenant is a collaborative .NET C2 framework for red teamers.
 
 ### Purple Team
 
@@ -1094,7 +1144,6 @@ SELECT-id-1.FROM`test`
 - [SpookFlare](https://github.com/hlldz/SpookFlare): Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures.
 - [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 - [Extracting data from an EMV (Chip-And-Pin) Card with NFC technology](https://insinuator.net/2018/02/extracting-data-from-an-emv-chip-and-pin-card-with-nfc-technology/)
-- [BurpExtension-WhatsApp-Decryption-CheckPoint](https://github.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint)
 - [accountanalysis](http://accountanalysis.app/): This tool enables you to evaluate Twitter accounts. For example how automated they are, how many Retweets they post, or which websites they link to most often.
 - [How to get authentication key from SNMPv3 packets](https://www.florianchemin.com/blog/how-to-get-authentication-key-from-snmpv3-packets/)
 - [AtomicTestsCommandLines.txt](https://gist.github.com/caseysmithrc/d48e43770ab4ee161b1a806da8ccf390): Atomic Tests - All Command Lines - Replace Input Arguments #{input_argument} - More Soon
@@ -1132,7 +1181,8 @@ SELECT-id-1.FROM`test`
   - [RFI/LFI Payload List](https://github.com/payloadbox/rfi-lfi-payload-list).
   - [Open Redirect Payload List](https://github.com/payloadbox/open-redirect-payload-list)
 - [Payload Delivery for DevOps](https://khast3x.club/posts/2020-06-27-Cross-Platform-Dropper/): Building a Cross-Platform Dropper Using the Genesis Framework, Metasploit and Docker. [code](https://github.com/gen0cide/gscript)
-- [Criando Payloads de Shell Reverso com MSFVenom](https://www.tiforense.com.br/criando-payloads-de-shell-reverso-com-msfvenom/)
+- (pt-br) [Criando Payloads de Shell Reverso com MSFVenom](https://www.tiforense.com.br/criando-payloads-de-shell-reverso-com-msfvenom/)
+- [LaTex Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection)
 
 ## Phishing
 
@@ -1168,6 +1218,9 @@ SELECT-id-1.FROM`test`
 - [turbinia](https://github.com/google/turbinia): Automation and Scaling of Digital Forensics Tools
 - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/)
 - [MacQuisition](https://www.blackbagtech.com/products/macquisition/): A powerful, 4-in-1 forensic imaging software solution for Macs for triage, live data acquisition, targeted data collection, and forensic imaging.
+- [Kuiper](https://github.com/DFIRKuiper/Kuiper): Digital Forensics Investigation Platform
+- [file Signatures](https://www.filesignatures.net/): 
+- [PowerForensics](https://github.com/Invoke-IR/PowerForensics): PowerForensics provides an all in one platform for live disk forensic analysis. [Powershell](https://www.powershellgallery.com/packages/PowerForensics/1.1.1)
 
 ### Distros 
 
@@ -1188,13 +1241,16 @@ SELECT-id-1.FROM`test`
 
 ## Blue Team
 
+- MITRE ATT&CK:
+  - (pt-br)[Analisando ameaças com Mitre ATT&CK Navigator](https://medium.com/blueops/mitre-navigator-9aa9d1aeb570)
+  - [ATT&CK™ Navigator](https://mitre.github.io/attack-navigator/enterprise/): Web app that provides basic navigation and annotation of ATT&CK matrices [github](https://github.com/mitre/attack-navigator).
+  - [Atomic Threat Coverage](https://github.com/atc-project/atomic-threat-coverage): Actionable analytics designed to combat threats based on MITRE's ATT&CK.
+  - [atomic-red-team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK.
+  - [Welcome to Stealthbits Attack Catalog](https://attack.stealthbits.com/): Adversary techniques for credential theft and data compromise.
 - [DeTTECT](https://github.com/rabobank-cdc/DeTTECT): Detect Tactics, Techniques & Combat Threats
-- (pt-br)[Analisando ameaças com Mitre ATT&CK Navigator](https://medium.com/blueops/mitre-navigator-9aa9d1aeb570)
-- [ATT&CK™ Navigator](https://mitre.github.io/attack-navigator/enterprise/): Web app that provides basic navigation and annotation of ATT&CK matrices [github](https://github.com/mitre/attack-navigator).
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots): A curated list of awesome honeypots, plus related components and much more, divided into categories such as Web, services, and others, with a focus on free and open source projects.
 - [Blue Team Fundamentals](https://securitybytes.io/blue-team-fundamentals-4ee226368b7b)
 - [Blue Team fundamentals Part Two](https://securitybytes.io/blue-team-fundamentals-part-two-windows-processes-759fe15965e2): Windows Processes.
-- [Atomic Threat Coverage](https://github.com/atc-project/atomic-threat-coverage): Actionable analytics designed to combat threats based on MITRE's ATT&CK.
 - [Sooty](https://github.com/TheresAFewConors/Sooty): The SOC Analysts all-in-one CLI tool to automate and speed up workflow.
 - [Profile Sysmon logs to discover which LOLBAS binaries have ran and what they're command line arguments were](https://gist.github.com/leoloobeek/a3a4d9af3bf7fb37b6d82a7a17e7176d)
 - [Your detections aren't working](https://criminal.group/infosec/2020/08/20/your-detections-arent-working.html)
@@ -1241,6 +1297,8 @@ SELECT-id-1.FROM`test`
   - [Packetor](http://packetor.com/): Packetor is an online hex-dump packet analyzer / decoder.
 - [Lookup Before You Go-Go...Hunting](https://www.splunk.com/en_us/blog/security/lookup-before-you-go-go-hunting.html).
 - [Insider Threat Hunting](http://findingbad.blogspot.com/2020/07/insider-threat-hunting.html) and [It's all in the numbers](http://findingbad.blogspot.com/2020/05/its-all-in-numbers.html).
+- [Wazuh](https://wazuh.com/): is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [repo](https://github.com/wazuh/wazuh) and [ansible](https://github.com/wazuh/wazuh-ansible)
+- [Hunting the Hunters - RCE in Covenant C2](https://blog.null.farm/hunting-the-hunters). [PoC Video](https://www.youtube.com/watch?v=4z_LKfNzpfI)
 
 #### MISP
 
@@ -1786,7 +1844,6 @@ SELECT-id-1.FROM`test`
 - [Polymorph](https://github.com/shramos/polymorph) is a real-time network packet manipulation framework with support for almost all existing protocols
 - [query_huawei_wifi_router](https://github.com/zikusooka/query_huawei_wifi_router/): A CLI tool that queries a Huawei LTE WiFi router (MiFi) to get statistics such as signal strength, battery status, remaining data balance etc
 - [kravatte](https://github.com/inmcm/kravatte/): Implementation of Kravatte Encryption Suite
-- [atomic-red-team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK.
 - [noisy](https://github.com/1tayH/noisy): Simple random DNS, HTTP/S internet traffic noise generator
 - [infernal-twin](https://github.com/entropy1337/infernal-twin): wireless hacking - This is automated wireless hacking tool
 - [Google Chromium](https://github.com/Eloston/ungoogled-chromium), sans integration with Google
@@ -1862,6 +1919,11 @@ SELECT-id-1.FROM`test`
 - [Lord Of The Strings (LOTS)](https://github.com/eset-la/Lord-Of-The-Strings): String extraction and classification tool for binary files, designed to extract only the strings that can be considered relevant (i.e. not garbage or false positives)
 - [Unit 42 Public Tools Repo](https://github.com/pan-unit42/public_tools): Listing of tools released by Palo Alto Networks Threat Intelligence team.
 - [glsnip](https://github.com/bradwood/glsnip): copy and paste across machines
+
+### IP Reputation
+
+- [IP Reputation Check](https://www.ipqualityscore.com/ip-reputation-check)
+- [IP & Domain Reputation Center](https://talosintelligence.com/reputation_center/)
 
 ### Shell tools
 
@@ -1965,6 +2027,7 @@ SELECT-id-1.FROM`test`
 - [PAN-OS GlobalProtect Portal Scanner](https://github.com/noperator/panos-scanner): Determine the Palo Alto PAN-OS software version of a remote GlobalProtect portal or management interface.
 - [Thomas Roccia's #100DaysOfCode challenge](https://medium.com/@tom_rock/100daysofcode-challenge-8915947cc6b9#8b25): IDA pro and a lot of another things.
 - [Audi A7 2014 MMI Mishandles the Format-string Specifiers](https://tiger-team-1337.blogspot.com/2020/10/audi-a7-2014-mmi-mishandles-format.html)
+- (pt-br) [BoF + Sockets + Erros de Codificação com o Python3](https://diegoalbuquerque.github.io/bof-socket-python3.html)
 
 ### Configs
 
@@ -1986,6 +2049,7 @@ SELECT-id-1.FROM`test`
 - [Hacking Your Pen Testing / Red Teaming Career: Part 1](https://medium.com/munrobotic/hacking-your-pen-testing-red-teaming-career-part-1-cc816aca0980)
 - [PentesterAcademy](https://www.pentesteracademy.com/): Courses and Online Labs.
 - [OSCE-exam-practice](https://github.com/epi052/OSCE-exam-practice), [OSCE Exam Practice - Part IX (LTER via SEH Overwrite w/ Restricted Character Set)](https://epi052.gitlab.io/notes-to-self/blog/2020-05-25-osce-exam-practice-part-nine/)
+- [RED TEAM Operator: Malware Development Essentials Course](https://institute.sektor7.net/red-team-operator-malware-development-essentials) and [RED TEAM Operator: Malware Development Intermediate Course](https://institute.sektor7.net/rto-maldev-intermediate)
 
 ## Conferences and Slides
 
