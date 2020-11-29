@@ -796,11 +796,13 @@
 - [grinder](https://github.com/sdnewhop/grinder): Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)
 - [Admin-Scanner](https://github.com/swam-htet-a/Admin-Scanner): This tool is to design to find admin panel of websites.
 - [the-art-of-subdomain-enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration): This repository contains all the supplement material for the book "The art of sub-domain enumeration"
+- [grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config): nmap strip to get beacon info.
 
 ### Bug Bounty
 
 - [bbrecon](https://github.com/serain/bbrecon) Python library and CLI for the Bug Bounty Recon API
 - [RPC Bug Hunting Case Studies – Part 1](https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv)
+- [axiom](https://github.com/pry0cc/axiom): The dynamic infrastructure framework for anybody!
 
 ### WebShells
 
@@ -1577,6 +1579,7 @@ SELECT-id-1.FROM`test`
 - [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell): Hide your Powershell script in plain sight. Bypass all Powershell security features.
 - [DevSec Defense](https://www.x33fcon.com/archive/2018/slides/x33fcon18_DevSecDefense_DanielBohannon.pdf)- How DevOps Practices Can Drive Detection Development For Defenders
 - [Chimera](https://github.com/tokyoneon/chimera): is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial antivirus solutions. 
+- [Geeking out with UEFI, again](https://oofhours.com/2020/11/25/geeking-out-with-uefi-again/)
 
 #### Office and O/365
 
