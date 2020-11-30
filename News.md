@@ -166,6 +166,9 @@
 - [New Ransom X Ransomware used in Texas TxDOT cyberattack](https://www.bleepingcomputer.com/news/security/new-ransom-x-ransomware-used-in-texas-txdot-cyberattack/)
 - [Apple notarizes new Mac malware… again](https://www.intego.com/mac-security-blog/apple-notarizes-new-mac-malware-again/)
 - [Windows kernel vulnerability disclosed by Google's Project Zero after bug exploited in the wild by hackers](https://www.theregister.com/2020/10/30/windows_kernel_zeroday/)
+- [MICROSOFT TEAMS FOR MACOS LOCAL PRIVILEGE ESCALATION](https://www.offensive-security.com/offsec/microsoft-teams-macos-local-privesc/)
+- [Cybercriminals Can Now Bypass Security Solutions and Implant Malicious Emails Directly into Inboxes with "Email Appender"](https://blog.knowbe4.com/cybercriminals-can-now-bypass-security-solutions-and-implant-malicious-emails-directly-into-inboxes-with-email-appender)
+- [macOS has checked app signatures online for over 2 years](https://eclecticlight.co/2020/11/25/macos-has-checked-app-signatures-online-for-over-2-years/)
 
 ## Politics
 
