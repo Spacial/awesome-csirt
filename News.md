@@ -169,6 +169,9 @@
 - [MICROSOFT TEAMS FOR MACOS LOCAL PRIVILEGE ESCALATION](https://www.offensive-security.com/offsec/microsoft-teams-macos-local-privesc/)
 - [Cybercriminals Can Now Bypass Security Solutions and Implant Malicious Emails Directly into Inboxes with "Email Appender"](https://blog.knowbe4.com/cybercriminals-can-now-bypass-security-solutions-and-implant-malicious-emails-directly-into-inboxes-with-email-appender)
 - [macOS has checked app signatures online for over 2 years](https://eclecticlight.co/2020/11/25/macos-has-checked-app-signatures-online-for-over-2-years/)
+- [An Inconvenient Truth: Ransomware Gangs Are Pivoting To Healthcare As Pandemic Grips US](https://www.ampcuscyber.com/blogs/an-inconvenient-truth-ransomware-gangs-are-pivoting-to-healthcare-as-pandemic-grips-us/)
+- [Investigation with a twist: an accidental APT attack and averted data destruction](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/incident-response-polar-ransomware-apt27/)
+- [How the U.S. Military Buys Location Data from Ordinary Apps](https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x)
 
 ## Politics
 

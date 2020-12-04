@@ -271,7 +271,9 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [VMware vCenter 6.5u1](https://twitter.com/ptswarm/status/1316016337550938122)
 - [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
 - UK NCSC’s alert urges orgs to fix MobileIron: [CVE-2020-15505](https://securityaffairs.co/wordpress/111426/uncategorized/mobileiron-cve-2020-15505-alert.html)
-- [CSM_Pocs](https://gist.github.com/magnologan/3d0d24c2d0af7d3f27344fcb14eb8f7e): Cisco Security Manager is an enterprise-class security management application that provides insight into and control of Cisco security and network devices.
+- [CSM_Pocs](https://gist.github.com/magnologan/3d0d24c2d0af7d3f27344fcb14eb8f7e): Cisco Security Manager is an enterprise-class security management application that provides insight into and control of Cisco security and network devices. [CSM_pocs](https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e).
+- [Fortiscan](https://github.com/anasbousselham/fortiscan) (CVE-2018-13379): A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
+- [Use-After-Free IE Vulnerability](https://www.trendmicro.com/en_us/research/20/k/cve-2020-17053-use-after-free-ie-vulnerability.html): CVE-2020-17053
 
 ## Additions
 

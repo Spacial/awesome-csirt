@@ -153,6 +153,7 @@
 - [ember](https://github.com/endgameinc/ember): The EMBER dataset is a collection of features from PE files that serve as a benchmark dataset for researchers. 
 - [Complementar resources to follow the EHREM course by GoHacking (Malware Reverse Engineering)](https://github.com/nuxmorpheus/EHREM/)
 - [Coldfire](https://github.com/redcode-labs/Coldfire): Golang malware development library
+- [pei](https://github.com/Silva97/pei), the PE Injector - Inject code on 32-bit and 64-bit PE executables
 
 ### Web Malwares Tools
 
@@ -176,6 +177,7 @@
 - [Ryuk Ransomware](https://community.riskiq.com/article/0bcefe76): Extensive Attack Infrastructure Revealed
 - [Android-Malware-Samples](https://github.com/fouroctets/Android-Malware-Samples):  Android Malware Samples 
 - [TRAFFIC ANALYSIS EXERCISE - OMEGACAST](https://malware-traffic-analysis.net/2020/10/22/index.html)
+- [Malware Samples](https://github.com/jstrosch/malware-samples): Malware samples and other artifacts
 
 ### Repos
 
@@ -203,6 +205,7 @@
 - [Phirautee](https://github.com/Viralmaniar/Phirautee): A proof of concept crypto virus to spread user awareness about attacks and implications of ransomwares. Phirautee is written purely using PowerShell and does not require any third-party libraries. This tool steals the information, holds an organisation’s data to hostage for payments or permanently encrypts/deletes the organisation data.
 - [Sophisticated new Android malware marks the latest evolution of mobile ransomware](https://www.microsoft.com/security/blog/2020/10/08/sophisticated-new-android-malware-marks-the-latest-evolution-of-mobile-ransomware/)
 - [Raccine](https://github.com/Neo23x0/Raccine): A Simple Ransomware Vaccine
+- [Brazilian Justice Court Ransomware: Another piece in the Puzzle](https://secret.inf.ufpr.br/2020/11/17/brazilian-justice-court-ransomware-another-piece-in-the-puzzle/)
 
 ### Virus/Anti-Virus
 
@@ -305,6 +308,9 @@ I work as a malware analyst and like to share my knowledge.
   - [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode): Collection of malware source code for a variety of platforms in an array of different programming languages.
   - [VXUG-Papers](https://github.com/vxunderground/VXUG-Papers): Research code & papers from members of vx-underground.
 - (pt-br) [Como automaticamente atachar um processo a um debugger.](https://diegoalbuquerque.github.io/trick-to-bof-debugger.html)
+- [HyperDbg Debugger](https://github.com/HyperDbg/HyperDbg): The Source Code of HyperDbg Debugger
+- [The HT Editor](https://github.com/sebastianbiallas/ht): A file editor/viewer/analyzer for executables.
+- [XLMMacroDeobfuscator](https://github.com/DissectMalware/XLMMacroDeobfuscator): Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros)
 
 ### Decompilers
 
@@ -398,6 +404,7 @@ I work as a malware analyst and like to share my knowledge.
   - [RHEL7-CIS](https://github.com/radsec/RHEL7-CIS): Ansible RHEL 7 - CIS Benchmark Hardening Script
   - [cisecurity](https://github.com/cohdjn/cisecurity): Configures Linux systems to Center for Internet Security Linux hardening standard.
 - [bdshemu](https://hvmi.github.io/blog/2020/11/11/bdshemu.html): The [Bitdefender](https://github.com/bitdefender/bddisasm) shellcode emulator
+- [IPv6 Security Best Practices](https://theinternetprotocolblog.wordpress.com/2020/11/28/ipv6-security-best-practices/)
 
 ### WebServers
 
@@ -499,7 +506,6 @@ I work as a malware analyst and like to share my knowledge.
 - [HACL*](https://github.com/project-everest/hacl-star): a formally verified cryptographic library written in F*
 - [Villoc](https://github.com/wapiflapi/villoc): Villoc is a heap visualisation tool, it's a python script that renders a static html file.
 - [How C array sizes become part of the binary interface of a library](https://developers.redhat.com/blog/2019/05/06/how-c-array-sizes-become-part-of-the-binary-interface-of-a-library/)
-- [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools)
 - [MazuCC](https://github.com/jserv/MazuCC): A minimalist C compiler with x86_64 code generation
 - [When the going gets tough](https://lambdasec.github.io/When-the-going-gets-tough-Understanding-the-challenges-with-Product-commoditization-in-SCA/): Understanding the challenges with Product commoditization in SCA.
 - [huskyCI](https://github.com/globocom/huskyCI): huskyCI is an open source tool that performs security tests inside CI pipelines of multiple projects and centralizes all results into a database for further analysis and metrics.
@@ -517,7 +523,7 @@ I work as a malware analyst and like to share my knowledge.
 - [GitGuardian Documentation and Resources](https://github.com/GitGuardian/APISecurityBestPractices): Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian. [python API Client](https://github.com/GitGuardian/py-gitguardian)
 - [Vuln Cost - Security Scanner for VS Code](https://github.com/snyk/vulncost): Find security vulnerabilities in open source npm packages while you code.
 - [Most Popular Analysis Tools by Programming Language](https://analysis-tools.dev/)
-- [Deepsource](deepsource.io): tool that analyzes your repository.
+- [Deepsource](https://deepsource.io): tool that analyzes your repository.
 - [git-wild-hunt](https://github.com/d1vious/git-wild-hunt): A tool to hunt for credentials in github wild AKA git*hunt
 - [shhgit](https://github.com/eth0izzle/shhgit/): Ah shhgit! Find GitHub secrets in real time
 - [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
@@ -544,6 +550,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Prototype pollution – and bypassing client-side HTML sanitizers](https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/)
 - [Understanding the CSRF Vulnerability (A Beginner’s Guide)](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
 - [VulnyCode](https://github.com/swisskyrepo/Vulny-Code-Static-Analysis): PHP Code Static Analysis. Python script to detect vulnerabilities inside PHP source code using static analysis, based on regex
+- [OWASP Web Security Testing Guide](https://github.com/OWASP/wstg): The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services. [portal](https://owasp.org/www-project-web-security-testing-guide/)
 
 ### Formal Analysis
 
@@ -568,6 +575,7 @@ I work as a malware analyst and like to share my knowledge.
 - [onefuzz](https://github.com/microsoft/onefuzz): A self-hosted Fuzzing-As-A-Service platform.
 - [Fuzzing Like A Caveman 3: Trying to Somewhat Understand The Importance Code Coverage](https://h0mbre.github.io/Fuzzing-Like-A-Caveman-3/#)
 - [ffuf](https://github.com/ffuf/ffuf): Fast web fuzzer written in Go
+- [RESTler finds security and reliability bugs through automated fuzzing](https://www.microsoft.com/en-us/research/blog/restler-finds-security-and-reliability-bugs-through-automated-fuzzing/). [RESTler](https://github.com/microsoft/restler-fuzzer): is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. [REST API Fuzz Testing (RAFT)](https://github.com/microsoft/rest-api-fuzz-testing): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows.
 
 ### API
 
@@ -666,6 +674,7 @@ I work as a malware analyst and like to share my knowledge.
 - [USB Attacks: Past, Present and Future](https://www.slideshare.net/RoganDawes/confidence-2020), [P4wnP1 Covert Channel demo](https://www.youtube.com/watch?v=T6Qhl-VTYuo&feature=youtu.be) - P4wnP1 is below on pentesting section. [wrap-up here](https://twitter.com/RoganDawes/status/1303297634858393608)
 - [PLATYPUS](https://platypusattack.com/): With PLATYPUS, we present novel software-based power side-channel attacks on Intel server, desktop and laptop CPUs.
 - [VoltPillager](https://www.usenix.org/system/files/sec21summer_chen-zitai.pdf): Hardware-based fault injection attacks against Intel SGX Enclaves using the SVID voltage scaling interface
+- [Analyzing a buffer overflow in the DLINK DIR-645 with Qiling framework, Part I](https://github.com/nahueldsanchez/blogpost_qiling_dlink_1)
 
 ### ARM
 
@@ -778,11 +787,15 @@ I work as a malware analyst and like to share my knowledge.
 - [Pentesting 101: Working With Exploits](https://www.infosecmatter.com/pentesting-101-working-with-exploits/)
 - [SMB AutoRelay](https://github.com/chesire-cat/smbAutoRelay): SMB Auto Relay provides the automation of SMB/NTLM Relay technique for pentesting and red teaming exercises in active directory environments.
 - [Decoder++](https://github.com/bytebutcher/decoder-plus-plus): An extensible application for penetration testers and software developers to decode/encode data into various formats.
+- [SCShell](https://github.com/Mr-Un1k0d3r/SCShell): Fileless lateral movement tool that relies on ChangeServiceConfigA to run command.
+- [bulwark](https://github.com/softrams/bulwark): An organizational asset and vulnerability management tool, with Jira integration, designed for generating application security reports.
 
 ### Reconnaissance
 
 - [Automated Reconnaissance Pipeline](https://github.com/epi052/recon-pipeline): An automated target reconnaissance pipeline.
 - [PERFORMING DOMAIN RECONNAISSANCE USING POWERSHELL](https://blog.stealthbits.com/performing-domain-reconnaissance-using-powershell)
+- [subfinder](https://github.com/projectdiscovery/subfinder) is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
+- [urlhunter](https://github.com/utkusen/urlhunter): a recon tool that allows searching on URLs that are exposed via shortener services 
 
 ### Enumeration
 
@@ -807,6 +820,14 @@ I work as a malware analyst and like to share my knowledge.
 - [the-art-of-subdomain-enumeration](https://github.com/appsecco/the-art-of-subdomain-enumeration): This repository contains all the supplement material for the book "The art of sub-domain enumeration"
 - [Virtual host scanner](https://github.com/jobertabma/virtual-host-discovery): A script to enumerate virtual hosts on a server.
 - [vhost-brute](https://github.com/gwen001/vhost-brute): A PHP tool to brute force vhost configured on a server.
+- [grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config): nmap strip to get beacon info.
+- [assetfinder](https://github.com/tomnomnom/assetfinder): Find domains and subdomains related to a given domain.
+- Wordlists:
+  - [hackerone_wordlist](https://github.com/xyele/hackerone_wordlist): The wordlists that have been compiled using disclosed reports at HackerOne bug bounty platform 
+  - [paths wordlists](https://gist.github.com/caioluders/e110a5b97d30908475a3f3c176b344e4)
+  - [subdomains wordlists](https://gist.github.com/caioluders/bae710dba054c349d4d82ce06a72fb5c)
+  - [parameters wordlists](https://gist.github.com/caioluders/79d494166fc7dad18345f2418704929d)
+  - [Assetnote Wordlists](https://wordlists.assetnote.io/)
 
 ### WebShells
 
@@ -910,6 +931,7 @@ Curated list of public penetration test reports released by several consulting f
 - [tsunami-security-scanner](https://github.com/google/tsunami-security-scanner): Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
 - [Testing docker CVE scanners. Part 2.5 — Exploiting CVE scanners](https://medium.com/@matuzg/testing-docker-cve-scanners-part-2-5-exploiting-cve-scanners-b37766f73005), [repo](https://github.com/gmatuz/cve-scanner-exploiting-pocs)
 - [New NAT/Firewall Bypass Attack Lets Hackers Access Any TCP/UDP Service](https://thehackernews.com/2020/11/new-natfirewall-bypass-attack-lets.html). [NAT Slipstreaming](https://github.com/samyk/slipstream) allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website
+- [openVulnQuery](https://github.com/CiscoPSIRT/openVulnQuery): A Python-based client for the Cisco openVuln API
 
 ### WAFs
 
@@ -1013,106 +1035,67 @@ SELECT-id-1.FROM`test`
 - [RPC Bug Hunting Case Studies – Part 1](https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv)
 - [Top Penetration Testing & Bug Hunting YouTube Channels you should follow](https://www.linkedin.com/posts/omarsalama_pentesting-bugbounty-vulnerabilities-activity-6734397230221938688-c2Jq) - Updated 11/19/2020
 - [Our top tips for better bug bounty reports, plus a hacker contest!](https://about.gitlab.com/blog/2020/09/28/top-tips-for-better-bug-bounty-reports-and-a-hacker-contest/#celebrating-great-reports-and-great-reporters)
+- [axiom](https://github.com/pry0cc/axiom): The dynamic infrastructure framework for anybody!
 
 #### Web Exploitation
 
+- [gau](https://github.com/lc/gau): Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+- [get-title](https://github.com/tomnomnom/hacks/tree/master/get-title)
+- [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools)
 - [bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet): A list of interesting payloads, tips and tricks for bug bounty hunters.
 - [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty): A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider): Mining parameters from dark corners of Web Archives.
-
-
-
-SQLi
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md
-
-SSRF
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server Side Request Forgery
-
-CRLF
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CRLF Injection
-
-CSV-Injection
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV Injection
-
-Command Injection
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command Injection
-
-Directory Traversal
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory Traversal
-
-LFI
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File Inclusion
-
-XXE
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md
-
-Open-Redirect
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md
-
-RCE
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md
-
-Crypto
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md
-
-Template Injection
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server Side Template Injection
-
-XSLT
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md
-
-Content Injection
-https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md
-
-LDAP Injection
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP Injection
-
-NoSQL Injection
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL Injection
-
-CSRF Injection
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF Injection
-
-GraphQL Injection
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL Injection
-
-IDOR
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure Direct Object References
-
-ISCM
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure Source Code Management
-
-LaTex Injection
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX Injection
-
-OAuth 
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth
-
-XPATH Injection
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH Injection
-
-Bypass Upload Tricky
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure Files
+- [SQLi](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md)
+- [Server Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Injection) 
+- [CRLF](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md) 
+- [CRLF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/C%20InjectionRLF)
+- [CSV-Injection](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md)
+- [CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection)
+- [Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/Command%20Injection)
+- [Directory Traversal](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal)
+- [LFI](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md)
+- [File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion)
+- [Open-Redirect](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md)
+- [RCE](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md)
+- [Crypto](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md)
+- [Template Injection](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md)
+- [SSTI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection)
+- [XSLT](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md)
+- [Content Injection](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md)
+- [LDAP Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection)
+- [NoSQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)
+- [CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection)
+- [GraphQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection)
+- [IDOR](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References)
+- [ISCM](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management)
+- [OAuth](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth)
+- [XPATH Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection)
+- [Bypass Upload Tricky](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files)
 - HTTP Request Smuggling:
   - [Practical Attacks Using HTTP Request Smuggling](https://www.youtube.com/watch?v=3tpnuzFLU8g) [slides](https://drive.google.com/file/d/1iC0972G4meFPGTmqfs8g61qat7ZYLQgf/view)
+  - [HAProxy HTTP request smuggling](https://nathandavison.com/blog/haproxy-http-request-smuggling) (CVE-2019-18277)
+  - [The Powerful HTTP Request Smuggling](https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142)
+  - [Smuggler](https://github.com/amirnsahmad/smuggler): An HTTP Request Smuggling / Desync testing tool written in Python 3
 - XSS:
   - [Reflected XSS on www.hackerone.com via Wistia embed code](https://hackerone.com/reports/986386)
   - [xss cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md)
+  - [Cross Site Scripting ( XSS ) Vulnerability Payload List](https://github.com/payloadbox/xss-payload-list)
 - SSRF:
+  - [SSRF](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md) 
   - [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/index.html): some tips with Server Side Request Forgery.
   - [Server Side Request Forgery on MISP](https://heitorgouvea.me/2020/11/03/CVE-2020-28043): CVE-2020-28043
   - [SSRF (Server Side Request Forgery) worth $4,913 | My Highest Bounty Ever !](https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb)
   - [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
+  - [Server-Side Request Forgery using Javascript allows to exfill data from Google Metadata](https://hackerone.com/reports/530974)
+  - [Gf-Patterns](https://github.com/1ndianl33t/Gf-Patterns): GF Paterns For (ssrf,RCE,Lfi,sqli,ssti,idor,url redirection,debug_logic, interesting Subs) parameters grep 
 - XXE:
   - [Out of Band XXE in an E-commerce IOS app](https://0xgaurang.medium.com/out-of-band-xxe-in-an-e-commerce-ios-app-e22981f7b59b)
   - [Comprehensive Guide on XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
   - [XMLDecoder payload generator](https://github.com/mhaskar/XMLDecoder-payload-generator): A simple python script to generate XML payloads works for XMLDecoder based on ProcessBuilder and Runtime exec.
   - [Enjoying my first blind xxe experience￼](https://twitter.com/MrDamanSingh/status/1330822972106444800?s=19)
+  - [XXE](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md)
+  - [dtd-finder](https://github.com/GoSecure/dtd-finder): List DTDs and generate XXE payloads using those local DTDs.
+  - [New XML technique! Encode any DTD/XML inside an internal entity, and fly under WAF radars!](https://twitter.com/ptswarm/status/1302966718227189761)
 - Serialization: 
   - [ysoserial](https://github.com/frohoff/ysoserial): A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
   - [SerialVersionUID in Java](https://www.geeksforgeeks.org/serialversionuid-in-java/)
@@ -1123,10 +1106,17 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
   - [How to exploit Liferay CVE-2020-7961 : quick journey to PoC](https://www.synacktiv.com/en/publications/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html)
   - [How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM](https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html)
   - [Serialization: the big threat](https://klezvirus.github.io/Advanced-Web-Hacking/Serialisation/)
+  - [marshalsec](https://github.com/mbechler/marshalsec): Turning your data into code execution
+  - [SerializationDumper](https://github.com/NickstaDB/SerializationDumper): A tool to dump Java serialization streams in a more human readable form.
 - [Orange: How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
 - [code white | Blog: Liferay Portal JSON Web Service RCE Vulnerabilities](https://codewhitesec.blogspot.com/2020/03/liferay-portal-json-vulns.html)
 - [GraphQL](https://the-bilal-rizwan.medium.com/graphql-common-vulnerabilities-how-to-exploit-them-464f9fdce696): Common vulnerabilities & how to exploit them. [apis guru for](https://apis.guru/graphql-voyager/) [graphql](https://github.com/APIs-guru/graphql-voyager): ￼ Represent any GraphQL API as an interactive graph.
 - [CSM_Pocs](https://gist.github.com/magnologan/3d0d24c2d0af7d3f27344fcb14eb8f7e): Cisco Security Manager is an enterprise-class security management application that provides insight into and control of Cisco security and network devices.
+- [DSSS](https://github.com/stamparm/DSSS), Damn Small SQLi Scanner is a fully functional SQL injection vulnerability scanner (supporting GET and POST parameters) written in under 100 lines of code.
+- [Garud](https://github.com/R0X4R/Garud): An automation tool that scans sub-domains, sub-domain takeover and then filters out xss, ssti, ssrf and more injection point parameters. 
+- [httpx](https://github.com/projectdiscovery/httpx) is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads. 
+- [waybackurls](https://github.com/tomnomnom/waybackurls): Fetch all the URLs that the Wayback Machine knows about for a domain 
+- [Easily Identify Malicious Servers on the Internet with JARM](https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a?gi=9ff6f4b14c2a)
 
 ##### Burp Suite
 
@@ -1183,6 +1173,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [Red Team Tactics: Hiding Windows Services](https://www.sans.org/blog/red-team-tactics-hiding-windows-services/)
 - [AQUARMOURY](https://github.com/slaeryan/AQUARMOURY): This is a tool suite consisting of miscellaneous offensive tooling aimed at red teamers/penetration testers to primarily aid in Defense Evasion TA0005
 - [Prelude Operator](https://www.prelude.org/): is the first intelligent and autonomous platform built to attack, defend and train your critical assets through continuous red teaming. [repo](https://github.com/preludeorg/community)
+- [0xsp Mongoose Red for Windows](https://github.com/lawrenceamer/0xsp-Mongoose): a unique framework for cybersecurity simulation and red teaming operations, windows auditing for newer vulnerabilities, misconfigurations and privilege escalations attacks, replicate the tactics and techniques of an advanced adversary in a network.
+- [Macrome](https://github.com/michaelweber/Macrome): Excel Macro Document Reader/Writer for Red Teamers & Analysts
 
 #### Command & Control (C2)
 
@@ -1222,6 +1214,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
   - [The Importance of DNS Logging in Enterprise Security](https://nxlog.co/whitepapers/dns-logging)
 - [DNSObserver](https://github.com/allyomalley/dnsobserver): A handy DNS service written in Go to aid in the detection of several types of blind vulnerabilities. It monitors a pentester's server for out-of-band DNS interactions and sends lookup notifications via Slack. [Discover Blind Vulnerabilities with DNSObserver: an Out-of-Band DNS Monitor](https://www.allysonomalley.com/2020/05/22/dnsobserver/)
 - [Unbound DNS Blacklist](https://vermaden.wordpress.com/2020/11/18/unbound-dns-blacklist/)
+- [subjack](https://github.com/haccer/subjack): Subdomain Takeover tool written in Go
 
 ## Exfiltration
 
@@ -1354,6 +1347,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [takuan](https://github.com/evilsocket/takuan) is a system service that parses logs and dectects noisy attackers in order to build a blacklist database of known cyber offenders.,
 - [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan): Scan files or process memory for CobaltStrike beacons and parse their configuration.
 - [Cobalt Strike Beacon Analysis](https://isc.sans.edu/forums/diary/Quick+Tip+Cobalt+Strike+Beacon+Analysis/26818/). python decoder: [1768k](https://blog.didierstevens.com/2020/11/07/1768-k/)
+- [How to Design Detection Logic - Part 1](https://blog.menasec.net/2020/11/how-to-design-detection-logic-part-1.html)
+- [MitigatingPass-the-Hashand OtherCredential Theft](https://download.microsoft.com/download/7/7/A/77ABC5BD-8320-41AF-863C-6ECFB10CB4B9/Mitigating-Pass-the-Hash-Attacks-and-Other-Credential-Theft-Version-2.pdf)
 
 ### Threat Hunting
 
@@ -1430,6 +1425,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [CVE-2020-1472 Zerologon IoCs](https://otx.alienvault.com/pulse/5f74a1a450843553be3ed593)
 - [iocs](https://github.com/pan-unit42/iocs): Indicators from Unit 42 Public Reports
 - [Threat intelligence and threat detections](https://github.com/swisscom/detections): Threat intelligence and threat detection indicators (IOC, IOA).
+- [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon): Indicators of compromise (IOCs) collected from public resources and categorized by Qi-AnXin.
 
 ### SIEM
 
@@ -1673,6 +1669,13 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [MinHook](https://github.com/TsudaKageyu/minhook): The Minimalistic x86/x64 API Hooking Library for Windows.
 - [TokenPlayer](https://github.com/S1ckB0y1337/TokenPlayer): Manipulating and Abusing Windows Access Tokens.
 - [The Poisoned Postman: Detecting Manipulation of Compliance Features in a Microsoft Exchange Online Environment](https://www.sans.org/reading-room/whitepapers/cloud/poisoned-postman-detecting-manipulation-compliance-features-microsoft-exchange-online-environment-39850)
+- [ntlmscan](https://github.com/nyxgeek/ntlmscan): scan for NTLM directories.
+- [Smbtouch-Scanner](https://github.com/3gstudent/Smbtouch-Scanner): Automatically scan the inner network to detect whether they are vulnerable.
+- [Block process creations originating from PSExec and WMI commands](https://twitter.com/nemesis09/status/1330857839112450051)
+- [VDM](https://githacks.org/_xeroxz/vdm):Vulnerable Driver Manipulation.  [physmem_drivers](https://github.com/namazso/physmem_drivers): A collection of various vulnerable (mostly physical memory exposing) drivers. 
+- Source code for [HppDLL](https://github.com/last-byte/HppDLL): local password dumping using MsvpPasswordValidate hooks
+- [SharpMapExec](https://github.com/cube0x0/SharpMapExec): A sharpen version of CrackMapExec. This tool is made to simplify penetration testing of networks and to create a swiss army knife that is made for running on Windows which is often a requirement during insider threat simulation engagements.
+- [Fibratus](https://github.com/rabbitstack/fibratus): A modern tool for the Windows kernel exploration and observability.
 
 #### Active Directory
 
@@ -1714,6 +1717,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [ATTACK MAPPING WITH BLOODHOUND](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
 - [EXTRACTING PASSWORD HASHES FROM THE NTDS.DIT FILE](https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/)
 - [Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet): A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+- [Active Directory Lab Setup Tool](https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool). [ADLab](https://github.com/browninfosecguy/ADLab): Active Directory Lab for Penetration Testing 
+- [Rubeus](https://github.com/GhostPack/Rubeus): is a C# toolset for raw Kerberos interaction and abuses.
 
 ##### Mimikatz
 
@@ -1724,6 +1729,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [Walk-through Mimikatz sekurlsa module](https://jetsecurity.github.io/post/mimikatz/walk-through_sekurlsa/)
 - (pt-br) [Mimikatz: Mitigando ataques de roubo de credenciais](https://medium.com/sidechannel-br/mimikatz-mitigando-ataques-de-roubo-de-credenciais-f18eddd32b34)
 - [PERFORMING PASS-THE-HASH ATTACKS WITH MIMIKATZ](https://blog.stealthbits.com/passing-the-hash-with-mimikatz)
+- [SharpKatz](https://github.com/b4rtik/SharpKatz): Porting of mimikatz sekurlsa::logonpasswords, sekurlsa::ekeys and lsadump::dcsync commands
 
 #### Powershell
 
@@ -1734,6 +1740,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [Invisi-Shell](https://github.com/OmerYa/Invisi-Shell): Hide your Powershell script in plain sight. Bypass all Powershell security features.
 - [DevSec Defense](https://www.x33fcon.com/archive/2018/slides/x33fcon18_DevSecDefense_DanielBohannon.pdf)- How DevOps Practices Can Drive Detection Development For Defenders
 - [Chimera](https://github.com/tokyoneon/chimera): is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial antivirus solutions. 
+- [Geeking out with UEFI, again](https://oofhours.com/2020/11/25/geeking-out-with-uefi-again/)
+- [Stracciatella](https://github.com/mgeeky/Stracciatella): OpSec-safe Powershell runspace from within C# (aka SharpPick) with AMSI, Constrained Language Mode and Script Block Logging disabled at startup
 
 #### Office and O/365
 
@@ -1790,6 +1798,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [From zero to tfp0 - Part 2: A Walkthrough of the voucher_swap exploit](http://highaltitudehacks.com/2020/06/01/from-zero-to-tfp0-part-2-a-walkthrough-of-the-voucher-swap-exploit/)
 - [We Hacked Apple for 3 Months: Here’s What We Found](https://samcurry.net/hacking-apple/), [some](https://gist.github.com/samwcyo/f8387351ce9acb7cffce3f1dd94ce0d6) [useful](https://gist.github.com/ziot/ef5297cc1324b13a8fae706eeecc68a5) [scripts](https://gist.github.com/ziot/ef5297cc1324b13a8fae706eeecc68a5) [available](https://gist.github.com/ziot/3c079fb253f4e467212f2ee4ce6c33cb)
 - [MACOS INJECTION VIA THIRD-PARTY FRAMEWORKS](https://www.trustedsec.com/blog/macos-injection-via-third-party-frameworks/)
+- [NetworkSniffer](https://github.com/evilpenguin/NetworkSniffer): Log iOS network traffic without a proxy
 
 ### Android
 
@@ -1869,6 +1878,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [CloudFlair](https://github.com/christophetd/CloudFlair):  Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - [thsosrtl](https://github.com/Top-Hat-Sec/thsosrtl): Repo for tools - cloud and vpn. [cloudIP](https://github.com/Top-Hat-Sec/thsosrtl/blob/master/CloudIP/cloudip.sh): was originally thought of for attempting to resolve the true IP address of targets running through cloudflare.
 - [Preventing Exposed Azure Blob Storage](https://isc.sans.edu/forums/diary/Preventing+Exposed+Azure+Blob+Storage/26786/)
+- [Open Azure blobs search on grayhatwarfare.com and other updates](https://grayhatwarfare.medium.com/open-azure-blobs-search-on-grayhatwarfare-com-and-other-updates-89f709b10412)
 
 ### AWS
 
@@ -2017,6 +2027,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [SpamCop](https://www.spamcop.net/) is the premier service for reporting spam. 
 - [vector-edk](https://github.com/hackedteam/vector-edk): EFI Development Kit.
 - [H1R0GH057](https://github.com/H1R0GH057/Anonymous): tools (DDoS, lulz, etc..)
+- [gatekeeper](https://github.com/AltraMayor/gatekeeper): First open-source DDoS protection system
 - [uriDeep](https://github.com/mindcrypt/uriDeep): Unicode encoding attacks with machine learning
 - [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/): [An inventory of tools and resources about CyberSecurity.](https://github.com/noraj/rawsec-cybersecurity-inventory)
 - [gaijin tools](https://www.gaijin.at/en/software/)
@@ -2225,6 +2236,9 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload Insecure 
 - [How to R&D hacking toys for fun & no-profit](https://troopers.de/downloads/troopers19/TROOPERS19_NGI_RT_Hacking_Toys_For_Fun.pdf)
 - [Offensive Development](https://github.com/mdsecresearch/Publications/blob/master/presentations/Offensive%20Development%20-%20Post-Exploitation%20Tradecraft%20in%20an%20EDR%20World%20-%20x33fcon%202020.pdf): Post-Exploitation Tradecraft in an EDR World x33fcon 2020
 - [WebSploit Labs workshop hosted by the Red Team Village during YASCON](https://github.com/santosomar/YASCON)
+- [The AVAR International Conference is back!](https://aavar.org/avar2020/index.php/agenda/)
+- [Japan Security Analyst Conference Virtual Edition](https://jsac.jpcert.or.jp/index.html)
+- [SANS Virtual Summits Will Be FREE for the Community in 2021](https://www.sans.org/blog/sans-virtual-summits-free-2021/)
 
 ---
 
@@ -2279,7 +2293,6 @@ Some good places to visit:
 - (pt-br)[pivoting](https://diegoalbuquerque.github.io/pivoting.html)
 - [Posters, drawings... ](https://github.com/corkami/pics)
 - ["Other good cyberpunk media to stream free on Tubi: Akira https://t.co/zNFOXzkdMP Ghost in the Shell https://t.co/ayGKJsGXsf Jin-Roh https://t.co/V6KUA0icSc Ergo Proxy https://t.co/uQv9WNGnHT AD Police https://t.co/UNBioD26MB Chappie https://t.co/YmLabtxk4z"](https://twitter.com/hackermaderas/status/1328153549411414018)
-  
 
 ---
 
@@ -2304,13 +2317,7 @@ Some good places to visit:
 - [Everything Old is New Again: Binary Security of WebAssembly](https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann)
 - [Discovering Suspicious APT Behaviors by Analyzing DNS Activities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7038486/)
 - [Harvard Belfer National Cyber Power Index 2020](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LT55JY)
-
----
-
-## Black Friday 2018
-
-  - [Infosec/IT Black Friday/Cyber Monday 2018 - Pastebin.com](https://pastebin.com/aLBfQT6H)
-  - [Quantum Blockchain using entanglement in time](https://arxiv.org/pdf/1804.05979.pdf)
+- [Quantum Blockchain using entanglement in time](https://arxiv.org/pdf/1804.05979.pdf)
 
 ---
 
