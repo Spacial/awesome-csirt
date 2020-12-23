@@ -270,6 +270,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [An Exercise in Practical Container Escapology](https://capsule8.com/blog/practical-container-escape-exercise/)
 - [VMware vCenter 6.5u1](https://twitter.com/ptswarm/status/1316016337550938122)
 - [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
+- [Cisco Security Manager PoCs](https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e)
 
 ## Additions
 
