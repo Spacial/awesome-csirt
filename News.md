@@ -166,6 +166,16 @@
 - [New Ransom X Ransomware used in Texas TxDOT cyberattack](https://www.bleepingcomputer.com/news/security/new-ransom-x-ransomware-used-in-texas-txdot-cyberattack/)
 - [Apple notarizes new Mac malware… again](https://www.intego.com/mac-security-blog/apple-notarizes-new-mac-malware-again/)
 - [Windows kernel vulnerability disclosed by Google's Project Zero after bug exploited in the wild by hackers](https://www.theregister.com/2020/10/30/windows_kernel_zeroday/)
+- [MICROSOFT TEAMS FOR MACOS LOCAL PRIVILEGE ESCALATION](https://www.offensive-security.com/offsec/microsoft-teams-macos-local-privesc/)
+- [Cybercriminals Can Now Bypass Security Solutions and Implant Malicious Emails Directly into Inboxes with "Email Appender"](https://blog.knowbe4.com/cybercriminals-can-now-bypass-security-solutions-and-implant-malicious-emails-directly-into-inboxes-with-email-appender)
+- [macOS has checked app signatures online for over 2 years](https://eclecticlight.co/2020/11/25/macos-has-checked-app-signatures-online-for-over-2-years/)
+- [An Inconvenient Truth: Ransomware Gangs Are Pivoting To Healthcare As Pandemic Grips US](https://www.ampcuscyber.com/blogs/an-inconvenient-truth-ransomware-gangs-are-pivoting-to-healthcare-as-pandemic-grips-us/)
+- [Investigation with a twist: an accidental APT attack and averted data destruction](https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/incident-response-polar-ransomware-apt27/)
+- [How the U.S. Military Buys Location Data from Ordinary Apps](https://www.vice.com/en/article/jgqm5x/us-military-location-data-xmode-locate-x)
+- [My Phone Was Spying on Me, so I Tracked Down the Surveillants](https://nrkbeta.no/2020/12/03/my-phone-was-spying-on-me-so-i-tracked-down-the-surveillants/)
+- [APT annual review: What the world’s threat actors got up to in 2020](https://securelist.com/apt-annual-review-what-the-worlds-threat-actors-got-up-to-in-2020/99574/)
+- [Samas Ransomware Uses Active Directory to Infect Entire Networks](https://www.securityweek.com/samas-ransomware-uses-active-directory-infect-entire-networks)
+- [Experts Uncover 'Crutch' Russian Malware Used in APT Attacks for 5 Years](https://thehackernews.com/2020/12/experts-uncover-crutch-russian-malware.html)
 
 ## Politics
 
@@ -200,6 +210,7 @@
 - [Fascism is back. Blame the Internet.](https://www.washingtonpost.com/news/posteverything/wp/2018/05/21/fascism-is-back-blame-the-internet/)
 - [A Guide to Cholinesterase Inhibitors in Wake of Suspected Alexei Navalny Poisoning](https://www.bellingcat.com/uncategorized/2020/08/28/cholinesterase-inhibitors-alexei-navalny/)
 - [In the New Cold War, Deindustrialization Means Disarmament](https://foreignpolicy.com/2020/08/12/china-industry-manufacturing-cold-war/)
+- [I Lived Through A Stupid Coup. America Is Having One Now](https://medium.com/indica/i-lived-through-a-coup-america-is-having-one-now-437934b1dac3)
 
 ### Online Voting
 
@@ -233,3 +244,4 @@
 - (pt-br) [Exclusivo: ViaQuatro expõe dados de mais de 10 mil usuários da Linha 4 do Metrô de SP](https://thehack.com.br/exclusivo-viaquatro-expoe-dados-de-mais-de-10-mil-usuarios-da-linha-4-do-metro-de-sp/)
 - [Propaganda, Censorship, and Surveillance are attributes of the same underlying aspect: Monopoly and Centralised Control.](https://joindiaspora.com/posts/7bfcf170eefc013863fa002590d8e506)
 - [This device keeps Alexa and other voice assistants from snooping on you](https://arstechnica.com/information-technology/2020/07/this-device-keeps-alexa-and-other-voice-assistant-from-snooping-on-you/)
+- [Facebook Is Going After Its Critics in the Name of Privacy](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
