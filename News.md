@@ -251,4 +251,5 @@
 - [TCP ISN CPU Information Leak Protection - tirdad](https://forums.whonix.org/t/tcp-isn-cpu-information-leak-protection-tirdad/8552)
 - (pt-br) [Exclusivo: ViaQuatro expõe dados de mais de 10 mil usuários da Linha 4 do Metrô de SP](https://thehack.com.br/exclusivo-viaquatro-expoe-dados-de-mais-de-10-mil-usuarios-da-linha-4-do-metro-de-sp/)
 - [Propaganda, Censorship, and Surveillance are attributes of the same underlying aspect: Monopoly and Centralised Control.](https://joindiaspora.com/posts/7bfcf170eefc013863fa002590d8e506)
+- [This device keeps Alexa and other voice assistants from snooping on you](https://arstechnica.com/information-technology/2020/07/this-device-keeps-alexa-and-other-voice-assistant-from-snooping-on-you/)
 - [Facebook Is Going After Its Critics in the Name of Privacy](https://www.wired.com/story/facebook-is-going-after-its-critics-in-the-name-of-privacy/)
