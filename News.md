@@ -176,6 +176,14 @@
 - [APT annual review: What the world’s threat actors got up to in 2020](https://securelist.com/apt-annual-review-what-the-worlds-threat-actors-got-up-to-in-2020/99574/)
 - [Samas Ransomware Uses Active Directory to Infect Entire Networks](https://www.securityweek.com/samas-ransomware-uses-active-directory-infect-entire-networks)
 - [Experts Uncover 'Crutch' Russian Malware Used in APT Attacks for 5 Years](https://thehackernews.com/2020/12/experts-uncover-crutch-russian-malware.html)
+- [The Tetrade: Brazilian banking malware goes global](https://securelist.com/the-tetrade-brazilian-banking-malware/97779/)
+- [Your critical infrastructure bug won't be fixed and this is why](https://naehrdine.blogspot.com/2020/12/your-critical-infrastructure-bug-wont.html)
+
+## 2021 
+
+- [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
+- [ANNOUNCING PWN2OWN VANCOUVER 2021](https://www.zerodayinitiative.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021)
+- [WORLD’S MOST DANGEROUS MALWARE EMOTET DISRUPTED THROUGH GLOBAL ACTION](https://www.europol.europa.eu/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action)
 
 ## Politics
 

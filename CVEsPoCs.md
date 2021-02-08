@@ -40,6 +40,7 @@ Some CVEs PoCs repos on github or internet.
 - Memory corruption in net/packet/af_packet.c: [CVE-2020-14386](https://www.openwall.com/lists/oss-security/2020/09/03/3), [poc](https://www.openwall.com/lists/oss-security/2020/09/03/3/2)
 - [BlindSide](https://www.vusec.net/projects/blindside/)
 - Exploiting a Linux kernel vulnerability in the V4L2 subsystem: [CVE-2019-18683](https://a13xp0p0v.github.io/2020/02/15/CVE-2019-18683.html)
+- Heap-Based Buffer Overflow in Sudo: [CVE-2021-3156](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
 
 ## Solaris
 
@@ -87,6 +88,9 @@ Some CVEs PoCs repos on github or internet.
 - [PoC for enabling wdigest to bypass credential guard ](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
 - Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon), [A different way of abusing Zerologon (CVE-2020-1472)](https://dirkjanm.io/a-different-way-of-abusing-zerologon/) [ZeroLogon detected by Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender/zerologon-is-now-detected-by-microsoft-defender-for-identity-cve/ba-p/1734034)
 - [CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF): Collection of beacon BOF written to learn windows and cobaltstrike
+- Kerberos Bronze Bit Attack – Practical Exploitation: [CVE-2020-17049](https://blog.netspi.com/cve-2020-17049-kerberos-bronze-bit-attack/)
+- Windows SMB Information Disclousure Analysis [CVE-2020-17140](https://blogs.360.cn/post/CVE-2020-17140-Analysis.html)
+- BitLocker Lockscreen bypass: [CVE-2020-1398](https://secret.club/2021/01/15/bitlocker-bypass.html)
 
 ## macOS/iOS
 
@@ -273,7 +277,11 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - UK NCSC’s alert urges orgs to fix MobileIron: [CVE-2020-15505](https://securityaffairs.co/wordpress/111426/uncategorized/mobileiron-cve-2020-15505-alert.html)
 - [CSM_Pocs](https://gist.github.com/magnologan/3d0d24c2d0af7d3f27344fcb14eb8f7e): Cisco Security Manager is an enterprise-class security management application that provides insight into and control of Cisco security and network devices. [CSM_pocs](https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e).
 - [Fortiscan](https://github.com/anasbousselham/fortiscan) (CVE-2018-13379): A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
+- FortiOS system file leak through SSL VPN via specially crafted HTTP resource requests: [CVE-2018-13379](https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak): This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379). 
+- [FortiWeb CVE](https://twitter.com/ptswarm/status/1346806951326396416)
 - [Use-After-Free IE Vulnerability](https://www.trendmicro.com/en_us/research/20/k/cve-2020-17053-use-after-free-ie-vulnerability.html): CVE-2020-17053
+- Cisco ASA: [CVE-2020-3452](https://github.com/cygenta/CVE-2020-3452)
+- github cli: [CVE-2020-26233](https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/)
 
 ## Additions
 
