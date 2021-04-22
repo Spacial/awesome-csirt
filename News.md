@@ -184,6 +184,25 @@
 - [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 - [ANNOUNCING PWN2OWN VANCOUVER 2021](https://www.zerodayinitiative.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021)
 - [WORLD’S MOST DANGEROUS MALWARE EMOTET DISRUPTED THROUGH GLOBAL ACTION](https://www.europol.europa.eu/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action)
+- [Know, Prevent, Fix: A framework for shifting the discussion around vulnerabilities in open source](https://opensource.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting-discussion-around-vulnerabilities-in-open-source.html)
+- [Shadow Attacks Let Attackers Replace Content in Digitally Signed PDFs](https://thehackernews.com/2021/02/shadow-attacks-let-attackers-replace.html?m=1)
+- [Researchers Unveil New Linux Malware Linked to Chinese Hackers](https://amp.thehackernews.com/thn/2021/03/researchers-unveil-new-linux-malware.html)
+- [Go malware is now common, having been adopted by both APTs and e-crime groups](https://www.zdnet.com/article/go-malware-is-now-common-having-been-adopted-by-both-apts-and-e-crime-groups/)
+- [Data Breach – Seguradora](https://www.defcon-lab.org/data-breach-seguradora//)
+- [Chinese government-run facial recognition system hacked by tax fraudsters: report](https://www.scmp.com/tech/tech-trends/article/3127645/chinese-government-run-facial-recognition-system-hacked-tax)
+- [This company was hit by ransomware. Here's what they did next, and why they didn't pay up](https://www.zdnet.com/article/this-company-was-hit-with-ransomware-heres-what-they-did-next-and-why-they-didnt-pay-up/)
+- [USB threats to ICS systems have nearly doubled](https://www.tripwire.com/state-of-security/ics-security/report-usb-threats-to-ics-systems-have-nearly-doubled/)
+- [Newly-Discovered Vulnerabilities Could Allow for Bypass of Spectre Mitigations in Linux](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/spectre-bypass-linux-vulnerabilities).
+- [BackBlaze mistakenly shared backup metadata with Facebook](https://www.bleepingcomputer.com/news/security/backblaze-mistakenly-shared-backup-metadata-with-facebook/)
+- [Hackers Exploit Unpatched VPNs to Install Ransomware on Industrial Targets](https://thehackernews.com/2021/04/hackers-exploit-unpatched-vpns-to.html)
+- [U.S. Unveils Plan to Protect Power Grid From Foreign Hackers](https://www.bloomberg.com/news/articles/2021-04-20/u-s-unveils-plan-to-protect-power-grid-from-foreign-hackers)
+- [Experts demonstrated how to hack a utility and take over a smart meter](https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html)
+- [Israel Launches ‘Stuxnet 3.0’ On Iran — CyberHoot](https://cyberhoot.medium.com/israel-launches-stuxnet-3-0-on-iran-cyberhoot-a63943b8f785)
+- [Luca App: CCC calls for an immediate moratorium](https://www.ccc.de/en/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
+- [Sanctioned Firm Accused of Helping Russian Intelligence Was Part of Microsoft’s Early Vuln Access Program — MAPP](https://zetter.substack.com/p/sanctioned-firm-accused-of-helping)
+- [Report: The Rise Of Global Cybersecurity Venture Funding](https://about.crunchbase.com/cybersecurity-research-report-2021/)
+- [Vulnerability Management is Hard! Using CVSS and other scoring to prioritize patching](https://www.scythe.io/library/vulnerability-management-is-hard-using-cvss-and-other-scoring-to-prioritize-patching)
+- [Cybercriminals Using Telegram Messenger to Control ToxicEye Malware](https://thehackernews.com/2021/04/cybercriminals-using-telegram-messenger.html)
 
 ## Politics
 
@@ -219,6 +238,8 @@
 - [A Guide to Cholinesterase Inhibitors in Wake of Suspected Alexei Navalny Poisoning](https://www.bellingcat.com/uncategorized/2020/08/28/cholinesterase-inhibitors-alexei-navalny/)
 - [In the New Cold War, Deindustrialization Means Disarmament](https://foreignpolicy.com/2020/08/12/china-industry-manufacturing-cold-war/)
 - [I Lived Through A Stupid Coup. America Is Having One Now](https://medium.com/indica/i-lived-through-a-coup-america-is-having-one-now-437934b1dac3)
+- [Google’s top security teams unilaterally shut down a counterterrorism operation](https://www.technologyreview.com/2021/03/26/1021318/google-security-shut-down-counter-terrorist-us-ally/)
+- [In secret Facebook groups, America's best warriors share racist jabs, lies about 2020, even QAnon theories](https://www.nbcnews.com/news/military/secret-facebook-groups-america-s-best-warriors-share-racist-jabs-n1263985)
 
 ### Online Voting
 

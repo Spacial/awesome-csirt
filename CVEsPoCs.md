@@ -10,6 +10,7 @@ Some CVEs PoCs repos on github or internet.
 - Automated Generation of Proofs of Vulnerability with [S2E](https://github.com/S2E/docs/blob/master/src/Tutorials/pov.rst)
 - [SecurityExploits](https://github.com/Semmle/SecurityExploits): This repository contains proof-of-concept exploits developed by the Semmle Security Research Team. We always disclose security vulnerabilities responsibly, so this repository only contains exploits for vulnerabilities which have already been fixed and publicly disclosed.
 - [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC): About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms.
+- [Como registrar uma CVE](https://www.youtube.com/watch?v=G1mCQe8z_pA)
 
 ## Linux
 
@@ -41,6 +42,7 @@ Some CVEs PoCs repos on github or internet.
 - [BlindSide](https://www.vusec.net/projects/blindside/)
 - Exploiting a Linux kernel vulnerability in the V4L2 subsystem: [CVE-2019-18683](https://a13xp0p0v.github.io/2020/02/15/CVE-2019-18683.html)
 - Heap-Based Buffer Overflow in Sudo: [CVE-2021-3156](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
+- Ubuntu OverlayFS Local Privesc: [CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)
 
 ## Solaris
 
@@ -91,6 +93,11 @@ Some CVEs PoCs repos on github or internet.
 - Kerberos Bronze Bit Attack – Practical Exploitation: [CVE-2020-17049](https://blog.netspi.com/cve-2020-17049-kerberos-bronze-bit-attack/)
 - Windows SMB Information Disclousure Analysis [CVE-2020-17140](https://blogs.360.cn/post/CVE-2020-17140-Analysis.html)
 - BitLocker Lockscreen bypass: [CVE-2020-1398](https://secret.club/2021/01/15/bitlocker-bypass.html)
+- Local Privilege Escalation vulnerability found in Dell SupportAssist: [CVE-2021-21518](https://twitter.com/buffaloverflow/status/1369692589193039874) [article]()https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/
+- ProxyLogon: [CVE-2021-26855](https://github.com/hausec/ProxyLogon) [another](https://web.archive.org/web/20210310164403/https://gist.github.com/testanull/fabd8eeb46f120c4b15f8793617ca7d1)
+- Zero-day vulnerability in Desktop Window Manager: [CVE-2021-28310](https://securelist.com/zero-day-vulnerability-in-desktop-window-manager-cve-2021-28310-used-in-the-wild/101898/)
+- Windows kernel zero-day exploi: [CVE-2021-1732](https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/)
+- Windows TCP/IP: [CVE-2021-24086](https://www.pwnwiki.org/index.php?title=CVE-2021-24086_Windows_TCP/IP%E6%8B%92%E7%B5%95%E6%9C%8D%E5%8B%99%E6%BC%8F%E6%B4%9E/es), [PoC](https://github.com/0vercl0k/CVE-2021-24086)
 
 ## macOS/iOS
 
@@ -124,6 +131,7 @@ Some CVEs PoCs repos on github or internet.
 - [qu1ckr00t](https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/): Tailoring [CVE-2019-2215](https://github.com/grant-h/qu1ckr00t) to Achieve Root.
 - [s8_2019_2215_poc](https://github.com/chompie1337/s8_2019_2215_poc): PoC 2019-2215 exploit for S8/S8 active with DAC + SELinux + Knox/RKP bypass.
 - Universal XSS in Android WebView: [CVE-2020-6506](https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/)
+- Exploiting a Single Instruction Race Condition in Binder: [CVE-2020-0423](https://blog.longterm.io/cve-2020-0423.html)
 
 ## Java
 
@@ -219,6 +227,8 @@ Some CVEs PoCs repos on github or internet.
   - [CVE-2019-5782](https://github.com/vngkv123/aSiagaming)
   - [CVE-2019-5786](https://github.com/exodusintel/CVE-2019-5786): FileReader Exploit
   - [CVE-2019-13054](https://github.com/mame82/munifying-web): The page utilizes the new WebHID API to extract AES encryption keys from vulnerable dongles. [PoC Page](https://mame82.github.io/munifying-web/)
+  - [chrome 0day](https://github.com/r4j0x00/exploits/tree/master/chrome-0day) [r4j0x00](https://twitter.com/r4j0x00/status/1381643526010597380)
+  - ELECTRIC CHROME: [CVE-2020-6418](https://leethax0.rs/2021/04/ElectricChrome/) on Tesla Model 3.
 - [Google Books X-Hacking](https://medium.com/@terjanq/google-books-x-hacking-29c249862f19)
 - Ruby on Rails: File Content Disclosure on Rails - [CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)
 - Libreoffice - Remote Code Execution via Macro/Event execution: [CVE-2018-16858](https://insert-script.blogspot.com/2019/02/libreoffice-cve-2018-16858-remote-code.html)
