@@ -2128,7 +2128,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Mythic-Macro-Generator](https://github.com/cedowens/Mythic-Macro-Generator)
 - [macOSTools](https://github.com/xorrior/macOSTools): macOS Offensive Tools
 - [TrueTree](https://github.com/themittenmac/TrueTree): A command line tool for pstree-like output on macOS with additional pid capturing capabilities.
-
+- [Bypassing macOS TCC User Privacy Protections By Accident and Design](https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/)
+ 
 ### Android
 
 - [tip toeing past android 7’s network security configuration](https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/)
