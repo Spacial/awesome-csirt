@@ -2293,7 +2293,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [M1RACLES](https://m1racles.com/): M1ssing Register Access Controls Leak EL0 State. CVE-2021-30747 is a covert channel vulnerability in the Apple Silicon “M1” chip.
 - [Vulnerability Spotlight: A deep dive into macOS SMB server](https://blog.talosintelligence.com/2021/06/vuln-spotlight-smb-mac-deep-dive.html)
 - [How to Use Kerberos on macOS](https://uit.stanford.edu/service/ess/mac/docs/kerberos_macOS)
-
+- [Bypassing macOS TCC User Privacy Protections By Accident and Design](https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/)
+ 
 ### Android
 
 - [tip toeing past android 7’s network security configuration](https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/)
