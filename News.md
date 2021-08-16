@@ -263,6 +263,13 @@
 - [Beyond Kaseya: Everyday IT Tools Can Offer ‘God Mode’ for Hackers](https://www.wired.com/story/it-management-tools-hacking-jamf-kaseya/)
 - [15-Year-Old Linux Netfilter Vulnerability Let Hackers Bypass All Modern Security Mitigations](https://gbhackers.com/15-year-old-linux-netfilter-vulnerability/)
 - [Top prevalent malware with a thousand campaigns migrates to macOS](https://research.checkpoint.com/2021/top-prevalent-malware-with-a-thousand-campaigns-migrates-to-macos/)
+- [A Controversial Tool Calls Out Thousands of Hackable Websites](https://www.wired.com/story/punkspider-web-site-vulnerabilities/)
+- [Amazon and Google patch major bug in their DNS-as-a-Service platforms](https://therecord.media/amazon-and-google-patch-major-bug-in-their-dns-as-a-service-platforms/)
+- [Zoom Lied about End-to-End Encryption](https://www.schneier.com/blog/archives/2021/08/zoom-lied-about-end-to-end-encryption.html)
+- [PyPI packages caught stealing credit card numbers, Discord tokens](https://www.bleepingcomputer.com/news/security/pypi-packages-caught-stealing-credit-card-numbers-discord-tokens/)
+- [QOMPLX Reboots Punkspider](https://www.globenewswire.com/da/news-release/2021/07/20/2265860/0/en/QOMPLX-Reboots-Punkspider.html)
+- [LockBit ransomware now encrypts Windows domains using group policies](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-encrypts-windows-domains-using-group-policies/)
+- [Pegasus spyware found on journalists’ phones, French intelligence confirms](https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms)
 
 ## Politics
 

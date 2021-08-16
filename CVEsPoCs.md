@@ -106,6 +106,7 @@ Some CVEs PoCs repos on github or internet.
 - C# and Impacket implementation of PrintNightmare: [CVE-2021-1675 / CVE-2021-34527](https://github.com/cube0x0/CVE-2021-1675).
 - [Summer of SAM](https://isc.sans.edu/forums/diary/Summer+of+SAM+incorrect+permissions+on+Windows+1011+hives/27652/): [CVE-2021-36934](https://isc.sans.edu/forums/diary/Summer+of+SAM+Microsoft+Releases+Guidance+for+CVE202136934/27656/)
 - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. This is possible via other protocols as well: [SpoolSample](https://github.com/leechristensen/SpoolSample) [SpoolerScanner](https://github.com/vletoux/SpoolerScanner) 
+- [Mitigating NTLM Relay Attacks on Active Directory Certificate Services (AD CS)](https://blog.truesec.com/2021/07/25/mitigating-ntlm-relay-attacks-on-active-directory-certificate-services-ad-cs-adv210003-kb5005413-petitpotam/) [PetitPotam](https://github.com/topotam/PetitPotam/): PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw function.
 
 ## macOS/iOS
 
@@ -134,6 +135,7 @@ Some CVEs PoCs repos on github or internet.
   ```
 - [Don't Share Your $HOME with Untrusted Guests](https://zerodayengineering.com/blog/dont-share-your-home.html). [PoC](https://github.com/badd1e/Proof-of-Concept/tree/main/prl_not0day): This proof-of-concept demonstrates a trivial no-bug, by-design virtual machine guest-to-host escape with full arbitrary code execution on the current version of Parallels Desktop for Mac.
 - [Patch Gapping a Safari Type Confusion](https://blog.theori.io/research/webkit-type-confusion/)
+- [WebContent->EL1 LPE: OOBR in AppleCLCD / IOMobileFrameBuffer](https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/): [CVE-2021-30807](https://github.com/saaramar/IOMobileFrameBuffer_LPE_POC)
 
 ## Android
 
@@ -316,6 +318,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [ECOSPLOITS](https://github.com/ecos-wtf/ecosploits): Bunch of exploits for eCOS.
 - Advisory X41-2021-002: nginx DNS Resolver Off-by-One Heap Write Vulnerability: [CVE-2021-23017](https://x41-dsec.de/lab/advisories/x41-2021-002-nginx-resolver-copy/)
 - F5 BIG-IQ: [CVE-2021-22986](https://github.com/Al1ex/CVE-2021-22986)
+- Pulse Connect Secure: [CVE-2021-22937](https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/)
 
 ## Additions
 

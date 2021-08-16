@@ -67,6 +67,8 @@
 - [Request Tracker for Incident Response](https://bestpractical.com/rtir/)
 - [Request Tracker](https://bestpractical.com/request-tracker)
 - [Beagle](https://github.com/yampelo/beagle) is an incident response and digital forensics tool which transforms security logs and data into graphs.
+- [CSIRT Schiltron: Training, Techniques, and Talent](https://www.first.org/resources/papers/conf2019/1100-CSIRT-Schiltron-Final.pdf)
+- [Practical Tabletop Drills for CSIRTS - Pre-session Material](https://www.first.org/resources/papers/conf2019/FIRST-Conference-2019-06-Edinburgh-Practical-Tabletops-for-CSIRTs.pdf)
 
 ### Hashing
 
@@ -479,7 +481,6 @@ I work as a malware analyst and like to share my knowledge.
 
 ## Hardening
 
-- [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
 - [BlueWars](https://medium.com/blueops/bluewars-capture-the-flag-defensivo-que-aconteceu-na-h2hc-514c75e3f13c): Capture The Flag Defensivo que aconteceu na H2HC
 - [CCAT](https://github.com/cisco-config-analysis-tool/ccat): Cisco Config Analysis Tool
 - [Ciderpress](https://github.com/da667/Ciderpress): Hardened wordpress installer
@@ -531,6 +532,9 @@ I work as a malware analyst and like to share my knowledge.
 - [auditd](https://github.com/Neo23x0/auditd): Best Practice Auditd Configuration.
 - [Hardened/PaX Quickstart](https://wiki.gentoo.org/wiki/Hardened/PaX_Quickstart)
 - [tosh](https://github.com/mikroskeem/tosh): Imagine your SSH server only listens on an IPv6 address, and where the last 6 digits are changing every 30 seconds as a TOTP code...
+- Kubernetes:
+  - [9 Kubernetes Security Best Practices Everyone Must Follow](https://www.cncf.io/blog/2019/01/14/9-kubernetes-security-best-practices-everyone-must-follow/)
+  - NSA/CISA [Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 
 ### WebServers
 
@@ -575,6 +579,7 @@ I work as a malware analyst and like to share my knowledge.
 - [IT Security Guidelines for Transport Layer Security (TLS)](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1)
 - [QUIC's combined transport- and cryptographic handshake allows it to be 1 Round Trip faster than TCP + TLS and main problems.](https://twitter.com/programmingart/status/1399443052851306503)
 - [Secure Headers](https://github.com/github/secure_headers): Manages application of security headers with many safe defaults.
+- [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2)
 
 ## Credentials
 
@@ -671,6 +676,7 @@ I work as a malware analyst and like to share my knowledge.
 - [DazedAndConfused](https://github.com/salesforce/DazedAndConfused) is a tool to help determine dependency confusion exposure.
 - [Security Scorecards](https://github.com/ossf/scorecard): Security health metrics for Open Source.
 - [kcare-uchecker](https://github.com/cloudlinux/kcare-uchecker): A simple tool to detect outdated shared libraries.
+- [Package Hunter](https://gitlab.com/gitlab-org/security-products/package-hunter): A tool for identifying malicious dependencies via runtime monitoring.
 
 ### Web Training
 
@@ -804,6 +810,7 @@ I work as a malware analyst and like to share my knowledge.
 - [thg-framework](https://github.com/darkcode357/thg-framework)
 - [Super-Guesser-ctf](https://github.com/Super-Guesser/ctf)
 - [Ciphr](https://github.com/frohoff/ciphr): CLI crypto swiss-army knife for performing and composing encoding, decoding, encryption, decryption, hashing, and other various cryptographic operations on streams of data from the command line; mostly intended for ad hoc, infosec-related uses.
+- [sec-tools](https://github.com/eugenekolo/sec-tools): A set of security related tools.
 
 ## Phreak
 
@@ -1336,6 +1343,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/Command%20Injection)
 - [Directory Traversal](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal)
 - [LFI](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md)
+- [fimap](https://gitlab.tha-imax.de/root/fimap): is a little python tool which can find, prepare, audit, exploit and even google automaticly for local and remote file inclusion bugs in webapps.
 - [File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion)
 - [Open-Redirect](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md)
 - [RCE](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md)
@@ -2161,7 +2169,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [GetNPUsers & Kerberos Pre-Auth Explained](https://www.youtube.com/watch?v=pZSyGRjHNO4)
 - [New-KrbtgtKeys.ps1](https://github.com/microsoft/New-KrbtgtKeys.ps1): This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn): Automation for internal Windows Penetrationtest / AD-Security
-- [BadBlood](https://github.com/davidprowe/BadBlood) by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active… 
+- [BadBlood](https://github.com/davidprowe/BadBlood) by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active…
 - [Vulnerable-AD](https://github.com/WazeHell/vulnerable-AD): Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab .
 - [ATTACK MAPPING WITH BLOODHOUND](https://blog.stealthbits.com/local-admin-mapping-bloodhound)
 - [EXTRACTING PASSWORD HASHES FROM THE NTDS.DIT FILE](https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/)
@@ -2180,6 +2188,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [GPO Abuse: “You can’t see me”](https://pentestmag.com/gpo-abuse-you-cant-see-me/)
 - [SERVER (UN)TRUST ACCOUNT](https://stealthbits.com/blog/server-untrust-account/): Active Directory persistence through userAccountControl manipulation.
 - [aclpwn.py](https://github.com/fox-it/aclpwn.py/): Active Directory ACL exploitation with BloodHound. [Exploit ACL Based Privilege Escalation Paths in Active Directory](https://www.darknet.org.uk/2021/07/aclpwn-py-exploit-acl-based-privilege-escalation-paths-in-active-directory/)
+- [Active Directory Certificate Services (ADCS - PKI) domain admin vulnerability](https://isc.sans.edu/forums/diary/Active+Directory+Certificate+Services+ADCS+PKI+domain+admin+vulnerability/27668/)
 
 ##### Mimikatz
 
@@ -2230,6 +2239,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [m365_groups_enum](https://github.com/cnotin/m365_groups_enum): Enumerate Microsoft 365 Groups in a tenant with their metadata.
 - [How to hunt for LDAP reconnaissance within M365 Defender?](https://m365internals.com/2021/05/22/how-to-hunt-for-ldap-reconnaissance-within-m365-defender/)
 - [Stealing tokens, emails, files and more in Microsoft Teams through malicious tabs](https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138)
+- [Reproducing The ProxyShell Pwn2Own Exploit](https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1)
+- [ProxyLogon is Just the Tip of the Iceberg](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-ProxyLogon-Is-Just-The-Tip-Of-The-Iceberg-A-New-Attack-Surface-On-Microsoft-Exchange-Server.pdf): A New Attack Surface on Microsoft Exchange Server!
 
 ### macOS/iOS
 
