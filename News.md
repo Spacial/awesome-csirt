@@ -178,12 +178,15 @@
 - [Experts Uncover 'Crutch' Russian Malware Used in APT Attacks for 5 Years](https://thehackernews.com/2020/12/experts-uncover-crutch-russian-malware.html)
 - [The Tetrade: Brazilian banking malware goes global](https://securelist.com/the-tetrade-brazilian-banking-malware/97779/)
 - [Your critical infrastructure bug won't be fixed and this is why](https://naehrdine.blogspot.com/2020/12/your-critical-infrastructure-bug-wont.html)
+- [Lazarus covets COVID-19-related intelligence](https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/)
 
 ## 2021 
 
 - [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 - [ANNOUNCING PWN2OWN VANCOUVER 2021](https://www.zerodayinitiative.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021)
 - [WORLD’S MOST DANGEROUS MALWARE EMOTET DISRUPTED THROUGH GLOBAL ACTION](https://www.europol.europa.eu/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action)
+- [Centreon says only 15 entitites were targeted in recent Russian hacking spree](https://www.zdnet.com/article/centreon-says-only-15-entitites-were-targeted-in-recent-russian-hacking-spree/)
+- [Big name corporations more likely to commit fraud | WSU Insider | Washington State University](https://news.wsu.edu/2021/02/02/big-name-corporations-likely-commit-fraud/)
 
 ## Politics
 
