@@ -270,6 +270,8 @@
 - [QOMPLX Reboots Punkspider](https://www.globenewswire.com/da/news-release/2021/07/20/2265860/0/en/QOMPLX-Reboots-Punkspider.html)
 - [LockBit ransomware now encrypts Windows domains using group policies](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-encrypts-windows-domains-using-group-policies/)
 - [Pegasus spyware found on journalists’ phones, French intelligence confirms](https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms)
+- [Detecting Cobalt Strike: Government-Sponsored Threat Groups](https://www.secureworks.com/blog/detecting-cobalt-strike-government-sponsored-threat-groups)
+- Alert (AA21-209A): [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
 
 ## Politics
 
