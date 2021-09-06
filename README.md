@@ -1154,6 +1154,7 @@ Curated list of public penetration test reports released by several consulting f
 - [Kitsune](https://github.com/evilsocket/kitsune): An artificial neural network to detect automated Twitter accounts (bots).
 - [Image "Cloaking" for Personal Privacy](https://sandlab.cs.uchicago.edu/fawkes/). [Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](http://people.cs.uchicago.edu/~ravenben/publications/pdf/fawkes-usenix20.pdf)
 - (pt-br) [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca): Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
+- [IntelMQ](https://intelmq.readthedocs.io/): A tool-suite solution for IT security teams (CERTs & CSIRTs, SOCs abuse departments, etc.) for collecting and processing security feeds using a message queuing protocol. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.
 
 #### OSINT Webscraping
 
