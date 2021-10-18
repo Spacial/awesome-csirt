@@ -108,6 +108,10 @@ Some CVEs PoCs repos on github or internet.
 - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. This is possible via other protocols as well: [SpoolSample](https://github.com/leechristensen/SpoolSample) [SpoolerScanner](https://github.com/vletoux/SpoolerScanner) 
 - [Mitigating NTLM Relay Attacks on Active Directory Certificate Services (AD CS)](https://blog.truesec.com/2021/07/25/mitigating-ntlm-relay-attacks-on-active-directory-certificate-services-ad-cs-adv210003-kb5005413-petitpotam/) [PetitPotam](https://github.com/topotam/PetitPotam/): PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw function.
 - [Concealed Position](https://github.com/jacob-baines/concealed_position): Bring your own print driver privilege escalation tool.
+- This Internet Explorer MSHTML remote code execution [vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40444): [CVE-2021-40444](https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-defenses-bypassed-as-new-info-emerges/) [CVE-2021-40444 PoC](https://github.com/lockedbyte/CVE-2021-40444)
+- [ZDI-21-1053: Bypassing Windows Lock Screen](https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html)
+- [SpoolSploit](https://github.com/BeetleChunks/SpoolSploit): A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.
+- [aad-sso-enum-brute-spray](https://github.com/treebuilder/aad-sso-enum-brute-spray): POC of SecureWorks' recent Azure Active Directory password brute-forcing vuln
 
 ## macOS/iOS
 
@@ -202,6 +206,7 @@ Some CVEs PoCs repos on github or internet.
 - [PHP 7.0-7.4 disable_functions bypass](https://github.com/mm0r1/exploits/tree/master/php7-backtrace-bypass)
 - [XML-RPC-Library-1.3.0-Remote-PHP-Code-Execution-Exploit](https://raw.githubusercontent.com/dorkerdevil/XML-RPC-Library-1.3.0-Remote-PHP-Code-Execution-Exploit/master/xmlrpc.py)
 - [xmlrpc-bruteforcer](https://github.com/aress31/xmlrpc-bruteforcer): Multi-threaded XMLRPC brute forcer using amplification attacks targeting WordPress installations prior to version 4.4.
+- CutePHP Cute News 2.1.2 RCE PoC: [CVE-2019-11447](https://github.com/thewhiteh4t/cve-2019-11447)
 
 ## API
 

@@ -270,8 +270,17 @@
 - [QOMPLX Reboots Punkspider](https://www.globenewswire.com/da/news-release/2021/07/20/2265860/0/en/QOMPLX-Reboots-Punkspider.html)
 - [LockBit ransomware now encrypts Windows domains using group policies](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-encrypts-windows-domains-using-group-policies/)
 - [Pegasus spyware found on journalists’ phones, French intelligence confirms](https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms)
+- [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/)
 - [Detecting Cobalt Strike: Government-Sponsored Threat Groups](https://www.secureworks.com/blog/detecting-cobalt-strike-government-sponsored-threat-groups)
 - Alert (AA21-209A): [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
+- [$600m in cryptocurrencies swiped from Poly Network](https://www.theregister.com/2021/08/10/poly_networks_cryptocurrency_theft/)
+- [‘DeepBlueMagic’ - Newly Discovered Ransomware With Unique Modus Operandi](https://www.ehackingnews.com/2021/08/deepbluemagic-newly-discovered.html)
+- [TrickBot Employs Bogus 1Password Installer to Launch Cobalt Strike](https://www.ehackingnews.com/2021/08/trickbot-employs-bogus-1password.html)
+- [LockFile Ransomware Bypasses Protection Using Intermittent File Encryption](https://thehackernews.com/2021/08/lockfile-ransomware-bypasses-protection.html)
+- [FBI Reportedly Exposed Secret Terrorist Watchlist](https://www.securityweek.com/fbi-reportedly-exposed-secret-terrorist-watchlist)
+- [Afghans scramble to delete digital history, evade biometrics](https://www.reuters.com/article/afghanistan-tech-conflict-idUSL8N2PO1FH)
+- [Cryptominer z0Miner Uses Newly Discovered Vulnerability CVE-2021-26084 to Its Advantage](https://www.trendmicro.com/en_us/research/21/i/cryptominer-z0miner-uses-newly-discovered-vulnerability-cve-2021.html)
+- [Financially motivated actor breaks certificate parsing to avoid detection](https://blog.google/threat-analysis-group/financially-motivated-actor-breaks-certificate-parsing-avoid-detection/)
 
 ## Politics
 
