@@ -112,6 +112,7 @@ Some CVEs PoCs repos on github or internet.
 - [ZDI-21-1053: Bypassing Windows Lock Screen](https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html)
 - [SpoolSploit](https://github.com/BeetleChunks/SpoolSploit): A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.
 - [aad-sso-enum-brute-spray](https://github.com/treebuilder/aad-sso-enum-brute-spray): POC of SecureWorks' recent Azure Active Directory password brute-forcing vuln
+- noPOC, but almost: [#windows11 Defender bypass (worked for #meterpreter):](https://twitter.com/an0n_r0/status/1449901768947683328) (build 22000)
 
 ## macOS/iOS
 
@@ -262,6 +263,7 @@ Some CVEs PoCs repos on github or internet.
 - Signal IDN homograph attack: [CVE-2019-9970](https://wildfire.blazeinfosec.com/security-advisory-signal-idn-homograph-attack-2/).
 - [Grandstream Exploits](https://github.com/scarvell/grandstream_exploits): Grandstream Exploits
 - Apache HTTPD Root Privilege Escalation - CARPE (DIEM): [CVE-2019-0211](https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html), [github](https://github.com/cfreal/exploits/tree/master/CVE-2019-0211-apache)
+- Apache <= 2.4.48 - Mod_Proxy SSRF: [CVE-2021-40438](https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-40438.yaml)
 - Say Cheese: [Ransomware-ing a DSLR Camera](https://research.checkpoint.com/say-cheese-ransomware-ing-a-dslr-camera/) -
 
 '''bash
@@ -327,6 +329,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - Advisory X41-2021-002: nginx DNS Resolver Off-by-One Heap Write Vulnerability: [CVE-2021-23017](https://x41-dsec.de/lab/advisories/x41-2021-002-nginx-resolver-copy/)
 - F5 BIG-IQ: [CVE-2021-22986](https://github.com/Al1ex/CVE-2021-22986)
 - Pulse Connect Secure: [CVE-2021-22937](https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/)
+- Dahua cameras: [CVE-2021-33044 and CVE-2021-33045](https://github.com/bp2008/DahuaLoginBypass)
 
 ## Additions
 
