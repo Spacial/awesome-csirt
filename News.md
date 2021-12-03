@@ -281,6 +281,14 @@
 - [Afghans scramble to delete digital history, evade biometrics](https://www.reuters.com/article/afghanistan-tech-conflict-idUSL8N2PO1FH)
 - [Cryptominer z0Miner Uses Newly Discovered Vulnerability CVE-2021-26084 to Its Advantage](https://www.trendmicro.com/en_us/research/21/i/cryptominer-z0miner-uses-newly-discovered-vulnerability-cve-2021.html)
 - [Financially motivated actor breaks certificate parsing to avoid detection](https://blog.google/threat-analysis-group/financially-motivated-actor-breaks-certificate-parsing-avoid-detection/)
+- [BlackByte ransomware decryptor released](https://www.zdnet.com/article/blackbyte-ransomware-decryptor-released/)
+- [Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.infoq.com/news/2021/04/intel-hidden-instructions/)
+- [Bizzaro: Brazilian Trojan ensued as sophisticated backdoor risking European & U.S. Banks](https://www.secureblink.com/cyber-security-news/bizzaro:-brazilian-trojan-ensued-as-sophisticated-backdoor-risking-european-and-u.s.-banks)
+- [Malware Can Use This Trick to Bypass Ransomware Defense in Antivirus Solutions](https://thehackernews.com/2021/06/malware-can-use-this-trick-to-bypass.html)
+- [NSA warns of threat actors compromising entire 5G networks via cloud systems](https://therecord.media/nsa-warns-of-threat-actors-compromise-entire-5g-networks-via-cloud-systems/)
+- [Eberspächer Group’s infrastructure has been offline for days in a cyberattack (I believe ransomware).](https://twitter.com/GossiTheDog/status/1453285269751410689)
+- [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
+- [Sushi has paid a bounty of $1M in USDC](https://twitter.com/josephdelong/status/1431314816698916865?s=09) #bughunt
 
 ## Politics
 
@@ -330,6 +338,8 @@
 - [Russian Poet Dmitry Bykov Targeted by Navalny Poisoners](https://www.bellingcat.com/news/2021/06/09/russian-poet-dmitry-bykov-targeted-by-navalny-poisoners/)
 - [A Timeline of CIA Atrocities](http://www.huppi.com/kangaroo/CIAtimeline.html)
 - [MI5 Director General Ken McCallum gave his annual threat update today, 14 July 2021, which was filmed at our headquarters in Thames House, London.](https://www.mi5.gov.uk/news/director-general-ken-mccallum-gives-annual-threat-update-2021)
+- [Attrition.org](https://attrition.org/),is a computer security web site dedicated to the collection, dissemination and distribution of information about the security industry for anyone interested in the subject. [Charlatans - EC-Council (ECC)](https://attrition.org/errata/charlatan/ec-council/)
+- [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 
 ### Online Voting
 

@@ -12,6 +12,7 @@ Some CVEs PoCs repos on github or internet.
 - [Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC): About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms.
 - [Como registrar uma CVE](https://www.youtube.com/watch?v=G1mCQe8z_pA)
 - [ALPACA Attack](https://alpaca-attack.com/)
+- [Overview: OWASP Top 10 2021](https://www.trendmicro.com/en_ca/devops/21/k/overview-owasp-top-10-2021.html)
 
 ## Linux
 
@@ -45,6 +46,8 @@ Some CVEs PoCs repos on github or internet.
 - Heap-Based Buffer Overflow in Sudo: [CVE-2021-3156](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
 - [Ubuntu OverlayFS Local Privesc](https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/): [CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)
 - [A Local Privilege Escalation Vulnerability in Linux’s Filesystem Layer](https://blog.qualys.com/vulnerabilities-threat-research/2021/07/20/sequoia-a-local-privilege-escalation-vulnerability-in-linuxs-filesystem-layer-cve-2021-33909): [cve-2021-33909-crasher.c](cve-2021-33909-crasher.c) [cve-2021-33910-crasher.c](cve-2021-33910-crasher.c)
+- [Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/)
+- Remote Linux Kernel Heap Overflow | TIPC Module Allows Arbitrary Code Execution: [CVE-2021-43267](https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/)
 
 ## Solaris
 
@@ -103,16 +106,23 @@ Some CVEs PoCs repos on github or internet.
 - Relaying Potatoes: Another Unexpected Privilege Escalation Vulnerability in Windows RPC Protocol, [CVE-2020-1113 and CVE-2021-1678](https://labs.sentinelone.com/relaying-potatoes-dce-rpc-ntlm-relay-eop/). [RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
 - Microsoft Exchange Server Remote Code Execution Vulnerability: [CVE-2021-28482](https://gist.github.com/testanull/9ebbd6830f7a501e35e67f2fcaa57bda) [article](https://testbnull.medium.com/microsoft-exchange-from-deserialization-to-post-auth-rce-cve-2021-28482-e713001d915f)
 - A guest-to-host "Microsoft Hyper-V Remote Code Execution Vulnerability" in vmswitch.sys: [CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476)
-- C# and Impacket implementation of PrintNightmare: [CVE-2021-1675 / CVE-2021-34527](https://github.com/cube0x0/CVE-2021-1675).
+- PrintNightmare:
+  - C# and Impacket implementation of PrintNightmare: [CVE-2021-1675 / CVE-2021-34527](https://github.com/cube0x0/CVE-2021-1675).
+  - Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare): [CVE-2021-1675 - PrintNightmare LPE (PowerShell)](https://github.com/calebstewart/CVE-2021-1675)
+  - Local Privilege Escalation Edition  of: [CVE-2021-1675/CVE-2021-34527](https://github.com/hlldz/CVE-2021-1675-LPE).
+  - [SpoolSploit](https://github.com/BeetleChunks/SpoolSploit): A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.
+  - [current understanding of the #PrintNightmare exploitability flowchart](https://twitter.com/wdormann/status/1412906574998392840/photo/1)
 - [Summer of SAM](https://isc.sans.edu/forums/diary/Summer+of+SAM+incorrect+permissions+on+Windows+1011+hives/27652/): [CVE-2021-36934](https://isc.sans.edu/forums/diary/Summer+of+SAM+Microsoft+Releases+Guidance+for+CVE202136934/27656/)
 - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface. This is possible via other protocols as well: [SpoolSample](https://github.com/leechristensen/SpoolSample) [SpoolerScanner](https://github.com/vletoux/SpoolerScanner) 
 - [Mitigating NTLM Relay Attacks on Active Directory Certificate Services (AD CS)](https://blog.truesec.com/2021/07/25/mitigating-ntlm-relay-attacks-on-active-directory-certificate-services-ad-cs-adv210003-kb5005413-petitpotam/) [PetitPotam](https://github.com/topotam/PetitPotam/): PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw function.
 - [Concealed Position](https://github.com/jacob-baines/concealed_position): Bring your own print driver privilege escalation tool.
 - This Internet Explorer MSHTML remote code execution [vulnerability](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-40444): [CVE-2021-40444](https://www.bleepingcomputer.com/news/microsoft/windows-mshtml-zero-day-defenses-bypassed-as-new-info-emerges/) [CVE-2021-40444 PoC](https://github.com/lockedbyte/CVE-2021-40444)
 - [ZDI-21-1053: Bypassing Windows Lock Screen](https://halove23.blogspot.com/2021/09/zdi-21-1053-bypassing-windows-lock.html)
-- [SpoolSploit](https://github.com/BeetleChunks/SpoolSploit): A collection of Windows print spooler exploits containerized with other utilities for practical exploitation.
 - [aad-sso-enum-brute-spray](https://github.com/treebuilder/aad-sso-enum-brute-spray): POC of SecureWorks' recent Azure Active Directory password brute-forcing vuln
 - noPOC, but almost: [#windows11 Defender bypass (worked for #meterpreter):](https://twitter.com/an0n_r0/status/1449901768947683328) (build 22000)
+- Windows Kernel Information Disclosure POC: [CVE-2021-31955](https://github.com/freeide/CVE-2021-31955-POC)
+- HTTP Protocol Stack Remote Code Execution Vulnerability: [CVE-2021-31166](https://github.com/0vercl0k/CVE-2021-31166) [yara](https://github.com/Neo23x0/signature-base/blob/master/yara/exploit_cve_2021_31166.yar)
+- [Windows User Profile Service 0day LPE](https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html): [CVE-2021-34484](https://github.com/klinix5/ProfSvcLPE) [twit](https://twitter.com/wdormann/status/1451672354241777667)
 
 ## macOS/iOS
 
@@ -216,6 +226,9 @@ Some CVEs PoCs repos on github or internet.
 ## Others
 
 - Tenable a lot of [Proof of Concepts](https://github.com/tenable/poc)
+- [misc PoC - Internet of (In)Security Things](https://github.com/mcw0/PoC):
+  - [Dahua Console](https://github.com/mcw0/DahuaConsole), access internal debug console and/or other researched functions in Dahua devices. Feel free to contribute in this project.
+  - [Geovision Inc. IP Camera](https://github.com/mcw0/PoC/blob/master/Geovision%20IP%20Camera%20Multiple%20Remote%20Command%20Execution%20-%20Multiple%20Stack%20Overflow%20-%20Double%20free%20-%20Unauthorized%20Access.txt), with a lot others in this [repo](https://github.com/mcw0/PoC)
 - [Disclosures](https://github.com/DrunkenShells/Disclosures) by DrunkenShells
 - Apache Tomcat: [CVE-2017-12617](https://github.com/cyberheartmi9/CVE-2017-12617)
 - Palo Alto Networks firewalls: Palo Alto Networks firewalls remote root code execution [CVE-2017-15944](http://seclists.org/fulldisclosure/2017/Dec/38)
@@ -223,7 +236,6 @@ Some CVEs PoCs repos on github or internet.
 - [HOW TO HACK A TURNED-OFF COMPUTER, OR RUNNING UNSIGNED CODE IN INTEL ME](https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine-wp.pdf) (CVE-2017-5705, CVE-2017-5706, CVE-2017-5707), [github](https://github.com/ptresearch/unME11)
 - Nintendo Switch JailBreak PoC:[CVE-2016-4657](https://github.com/iDaN5x/Switcheroo/wiki/Article)
 - [Play with FILE Structure - Yet Another Binary Exploit Technique](https://www.slideshare.net/AngelBoy1/play-with-file-structure-yet-another-binary-exploit-technique)
-- [Geovision Inc. IP Camera](https://github.com/mcw0/PoC/blob/master/Geovision%20IP%20Camera%20Multiple%20Remote%20Command%20Execution%20-%20Multiple%20Stack%20Overflow%20-%20Double%20free%20-%20Unauthorized%20Access.txt), with a lot others in this [repo](https://github.com/mcw0/PoC)
 - [Zero-day vulnerability in Telegram](https://securelist.com/zero-day-vulnerability-in-telegram/83800/)
 - [A Telegram bug that disclose phone numbers of any users in public groups](https://docs.google.com/document/d/e/2PACX-1vRx2wO2kj0axlQtv2CDSjPGlRKJOHtucvpOKGFKybh2eVVGZqvt_JJv-2Q11NHn5Y4um_F4-bgA6q5v/pub)
 - [Bug or Backdoor](https://0x09al.github.io/security/ispconfig/exploit/vulnerability/2018/08/20/bug-or-backdoor-ispconfig-rce.html): Exploiting a Remote Code Execution in ISPConfig by 0x09AL Security blog.
@@ -266,9 +278,9 @@ Some CVEs PoCs repos on github or internet.
 - Apache <= 2.4.48 - Mod_Proxy SSRF: [CVE-2021-40438](https://github.com/projectdiscovery/nuclei-templates/blob/master/cves/2021/CVE-2021-40438.yaml)
 - Say Cheese: [Ransomware-ing a DSLR Camera](https://research.checkpoint.com/say-cheese-ransomware-ing-a-dslr-camera/) -
 
-'''bash
+```bash
 $ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
-'''
+```
 
 - Elasticsearch Kibana Console [CVE-2018-17246](https://twitter.com/IM_23pds/status/1074627634150006784) PoC：
 
@@ -330,6 +342,8 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - F5 BIG-IQ: [CVE-2021-22986](https://github.com/Al1ex/CVE-2021-22986)
 - Pulse Connect Secure: [CVE-2021-22937](https://research.nccgroup.com/2021/08/05/technical-advisory-pulse-connect-secure-rce-via-uncontrolled-archive-extraction-cve-2021-22937-patch-bypass/)
 - Dahua cameras: [CVE-2021-33044 and CVE-2021-33045](https://github.com/bp2008/DahuaLoginBypass)
+- [Mozilla Firefox 88.0.1 - File Extension Execution of Arbitrary Code Exploit](https://0day.today/exploit/36279?__cf_chl_jschl_tk__=pmd_G6m29yFpEw91HdgyhDqA_fgK9zfS4xJgwU6RmcAM_xI-1635293730-0-gqNtZGzNAhCjcnBszQhl) [“CONTENT-TYPE CONFUSION” – UNSAFE CODE EXECUTION](https://besteffortteam.it/mozilla-firefox-content-type-confusion-unsafe-code-execution/)
+- [Zoom RCE from Pwn2Own 2021](https://sector7.computest.nl/post/2021-08-zoom/)
 
 ## Additions
 
