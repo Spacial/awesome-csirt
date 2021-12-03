@@ -98,7 +98,6 @@
 
 ## Malware Analysis
 
-- [Assembly Language / Reversing / Malware Analysis](https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121) - resources
 - Great online [course](https://malwareunicorn.org/workshops/re101.html) by [MalwareUnicorn](https://github.com/securedorg)
 - Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
 - [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
@@ -121,12 +120,10 @@
 - [Malware web and phishing investigation](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) by Decent Security.
 - [A collection of tools for working with TrickBot](https://github.com/MalwareTech/TrickBot-Toolkit)
 - [Forgot About Default Accounts? No Worries, GoScanSSH Didn’t](http://blog.talosintelligence.com/2018/03/goscanssh-analysis.html)
-- [RegRipper](https://github.com/keydet89/RegRipper2.8) version 2.8 (source code)
 - [makin](https://github.com/secrary/makin) - reveal anti-debugging and anti-VM tricks.
 - [TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time](https://arxiv.org/abs/1807.07838)
 - [colental/byob: BYOB (Build Your Own Botnet)](https://github.com/colental/byob), another [byob](https://github.com/malwaredllc/byob)
 - [Source Code for Exobot Android Banking Trojan Leaked Online](https://www.bleepingcomputer.com/news/security/source-code-for-exobot-android-banking-trojan-leaked-online/)
-- [Pegasus: analysis of network behavior](http://blog.ptsecurity.com/2018/07/pegasus-analysis-of-network-behavior.html)
 - [Ramnit’s Network of Proxy Servers](https://research.checkpoint.com/ramnits-network-proxy-servers/)
 - [snake](https://github.com/countercept/snake): a malware storage zoo
 - [A malware analysis kit for the novice](https://www.computerweekly.com/tip/A-malware-analysis-kit-for-the-novice)
@@ -167,7 +164,6 @@
 - [Aleph](https://github.com/merces/aleph): OpenSource /Malware Analysis Pipeline System
 - [Aleph](https://github.com/alephre/aleph): File Analysis Pipeline
 - [Anti-VM Technique with MSAcpi_ThermalZoneTemperature](https://medium.com/@DebugActiveProcess/anti-vm-techniques-with-msacpi-thermalzonetemperature-32cfeecda802), [powershell](https://gist.github.com/teixeira0xfffff/36293713c254c69a7ba2353e8d64afce)
-- [Burned Again by Flame 2.0](https://medium.com/@z3roTrust/burned-again-by-flame-2-0-e749a9afdbde)
 - [AMSI as a Service](https://medium.com/@two06/amsi-as-a-service-automating-av-evasion-2e2f54397ff9) — Automating AV Evasion: AMSI, the “AntiMalware Scan Interface”, has been around for some time. In a broad sense, it’s a component of Windows 10 which allows applications to integrate with AV products, though most people know it for it’s ability to make file-less malware visible to AV engines.
 - [A collection of x64dbg scripts](https://github.com/x64dbg/Scripts). Feel free to submit a pull request to add your script.
 - [multiscanner](https://github.com/mitre/multiscanner): Modular file scanning/analysis framework
@@ -183,7 +179,6 @@
 - [The Tetrade](https://securelist.com/the-tetrade-brazilian-banking-malware/97779/): Brazilian banking malware goes global
 - [Is macOS under the biggest malware attack ever?](https://reverse.put.as/2020/09/17/evilquest-revisited/): EvilQuest/ThiefQuest malware.
 - [Hybrid Analysis](https://www.hybrid-analysis.com/)
-- [MosaicRegressor](https://securelist.com/mosaicregressor/98849/): Lurking in the Shadows of UEFI. [Technical details](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2020/10/05094208/MosaicRegressor_Technical-details.pdf)
 - Evading Static Machine Learning Malware Detection Models – [Part 1: The Black-Box Approach](https://blog.compass-security.com/2020/10/evading-static-machine-learning-malware-detection-models-the-black-box-approach/)
 - [ember](https://github.com/endgameinc/ember): The EMBER dataset is a collection of features from PE files that serve as a benchmark dataset for researchers. 
 - [Complementar resources to follow the EHREM course by GoHacking (Malware Reverse Engineering)](https://github.com/nuxmorpheus/EHREM/)
@@ -226,12 +221,10 @@
 - [virii](https://github.com/guitmz/virii): Collection of ancient computer virus source codes
 - [Detricking TrickBot Loader](https://www.cert.pl/en/news/single/detricking-trickbot-loader/): TrickBot (TrickLoader) is a modular financial malware that first surfaced in October in 20161. Almost immediately researchers have noticed similarities with a credential-stealer called Dyre. It is still believed that those two families might’ve been developed by the same actor. [decoder](https://raw.githubusercontent.com/k-vitali/Malware-Misc-RE/master/2019-07-29-trickbot-decoded-first-loader-template.vk.raw), [tweet](https://twitter.com/VK_Intel/status/1155923795674316801)
 - [Analysis of Emotet v4](https://www.cert.pl/en/news/single/analysis-of-emotet-v4/)
-- [Current Emotet Epoch 2 C2 as of 2019-09-26 07:54 US/Eastern](https://pastebin.com/K3RsCHD3)
 - [abuse.ch Feodo Tracker Botnet C2 IP Blocklist](https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt)
 - [simple_ransomware](https://github.com/bing0o/simple_ransomware): this script isn't ransomware, it's just script collect all your system files and encrypt it, Can be considered it a simple ransomware 
 - [Mirai "Batkek"](https://gist.github.com/unixfreaxjp/2bc9100d167992a768642777d850e1c0)
 - [FinFisher Filleted 🐟](https://objective-see.com/blog/blog_0x4F.html), a triage of the FinSpy (macOS) malware
-- [the Emerald Connection: EquationGroup collaboration with Stuxnet](https://fmmresearch.wordpress.com/2020/09/28/the-emerald-connection-equationgroup-collaboration-with-stuxnet/)
 - [Ryuk’s Return](https://thedfirreport.com/2020/10/08/ryuks-return/)
 - [Ryuk Ransomware](https://community.riskiq.com/article/0bcefe76): Extensive Attack Infrastructure Revealed
 - [Collaboration between FIN7 and the RYUK group, a Truesec Investigation](https://blog.truesec.com/2020/12/22/collaboration-between-fin7-and-the-ryuk-group-a-truesec-investigation/)
@@ -282,7 +275,6 @@
 - [A Ransomware has landed! @Embraer](https://secret.inf.ufpr.br/2020/12/15/a-ransomware-has-landed-embraer/) by SECRET
 - [RANSOMWARE GUIDANCE AND RESOURCES](https://www.cisa.gov/ransomware)
 - [No More Ransom!](https://www.nomoreransom.org/en/index.html)
-- [Internals of DearCry Ransomware !](https://0xthreatintel.medium.com/internals-of-dearcry-ransomware-507b84ae9ba8)
 - [PYSA/Mespinoza Ransomware](https://thedfirreport.com/2020/11/23/pysa-mespinoza-ransomware/)
 - [PYSA Ransomware](https://cyberflorida.org/threat-advisory/pysa-ransomware/)
 - [Mespinoza Analysis — New ransomware variant targets France](https://sapphirex00.medium.com/mespinoza-analysis-new-ransomware-variant-targets-france-d4f82cbee86c)
@@ -895,7 +887,6 @@ I work as a malware analyst and like to share my knowledge.
 ## Phreak
 
 - [ss7MAPer](https://n0where.net/ss7-pentesting-toolkit-ss7maper) ([github](https://github.com/ernw/ss7MAPer))
-- [New SIM attacks de-mystified, protection tools now available](https://srlabs.de/bites/sim_attacks_demystified/)
 - [Into the wild: Gaining access to SS7 - Part 1: Finding an access point](https://0x00sec.org/t/into-the-wild-gaining-access-to-ss7-part-1-finding-an-access-point/12418)
 - [SCTP/SIGTRAN & SS7 Overview](https://sharkfestus.wireshark.org/sharkfest.08/T1-12_Tuexen_SCTP_SIGTRAN%20and%20SS7.pdf)
 - [Security Penetration Test Framework for the Diameter Protocol](https://arxiv.org/ftp/arxiv/papers/1407/1407.6508.pdf)
@@ -915,12 +906,10 @@ I work as a malware analyst and like to share my knowledge.
 - [A 2018 practical guide to hacking RFID/NFC](https://www.slideshare.net/SlawomirJasek/a-2018-practical-buide-to-hacking-rfidnfc)
 - [riscv-ida](https://github.com/lcq2/riscv-ida): RISC-V ISA processor module for IDAPro 7.x
 - [mac-age](https://github.com/hdm/mac-ages): MAC address age tracking
-- [OpenWRT em Mikrotik Routerboard 750](https://wiki.hackstore.com.br/OpenWRT_em_Mikrotik_Routerboard_750_(Linux_on_MIPS_AR7xxx/AR9xxx))
 - [Lexra](https://www.linux-mips.org/wiki/Lexra): Lexra did implement a 32-bit variant of the MIPS architecture.
 - [IntelTEX-PoC](https://github.com/ptresearch/IntelTXE-PoC): Intel Management Engine JTAG Proof of Concept
 - [me_cleaner](https://github.com/corna/me_cleaner): Tool for partial deblobbing of Intel ME/TXE firmware images.
 - [Potential candidate for open source bootloaders? Complete removal of Intel ME firmware possible on certain Intel HEDT/Server platforms](https://www.reddit.com/r/linux/comments/byyxow/potential_candidate_for_open_source_bootloaders/)
-- [me_removal](https://github.com/nkht/me_removal): Testing complete ME removal on Intel HEDT systems
 - [IDA-scripts](https://github.com/secrary/IDA-scripts/): IDAPro scripts/plugins
 - [Something about IR optimization](https://brrt-to-the-future.blogspot.com/2019/03/something-about-ir-optimization.html): Hi hackers! Today I want to write about optimizing IR in the MoarVM JIT, and also a little bit about IR design itself.
 - [Dragonblood](https://wpa3.mathyvanhoef.com/): Analysing WPA3's Dragonfly Handshake
@@ -2927,7 +2916,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [AntiCheat-Testing-Framework](https://github.com/niemand-sec/AntiCheat-Testing-Framework): Framework to test any Anti-Cheat on the market. This can be used as Template or Code Base to test any Anti-Cheat and learn along the way. All this code is the result of a research done for Recon2019 (Montreal).
 - IronPython, darkly: [how we uncovered an attack on government entities in Europe](http://blog.ptsecurity.com/2019/07/ironpython-darkly-how-we-uncovered.html)
 - [inlets](https://github.com/alexellis/inlets): Expose your local endpoints to the Internet
-- Projects released by the Team [intelstorm](https://github.com/intelstormteam/Projects), [papers](https://github.com/intelstormteam/Papers)
+- Papers released by the Intelstorm Team[papers](https://github.com/intelstormteam/Papers)
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi): (⌐■_■) - Deep Reinforcement Learning vs WiFI
 - [spyse.py](https://github.com/zeropwn/spyse.py): Python API wrapper and command-line client for the tools hosted on spyse.com.
 - [Cloning a MAC address to bypass a captive portal](https://fedoramagazine.org/cloning-a-mac-address-to-bypass-a-captive-portal/)
@@ -2952,6 +2941,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [glsnip](https://github.com/bradwood/glsnip): copy and paste across machines
 - [CERTrating](https://certrating.it/)  is the first tool to assess the Maturity Level of CERTs and their services. News: [CERTrating a new Tool to evaluate CERT/CSIRT maturity level](https://securityaffairs.co/wordpress/93705/hacking/certrating-tool.html)
 - [Cybersecurity Maturity Model Certification (CMMC)](https://www.acq.osd.mil/cmmc/)
+- [What is the Cybersecurity Maturity Model Certification (CMMC)](https://logit.io/blog/post/what-is-cmmc)
+- [Who needs to have Cybersecurity Maturity Model Certification (CMMC)](https://logit.io/blog/post/who-needs-cmmc-certification)
 - [Security Tools](https://www.rediris.es/cert/tools/): Most of the links listed here goes to the original sites.
 - [Find Virtual Hosts for Any IP Address](https://pentest-tools.com/information-gathering/find-virtual-hosts)
 - [ngrok](https://github.com/inconshreveable/ngrok): Introspected tunnels to localhost
