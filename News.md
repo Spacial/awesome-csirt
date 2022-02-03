@@ -184,6 +184,7 @@
 - [Experts Uncover 'Crutch' Russian Malware Used in APT Attacks for 5 Years](https://thehackernews.com/2020/12/experts-uncover-crutch-russian-malware.html)
 - [The Tetrade: Brazilian banking malware goes global](https://securelist.com/the-tetrade-brazilian-banking-malware/97779/)
 - [Your critical infrastructure bug won't be fixed and this is why](https://naehrdine.blogspot.com/2020/12/your-critical-infrastructure-bug-wont.html)
+- [China's Army Now Has Killer Robots: Meet the 'Sharp Claw'](https://nationalinterest.org/blog/buzz/chinas-army-now-has-killer-robots-meet-sharp-claw-145302)
 
 ## 2021 
 
@@ -289,6 +290,19 @@
 - [Eberspächer Group’s infrastructure has been offline for days in a cyberattack (I believe ransomware).](https://twitter.com/GossiTheDog/status/1453285269751410689)
 - [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
 - [Sushi has paid a bounty of $1M in USDC](https://twitter.com/josephdelong/status/1431314816698916865?s=09) #bughunt
+- [An update on 0day CVE-2021-43798: Grafana directory traversal](https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/)
+- [Ransomware gangs are abusing a zero-day in EntroLink VPN appliances](https://therecord.media/ransomware-gangs-are-abusing-a-zero-day-in-entrolink-vpn-appliances/)
+- [Researchers Uncover 'Pink' Botnet Malware That Infected Over 1.6 Million Devices](https://thehackernews.com/2021/11/researchers-uncover-pink-botnet-malware.html)
+- [Zoom Supports Continued Access for Basic Users with Advertising Program](https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/)
+- [Microsoft cannot advertise themselves as the security leader with 8000 security employees and trillions of signals if they cannot prevent their own Office365 platform being directly used to launch Conti ransomware.](https://twitter.com/GossiTheDog/status/1449087925740838922)
+- [Antitrust battle latest: Google, Facebook 'colluded' to smash Apple's privacy protections](https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/)
+- [The US is worried that hackers are stealing data today so quantum computers can crack it in a decade](https://www.technologyreview.com/2021/11/03/1039171/hackers-quantum-computers-us-homeland-security-cryptography/)
+- [Addition of Certain Entities to the Entity List](https://www.federalregister.gov/documents/2021/11/04/2021-24123/addition-of-certain-entities-to-the-entity-list), Bureau of Industry and Security, Commerce.
+- [Kape Technologies/Crossrider: Owns multiple VPNs (ExpressVPN, PIA, CyberGhost, Zenmate), antivirus (Intego, Restoro) etc](https://twitter.com/hackermaderas/status/1456084748569354243)
+
+### 2022
+
+- [Spamhaus Botnet Threat Update: Q4-2021](https://www.spamhaus.org/news/article/817/spamhaus-botnet-threat-update-q4-2021)
 
 ## Politics
 
