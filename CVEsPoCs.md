@@ -49,6 +49,7 @@ Some CVEs PoCs repos on github or internet.
 - [A Local Privilege Escalation Vulnerability in Linux’s Filesystem Layer](https://blog.qualys.com/vulnerabilities-threat-research/2021/07/20/sequoia-a-local-privilege-escalation-vulnerability-in-linuxs-filesystem-layer-cve-2021-33909): [cve-2021-33909-crasher.c](cve-2021-33909-crasher.c) [cve-2021-33910-crasher.c](cve-2021-33910-crasher.c)
 - [Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/)
 - Remote Linux Kernel Heap Overflow | TIPC Module Allows Arbitrary Code Execution: [CVE-2021-43267](https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/)
+- PoC for [CVE-2021-4034](https://seclists.org/oss-sec/2022/q1/80): [blasty-vs-pkexec.c](https://haxx.in/files/blasty-vs-pkexec.c)
 
 ## Solaris
 

@@ -303,6 +303,8 @@
 ### 2022
 
 - [Spamhaus Botnet Threat Update: Q4-2021](https://www.spamhaus.org/news/article/817/spamhaus-botnet-threat-update-q4-2021)
+- [iPhone flaw exploited by second Israeli spy firm-sources](https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/)
+- [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
 
 ## Politics
 

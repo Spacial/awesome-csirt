@@ -90,7 +90,8 @@
 
 - [MD5 Decryption](https://www.md5online.org/md5-decrypt.html)
 - [SHA-1 is a Shambles](https://sha-mbles.github.io/): First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust
-  
+- [Sha256 Algorithm Explained](https://sha256algorithm.com/) [code](https://github.com/dmarman/sha256algorithm)
+
 ## CVEs
 
 - Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md) and in [here](https://github.com/Spacial/csirt/tree/master/PoCs)
@@ -215,6 +216,7 @@
 - [Corvus](https://corvus.inf.ufpr.br/): is a dynamic analysis system for malware targeting Windows, Linux, Android and PDFs. Behavioral heuristics are also applied to identify suspicious activities exhibited by unknown programs. [API](https://corvus.inf.ufpr.br/docs/api.html)
 - [MalAPI.io](https://malapi.io/) maps Windows APIs to common techniques used by malware. 
 - [Malicious Document Analysis: Example 1](https://exploitreversing.com/2021/11/02/malicious-document-analysis-example-1/) [mda](https://exploitreversing.files.wordpress.com/2021/11/mda_1-1.pdf)
+- [APIVADS](https://ieeexplore.ieee.org/document/9690881): A Novel Privacy-Preserving Pivot Attack Detection Scheme Based On Statistical Pattern Recognition
 
 ### Web Malwares
 
@@ -744,6 +746,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Package Hunter](https://gitlab.com/gitlab-org/security-products/package-hunter): A tool for identifying malicious dependencies via runtime monitoring.
 - [What science can tell us about C and C++'s security](https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/)
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec): A curated list of resources for learning about application security.
+- [Comments on build reproducibility](https://gist.github.com/brl/c55ab5d2633f366b680b5a7cca718f85)
 
 ### Web Training
 
@@ -815,7 +818,7 @@ I work as a malware analyst and like to share my knowledge.
 ### Fuzzing
 
 - [Generating Software Tests](https://www.fuzzingbook.org/) ([github](https://github.com/uds-se/fuzzingbook/))
-- [afl-unicorn](https://hackernoon.com/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf):  Fuzzing Arbitrary Binary Code
+- [afl-unicorn](https://hackernoon.com/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf): Fuzzing Arbitrary Binary Code
 - [Regaxor](https://github.com/0xSobky/Regaxor): A regular expression fuzzer
 - [BrokenType](https://github.com/google/BrokenType): TrueType and OpenType font fuzzing toolset
 - [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
@@ -835,10 +838,12 @@ I work as a malware analyst and like to share my knowledge.
 - [Jackalope](https://github.com/googleprojectzero/Jackalope): Binary, coverage-guided fuzzer for Windows and macOS
 - [Fuzzing sockets: Apache HTTP, Part 2: Custom Interceptors](https://securitylab.github.com/research/fuzzing-apache-2/)
 - [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus): The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! 
-- [s a n d s i f t e r](https://github.com/Battelle/sandsifter): The x86 processor fuzzer.
+- [sandsifter](https://github.com/Battelle/sandsifter): The x86 processor fuzzer.
 - [Fuzzing-101](https://github.com/antonio-morales/Fuzzing101): Do you want to learn how to fuzz like a real expert, but don't know how to start?
 - [The Challenges of Fuzzing 5G Protocols](https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/)
 - [Fuzzing Workshops](http://fuzzing.in/)
+- [AFLNet](https://github.com/aflnet/aflnet): A Greybox Fuzzer for Network Protocols.
+- [ClusterFuzz](https://google.github.io/clusterfuzz/): is a scalable fuzzing infrastructure that finds security and stability issues in software.
 
 ### API
 
@@ -1136,6 +1141,8 @@ I work as a malware analyst and like to share my knowledge.
 - [Filesec.io](https://filesec.io/): Stay up-to-date with the latest file extensions being used by attackers.
 - [EMBArk](https://github.com/e-m-b-a/embark): The firmware security scanning environment
 - [EMBA](https://github.com/e-m-b-a/emba): The security analyzer for embedded device firmware.
+- [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim): My experiments in weaponizing Nim.
+- [White Box Penetration Testing: “Cheating” in order to boost impact and value](https://hackermindset.me/white-box-penetration-testing-cheating-in-order-to-boost-impact-and-value-939e96b77331)
 
 ### Reconnaissance
 
@@ -1207,6 +1214,7 @@ I work as a malware analyst and like to share my knowledge.
   - [ThreadBoat](https://github.com/cutesunshine/ThreadBoat): Program uses Thread Execution Hijacking to Inject Native Shellcode into a Standard Win32 Application
   - [Excel4-DCOM](https://github.com/outflanknl/Excel4-DCOM): PowerShell and Cobalt Strike scripts for lateral movement using Excel 4.0 / XLM macros via DCOM (direct shellcode injection in Excel.exe).
   - [MaliciousMacroMSBuild](https://github.com/infosecn1nja/MaliciousMacroMSBuild): Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass.
+  - [SnapLoader](https://gitlab.com/ORCA666/snaploader): Injecting shellcode into 'ntdll.dll' address space in target process, and hijacking its thread without calling GetThreadContext, evading memory scanners, and more ...
 - Linux:
   - [Linux x86 Reverse Shell Shellcode](https://exploit.kitploit.com/2018/01/linux-x86-reverse-shell-shellcode.html)
   - [mem-loader.asm](https://gist.github.com/zznop/0117c24164ee715e750150633c7c1782): Fun little loader shellcode that executes an ELF in-memory using an anonymous file descriptor (inspired by [x-c3ll](https://x-c3ll.github.io/posts/fileless-memfd_create/)
@@ -1502,6 +1510,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [How I Found My First Ever ZeroDay (In RDP)](https://www.malwaretech.com/2020/12/how-i-found-my-first-ever-zeroday-in-rdp.html)
 - Learning Linux Kernel Exploitation: [Part 1](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/), [Part 2](https://lkmidas.github.io/posts/20210128-linux-kernel-pwn-part-2/)
 - [SharpSelfDelete](https://github.com/klezVirus/SharpSelfDelete): C# implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs
+- [preeny](https://github.com/zardus/preeny): Some helpful preload libraries for pwning stuff.
+- [Exploits, Vulnerabilities and Payloads: Practical Introduction](https://www.infosecmatter.com/exploits-vulnerabilities-and-payloads-practical-introduction/)
 
 ### Payloads
 
@@ -1554,6 +1564,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Bug Bounty Resources](https://reconshell.com/bug-bounty-resources/)
 - [Google Bug Hunters](https://bughunters.google.com/) Welcome to Google's Bug Hunting community
 - [0-Day Hunting (Chaining Bugs/Methodology)](https://blog.riotsecurityteam.com/0day-chains)
+- [KingOfBugBounty Project](https://github.com/KingOfBugbounty/KingOfBugBountyTips): Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters..
 
 #### Web Exploitation
 
@@ -1728,6 +1739,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 ##### Burp Suite
 
 - [Burp Suite Cheat Sheet](https://www.sans.org/security-resources/posters/pen-testing/burp-suite-cheat-sheet-280)
+- [Burp Suite Academy](https://www.deepfryd.com/burp-academy-apprentice/)
 - REST Assured: Penetration Testing REST APIs Using Burp Suite:
   - [Part 1 – Introduction & Configuration](https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-1-introduction-configuration/)
   - [Part 2 – Testing](https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-2-testing/)
@@ -2391,8 +2403,6 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [windowsblindread](https://github.com/soffensive/windowsblindread): A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system
 - [azucar](https://github.com/nccgroup/azucar): Security auditing tool for Azure environments
 - [volatility-wnf](https://github.com/citronneur/volatility-wnf): Browse and dump Windows Notification Facilities.
-- [NetNTLMtoSilverTicket](https://github.com/NotMedic/NetNTLMtoSilverTicket): SpoolSample -> Responder w/NetNTLM Downgrade -> NetNTLMv1 -> NTLM -> Kerberos Silver Ticket.
-- [Domain Goodness](https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer/) – How I Learned to LOVE AD Explorer
 - [Yet another sdclt UAC bypass](http://blog.sevagas.com/?Yet-another-sdclt-UAC-bypass): As often with UAC, the flaw comes from an auto-elevated process. These processes have the particularity to run with high integrity level without prompting the local admin with the usual UAC window.
 - [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development): windows kernel security development.
 - [ALPC-BypassUAC](https://github.com/DimopoulosElias/alpc-mmc-uac-bypass): UAC Bypass with mmc via alpc.
@@ -2521,6 +2531,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [LACheck](https://github.com/mitchmoser/LACheck): Multithreaded C# .NET Assembly Local Administrative Privilege Enumeration.
 - [awesome_windows_logical_bugs](https://github.com/sailay1996/awesome_windows_logical_bugs/): collect for learning cases
 - [Attacking RDP from Inside](https://www.cyberark.com/resources/threat-research-blog/attacking-rdp-from-inside): How we abused named pipes for smart-card hijacking, unauthorized file system access to client machines and more
+- [Dynamic Invocation in .NET to bypass hooks](https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/)
+- [LowBox Token Permissive Learning Mode](https://www.tiraniddo.dev/2021/09/lowbox-token-permissive-learning-mode.html)
+- [DInjector](https://github.com/snovvcrash/DInjector/): Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL.
 
 #### Active Directory
 
@@ -2562,8 +2575,11 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   - [Kerberos basics & (ab)use of Certificates within Active Directory (i.e. AD CS and PKINIT)](https://twitter.com/_nwodtuhs/status/1451510341041594377/photo/1)
   - [Kerberos Resource-Based Constrained Delegation](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2019/august/kerberos-resource-based-constrained-delegation-when-an-image-change-leads-to-a-privilege-escalation/): When an Image Change Leads to a Privilege Escalation
   - [New-KrbtgtKeys.ps1](https://github.com/microsoft/New-KrbtgtKeys.ps1): This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.
+  - [Kerberos cheatsheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a): A cheatsheet with commands that can be used to perform kerberos attacks.
 - [Bypassing AD account lockout for a compromised account](https://medium.com/@markmotig/bypassing-ad-account-lockout-for-a-compromised-account-5c908d663de8)
 - [Azure AD and ADFS best practices](https://www.microsoft.com/en-us/microsoft-365/blog/2018/03/05/azure-ad-and-adfs-best-practices-defending-against-password-spray-attacks/): Defending against password spray attacks
+- [NetNTLMtoSilverTicket](https://github.com/NotMedic/NetNTLMtoSilverTicket): SpoolSample -> Responder w/NetNTLM Downgrade -> NetNTLMv1 -> NTLM -> Kerberos Silver Ticket.
+- [Domain Goodness](https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer/) – How I Learned to LOVE AD Explorer
 - [windapsearch](https://github.com/ropnop/windapsearch): Python script to enumerate users, groups and computers from a Windows domain through LDAP queries
 - [LDAP Ping and Determining Your Machine’s Site](https://blog.joeware.net/2019/03/31/5935/)
 - [Non-Admin NTLM Relaying & ETERNALBLUE Exploitation](https://medium.com/@technicalsyn/eternalrelayx-py-non-admin-ntlm-relaying-eternalblue-exploitation-dab9e2b97337)
@@ -2602,6 +2618,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Shooting Up: On-Prem to Cloud — Detecting “AADConnect” Creds Dump](https://imphash.medium.com/shooting-up-on-prem-to-cloud-detecting-aadconnect-creds-dump-422b21128729)
 - [AADInternals](https://github.com/Gerenios/AADInternals): PowerShell module for administering Azure AD and Office 365.
 - [From Zero to Domain Admin](https://thedfirreport.com/2021/11/01/from-zero-to-domain-admin/)
+- [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
+- [Offensive WMI - Active Directory Enumeration](https://0xinfection.github.io/posts/wmi-basics-part-1/) - Part [2](https://0xinfection.github.io/posts/wmi-classes-methods-part-2/), [3](https://0xinfection.github.io/posts/wmi-registry-part-3/), [4](https://0xinfection.github.io/posts/wmi-recon-enum/) and [5](https://0xinfection.github.io/posts/wmi-ad-enum/).
+- [BloodyAD](https://github.com/CravateRouge/bloodyAD) is an Active Directory Privilege Escalation Framework.
 
 ##### Mimikatz
 
@@ -2654,6 +2673,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [PSBits](https://github.com/gtworek/PSBits): Simple (relatively) things allowing you to dig a bit deeper than usual.
 - [Evading Detection: A Beginner's Guide to Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)
 - [comsvcs MiniDump examples](https://gist.github.com/JohnLaTwC/3e7dd4cd8520467df179e93fb44a434e)
+- [Beginning PowerShell Empire - Packet Analysis](https://www.securitynik.com/2022/02/beginning-powershell-empire-packet.html)
 
 #### Office and O/365
 
@@ -2849,6 +2869,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [64-bit Linux stack smashing tutorial: Part 1](https://blog.techorganic.com/2015/04/10/64-bit-linux-stack-smashing-tutorial-part-1/)
 - [Hardening ELF binaries using Relocation Read-Only (RELRO)](https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro)
 - [Linux Threat Report 2021 1H](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/linux-threat-report-2021-1h-linux-threats-in-the-cloud-and-security-recommendations)
+- [Learning Linux Kernel Exploitation - Part 1](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/) [Part 2](https://lkmidas.github.io/posts/20210128-linux-kernel-pwn-part-2/)
 
 ### Cloud
 
@@ -2917,6 +2938,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [NERC CIP](https://www.nerc.com/pa/Stand/Pages/CIPStandards.aspx)
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 - [hcltm](https://github.com/xntrik/hcltm): Documenting your Threat Models with HCL.
+- [Risk Management Framework for Systems and Organizations Introductory Course](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html)
+
 
 ### Guidelines
 
@@ -3293,6 +3316,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - (pt-br) [OSCP — Meu caminho até a terra prometida.](https://lfgrillo83.medium.com/oscp-meu-caminho-at%C3%A9-a-terra-prometida-844f029f3e22)
 - [psylinux](https://github.com/psylinux/Presentations)
 - [How I Passed OSCP with 100 points in 12 hours without Metasploit in my first attempt](https://infosecwriteups.com/how-i-passed-oscp-with-100-points-in-12-hours-without-metasploit-in-my-first-attempt-dc8d03366f33)
+- [SOC Core Skills w/ John Strand](https://www.antisyphontraining.com/soc-core-skills-w-john-strand/)
 
 ### Conferences and Slides
 
@@ -3404,7 +3428,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Read the Pentagon’s 20-Page Report on Its Own Meme](https://www.vice.com/en/article/v7m9dy/read-the-pentagons-20-page-report-on-its-own-meme)
 - [Bezmenov’s Steps (Ideological Subversion)](https://unintendedconsequenc.es/bezmenovs-steps/)
 - [PAUL LAZARSFELD—THE FOUNDER OF MODERN EMPIRICAL SOCIOLOGY: A RESEARCH BIOGRAPHY](https://ropercenter.cornell.edu/sites/default/files/pdf/130229.pdf)
-- [Influence Operations 101 - Media Effects](http://forces.systems/io/tutorials/influenceops101/index.html)
+- [Influence Operations 101 - Media Effects](http://forces.systems/io/tutorials/influenceops101/index.html) [video](https://www.youtube.com/watch?v=udNfOWi153g)
 - [Hazard Mapping](https://medium.com/mule-design/hazard-mapping-e0b99b7ebd29): The information architecture of ethics, a draft proposal
 - [Cognitive Warfare](https://www.innovationhub-act.org/sites/default/files/2021-01/20210122_CW%20Final.pdf)
 
