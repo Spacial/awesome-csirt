@@ -184,7 +184,11 @@
 - [Experts Uncover 'Crutch' Russian Malware Used in APT Attacks for 5 Years](https://thehackernews.com/2020/12/experts-uncover-crutch-russian-malware.html)
 - [The Tetrade: Brazilian banking malware goes global](https://securelist.com/the-tetrade-brazilian-banking-malware/97779/)
 - [Your critical infrastructure bug won't be fixed and this is why](https://naehrdine.blogspot.com/2020/12/your-critical-infrastructure-bug-wont.html)
+<<<<<<< HEAD
 - [Lazarus covets COVID-19-related intelligence](https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/)
+=======
+- [China's Army Now Has Killer Robots: Meet the 'Sharp Claw'](https://nationalinterest.org/blog/buzz/chinas-army-now-has-killer-robots-meet-sharp-claw-145302)
+>>>>>>> 00ea8f638c49ff26b6b6b3124be0af9e23223218
 
 ## 2021 
 
@@ -275,9 +279,44 @@
 - [QOMPLX Reboots Punkspider](https://www.globenewswire.com/da/news-release/2021/07/20/2265860/0/en/QOMPLX-Reboots-Punkspider.html)
 - [LockBit ransomware now encrypts Windows domains using group policies](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-encrypts-windows-domains-using-group-policies/)
 - [Pegasus spyware found on journalists’ phones, French intelligence confirms](https://www.theguardian.com/news/2021/aug/02/pegasus-spyware-found-on-journalists-phones-french-intelligence-confirms)
+- [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/)
 - [Detecting Cobalt Strike: Government-Sponsored Threat Groups](https://www.secureworks.com/blog/detecting-cobalt-strike-government-sponsored-threat-groups)
 - Alert (AA21-209A): [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
+<<<<<<< HEAD
 >>>>>>> d975a59187be5b0b6751e8c907c53df3e9e5f104
+=======
+- [$600m in cryptocurrencies swiped from Poly Network](https://www.theregister.com/2021/08/10/poly_networks_cryptocurrency_theft/)
+- [‘DeepBlueMagic’ - Newly Discovered Ransomware With Unique Modus Operandi](https://www.ehackingnews.com/2021/08/deepbluemagic-newly-discovered.html)
+- [TrickBot Employs Bogus 1Password Installer to Launch Cobalt Strike](https://www.ehackingnews.com/2021/08/trickbot-employs-bogus-1password.html)
+- [LockFile Ransomware Bypasses Protection Using Intermittent File Encryption](https://thehackernews.com/2021/08/lockfile-ransomware-bypasses-protection.html)
+- [FBI Reportedly Exposed Secret Terrorist Watchlist](https://www.securityweek.com/fbi-reportedly-exposed-secret-terrorist-watchlist)
+- [Afghans scramble to delete digital history, evade biometrics](https://www.reuters.com/article/afghanistan-tech-conflict-idUSL8N2PO1FH)
+- [Cryptominer z0Miner Uses Newly Discovered Vulnerability CVE-2021-26084 to Its Advantage](https://www.trendmicro.com/en_us/research/21/i/cryptominer-z0miner-uses-newly-discovered-vulnerability-cve-2021.html)
+- [Financially motivated actor breaks certificate parsing to avoid detection](https://blog.google/threat-analysis-group/financially-motivated-actor-breaks-certificate-parsing-avoid-detection/)
+- [BlackByte ransomware decryptor released](https://www.zdnet.com/article/blackbyte-ransomware-decryptor-released/)
+- [Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification](https://www.infoq.com/news/2021/04/intel-hidden-instructions/)
+- [Bizzaro: Brazilian Trojan ensued as sophisticated backdoor risking European & U.S. Banks](https://www.secureblink.com/cyber-security-news/bizzaro:-brazilian-trojan-ensued-as-sophisticated-backdoor-risking-european-and-u.s.-banks)
+- [Malware Can Use This Trick to Bypass Ransomware Defense in Antivirus Solutions](https://thehackernews.com/2021/06/malware-can-use-this-trick-to-bypass.html)
+- [NSA warns of threat actors compromising entire 5G networks via cloud systems](https://therecord.media/nsa-warns-of-threat-actors-compromise-entire-5g-networks-via-cloud-systems/)
+- [Eberspächer Group’s infrastructure has been offline for days in a cyberattack (I believe ransomware).](https://twitter.com/GossiTheDog/status/1453285269751410689)
+- [Beg Bounties](https://www.troyhunt.com/beg-bounties/)
+- [Sushi has paid a bounty of $1M in USDC](https://twitter.com/josephdelong/status/1431314816698916865?s=09) #bughunt
+- [An update on 0day CVE-2021-43798: Grafana directory traversal](https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/)
+- [Ransomware gangs are abusing a zero-day in EntroLink VPN appliances](https://therecord.media/ransomware-gangs-are-abusing-a-zero-day-in-entrolink-vpn-appliances/)
+- [Researchers Uncover 'Pink' Botnet Malware That Infected Over 1.6 Million Devices](https://thehackernews.com/2021/11/researchers-uncover-pink-botnet-malware.html)
+- [Zoom Supports Continued Access for Basic Users with Advertising Program](https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/)
+- [Microsoft cannot advertise themselves as the security leader with 8000 security employees and trillions of signals if they cannot prevent their own Office365 platform being directly used to launch Conti ransomware.](https://twitter.com/GossiTheDog/status/1449087925740838922)
+- [Antitrust battle latest: Google, Facebook 'colluded' to smash Apple's privacy protections](https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/)
+- [The US is worried that hackers are stealing data today so quantum computers can crack it in a decade](https://www.technologyreview.com/2021/11/03/1039171/hackers-quantum-computers-us-homeland-security-cryptography/)
+- [Addition of Certain Entities to the Entity List](https://www.federalregister.gov/documents/2021/11/04/2021-24123/addition-of-certain-entities-to-the-entity-list), Bureau of Industry and Security, Commerce.
+- [Kape Technologies/Crossrider: Owns multiple VPNs (ExpressVPN, PIA, CyberGhost, Zenmate), antivirus (Intego, Restoro) etc](https://twitter.com/hackermaderas/status/1456084748569354243)
+
+### 2022
+
+- [Spamhaus Botnet Threat Update: Q4-2021](https://www.spamhaus.org/news/article/817/spamhaus-botnet-threat-update-q4-2021)
+- [iPhone flaw exploited by second Israeli spy firm-sources](https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/)
+- [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
+>>>>>>> 00ea8f638c49ff26b6b6b3124be0af9e23223218
 
 ## Politics
 
@@ -327,6 +366,8 @@
 - [Russian Poet Dmitry Bykov Targeted by Navalny Poisoners](https://www.bellingcat.com/news/2021/06/09/russian-poet-dmitry-bykov-targeted-by-navalny-poisoners/)
 - [A Timeline of CIA Atrocities](http://www.huppi.com/kangaroo/CIAtimeline.html)
 - [MI5 Director General Ken McCallum gave his annual threat update today, 14 July 2021, which was filmed at our headquarters in Thames House, London.](https://www.mi5.gov.uk/news/director-general-ken-mccallum-gives-annual-threat-update-2021)
+- [Attrition.org](https://attrition.org/),is a computer security web site dedicated to the collection, dissemination and distribution of information about the security industry for anyone interested in the subject. [Charlatans - EC-Council (ECC)](https://attrition.org/errata/charlatan/ec-council/)
+- [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
 
 ### Online Voting
 
