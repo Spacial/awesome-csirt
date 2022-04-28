@@ -2261,7 +2261,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [ja3](https://github.com/salesforce/ja3) is a standard for creating SSL client fingerprints in an easy to produce and shareable way. 
 - [Threat Hunting Process](https://github.com/rcfontana/ContentSharing)
 - [Threat Hunting Princiĺes](https://github.com/sbousseaden/Slides)
-- Some repos from hunters-forge: [API-To-Event](https://github.com/hunters-forge/API-To-Event), [notebooks-forge](https://github.com/hunters-forge/notebooks-forge), [BloodHound Notebooks](https://github.com/hunters-forge/bloodhound-notebooks)
+- [TypeDB CTI](https://github.com/typedb-osi/typedb-data-cti): [Open Source Threat Intelligence Platform](https://blog.vaticle.com/introducing-a-knowledge-graph-for-cyber-threat-intelligence-with-typedb-bdb559a92d2a)
+ - Some repos from hunters-forge: [API-To-Event](https://github.com/hunters-forge/API-To-Event), [notebooks-forge](https://github.com/hunters-forge/notebooks-forge), [BloodHound Notebooks](https://github.com/hunters-forge/bloodhound-notebooks)
 - [Yeti](https://github.com/yeti-platform/yeti): [Your Everyday](https://yeti-platform.github.io/) [Threat Intelligence](https://github.com/fr0gger/yeti)
 - [Watcher](https://github.com/Felix83000/Watcher): Open Source Cybersecurity Threat Hunting Platform. Developed with Django & React JS.
 - Network Analysys:
