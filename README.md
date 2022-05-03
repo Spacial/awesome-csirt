@@ -529,6 +529,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Defeating Code Obfuscation with Angr](https://napongizero.github.io/blog/Defeating-Code-Obfuscation-with-Angr)
 - [ghidra2frida](https://security.humanativaspa.it/ghidra2frida-the-new-bridge-between-ghidra-and-frida/): The new bridge between Ghidra and Frida. [repo](https://github.com/federicodotta/ghidra2frida) [scripts](https://github.com/federicodotta/ghidra2frida/tree/main/java_python_examples)
 - [ghidra-scripts](https://github.com/federicodotta/ghidra-scripts/): A collection of my Ghidra scripts.
+- [Reversing Raw Binary Firmware Files in Ghidra](https://gist.github.com/nstarke/ed0aba2c882b8b3078747a567ee00520)
 
 ## Frameworks
 
@@ -1209,6 +1210,7 @@ I work as a malware analyst and like to share my knowledge.
 - [SuperEnum](https://github.com/p4pentest/SuperEnum): This script does the basic enumeration of any open port along with screenshots.
 - [Domain Dossier](https://centralops.net/co/): The Domain Dossier tool generates reports from public records about domain names and IP addresses to help solve problems, investigate cybercrime, or just better understand how things are set up.
 - [X41 BeanStack](https://beanstack.io/): Java Fingerprinting using Stack Traces
+- [Skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty): Dangerously fast DNS/network/port scanner.
 
 ### WebShells
 
@@ -1963,7 +1965,6 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [DNSExfiltrator](https://github.com/Arno0x/DNSExfiltrator): Data exfiltration over DNS request covert channel
 - [Data Exfiltration using Linux Binaries](https://www.hackingarticles.in/data-exfiltration-using-linux-binaries/)
 - [Exploring the WDAC Microsoft Recommended Block Rules: kill.exe](https://twitter.com/bohops/status/1324563760967753730/photo/3). lolbin/lolbas
-- [I found a way to download arbitrary files with AppInstaller.exe (signed by MS). start ms-appinstaller://?source=<url>](https://twitter.com/notwhickey/status/1333900137232523264) lolbin/lolbas
 - MSOXMLED.EXE - [Desperate downloader](https://www.hexacorn.com/blog/2021/02/05/desperate-downloader-lolbin/)
 - LOLBIN/LOLBAS:
   - [Exploring the WDAC Microsoft Recommended Block Rules: kill.exe](https://twitter.com/bohops/status/1324563760967753730/photo/3). lolbin/lolbas
@@ -2680,6 +2681,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Attacking Active Directory: 0 to 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
 - [Offensive WMI - Active Directory Enumeration](https://0xinfection.github.io/posts/wmi-basics-part-1/) - Part [2](https://0xinfection.github.io/posts/wmi-classes-methods-part-2/), [3](https://0xinfection.github.io/posts/wmi-registry-part-3/), [4](https://0xinfection.github.io/posts/wmi-recon-enum/) and [5](https://0xinfection.github.io/posts/wmi-ad-enum/).
 - [BloodyAD](https://github.com/CravateRouge/bloodyAD) is an Active Directory Privilege Escalation Framework.
+- [SID filter as security boundary between domains? (Part 7) - Trust account attack - from trusting to trusted](https://improsec.com/tech-blog/sid-filter-as-security-boundary-between-domains-part-7-trust-account-attack-from-trusting-to-trusted)
 
 ##### Mimikatz
 
@@ -3351,6 +3353,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [pwn.college](https://pwn.college/) is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion. It is designed to take a “white belt” in cybersecurity to becoming a “blue belt”, able to approach (simple) CTFs and wargames. The philosophy of pwn.college is “practice makes perfect”.
 - ['pwnable.kr'](https://pwnable.kr/) is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. the main purpose of pwnable.kr is 'fun'.
 - [Pwnable.tw](https://pwnable.tw/) is a wargame site for hackers to test and expand their binary exploiting skills.
+- [Security Zines](https://securityzines.com/#comics): graphical way of learning concepts of Application & Web Security.
 
 ### Training and Certifications
 

@@ -184,13 +184,10 @@
 - [Experts Uncover 'Crutch' Russian Malware Used in APT Attacks for 5 Years](https://thehackernews.com/2020/12/experts-uncover-crutch-russian-malware.html)
 - [The Tetrade: Brazilian banking malware goes global](https://securelist.com/the-tetrade-brazilian-banking-malware/97779/)
 - [Your critical infrastructure bug won't be fixed and this is why](https://naehrdine.blogspot.com/2020/12/your-critical-infrastructure-bug-wont.html)
-<<<<<<< HEAD
 - [Lazarus covets COVID-19-related intelligence](https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/)
-=======
 - [China's Army Now Has Killer Robots: Meet the 'Sharp Claw'](https://nationalinterest.org/blog/buzz/chinas-army-now-has-killer-robots-meet-sharp-claw-145302)
->>>>>>> 00ea8f638c49ff26b6b6b3124be0af9e23223218
 
-## 2021 
+## 2021
 
 - [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 - [ANNOUNCING PWN2OWN VANCOUVER 2021](https://www.zerodayinitiative.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021)
@@ -282,9 +279,6 @@
 - [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/)
 - [Detecting Cobalt Strike: Government-Sponsored Threat Groups](https://www.secureworks.com/blog/detecting-cobalt-strike-government-sponsored-threat-groups)
 - Alert (AA21-209A): [Top Routinely Exploited Vulnerabilities](https://us-cert.cisa.gov/ncas/alerts/aa21-209a)
-<<<<<<< HEAD
->>>>>>> d975a59187be5b0b6751e8c907c53df3e9e5f104
-=======
 - [$600m in cryptocurrencies swiped from Poly Network](https://www.theregister.com/2021/08/10/poly_networks_cryptocurrency_theft/)
 - [‘DeepBlueMagic’ - Newly Discovered Ransomware With Unique Modus Operandi](https://www.ehackingnews.com/2021/08/deepbluemagic-newly-discovered.html)
 - [TrickBot Employs Bogus 1Password Installer to Launch Cobalt Strike](https://www.ehackingnews.com/2021/08/trickbot-employs-bogus-1password.html)
@@ -316,7 +310,8 @@
 - [Spamhaus Botnet Threat Update: Q4-2021](https://www.spamhaus.org/news/article/817/spamhaus-botnet-threat-update-q4-2021)
 - [iPhone flaw exploited by second Israeli spy firm-sources](https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/)
 - [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
->>>>>>> 00ea8f638c49ff26b6b6b3124be0af9e23223218
+- [Taiwan should adopt a “broken nest” policy and destroy TSMC in wake of any Chinese invasion, suggests US military paper](https://www.datacenterdynamics.com/en/news/taiwan-should-adopt-a-broken-nest-policy-and-destroy-tsmc-in-wake-of-any-chinese-invasion-suggests-us-military-paper/)
+- [UK Government Officials Infected with Pegasus](https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/)
 
 ## Politics
 
