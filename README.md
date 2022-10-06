@@ -633,6 +633,7 @@ I work as a malware analyst and like to share my knowledge.
   - [Decode.Tools](https://malware.expert/general/decode-tools-decode-php-obfuscator-by-fopo/): Decode PHP Obfuscator by FOPO
 - Ruby:
   - [TSS - Threshold Secret Sharing](https://github.com/grempe/tss-rb): A Ruby implementation of Threshold Secret Sharing (Shamir) as defined in IETF Internet-Draft draft-mcgrew-tss-03.txt
+  - [Ruby on rails](https://www.interviewbit.com/ruby-on-rails-interview-questions/)
 - [IT Security Guidelines for Transport Layer Security (TLS)](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1)
 - [A new security header: Feature Policy](https://scotthelme.co.uk/a-new-security-header-feature-policy/)
 - [CAA Mandated by CA/Browser Forum](https://blog.qualys.com/ssllabs/2017/03/13/caa-mandated-by-cabrowser-forum)
