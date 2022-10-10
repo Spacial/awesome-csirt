@@ -15,18 +15,6 @@ Responding to a compromise
 http://www.forensics-intl.com/safeback.html
 Resources That Can Help
 
-http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=6305
-
-http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=7153
-
-http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=6295
-
-http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=6571
-
-http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=8379
-
-http://resources.sei.cmu.edu/library/asset-view.cfm?assetlD=8379
-
 ## Additional Resources
 
 http://www.auscert.org.au/render.html?it=2252&cid=1920
