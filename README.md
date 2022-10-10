@@ -219,6 +219,7 @@
 - [MalAPI.io](https://malapi.io/) maps Windows APIs to common techniques used by malware.
 - [Malicious Document Analysis: Example 1](https://exploitreversing.com/2021/11/02/malicious-document-analysis-example-1/) [mda](https://exploitreversing.files.wordpress.com/2021/11/mda_1-1.pdf)
 - [APIVADS](https://ieeexplore.ieee.org/document/9690881): A Novel Privacy-Preserving Pivot Attack Detection Scheme Based On Statistical Pattern Recognition
+- [A new secret stash for “fileless” malware](https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/)
 
 ### Web Malwares
 
@@ -310,6 +311,7 @@
 - [RansomExx Renner](https://otx.alienvault.com/pulse/611ecd98c0e17d68bf061a06/)
 - [RANSOMWHERE](https://ransomwhe.re/): Total tracked ransomware payments all time. Ransomwhere is the open, crowdsourced ransomware payment tracker. Browse and download ransomware payment data or help build our dataset by reporting ransomware demands you have received.
 - [BlackByteDecryptor](https://github.com/SpiderLabs/BlackByteDecryptor): This is a decryptor for the ransomware BlackByte.
+- [Ransomware Actor Abuses Genshin Impact Anti-Cheat Driver to Kill Antivirus](https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html): We investigate mhyprot2.sys, a vulnerable anti-cheat driver for the popular role-playing game Genshin Impact. The driver is currently being abused by a ransomware actor to kill antivirus processes and services for mass-deploying ransomware.
 
 ### Virus/Anti-Virus
 
@@ -397,6 +399,7 @@ I work as a malware analyst and like to share my knowledge.
   - [some things about gef](https://www.offensivethink.com/about-gef.html)
   - [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
   - [Low Level Visualization via Debuggers](https://www.vinnie.work/blog/2021-01-08-low-level-debuggers/)
+  - [Faster GDB Startup](https://tromey.com/blog/?p=1084)
 - Frida:
   - [Getting Started with Frida Tools](https://medium.com/@int0x33/day-19-getting-started-with-frida-tools-3aeb2f0063c3)
   - Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)
@@ -484,6 +487,7 @@ I work as a malware analyst and like to share my knowledge.
 - [capa](https://github.com/mandiant/capa): The FLARE team's open-source tool to identify capabilities in executable files.
 - [aDLL](https://github.com/ideaslocas/aDLL) - Adventure of Dinamic Lynk Library: aDLL is a binary analysis tool focused on the automatic discovery of DLL Hijacking vulnerabilities. The tool analyzes the image of the binary loaded in memory to search for DLLs loaded at load-time and makes use of the Microsoft Detours library to intercept calls to the LoadLibrary/LoadLibraryEx functions to analyze the DLLs loaded at run-time.
 - [pyc2bytecode](https://github.com/knight0x07/pyc2bytecode): A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)
+- [Reverse Engineering PsExec for fun and knowledge](https://cybergeeks.tech/reverse-engineering-psexec-for-fun-and-knowledge/)
 
 ### Decompilers
 
@@ -530,6 +534,8 @@ I work as a malware analyst and like to share my knowledge.
 - [ghidra2frida](https://security.humanativaspa.it/ghidra2frida-the-new-bridge-between-ghidra-and-frida/): The new bridge between Ghidra and Frida. [repo](https://github.com/federicodotta/ghidra2frida) [scripts](https://github.com/federicodotta/ghidra2frida/tree/main/java_python_examples)
 - [ghidra-scripts](https://github.com/federicodotta/ghidra-scripts/): A collection of my Ghidra scripts.
 - [Reversing Raw Binary Firmware Files in Ghidra](https://gist.github.com/nstarke/ed0aba2c882b8b3078747a567ee00520)
+- [Ghidrathon](https://github.com/mandiant/Ghidrathon): The FLARE team's open-source extension to add [Python 3 scripting to Ghidra](https://www.mandiant.com/resources/blog/ghidrathon-snaking-ghidra-python-3-scripting).
+- [IDA Graph view with outlined function included](https://gist.github.com/NyaMisty/790474707209399da643fbe5788191cd)
 
 ## Frameworks
 
@@ -601,6 +607,8 @@ I work as a malware analyst and like to share my knowledge.
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening): A curated list of awesome Security Hardening techniques for Windows.
 - [NSA/CISA Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 - [Learn and Test DMARC](https://www.learndmarc.com/): Visualizing the communication between email servers will help you understand what SPF, DKIM, and DMARC do and how these mechanisms work.
+- [VideoLan Robots.txt](https://www.videolan.org/robots.txt)
+- [ssh & linux cheat sheets](https://blowstack.com/cheat-sheets/)
 
 ### WebServers
 
@@ -647,6 +655,7 @@ I work as a malware analyst and like to share my knowledge.
 - [QUIC's combined transport- and cryptographic handshake allows it to be 1 Round Trip faster than TCP + TLS and main problems.](https://twitter.com/programmingart/status/1399443052851306503)
 - [Secure Headers](https://github.com/github/secure_headers): Manages application of security headers with many safe defaults.
 - [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2) [blackhat](https://www.blackhat.com/us-21/briefings/schedule/#http2-the-sequel-is-always-worse-22668)
+- RFC 9116: [A File Format to Aid in Security Vulnerability Disclosure](https://www.rfc-editor.org/rfc/rfc9116)
 
 ## Credentials
 
@@ -780,6 +789,8 @@ I work as a malware analyst and like to share my knowledge.
 - [COVERITY SCAN](https://scan.coverity.com/)
 - [Trojan Source](https://trojansource.codes/): invisible Source Code Vulnerabilities. [repo](https://github.com/nickboucher/trojan-source)
 - [Warn users when a PR contains some characters](https://pagure.io/pagure/c/8bacd4da4fa6de578b818aa7a4b36bbeaaa243d7?branch=master): Unicode bi-directional characters can be present but unseen and thus missed during the review. With this PR, we create a list of characters that we want to warn the users about if present in a PR. Since that list is configurable, it can be extended as needed/desired.
+- [ikos](https://github.com/NASA-SW-VnV/ikos): Static analyzer for C/C++ based on the theory of Abstract Interpretation.
+- [A Guide On Implementing An Effective SAST Workflow](https://www.anshumanbhartiya.com/posts/sast-workflow)
 
 ### Secure Web dev
 
@@ -860,6 +871,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Fuzzing Workshops](http://fuzzing.in/)
 - [AFLNet](https://github.com/aflnet/aflnet): A Greybox Fuzzer for Network Protocols.
 - [ClusterFuzz](https://google.github.io/clusterfuzz/): is a scalable fuzzing infrastructure that finds security and stability issues in software.
+- [Introduction to VirtualBox security research](https://blog.doyensec.com/2022/04/26/vbox-fuzzing.html)
 
 ### API
 
@@ -1025,6 +1037,7 @@ I work as a malware analyst and like to share my knowledge.
   - [BMC-Tools](https://github.com/ANSSI-FR/bmc-tools): RDP Bitmap Cache parser.
   - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page)
   - [Full key extraction of NVIDIA™ TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
+- [The x86 architecture is the weirdo, part 2](https://devblogs.microsoft.com/oldnewthing/20220418-00/?p=106489)
 
 ### ARM
 
@@ -1160,6 +1173,7 @@ I work as a malware analyst and like to share my knowledge.
 - [EMBA](https://github.com/e-m-b-a/emba): The security analyzer for embedded device firmware.
 - [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim): My experiments in weaponizing Nim.
 - [White Box Penetration Testing: “Cheating” in order to boost impact and value](https://hackermindset.me/white-box-penetration-testing-cheating-in-order-to-boost-impact-and-value-939e96b77331)
+- [Python Penetration Testing Cheat Sheet](https://www.lifars.com/knowledge-center/python-penetration-testing-cheat-sheet/)
 
 ### Reconnaissance
 
@@ -1295,6 +1309,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Core](https://github.com/mobdk/Core): Core bypass Windows Defender and execute any binary converted to shellcode.
 - (pt-br) [Encontrando endereço da função dinamicamente. Análise da biblioteca block_api](helviojunior.com.br/it/security/criacao-de-exploits/shellcoding-encontrando-endereco-da-funcao-dinamicamente-analise-da-biblioteca-block_api/)
 - [Ninja UUID Shellcode Runner](https://github.com/boku7/Ninja_UUID_Runner): Module Stomping, No New Thread, HellsGate syscaller, UUID Shellcode Runner for x64 Windows 10!
+- [IPFuscator](https://github.com/vysecurity/IPFuscator): A tool to automatically generate alternative IP representations
 
 ### Reporting
 
@@ -1534,6 +1549,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [SharpSelfDelete](https://github.com/klezVirus/SharpSelfDelete): C# implementation of the research by @jonaslyk and the drafted PoC from @LloydLabs
 - [preeny](https://github.com/zardus/preeny): Some helpful preload libraries for pwning stuff.
 - [Exploits, Vulnerabilities and Payloads: Practical Introduction](https://www.infosecmatter.com/exploits-vulnerabilities-and-payloads-practical-introduction/)
+- [Beginners Guide to 0day/CVE AppSec Research](https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html)
+- [0days In-The-Wild](https://googleprojectzero.github.io/0days-in-the-wild/) - Hello! This site aims to be a central repository for information about 0-days exploited in-the-wild! It's maintained by Google Project Zero.
 
 ### Payloads
 
@@ -2264,6 +2281,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Patchwork APT caught in its own web](https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/)
 - [Armagedon/Gamaredon](https://twitter.com/JohnHultquist/status/1456249671941251073)
 - [North Korea’s Lazarus APT leverages Windows Update client, GitHub in latest campaign](https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/)
+- [Update on cyber activity in Eastern Europe](https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/)
+- [Cisco Talos shares insights related to recent cyber attack on Cisco](https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html)
 
 ### IoCs
 
@@ -2279,10 +2298,16 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Netfilter Rootkit Samples](https://docs.google.com/spreadsheets/d/1FYgBmJH8MOli99oIqRsIHJA2XzI3aSdAOb9mZmqj_q0/edit#gid=1028909258)
 - [Feodo Tracker](https://feodotracker.abuse.ch/browse/) tracks certain families that are related or that evolved from Feodo
 - [There are evil packages on the npm registry that deploy XMRIG](https://twitter.com/jhencinski/status/1451592508157345793)
+- [Emotet 2022 | epoch4 | 22.04.2022 |](https://github.com/pr0xylife/Emotet/blob/main/e4_emotet_22.04.2022.txt)
+- [238 Cobalt Strike stage 2 IP's, with 238 unique configurations, identified today.](https://twitter.com/cobaltstrikebot/status/1521576446107406336) [list](https://pastebin.com/a0MYdwKf)
+- [malware-IoC](https://github.com/CyberThreatIntelligenceENTEL/malware-IoC/): Bienvenidos al repositorio oficial de IoC del equipo de Cyber Threat intelligence de Entel Cyber Secure
+- [IcedID | 31.08.2022 | Campaign 2786525712](https://github.com/pr0xylife/IcedID/blob/main/icedID_31.08.2022.txt)
 
 ### SIEM
 
 - [Sigma](https://github.com/SigmaHQ/sigma): Generic Signature Format for SIEM Systems
+  - [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable.
+  - [KrbRelayUp local privilege escalation.](https://github.com/tsale/Sigma_rules/blob/main/windows_exploitation/KrbRelayUp.yml)
 - [Events Heatmap](https://codepen.io/anon/pen/wYbpVW)
 - [RedELK](https://github.com/outflanknl/RedELK): Red Team's SIEM - easy deployable tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [plaso](https://github.com/log2timeline/plaso/): Super timeline all the things.
@@ -2308,6 +2333,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Log Parser Lizard](https://www.lizard-labs.com/log_parser_lizard_download.aspx): provides a modern graphical user interface to Microsoft Log Parser 2.2 for analyzing logs using SQL queries.
 - [Fluentd](https://github.com/fluent/fluentd): Unified Logging Layer (project under CNCF)
 - [Laurel](https://github.com/threathunters-io/laurel): Transform Linux Audit logs for SIEM usage
+- [Matano](https://github.com/matanolabs/matano): The open-source [security lake platform for AWS](https://www.matano.dev/blog/2022/08/11/announcing-matano).
 
 ## Browsers
 
@@ -2342,6 +2368,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [BuiltWith](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)
 - [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 - [Exif Viewer](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/?src=search)
+- [Anti-Grabify Browser Extension](https://github.com/Konnor88/anti-grabify/)
 
 ## Operating Systems
 
@@ -2357,6 +2384,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [UPX](https://upx.github.io/) is a free, portable, extendable, high-performance executable packer for several executable formats. [repo](https://github.com/upx/upx)
 - Mainframe:
   - [MF Sniffer](https://github.com/mainframed/MFSniffer): Mainframe TN3270 unencrypted TSO session user ID and password sniffer.
+- [magic-trace](https://github.com/janestreet/magic-trace):  collects and displays high-resolution traces of what a process is doing.
 
 ### UEFI
 
@@ -2417,7 +2445,6 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
 - [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire). [OVERVIEW OF EMPIRE 3.4 FEATURES](https://www.bc-security.org/post/overview-of-empire-3-4-features/)
 - [Empire 4.2 was just finalized over the weekend and we are excited to share some of the new features.](https://www.bc-security.org/post/empire-4-2/)
-- [Suspicious Use of Procdump](https://github.com/Neo23x0/sigma/blob/master/rules/windows/builtin/win_susp_procdump.yml): Detects suspicious uses of the SysInternals Procdump utility by using a special command line parameter in combination with the lsass.exe process. This way we're also able to catch cases in which the attacker has renamed the procdump executable.
 - [relayer](https://github.com/Jsitech/relayer): SMB Relay Attack Script
 - [Ps1jacker](https://github.com/darkw1z/Ps1jacker): Ps1jacker is a tool for generating COM Hijacking payload.
 - [python-dotnet-binaryformat](https://github.com/williballenthin/python-dotnet-binaryformat): Pure Python parser for data encoded by .NET's BinaryFormatter
@@ -2453,6 +2480,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [shed](https://github.com/enkomio/shed): .NET runtime inspector
 - [Recovering Plaintext Domain Credentials from WPA2 Enterprise on a Compromised Host](https://0x00-0x00.github.io/research/2018/11/06/Recovering-Plaintext-Domain-Credentials-From-WPA2-Enterprise-on-a-compromised-host.html)
 - [How to steal NTLMv2 hashes using file download vulnerability in web application](http://www.mannulinux.org/2018/12/how-to-steal-ntlmv2-hashes-using-file.html)
+- [NTLMRelay2Self](https://github.com/med0x2e/NTLMRelay2Self): An other No-Fix LPE, NTLMRelay2Self over HTTP (Webdav). 
 - [Simpleator](https://github.com/ionescu007/Simpleator): ("Simple-ator") is an innovative Windows-centric x64 user-mode application emulator that lever
 - [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit): Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
@@ -2594,6 +2622,10 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Dynamic Invocation in .NET to bypass hooks](https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/)
 - [LowBox Token Permissive Learning Mode](https://www.tiraniddo.dev/2021/09/lowbox-token-permissive-learning-mode.html)
 - [DInjector](https://github.com/snovvcrash/DInjector/): Collection of shellcode injection techniques packed in a D/Invoke weaponized DLL.
+- [SMB-Session-Spoofing](https://github.com/Sq00ky/SMB-Session-Spoofing): The goal of this program is to create a fake SMB Session.
+- [Windows Kernel Introspection (WKI)](https://amonsec.net/posts/2022/09/0000000d/)
+- [MSSQL Analysis Services - Coerced Authentication](https://github.com/p0dalirius/MSSQL-Analysis-Coerce): A technique to coerce a Windows SQL Server to authenticate on an arbitrary machine.
+- [Reinschauer](https://github.com/ps1337/reinschauer): A PoC to remotely control Windows machines over Websockets.
 
 #### Active Directory
 
@@ -2682,6 +2714,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Offensive WMI - Active Directory Enumeration](https://0xinfection.github.io/posts/wmi-basics-part-1/) - Part [2](https://0xinfection.github.io/posts/wmi-classes-methods-part-2/), [3](https://0xinfection.github.io/posts/wmi-registry-part-3/), [4](https://0xinfection.github.io/posts/wmi-recon-enum/) and [5](https://0xinfection.github.io/posts/wmi-ad-enum/).
 - [BloodyAD](https://github.com/CravateRouge/bloodyAD) is an Active Directory Privilege Escalation Framework.
 - [SID filter as security boundary between domains? (Part 7) - Trust account attack - from trusting to trusted](https://improsec.com/tech-blog/sid-filter-as-security-boundary-between-domains-part-7-trust-account-attack-from-trusting-to-trusted)
+- [KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp): a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).
+- [Harvesting Active Directory credentials via HTTP Request Smuggling](https://northwave-security.com/harvesting-active-directory-credentials-via-http-request-smuggling/)
 
 ##### Mimikatz
 
@@ -2766,6 +2800,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Advanced hunting queries for Microsoft 365 Defender](https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries): Sample queries for Advanced hunting in Microsoft 365 Defender.
 - [All Your (d)Base Are Belong To Us, Part 2: Code Execution in Microsoft Office (CVE-2021–38646)](https://medium.com/csg-govtech/all-your-d-base-are-belong-to-us-part-2-code-execution-in-microsoft-office-cve-2021-38646-fa6e70362162)
 - [MSSpray](https://github.com/SecurityRiskAdvisors/msspray) is used to conduct password spray attacks against Azure AD as well as validate the implementation of MFA on Azure and Office 365 endpoints
+- [Comparison of MOTW (Mark of the Web) propagation support of archiver software for Windows](https://github.com/nmantani/archiver-MOTW-support-comparison)
+- [SnaffPoint](https://github.com/nheiniger/SnaffPoint): A tool for pointesters to find candies in SharePoint.
 
 ### macOS/iOS
 
@@ -2839,6 +2875,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [AirTag Scripts & Resources](https://github.com/seemoo-lab/airtag): AirTag instrumentation including AirTechno and firmware downgrades.
 - [Pegasus ID](https://github.com/jonathandata1/pegasus_spyware_detection_utils_ios_aos): After extensive research and understanding of how Pegasus Spyware is operating inside of iOS and AndroidOS systems I have created tools that will be able to identify & validate the presence of the spyware on your mobile devices, and tablets. Initial detection points were derived from the mvt-project.
 - [UTM](https://mac.getutm.app/): Securely run operating systems on your Mac. [repo](https://github.com/utmapp/UTM)
+- [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030):  iPhone 11 emulated on QEMU.
 
 ## Mobile
 
@@ -2933,6 +2970,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [Hardening ELF binaries using Relocation Read-Only (RELRO)](https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro)
 - [Linux Threat Report 2021 1H](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/linux-threat-report-2021-1h-linux-threats-in-the-cloud-and-security-recommendations)
 - [Learning Linux Kernel Exploitation - Part 1](https://lkmidas.github.io/posts/20210123-linux-kernel-pwn-part-1/) [Part 2](https://lkmidas.github.io/posts/20210128-linux-kernel-pwn-part-2/)
+- [Microsoft finds new elevation of privilege Linux vulnerability, Nimbuspwn](https://www.microsoft.com/security/blog/2022/04/26/microsoft-finds-new-elevation-of-privilege-linux-vulnerability-nimbuspwn/)
+- [So You Wanna Pwn The Kernel?](https://sam4k.com/so-you-wanna-pwn-the-kernel/)
 
 ### Cloud
 
@@ -2972,6 +3011,7 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
 - [ChaosDB](https://chaosdb.wiz.io/):  is an unprecedented critical vulnerability in the Azure cloud platform that allows for remote account takeover of Azure’s flagship database - Cosmos DB.
 - [Introducing Project Freta](https://www.microsoft.com/en-us/research/blog/toward-trusted-sensing-for-the-cloud-introducing-project-freta/): Toward trusted sensing for the cloud. [docs](https://docs.microsoft.com/en-us/security/research/project-freta/)
 - [Finding Azurescape](https://unit42.paloaltonetworks.com/azure-container-instances/): Cross-Account Container Takeover in Azure Container Instances
+- Azure Monitor: [Malicious KQL Query](https://securecloud.blog/2022/04/27/azure-monitor-malicious-kql-query/)
 
 ### AWS
 
@@ -3581,14 +3621,10 @@ Some good places to visit:
 - [An RCE in the POC by Jonathan Scott for the RCE V1.0 PoC iOS 15.0.1](https://gist.github.com/matt-/c3028fa85d2d4f599351344ea7502865)
 - [What is von Clausewitz centers of gravity (cogs) concept?](https://twitter.com/DefenseCharts/status/1453365618191704072/photo/1)
 - [Place that a stealth figther was caught on gmaps](https://goo.gl/maps/Jn8KZMaQTBvYUpyo8)
+- [High-Security Mechanical Locks](https://swiftsilentdeadly.com/high-security-mechanical-locks/)
+- [Tetsuji](https://xcellerator.github.io/posts/tetsuji/): Remote Code Execution on a GameBoy Colour 22 Years Later
 
 ---
-
-## CFPs
-
-## 2018
-
-- [Organized by security consulting and research firm Independent Security Evaluators (ISE), IoT Village delivers advocacy for and expertise on security advancements in Internet of Things devices.](https://www.iotvillage.org/#cfp)
 
 ## Articles
 

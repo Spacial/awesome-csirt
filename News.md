@@ -312,6 +312,8 @@
 - [In Second Largest DeFi Hack Ever, Blockchain Bridge Loses $320M Ether](https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/)
 - [Taiwan should adopt a “broken nest” policy and destroy TSMC in wake of any Chinese invasion, suggests US military paper](https://www.datacenterdynamics.com/en/news/taiwan-should-adopt-a-broken-nest-policy-and-destroy-tsmc-in-wake-of-any-chinese-invasion-suggests-us-military-paper/)
 - [UK Government Officials Infected with Pegasus](https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/)
+- [Leaked Chats Show LAPSUS$ Stole T-Mobile Source Code](https://krebsonsecurity.com/2022/04/leaked-chats-show-lapsus-stole-t-mobile-source-code/)
+- [El Gobierno revela que los teléfonos de Pedro Sánchez y Margarita Robles han sido infectados con Pegasus](https://www.eldiario.es/politica/gobierno-revela-telefonos-pedro-sanchez-margarita-robles-han-sido-infectados-pegasus_1_8959353.html)
 
 ## Politics
 
@@ -363,6 +365,13 @@
 - [MI5 Director General Ken McCallum gave his annual threat update today, 14 July 2021, which was filmed at our headquarters in Thames House, London.](https://www.mi5.gov.uk/news/director-general-ken-mccallum-gives-annual-threat-update-2021)
 - [Attrition.org](https://attrition.org/),is a computer security web site dedicated to the collection, dissemination and distribution of information about the security industry for anyone interested in the subject. [Charlatans - EC-Council (ECC)](https://attrition.org/errata/charlatan/ec-council/)
 - [Try This One Weird Trick Russian Hackers Hate](https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/)
+- [Zelensky Compound NDA](https://writing.kemitchell.com/2022/04/30/Zelensky-Compound-NDA)
+- [World Password Day – Readying Your Workforce for MFA](https://www.sans.org/blog/world-password-day-readying-your-workforce-for-mfa/)
+- [Classified specs leaked on War Thunder forum for third time](https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/)
+- [Conti Targets Critical Firmware](https://eclypsium.com/2022/06/02/conti-targets-critical-firmware/)
+- [Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in Italy](https://www.bellingcat.com/news/2022/08/25/socialite-widow-jeweller-spy-how-a-gru-agent-charmed-her-way-into-nato-circles-in-italy/)
+- [Revealing Europe’s NSO](https://www.lighthousereports.nl/investigation/revealing-europes-nso/): Confidential data and sources uncover major surveillance outfit operating from within the European Union.
+- [Here Is the Manual for the Mass Surveillance Tool Cops Use to Track Phones](https://www.vice.com/en/article/v7v34a/fog-reveal-local-cops-phone-location-data-manual): Police departments across the U.S. have been using Fog Reveal for ‘mass surveillance on a budget,’ investigations by the EFF and Associated Press revealed. Now, we're publishing the manual.
 
 ### Online Voting
 
