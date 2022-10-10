@@ -24,6 +24,7 @@
 - [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 - [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
 - [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
+- [CriminalIP](https://www.criminalip.io/): Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated
 - [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
 - [crypto](https://github.com/boazbk/crypto): Lecture notes for a course on cryptography
 - [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
@@ -1368,6 +1369,7 @@ Curated list of public penetration test reports released by several consulting f
 - [⡷⠂𝚔𝚊𝚛𝚖𝚊 𝚟𝟸⠐⢾](https://github.com/Dheerajmadhukar/karma_v2) is a Passive Open Source Intelligence (OSINT) Automated Reconnaissance (framework)
 - [3WiFi](http://3wifi.stascorp.com/map): Free Wireless Database. [repo](https://github.com/binarymaster/3WiFi)
 - [Stealth plane in flight](https://www.google.com/maps/place/39%C2%B001'18.5%22N+93%C2%B035'40.5%22W/@39.0217135,-93.5945882,163m/data=!3m1!1e3!4m5!3m4!1s0x0:0xd87af7588b9c362e!8m2!3d39.0218056!4d-93.5945833)
+- [ExportData](https://www.exportdata.io/) - Twitter data export tool. Allows downloading historical tweets since 2006, exporting followers & followings and collects historical trends in 467 locations.
 
 #### OSINT Webscraping
 
