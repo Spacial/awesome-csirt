@@ -2247,7 +2247,8 @@ curl -s URL | grep -Po "(\/)((?:[a-zA-Z\-_\:\.0-9\{\}]+))(\/)*((?:[a-zA-Z\-_\:\.
   - [MISP Training - Youtube CIRCL](https://www.youtube.com/playlist?list=PLhSWiKucshm4CfNjKm7cxxjmj8LfxRXdp)
   - [Youtube CIRCL](https://www.youtube.com/playlist?list=PLhSWiKucshm6Y01mAwBaF-mAPLuYKNrcc)
   - [PyMISP and MISP Objects: a door to new opportunities](https://youtu.be/GGaP6eiVXGk)
-  - [dditional training materials](https://hdoc.csirt-tooling.org/EPGp-MAbSASrm9zh_A5-lQ?view#)
+  - [Additional MISP training materials (including slides, documentation and videos](https://github.com/MISP/misp-training)
+  - [Additional MISP training materials for law-enforcement agencies](https://github.com/MISP/misp-training-lea)
 
 #### APT - Advanced Persistent Threat
 
