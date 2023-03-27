@@ -2129,6 +2129,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [volatility](https://github.com/volatilityfoundation/volatility): An advanced memory forensics framework
 - [Volatility profiles for Linux and Mac OS X](https://github.com/volatilityfoundation/profiles)
 - [Building a profile for Volatility](https://cyberfibers.com/2014/05/volatility-profiles/)
+- [OROCHI](https://github.com/LDO-CERT/orochi): The Volatility Collaborative GUI
 - [AutoVolatility](https://github.com/carlospolop/autoVolatility): Run several volatility plugins at the same time.
 - [Memory Forensics and Analysis Using Volatility](https://resources.infosecinstitute.com/memory-forensics-and-analysis-using-volatility/)
 - [Volatility, my own cheatsheet (Part 1): Image Identification](https://www.andreafortuna.org/2017/06/25/volatility-my-own-cheatsheet-part-1-image-identification/)
