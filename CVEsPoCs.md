@@ -51,6 +51,9 @@ Some CVEs PoCs repos on github or internet.
 - Remote Linux Kernel Heap Overflow | TIPC Module Allows Arbitrary Code Execution: [CVE-2021-43267](https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/)
 - PoC for [CVE-2021-4034](https://seclists.org/oss-sec/2022/q1/80): [blasty-vs-pkexec.c](https://haxx.in/files/blasty-vs-pkexec.c)
 - Linux Kernel Exploit with mqueue: [CVE-2022-32250](https://blog.theori.io/research/CVE-2022-32250-linux-kernel-lpe-2022/).
+- Bringing back the stack attack: [CVE-2022-42703](https://googleprojectzero.blogspot.com/2022/12/exploiting-CVE-2022-42703-bringing-back-the-stack-attack.html) [Prefetch Side-Channel Attacks](https://github.com/IAIK/prefetch)
+- Linux kernel stack buffer overflow in nftables: [CVE-2023-0179](https://seclists.org/oss-sec/2023/q1/20)
+- [Unauthenticated remote DOS in ksmbd NTLMv2 authentication](https://seclists.org/oss-sec/2023/q1/4)
 
 ## Solaris
 
