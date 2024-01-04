@@ -324,6 +324,12 @@
 - [Intel says Friday's mystery 'security update' microcode isn't really a security update](https://www.theregister.com/2023/05/15/intel_mystery_microcode/) [Intel Issues New CPU Microcode Going Back To Gen8 For New, Undisclosed Security Updates](https://www.phoronix.com/news/Intel-12-May-2023-Microcode)
 - [The .zip gTLD: Risks and Opportunities](https://isc.sans.edu/diary/The+zip+gTLD+Risks+and+Opportunities/29838)
 
+### 2024
+
+- [Bitwarden Heist - How to Break Into Password Vaults Without Using Passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
+- [Hacker hijacks Orange Spain RIPE account to cause BGP havoc](https://www.bleepingcomputer.com/news/security/hacker-hijacks-orange-spain-ripe-account-to-cause-bgp-havoc/)
+- [NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems) [doi.org/10.6028/NIST.AI.100-2e2023](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+
 ## Politics
 
 - [How Q’s 'Lost Drops' Undermine the QAnon Myth](https://www.bellingcat.com/news/rest-of-world/2021/04/22/how-qs-lost-drops-undermine-the-qanon-myth/)
