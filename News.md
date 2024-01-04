@@ -192,10 +192,8 @@
 - [A deeper dive into our May 2019 security incident](https://stackoverflow.blog/2021/01/25/a-deeper-dive-into-our-may-2019-security-incident/)
 - [ANNOUNCING PWN2OWN VANCOUVER 2021](https://www.zerodayinitiative.com/blog/2021/1/25/announcing-pwn2own-vancouver-2021)
 - [WORLD’S MOST DANGEROUS MALWARE EMOTET DISRUPTED THROUGH GLOBAL ACTION](https://www.europol.europa.eu/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action)
-<<<<<<< HEAD
 - [Centreon says only 15 entitites were targeted in recent Russian hacking spree](https://www.zdnet.com/article/centreon-says-only-15-entitites-were-targeted-in-recent-russian-hacking-spree/)
 - [Big name corporations more likely to commit fraud | WSU Insider | Washington State University](https://news.wsu.edu/2021/02/02/big-name-corporations-likely-commit-fraud/)
-=======
 - [Know, Prevent, Fix: A framework for shifting the discussion around vulnerabilities in open source](https://opensource.googleblog.com/2021/02/know-prevent-fix-framework-for-shifting-discussion-around-vulnerabilities-in-open-source.html)
 - [Shadow Attacks Let Attackers Replace Content in Digitally Signed PDFs](https://thehackernews.com/2021/02/shadow-attacks-let-attackers-replace.html?m=1)
 - [Researchers Unveil New Linux Malware Linked to Chinese Hackers](https://amp.thehackernews.com/thn/2021/03/researchers-unveil-new-linux-malware.html)
@@ -314,6 +312,17 @@
 - [UK Government Officials Infected with Pegasus](https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/)
 - [Leaked Chats Show LAPSUS$ Stole T-Mobile Source Code](https://krebsonsecurity.com/2022/04/leaked-chats-show-lapsus-stole-t-mobile-source-code/)
 - [El Gobierno revela que los teléfonos de Pedro Sánchez y Margarita Robles han sido infectados con Pegasus](https://www.eldiario.es/politica/gobierno-revela-telefonos-pedro-sanchez-margarita-robles-han-sido-infectados-pegasus_1_8959353.html)
+
+### 2023
+
+- [Man used doll and victim's photo to access bank account](https://www.metropoles.com/sao-paulo/video-homem-usava-boneco-e-foto-de-vitima-para-acessar-conta-bancaria)
+- [Russian APT Group Caught Hacking Roundcube Email Servers](https://www.securityweek.com/russian-apt-group-caught-hacking-roundcube-email-servers/)
+- [Microsoft Warns of Widescale Credential Stealing Attacks by Russian Hackers](https://thehackernews.com/2023/06/microsoft-warns-of-widescale-credential.html)
+- [IDOR in Microsoft Teams Allows for External Tenants to Introduce Malware](https://labs.jumpsec.com/advisory-idor-in-microsoft-teams-allows-for-external-tenants-to-introduce-malware/)
+- [IoT devices and Linux-based systems targeted by OpenSSH trojan campaign](https://www.microsoft.com/en-us/security/blog/2023/06/22/iot-devices-and-linux-based-systems-targeted-by-openssh-trojan-campaign/)
+- [Malicious USB drives part of new self-propagating malware campaign](https://www.scmagazine.com/news/threat-intelligence/usb-drives-self-propagating-malware)
+- [Intel says Friday's mystery 'security update' microcode isn't really a security update](https://www.theregister.com/2023/05/15/intel_mystery_microcode/) [Intel Issues New CPU Microcode Going Back To Gen8 For New, Undisclosed Security Updates](https://www.phoronix.com/news/Intel-12-May-2023-Microcode)
+- [The .zip gTLD: Risks and Opportunities](https://isc.sans.edu/diary/The+zip+gTLD+Risks+and+Opportunities/29838)
 
 ## Politics
 

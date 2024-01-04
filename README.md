@@ -103,6 +103,7 @@
 - [dorkbot](https://github.com/utiso/dorkbot): Command-line tool to scan Google search results for vulnerabilities.
 - [NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday): This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
 - [Exploit Prediction Scoring System (EPSS)](https://www.first.org/epss/): The Exploit Prediction Scoring System (EPSS) is an open, data-driven effort for predicting when software vulnerabilities will be exploited. Our goal is to assist network defenders to better prioritize vulnerability remediation efforts.
+- [CVE PoC](https://github.com/trickest/cve): Almost every publicly available CVE PoC.
 
 ## Malware Analysis
 
@@ -223,6 +224,7 @@
 - [Malicious Document Analysis: Example 1](https://exploitreversing.com/2021/11/02/malicious-document-analysis-example-1/) [mda](https://exploitreversing.files.wordpress.com/2021/11/mda_1-1.pdf)
 - [APIVADS](https://ieeexplore.ieee.org/document/9690881): A Novel Privacy-Preserving Pivot Attack Detection Scheme Based On Statistical Pattern Recognition
 - [A new secret stash for “fileless” malware](https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/)
+- [Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe):  All-in-One malware analysis tool.
 
 ### Web Malwares
 
@@ -1050,6 +1052,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Dark Flipper](https://github.com/DarkFlippers/unleashed-firmware):  Flipper Zero Unleashed Firmware
 - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 - [Reverse-engineering an airspeed/Mach indicator from 1977](https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
+- [Stepping Insyde System Management Mode](https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/): Intel’s Alder Lake BIOS source code was [leaked online](https://git.tcp.direct/TheParmak/ICE_TEA_BIOS).
 
 ### ARM
 
@@ -1374,6 +1377,7 @@ Curated list of public penetration test reports released by several consulting f
 - [Image "Cloaking" for Personal Privacy](https://sandlab.cs.uchicago.edu/fawkes/). [Fawkes: Protecting Privacy against Unauthorized Deep Learning Models](http://people.cs.uchicago.edu/~ravenben/publications/pdf/fawkes-usenix20.pdf)
 - (pt-br) [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca): Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 - [WhatsMyName](https://whatsmyname.app/): This tool allows you to enumerate usernames across many websites.
+  - [Maltego Transforms for WhatsMyName](https://github.com/TURROKS/Maltego_WhatsMyName)
 - [shadowbanned](https://shadowban.eu/): Shadowban Tester for Twitter [code](https://github.com/shadowban-eu/shadowban-eu-frontend)
 - [sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
 - [usufy](https://github.com/i3visio/usufy) is a GPLv3+ piece of software that checks the existence of a profile for a given user in a bunch of different platforms. It uses the error messages displayed by most platforms when a user profile has not been found as the evidence of the existence or not of a given profile.
@@ -1386,6 +1390,7 @@ Curated list of public penetration test reports released by several consulting f
 - [3WiFi](http://3wifi.stascorp.com/map): Free Wireless Database. [repo](https://github.com/binarymaster/3WiFi)
 - [Stealth plane in flight](https://www.google.com/maps/place/39%C2%B001'18.5%22N+93%C2%B035'40.5%22W/@39.0217135,-93.5945882,163m/data=!3m1!1e3!4m5!3m4!1s0x0:0xd87af7588b9c362e!8m2!3d39.0218056!4d-93.5945833)
 - [ExportData](https://www.exportdata.io/) - Twitter data export tool. Allows downloading historical tweets since 2006, exporting followers & followings and collects historical trends in 467 locations.
+- [DetectDee](https://github.com/piaolin/DetectDee): Hunt down social media accounts by username, email or phone across social networks.
 
 #### OSINT Webscraping
 
@@ -1408,6 +1413,7 @@ Curated list of public penetration test reports released by several consulting f
       "Please log in with router's password"
       ```
 - [The closer a username/email address resembles other username/email addresses associated w/ a target, the easier it is to find (or guess &/or 'bruteforce') other usernames/email addresses associated w/ that target.](https://twitter.com/hackermaderas/status/1456016390935257089)
+- [DorkGenius](https://dorkgenius.com/): Generate custom dorks for Google, Bing, DuckDuckGo, & more!
 
 #### OSINT Chats
 
@@ -1570,6 +1576,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Exploits, Vulnerabilities and Payloads: Practical Introduction](https://www.infosecmatter.com/exploits-vulnerabilities-and-payloads-practical-introduction/)
 - [Beginners Guide to 0day/CVE AppSec Research](https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html)
 - [0days In-The-Wild](https://googleprojectzero.github.io/0days-in-the-wild/) - Hello! This site aims to be a central repository for information about 0-days exploited in-the-wild! It's maintained by Google Project Zero.
+- [Sticky notes for pentesting.](https://exploit-notes.hdks.org/) [repo](https://github.com/hideckies/exploit-notes)
 
 ### Payloads
 
@@ -1887,7 +1894,6 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [wifipumpkin3](https://github.com/P0cL4bs/wifipumpkin3): Powerful framework for rogue access point attack.
 - [The worst of the two worlds: Excel meets Outlook](https://adepts.of0x.cc/vba-outlook/)
 - [redcanaryco/AtomicTestHarnesses: Public Repo for Atomic Test Harness](https://github.com/redcanaryco/AtomicTestHarnesses)
-=======
 - [pivoting cheat sheet](https://twitter.com/ptswarm/status/1369310272213684237?s=21)
 - [Self-hosting Your Red Team Payloads](https://breakdev.org/pwndrop/): [pwndrop](https://github.com/kgretzky/pwndrop): Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
 - [Boomerang](https://github.com/paranoidninja/Boomerang) is a tool to expose multiple internal servers to web/cloud. Agent & Server are pretty stable and can be used in Red Team for Multiple levels of Pivoting and exposing multiple internal services to external/other networks.
@@ -1899,6 +1905,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Red Team development and operations](https://redteam.guide/): A PRACTICAL GUIDE TO RED TEAM OPERATIONS, WRITTEN BY: JOE VEST AND JAMES TUBBERVILLE
 - [VECTR](https://github.com/SecurityRiskAdvisors/VECTR) is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios.
 - [Mortar Loader](https://github.com/0xsp-SRD/mortar): evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR).
+- [RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools): Tools and Techniques for Red Team / Penetration Testing.
 
 #### Command & Control (C2)
 
@@ -2096,6 +2103,9 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - Anti-Forensics:
   - [ShredOS x86_64 - Disk Eraser](https://github.com/PartialVolume/shredos.x86_64): for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe.
 - [dfir_ntfs](https://github.com/msuhanov/dfir_ntfs): An NTFS/FAT parser for digital forensics & incident response.
+- [MemProcFS](https://github.com/ufrisk/MemProcFS): is an easy and convenient way of viewing physical memory as files in a virtual file system.
+- [LeechCore](https://github.com/ufrisk/LeechCore): Physical Memory Acquisition Library & The LeechAgent Remote Memory Acquisition Agent.
+- [PCILeech](https://github.com/ufrisk/pcileech): Direct Memory Access (DMA) Attack Software.
 
 ### PDF
 
@@ -2650,6 +2660,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Reinschauer](https://github.com/ps1337/reinschauer): A PoC to remotely control Windows machines over Websockets.
 - [Lsass Shtinkering](https://github.com/deepinstinct/Lsass-Shtinkering): New method of dumping LSASS by abusing the Windows Error Reporting service. It sends a message to the service with the ALPC protocol to report an exception on LSASS. This report will cause the service to dump the memory of LSASS.
 - [Windows Persistence Techniques](https://drive.google.com/file/d/1gijNQ5yiCVonj450hFgwpsth7fZmvNPK/view)
+- [Windows XP / Windows Server 2003 VLK key generator](https://github.com/Endermanch/XPKeygen)
+- [Banshee](https://github.com/eversinc33/Banshee): Experimental Windows x64 Kernel Driver/Rootkit.
 
 #### Active Directory
 
@@ -2741,6 +2753,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp): a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).
 - [Harvesting Active Directory credentials via HTTP Request Smuggling](https://northwave-security.com/harvesting-active-directory-credentials-via-http-request-smuggling/)
 - [Ping Castle Cloud](https://github.com/vletoux/PingCastleCloud):  Audit program for AzureAD.
+- [Protection of privileged users and groups by Azure AD Restricted Management Administrative Units](https://www.cloud-architekt.net/restricted-management-administrative-unit/) [source](https://twitter.com/Thomas_Live/status/1671750717550280704)
 
 ##### Mimikatz
 
@@ -2901,6 +2914,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Pegasus ID](https://github.com/jonathandata1/pegasus_spyware_detection_utils_ios_aos): After extensive research and understanding of how Pegasus Spyware is operating inside of iOS and AndroidOS systems I have created tools that will be able to identify & validate the presence of the spyware on your mobile devices, and tablets. Initial detection points were derived from the mvt-project.
 - [UTM](https://mac.getutm.app/): Securely run operating systems on your Mac. [repo](https://github.com/utmapp/UTM)
 - [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030):  iPhone 11 emulated on QEMU.
+- [Dissecting TriangleDB, a Triangulation spyware implant](https://securelist.com/triangledb-triangulation-implant/110050/)
 
 ## Mobile
 
@@ -2934,6 +2948,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Oscorp evolves into UBEL: an advanced Android malware spreading across the globe](https://www.cleafy.com/cleafy-labs/ubel-oscorp-evolution)
 - [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/)
 - [50 secrets codes on Android](https://canaltech.com.br/android/codigos-secretos-celular-android/)
+- [MobSecco](https://github.com/Anof-cyber/MobSecco): Cloning apk for bypassing code tampering detection, Google Safety Net and scanning vulnerable plugins.
 
 ### Linux/ *Nix
 
@@ -3064,6 +3079,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [ISO27001 audit in real-time....](https://twitter.com/tjcmorgan/status/1305425180903313409)
 - [Gearing Towards Your Next Audit](https://www.tripwire.com/state-of-security/security-data-protection/security-configuration-management/compliance-efforts-audit-scm/): Understanding the Difference Between Best Practice Frameworks and Regulatory Compliance Standards.
 - [Nuclei](https://github.com/projectdiscovery/nuclei) is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): Community curated list of templates for the nuclei engine to find a security vulnerability in application.
+  - [Nuclei unleashed - writing first exploit](https://medium.com/@gpiechnik/nuclei-unleashed-writing-first-exploit-6a8dbd6b80b0)
 - [Secure design principles](https://www.ncsc.gov.uk/collection/cyber-security-design-principles)
 - [Risk Assessment of GitHub Copilot](https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902)
 - [ISA/IEC 62443](https://www.isa.org/certification/certificate-programs/cybersecurity)
@@ -3315,6 +3331,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [ProtonVPN-CLI](https://github.com/ProtonVPN/linux-cli): Linux command-line client for ProtonVPN. Written in Python.
 - [Nebula](https://github.com/slackhq/nebula): A scalable overlay networking tool with a focus on performance, simplicity and security. [Introducing Nebula](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/)
 - [AirVPN](https://airvpn.org/) A VPN based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.
+- [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn).
 
 ### Secure Sharing
 
@@ -3427,12 +3444,13 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 ### Training and Certifications
 
-- [AWAE/OSWE](https://github.com/timip/OSWE): OSWE Preparation.
+- [OSWE](https://github.com/timip/OSWE): OSWE Preparation.
+- [AWAE/OSWE](https://github.com/ManhNho/AWAE-OSWE/): Preparation for coming AWAE Training.
 - [AWAE-PREP](https://github.com/wetw0rk/AWAE-PREP): This repository will serve as the "master" repo containing all trainings and tutorials done in preperation for OSWE in conjunction with the AWAE course. This repo will likely contain custom code by me and various courses.
 - [offsec_WE](https://github.com/sailay1996/offsec_WE): learning case to prepare OSWE
 - [AWAE-Preparation](https://github.com/M507/AWAE-Preparation): This repository will contain all trainings and tutorials I have done/read to prepare for OSWE / AWAE.
 - [From AWAE to OSWE: The Preperation Guide](https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en)
-- [AWAE/OSWE](https://github.com/ManhNho/AWAE-OSWE/): Preparation for coming AWAE Training.
+- [Awesome Infosec](https://github.com/onlurking/awesome-infosec): A curated list of awesome infosec courses and training resources.
 - [Security Certification Progress Chart](https://twitter.com/Marmusha/status/1222810038898712576/photo/1)
 - [study material used for the 2018 CISSP exam](https://github.com/so87/CISSP-Study-Guide), [site](https://simonowens157.gitlab.io/cissp/)
 - [JustTryHarder](https://github.com/sinfulz/JustTryHarder): a cheat sheet which will aid you through the PWK course & the OSCP Exam. (Inspired by PayloadAllTheThings).

