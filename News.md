@@ -323,12 +323,15 @@
 - [Malicious USB drives part of new self-propagating malware campaign](https://www.scmagazine.com/news/threat-intelligence/usb-drives-self-propagating-malware)
 - [Intel says Friday's mystery 'security update' microcode isn't really a security update](https://www.theregister.com/2023/05/15/intel_mystery_microcode/) [Intel Issues New CPU Microcode Going Back To Gen8 For New, Undisclosed Security Updates](https://www.phoronix.com/news/Intel-12-May-2023-Microcode)
 - [The .zip gTLD: Risks and Opportunities](https://isc.sans.edu/diary/The+zip+gTLD+Risks+and+Opportunities/29838)
+- [APT28: від первинного ураження до створення загроз для контролеру домену за годину (CERT-UA#8399)](https://cert.gov.ua/article/6276894) (from initial damage to creating threats to a domain controller in an hour)
+- [Shall We Play a Game?](https://isc.sans.edu/diary/Shall+We+Play+a+Game/30510): a malicious Python script based on a Tk interface.
 
 ### 2024
 
 - [Bitwarden Heist - How to Break Into Password Vaults Without Using Passwords](https://blog.redteam-pentesting.de/2024/bitwarden-heist/)
 - [Hacker hijacks Orange Spain RIPE account to cause BGP havoc](https://www.bleepingcomputer.com/news/security/hacker-hijacks-orange-spain-ripe-account-to-cause-bgp-havoc/)
 - [NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems) [doi.org/10.6028/NIST.AI.100-2e2023](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
+- [Fingerprinting SSH Identification Strings](https://isc.sans.edu/diary/Fingerprinting%20SSH%20Identification%20Strings/30520)
 
 ## Politics
 

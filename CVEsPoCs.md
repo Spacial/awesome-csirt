@@ -388,6 +388,8 @@ javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 - [Zoom RCE from Pwn2Own 2021](https://sector7.computest.nl/post/2021-08-zoom/)
 - GHSL-2021-102: ReDoS (Regular Expression Denial of Service) in Fluentd - [CVE-2021-41186](https://securitylab.github.com/advisories/GHSL-2021-102-fluent-fluentd/)
 - WSO2 RCE exploit and writeup: [CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464)
+- [Barracuda Email Security Gateway Appliance (ESG) Vulnerability](https://www.barracuda.com/company/legal/esg-vulnerability)
+- SonicWall Discovers Critical Apache OFBiz Zero-day -AuthBiz [CVE-2023-51467](https://blog.sonicwall.com/en-us/2023/12/sonicwall-discovers-critical-apache-ofbiz-zero-day-authbiz/) [poc](https://twitter.com/Siebene7/status/1731870759130427726) [poc](https://twitter.com/_0xf4n9x_/status/1732289811665559775) code: ```/webtools/control/xmlrpc;/?USERNAME=&PASSWORD=s&requirePasswordChange=Y```
 
 ## Additions
 

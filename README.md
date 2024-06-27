@@ -1701,6 +1701,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   - [Blind SQL Injection Detection and Exploitation (Cheat Sheet)](https://ansar0047.medium.com/blind-sql-injection-detection-and-exploitation-cheatsheet-17995a98fed1)
   - SQLMap Cheat Sheet: [1](https://medium.com/hacker-toolbelt/sqlmap-cheat-sheet-e5a38300b50), [2](https://gist.github.com/jkullick/03b98b1e44f03986c5d1fc69c092220d), [3](https://www.security-sleuth.com/sleuth-blog/2017/1/3/sqlmap-cheat-sheet), [4](https://thedarksource.com/sqlmap-cheat-sheet/), [tamper scripts](https://gist.github.com/sapran/a12bd98cf212237ac9678d48f5152941)
   - [SQL injection](https://learn.snyk.io/lessons/sql-injection/java/): Improper handling of input during SQL query generation
+  - [An investigation into SQL Injection tools — The pattern of each attack tool Part II](https://medium.com/@bigrootno1/an-investigation-into-sql-inection-tools-the-pattern-of-each-attack-tool-part-ii-37568afd7590)
+  - [Advanced SQL Injection](https://owasp.org/www-chapter-belgium/assets/2010/2010-06-16/Advanced_SQL_InjectionV2.pdf)
 - CSRF:
   - [DNS Hijacking Attacks on Home Routers in Brazil](https://cujo.com/dns-hijacking-attacks-on-home-routers-in-brazil/)
   - [CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection)
@@ -2023,6 +2025,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Back in a Bit: Attacker Use of the Windows Background Intelligent Transfer Service](https://www.fireeye.com/blog/threat-research/2021/03/attacker-use-of-windows-background-intelligent-transfer-service.html) [BitsParser](https://github.com/fireeye/BitsParser)
 - [Living off the land](https://posts.slayerlabs.com/living-off-the-land/)
 - [It's not a forgotten legacy code, it's recidivism](https://twitter.com/0gtweet/status/1386598361919332353): tpmtool drivetracing.
+- [Python Keylogger Using Mailtrap.io](https://isc.sans.edu/diary/Python%20Keylogger%20Using%20Mailtrap.io/30512)
 
 ### Steganography
 
@@ -2254,6 +2257,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [All Access Pass: Five Trends with Initial Access Brokers](https://ke-la.com/all-access-pass-five-trends-with-initial-access-brokers/). [Initial Access Broker Landscape](https://www.curatedintel.org/2021/10/initial-access-broker-landscape.html) [tt](https://twitter.com/jorgeorchilles/status/1452739074775781390/photo/1)
 <br/> <img src="https://github.com/curated-intel/Initial-Access-Broker-Landscape/blob/main/InitialAccessBrokers.png" width="200" height="100" />
 - [Paint it, Blue - Transitionin from CTI to HUNT](https://github.com/ch33r10/BlueSpace2021): Ekoparty's BlueSpace Keynote November 2021. Shoutout to @plugxor Muchas Gracias!!!
+- [Interesting large and small malspam attachments from 2023](https://isc.sans.edu/diary/Interesting%20large%20and%20small%20malspam%20attachments%20from%202023/30524) [helpful](https://github.com/DidierStevens/DidierStevensSuite/blob/master/decode-vbe.py) [scripts](https://github.com/JohnHammond/vbe-decoder/blob/master/vbe-decoder.py)
 
 #### MISP
 
@@ -2315,6 +2319,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [North Korea’s Lazarus APT leverages Windows Update client, GitHub in latest campaign](https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/)
 - [Update on cyber activity in Eastern Europe](https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/)
 - [Cisco Talos shares insights related to recent cyber attack on Cisco](https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html)
+- [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 
 ### IoCs
 
@@ -2474,6 +2479,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   - [PsExec Local Privilege Escalation](https://medium.com/tenable-techblog/psexec-local-privilege-escalation-2e8069adc9c8)
   - [SweetPotato](https://github.com/CCob/SweetPotato): Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019.
   - [Windows Exploit Suggester - Next Generation (WES-NG)](https://github.com/bitsadmin/wesng).
+  - [Windows Local Privilege Escalation Cookbook](https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook)
 - [Remote NTLM relaying through meterpreter on Windows port 445](https://diablohorn.com/2018/08/25/remote-ntlm-relaying-through-meterpreter-on-windows-port-445/), [DivertTCPconn](https://github.com/Arno0x/DivertTCPconn): A TCP packet diverter for Windows platform.
 - [Analyzing obfuscated powershell with shellcode](https://blog.stillztech.com/2018/06/analyzing-obfuscated-powershell-with.html), [Empire is a PowerShell and Python post-exploitation agent.](https://github.com/EmpireProject/Empire). [OVERVIEW OF EMPIRE 3.4 FEATURES](https://www.bc-security.org/post/overview-of-empire-3-4-features/)
 - [Empire 4.2 was just finalized over the weekend and we are excited to share some of the new features.](https://www.bc-security.org/post/empire-4-2/)
@@ -2662,6 +2668,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Windows Persistence Techniques](https://drive.google.com/file/d/1gijNQ5yiCVonj450hFgwpsth7fZmvNPK/view)
 - [Windows XP / Windows Server 2003 VLK key generator](https://github.com/Endermanch/XPKeygen)
 - [Banshee](https://github.com/eversinc33/Banshee): Experimental Windows x64 Kernel Driver/Rootkit.
+- [New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections](https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html)
 
 #### Active Directory
 
@@ -2915,6 +2922,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [UTM](https://mac.getutm.app/): Securely run operating systems on your Mac. [repo](https://github.com/utmapp/UTM)
 - [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030):  iPhone 11 emulated on QEMU.
 - [Dissecting TriangleDB, a Triangulation spyware implant](https://securelist.com/triangledb-triangulation-implant/110050/)
+- [kfd](https://github.com/felix-pb/kfd/): short for kernel file descriptor, is a project to read and write kernel memory on Apple devices. Attacks: [smith](https://github.com/felix-pb/kfd/blob/main/writeups/smith.md) [landa](https://github.com/felix-pb/kfd/blob/main/writeups/landa.md).
 
 ## Mobile
 
@@ -3679,6 +3687,8 @@ Some good places to visit:
 
 ## Articles
 
+- [The Accidental Altruist: Inferring Altruism from an Extraterrestrial Signal](https://link.springer.com/chapter/10.1007/978-3-642-37750-1_9)
+- [Interstellar communication. IX. Message decontamination is impossible](https://arxiv.org/abs/1802.02180) [Schneier post](https://www.schneier.com/blog/archives/2018/03/malware_from_sp.html)
 - [[1808.00659] Chaff Bugs: Deterring Attackers by Making Software Buggier](https://arxiv.org/abs/1808.00659)
 - [[1809.08325] The Rise of Certificate Transparency and Its Implications on the Internet Ecosystem](https://arxiv.org/abs/1809.08325)
 - [DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution](https://arxiv.org/abs/1705.07386)
