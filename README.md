@@ -1049,7 +1049,10 @@ I work as a malware analyst and like to share my knowledge.
   - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page)
   - [Full key extraction of NVIDIA™ TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
 - [The x86 architecture is the weirdo, part 2](https://devblogs.microsoft.com/oldnewthing/20220418-00/?p=106489)
-- [Dark Flipper](https://github.com/DarkFlippers/unleashed-firmware):  Flipper Zero Unleashed Firmware
+- Flipper:
+ - [awesome flipper](https://github.com/djsime1/awesome-flipperzero): 🐬 A collection of awesome resources for the Flipper Zero device.
+ - [Dark Flipper](https://github.com/DarkFlippers/unleashed-firmware):  Flipper Zero Unleashed Firmware
+ - [My Flipper Shits](https://github.com/aleff-github/my-flipper-shits/): Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 - [Reverse-engineering an airspeed/Mach indicator from 1977](https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
 - [Stepping Insyde System Management Mode](https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/): Intel’s Alder Lake BIOS source code was [leaked online](https://git.tcp.direct/TheParmak/ICE_TEA_BIOS).
