@@ -30,6 +30,7 @@
 - [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [SPLOITUS](https://sploitus.com/): Exploit search engine.
 - [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
+- [Vulert](https://vulert.com/vuln-db/search): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 - [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
 - [CRYPTO101](https://www.crypto101.io/): Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
 - [SMHasher](https://github.com/rurban/smhasher/) is a test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions. [another repo](https://github.com/aappleby/smhasher)
