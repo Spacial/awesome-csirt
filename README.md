@@ -414,6 +414,9 @@ I work as a malware analyst and like to share my knowledge.
 - Immunity:
   - [Immunity Debugger](https://www.immunityinc.com/products/debugger/)
   - [mona](https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/) site. [mona](https://github.com/corelan/mona): is a python script that can be used to automate and speed up specific searches while developing exploits (typically for the Windows platform). It runs on Immunity Debugger and WinDBG, and requires python 2.7. Although it runs in WinDBG x64, the majority of its features were written specifically for 32bit processes.
+- WinDBG:
+  - [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
+  - [windbglib](https://github.com/corelan/windbglib): Public repository for windbglib, a wrapper around pykd.pyd (for Windbg), used by mona.py
 - [LIEF](https://lief.quarkslab.com/): Library to Instrument Executable Formats  ([github](https://github.com/lief-project/LIEF/))
 - [DEBIN](https://debin.ai/): Predicting Debug Information in Stripped Binaries
 - [Analyzing ARM Cortex-based MCU firmwares using Binary Ninja](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
@@ -432,6 +435,7 @@ I work as a malware analyst and like to share my knowledge.
   - [The 101 of ELF files on Linux](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/): Understanding and Analysis - Linux Audit
   - [On ELF, Part 1](https://kestrelcomputer.github.io/kestrel/2018/01/29/on-elf)
   - [On ELF, Part 2](https://kestrelcomputer.github.io/kestrel/2018/02/01/on-elf-2)
+  - [binsider](https://github.com/orhun/binsider): Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [Kaitai Struct](https://formats.kaitai.io/): A new way to develop parsers for binary structures.
 - [findLoop](https://github.com/secrary/findLoop): find possible encryption/decryption or compression/decompression code.
 - [Reverse Engineering 'A Link to the Past (GBA)' ep 1](https://sideway.re/Reverse-Engineering-alttp-GBA-ep1/)
@@ -456,7 +460,6 @@ I work as a malware analyst and like to share my knowledge.
   - [Semi-Automatic Code Deobfuscation](https://github.com/mrphrazer/hitb2021ams_deobfuscation)
   - [msynth](https://github.com/mrphrazer/msynth): Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions.
 - [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow): Scots Army Knife for electronics
-- [windbglib](https://github.com/corelan/windbglib): Public repository for windbglib, a wrapper around pykd.pyd (for Windbg), used by mona.py
 - [VX Underground](https://vx-underground.org/)
   - [MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode): Collection of malware source code for a variety of platforms in an array of different programming languages.
   - [VXUG-Papers](https://github.com/vxunderground/VXUG-Papers): Research code & [papers](https://vx-underground.org/papers.html) from members of vx-underground.
@@ -495,6 +498,7 @@ I work as a malware analyst and like to share my knowledge.
 - [pyc2bytecode](https://github.com/knight0x07/pyc2bytecode): A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)
 - [Reverse Engineering PsExec for fun and knowledge](https://cybergeeks.tech/reverse-engineering-psexec-for-fun-and-knowledge/)
 - [Reverse Engineering TikTok's VM Obfuscation](https://ibiyemiabiodun.com/projects/reversing-tiktok-pt2/)
+- [Acronis True Image Costs Performance When Not Used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
 
 ### Decompilers
 
@@ -1044,6 +1048,7 @@ I work as a malware analyst and like to share my knowledge.
 - Car Hacking:
   - [Car hijacking swapping a single bit](https://www.synacktiv.com/publications/car-hijacking-swapping-a-single-bit.html)
   - [Hacking a VW Golf Power Steering ECU](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/) - Part 1, [Part 2](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part2/) [Part 3](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part3/) and [Part 4](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part4/). [VW PQ35 EPS flasher](https://github.com/pd0wm/pq-flasher)
+  - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
 - Internet of Things (IoT):
   - [BMC-Tools](https://github.com/ANSSI-FR/bmc-tools): RDP Bitmap Cache parser.
   - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page)
@@ -1911,26 +1916,26 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 #### Command & Control (C2)
 
-- [Cobalt Strike](https://www.cobaltstrike.com/): is software for Adversary Simulations and Red Team Operations. 4.2 [release notes](https://blog.cobaltstrike.com/2020/11/06/cobalt-strike-4-2-everything-but-the-kitchen-sink/)
-- [CrossC2](https://github.com/gloxec/CrossC2): generate CobaltStrike's cross-platform payload
-- [Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet): Some notes and examples for cobalt strike's functionality
-- [Introducing](https://blog.cobaltstrike.com/2021/08/06/introducing-cobalt-strike-community-kit/) [community kit](https://cobalt-strike.github.io/community_kit/)
-- [Octopus](https://github.com/mhaskar/Octopus): Open source pre-operation C2 server based on python and powershell [Cobalt Strike Community Kit](https://cobalt-strike.github.io/community_kit/)
+- Cobalt Strike:
+  - [Cobalt Strike](https://www.cobaltstrike.com/): is software for Adversary Simulations and Red Team Operations. 4.2 [release notes](https://blog.cobaltstrike.com/2020/11/06/cobalt-strike-4-2-everything-but-the-kitchen-sink/)
+  - [CrossC2](https://github.com/gloxec/CrossC2): generate CobaltStrike's cross-platform payload
+  - [Cobalt-Strike-CheatSheet](https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet): Some notes and examples for cobalt strike's functionality
+  - [Introducing](https://blog.cobaltstrike.com/2021/08/06/introducing-cobalt-strike-community-kit/) [community kit](https://cobalt-strike.github.io/community_kit/)
+  - [Cobalt Strike Beacon Injected into werfault.exe](https://twitter.com/acalarch/status/1364618494348840961)
+  - [pyMalleableC2](https://github.com/Porchetta-Industries/pyMalleableC2): Python interpreter for Cobalt Strike Malleable C2 Profiles. Allows you to parse, build and modify them programmatically.
+  - [melting-cobalt](https://github.com/splunk/melting-cobalt): A Cobalt Strike Scanner that retrieves detected Team Server beacons into a JSON object.
+  - [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
+- [Octopus](https://github.com/mhaskar/Octopus): Open source pre-operation C2 server based on python and powershell
 - [Covenant](https://github.com/cobbr/Covenant): Covenant is a collaborative .NET C2 framework for red teamers.
 - [Building C2 Implants in C++: A Primer](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
 - [tc2](https://github.com/leonjza/tc2): treafik fronted c2 examples
 - [ToRat](https://github.com/lu4p/ToRat): is a Remote Administation tool written in Go using Tor as a transport mechanism and RPC for communication.
 - [Python Backdoor Talking to a C2 Through Ngrok](https://isc.sans.edu/forums/diary/Python+Backdoor+Talking+to+a+C2+Through+Ngrok/26866/)
 - [Silver](https://github.com/BishopFox/sliver): Implant framework
-- [Cobalt Strike Beacon Injected into werfault.exe](https://twitter.com/acalarch/status/1364618494348840961)
-=======
 - [PoshC2](https://github.com/nettitude/PoshC2): is a proxy aware C2 framework used to aid penetration testers with red teaming, post-exploitation and lateral movement. [Native macOS Implants](https://labs.nettitude.com/blog/poshc2-introducing-native-macos-implants/)
-- [pyMalleableC2](https://github.com/Porchetta-Industries/pyMalleableC2): Python interpreter for Cobalt Strike Malleable C2 Profiles. Allows you to parse, build and modify them programmatically.
 - [link](https://github.com/postrequest/link): is a command and control framework written in rust.
-- [Cobalt Strike: Using Known Private Keys To Decrypt Traffic – Part 1](https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/)
 - [THIRD STEP IN SETTING UP C2 ENVIRONMENT. USING SOCAT AS FRONT TO MERLIN. COMMAND AND CONTROL MY WAY.](https://blogg.invid.eu/2021/12/03/third-step-in-setting-up-c2-environment-using-socat-as-front-to-merlin-command-and-control-my-way-c2_matrix-merlin_c2-pentest-pentesting-redteam-infosec/)
 - [Detecting CONTI CobaltStrike Lateral Movement Techniques - Part 2](https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-2)
-- [melting-cobalt](https://github.com/splunk/melting-cobalt): A Cobalt Strike Scanner that retrieves detected Team Server beacons into a JSON object.
 - [面向iOS攻击的beacon生成](https://gloxec.github.io/CrossC2/zh_cn/usage/iOS.html): command & control on iOS
 
 ### Purple Team
@@ -2520,7 +2525,6 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [How to steal NTLMv2 hashes using file download vulnerability in web application](http://www.mannulinux.org/2018/12/how-to-steal-ntlmv2-hashes-using-file.html)
 - [NTLMRelay2Self](https://github.com/med0x2e/NTLMRelay2Self): An other No-Fix LPE, NTLMRelay2Self over HTTP (Webdav).
 - [Simpleator](https://github.com/ionescu007/Simpleator): ("Simple-ator") is an innovative Windows-centric x64 user-mode application emulator that lever
-- [WinDbg-Samples](https://github.com/Microsoft/WinDbg-Samples): Sample extensions, scripts, and API uses for WinDbg.
 - [OrgKit](https://github.com/SwiftOnSecurity/OrgKit): Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [Leveraging WSUS](https://ijustwannared.team/2018/10/15/leveraging-wsus-part-one/).
 - [windowsblindread](https://github.com/soffensive/windowsblindread): A list of files / paths to probe when arbitrary files can be read on a Microsoft Windows operating system
@@ -2585,6 +2589,8 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   - [FileAlyzer](https://www.safer-networking.org/products/filealyzer/)
   - [NTCore](https://ntcore.com/?page_id=388) Explorer Suite
   - [exeinfo](http://exeinfo.byethost18.com/?i=1) [github](https://github.com/ExeinfoASL/ASL)
+  - [PE Parser](https://github.com/saferwall/pe): pe is a go package for parsing the portable executable file format. This package was designed with malware analysis in mind, and being resistent to PE malformations.
+  - [AnalyzePE.py](https://github.com/hiddenillusion/AnalyzePE): Wraps around various tools and provides some additional checks/information to produce a centralized report of a PE file.
 - [MitigationFlagsCliTool](https://github.com/yardenshafir/MitigationFlagsCliTool): Prints mitigation policy information for processes in a dump file.
 - [Windows 10 System Programming book samples](https://github.com/zodiacon/Win10SysProgBookSamples) [Windows Internals Book 7th Edition Tools](https://github.com/zodiacon/WindowsInternals), [The Windows Kernel Programming book samples](https://github.com/zodiacon/windowskernelprogrammingbook)
 - [DriverMon](https://github.com/zodiacon/DriverMon): Monitor activity of any driver
@@ -3446,6 +3452,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 - [13 Best New Software Security Books To Read In 2021](https://bookauthority.org/books/new-software-security-books)
 - [pwn.college](https://pwn.college/) is a first-stage education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion. It is designed to take a “white belt” in cybersecurity to becoming a “blue belt”, able to approach (simple) CTFs and wargames. The philosophy of pwn.college is “practice makes perfect”.
+  - [Assembly Crash Course](https://dvvyn.medium.com/pwn-college-assembly-crash-course-cb0eb4aba719)
 - ['pwnable.kr'](https://pwnable.kr/) is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. the main purpose of pwnable.kr is 'fun'.
 - [Pwnable.tw](https://pwnable.tw/) is a wargame site for hackers to test and expand their binary exploiting skills.
 - [Security Zines](https://securityzines.com/#comics): graphical way of learning concepts of Application & Web Security.

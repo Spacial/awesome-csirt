@@ -333,6 +333,14 @@
 - [NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems](https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems) [doi.org/10.6028/NIST.AI.100-2e2023](https://csrc.nist.gov/pubs/ai/100/2/e2023/final)
 - [Fingerprinting SSH Identification Strings](https://isc.sans.edu/diary/Fingerprinting%20SSH%20Identification%20Strings/30520)
 
+### 2025
+
+- [New Vulnerability in GitHub Copilot and Cursor: How Hackers Can Weaponize Code Agents](https://www.pillar.security/blog/new-vulnerability-in-github-copilot-and-cursor-how-hackers-can-weaponize-code-agents)
+- [Microsoft: Windows Server 2025 restarts break connectivity on some DCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-restarts-break-services-on-domain-controllers/)
+- [Popular LLMs Found to Produce Vulnerable Code by Default](https://www.infosecurity-magazine.com/news/llms-vulnerable-code-default/)
+- [AI hallucinations and their risk to cybersecurity operations](https://www.helpnetsecurity.com/2025/05/19/ai-hallucinations-risk-cybersecurity-operations/)
+- [Azure's Role Roulette: How Over-Privileged Roles and API Vulnerabilities Expose Enterprise Networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
+
 ## Politics
 
 - [How Q’s 'Lost Drops' Undermine the QAnon Myth](https://www.bellingcat.com/news/rest-of-world/2021/04/22/how-qs-lost-drops-undermine-the-qanon-myth/)
