@@ -30,6 +30,7 @@
 - [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [SPLOITUS](https://sploitus.com/): Exploit search engine.
 - [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
+- [Vulert](https://vulert.com/vuln-db/search): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 - [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
 - [CRYPTO101](https://www.crypto101.io/): Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
 - [SMHasher](https://github.com/rurban/smhasher/) is a test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions. [another repo](https://github.com/aappleby/smhasher)
@@ -1054,7 +1055,10 @@ I work as a malware analyst and like to share my knowledge.
   - [Hacking Printers Wiki](http://hacking-printers.net/wiki/index.php/Main_Page)
   - [Full key extraction of NVIDIA™ TSEC](https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt)
 - [The x86 architecture is the weirdo, part 2](https://devblogs.microsoft.com/oldnewthing/20220418-00/?p=106489)
-- [Dark Flipper](https://github.com/DarkFlippers/unleashed-firmware):  Flipper Zero Unleashed Firmware
+- Flipper:
+ - [awesome flipper](https://github.com/djsime1/awesome-flipperzero): 🐬 A collection of awesome resources for the Flipper Zero device.
+ - [Dark Flipper](https://github.com/DarkFlippers/unleashed-firmware):  Flipper Zero Unleashed Firmware
+ - [My Flipper Shits](https://github.com/aleff-github/my-flipper-shits/): Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 - [Reverse-engineering an airspeed/Mach indicator from 1977](https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
 - [Stepping Insyde System Management Mode](https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/): Intel’s Alder Lake BIOS source code was [leaked online](https://git.tcp.direct/TheParmak/ICE_TEA_BIOS).
@@ -3325,6 +3329,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   - [wigle.net](https://wigle.net)
   - [publicwww.com](https://publicwww.com)
   - [hunter.io](https://hunter.io)
+  - [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
   - [haveibeenpwned.com](https://haveibeenpwned.com)
   - [haveibeenEMOTET](https://www.haveibeenemotet.com/)
   - [thispersondoesnotexist.com](https://thispersondoesnotexist.com)

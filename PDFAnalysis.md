@@ -10,6 +10,7 @@
     6. so 'ange' can be stored like: [(an) 3.0 (ge)]
   * [PDF Cheat Sheets](https://github.com/gendx/pdf-cheat-sheets): Cheat sheets for the Portable Document Format
 
+
 ## Links 
 
 * [PDFObject](https://pdfobject.com/): An open-source standards-friendly JavaScript utility for embedding PDF files into HTML documents.
@@ -23,3 +24,6 @@
 * [pdfstreamdumper](https://github.com/dzzie/pdfstreamdumper): research tool for the analysis of malicious pdf documents. make sure to run the installer first to get all of the 3rd party dlls installed correctly. 
 * [pdfextract](https://github.com/CrossRef/pdfextract):  A tool and library that can extract various areas of text from a PDF, especially a scholarly article PDF. 
 * [4Discovery Tools](http://www.4discovery.com/our-tools/)
+* PDF Automation/Manipulation: 
+  * [Create and Modify PDF Files in Python](https://realpython.com/creating-modifying-pdf/#encrypting-and-decrypting-pdf-files-with-pypdf)
+  * [Distributed Steganography in PDF Files—Secrets Hidden in Modified Pages](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7517136/)  
