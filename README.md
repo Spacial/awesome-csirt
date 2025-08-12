@@ -407,6 +407,7 @@ I work as a malware analyst and like to share my knowledge.
   - [Controlling GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/Controlling-GDB.html)
   - [Low Level Visualization via Debuggers](https://www.vinnie.work/blog/2021-01-08-low-level-debuggers/)
   - [Faster GDB Startup](https://tromey.com/blog/?p=1084)
+  - [GDB Tutorial for Reverse Engineers](https://slava-moskvin.medium.com/gdb-tutorial-for-reverse-engineers-breakpoints-modifying-memory-and-printing-its-contents-46280ac37aad): Breakpoints, Modifying Memory and Printing its Contents.  
 - Frida:
   - [Getting Started with Frida Tools](https://medium.com/@int0x33/day-19-getting-started-with-frida-tools-3aeb2f0063c3)
   - Frida hooking android :[part 1](https://11x256.github.io/Frida-hooking-android-part-1/), [part 2](https://11x256.github.io/Frida-hooking-android-part-2/), [part 3](https://11x256.github.io/Frida-hooking-android-part-3/), [part 4](https://11x256.github.io/Frida-hooking-android-part-4/) and [part 5](https://11x256.github.io/Frida-hooking-android-part-5/)

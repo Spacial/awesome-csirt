@@ -340,6 +340,7 @@
 - [Popular LLMs Found to Produce Vulnerable Code by Default](https://www.infosecurity-magazine.com/news/llms-vulnerable-code-default/)
 - [AI hallucinations and their risk to cybersecurity operations](https://www.helpnetsecurity.com/2025/05/19/ai-hallucinations-risk-cybersecurity-operations/)
 - [Azure's Role Roulette: How Over-Privileged Roles and API Vulnerabilities Expose Enterprise Networks](https://www.token.security/blog/azures-role-roulette-how-over-privileged-roles-and-api-vulnerabilities-expose-enterprise-networks)
+- [GenAI Used For Phishing Websites Impersonating Brazil’s Government](https://www.zscaler.com/blogs/security-research/genai-used-phishing-websites-impersonating-brazil-s-government)
 
 ## Politics
 
