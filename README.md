@@ -58,6 +58,7 @@
 - [OpenEX](https://www.openex.io/en/): Crisis drills planning platform. [repo](https://github.com/OpenEx-Platform/openex)
 - [NCSI](https://ncsi.ega.ee/): The National Cyber Security Index is a global index, which measures the preparedness of countries to prevent cyber threats and manage cyber incidents.
 - [THE EVOLUTION OF TRUST](https://ncase.me/trust/)
+- [Cybersecurity](https://github.com/Berkanktk/CyberSecurity): A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
 
 ### Incident Response
 
@@ -1043,6 +1044,7 @@ I work as a malware analyst and like to share my knowledge.
   - [infernal-twin](https://github.com/entropy1337/infernal-twin): wireless hacking - This is automated wireless hacking tool
   - [Cracking WiFi at Scale with One Simple Trick](https://www.cyberark.com/resources/threat-research-blog/cracking-wifi-at-scale-with-one-simple-trick)
   - [hcxdumptool](https://github.com/ZerBea/hcxdumptool): small tool to capture packets from wlan devices.
+  - [Unlocking free WiFi on British Airways](https://www.saxrag.com/tech/reversing/2025/06/01/BAWiFi.html)
 - Drone:
   - [SkyJack](http://www.samy.pl/skyjack/) is a drone engineered to autonomously seek out, hack, and wirelessly take over other drones within wifi distance, creating an army of zombie drones under your control. [git repo](https://github.com/samyk/skyjack)
   - [eaphammer](https://github.com/s0lst1c3/eaphammer): Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
@@ -1063,6 +1065,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 - [Reverse-engineering an airspeed/Mach indicator from 1977](https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html)
 - [Stepping Insyde System Management Mode](https://research.nccgroup.com/2023/04/11/stepping-insyde-system-management-mode/): Intel’s Alder Lake BIOS source code was [leaked online](https://git.tcp.direct/TheParmak/ICE_TEA_BIOS).
+- [Valetudo](https://valetudo.cloud): Cloud replacement for vacuum robots enabling local-only operation. [repo](https://github.com/Hypfer/Valetudo)
 
 ### ARM
 
@@ -2209,6 +2212,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [BLUE TEAM LABS ONLINE](https://blueteamlabs.online/)
 - [Defining Cobalt Strike Components So You Can BEA-CONfident in Your Analysis](https://www.mandiant.com/resources/defining-cobalt-strike-components)
 - [There are a lot of ways that folks distinguish between blue team roles. My focus is on investigative work and cognitive skills, so I divide those roles into the mental model shown in this diagram.](https://twitter.com/chrissanders88/status/1455896993398669323/photo/1)
+- [tinypw](https://github.com/marconae/tinypw): Yet another tiny CLI tool to generate passwords
 
 ### Threat Hunting
 
