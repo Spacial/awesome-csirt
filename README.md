@@ -3131,6 +3131,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [The Top 20 Secure PLC Coding Practices Project](https://gca.isa.org/blog/the-top-20-secure-plc-coding-practices-project)
 - [Conpot](https://github.com/mushorg/conpot): ICS/SCADA honeypot.
 - [Hello_Proto](https://github.com/industrialarmy/hello_proto): "Banner Grabbing" en entornos industriales.
+- [9 Malicious NuGet Packages Deliver Time-Delayed Destructive Payloads](https://socket.dev/blog/9-malicious-nuget-packages-deliver-time-delayed-destructive-payloads): Socket researchers discovered nine malicious NuGet packages that use time-delayed payloads to crash applications and corrupt industrial control systems.
 
 ## Radio
 
