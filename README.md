@@ -105,6 +105,7 @@
 - [dorkbot](https://github.com/utiso/dorkbot): Command-line tool to scan Google search results for vulnerabilities.
 - [NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday): This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
 - [Exploit Prediction Scoring System (EPSS)](https://www.first.org/epss/): The Exploit Prediction Scoring System (EPSS) is an open, data-driven effort for predicting when software vulnerabilities will be exploited. Our goal is to assist network defenders to better prioritize vulnerability remediation efforts.
+- [CISA KEV Deadline Planner](https://kev-deadline-planner.vercel.app/): Browser-only planner for matching pasted CVEs against a bundled CISA KEV catalog snapshot and exporting Markdown, CSV, or ICS remediation queues. [source](https://github.com/Turner-Levey/kev-deadline-planner)
 - [CVE PoC](https://github.com/trickest/cve): Almost every publicly available CVE PoC.
 
 ## Malware Analysis
