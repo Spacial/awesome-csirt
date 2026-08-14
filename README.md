@@ -6,7 +6,7 @@
 
 ## Books
 
-- Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br)
+- Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](https://www.cert.br)
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/), [github](https://github.com/nakov/practical-cryptography-for-developers-book)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) — Third Edition
@@ -1404,6 +1404,7 @@ Curated list of public penetration test reports released by several consulting f
 - [Stealth plane in flight](https://www.google.com/maps/place/39%C2%B001'18.5%22N+93%C2%B035'40.5%22W/@39.0217135,-93.5945882,163m/data=!3m1!1e3!4m5!3m4!1s0x0:0xd87af7588b9c362e!8m2!3d39.0218056!4d-93.5945833)
 - [ExportData](https://www.exportdata.io/) - Twitter data export tool. Allows downloading historical tweets since 2006, exporting followers & followings and collects historical trends in 467 locations.
 - [DetectDee](https://github.com/piaolin/DetectDee): Hunt down social media accounts by username, email or phone across social networks.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 #### OSINT Webscraping
 
