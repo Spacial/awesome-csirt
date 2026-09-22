@@ -917,6 +917,7 @@ I work as a malware analyst and like to share my knowledge.
 - [REST Security Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md): CheatSheetSeries
 - [Penetration Testing RESTful Web Services](http://blog.isecurion.com/2017/10/10/penetration-testing-restful-web-services/)
 - [RESTful web services penetation testing](https://hydrasky.com/network-security/restful-web-services-penetation-testing/)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 - [Astra](https://tech.flipkart.com/astra-automated-security-testing-for-rest-apis-a54b999dbfe9?gi=2af3bebcabc8): Automated Security Testing for REST API’s
 - [bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 
