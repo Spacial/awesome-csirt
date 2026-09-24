@@ -89,6 +89,7 @@
 - [Building Better CSIRTs Using Behavioral Psychology](https://i.blackhat.com/EU-21/Wednesday/EU-21-Orlando-Building-Better-CSIRTs-Using-Behavioral-Psychology.pdf) [link](https://www.blackhat.com/eu-21/briefings/schedule/index.html#building-better-csirts-using-behavioral-psychology-24331)
 - [The features all Incident Response Plans need to have](https://blog.talosintelligence.com/2021/11/the-features-of-incident-response-plan.html)
 - [Maltrail](https://github.com/stamparm/maltrail):  Malicious traffic detection system
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): open database of real-world AI agent security incidents (prompt injection, agent supply-chain attacks, agent-framework CVEs, AI-orchestrated intrusions), each with an attack-chain diagram and primary sources.
 
 ### Hashing
 
