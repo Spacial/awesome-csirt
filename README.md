@@ -1392,7 +1392,7 @@ Curated list of public penetration test reports released by several consulting f
 - (pt-br) [OSINT-Brazuca](https://github.com/osintbrazuca/OSINT-Brazuca): Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.
 - [WhatsMyName](https://whatsmyname.app/): This tool allows you to enumerate usernames across many websites.
   - [Maltego Transforms for WhatsMyName](https://github.com/TURROKS/Maltego_WhatsMyName)
-- [shadowbanned](https://shadowban.eu/): Shadowban Tester for Twitter [code](https://github.com/shadowban-eu/shadowban-eu-frontend)
+- [Shadowban Radar](https://shadowbanradar.com/): Shadowban test for Twitter (X), free, no login. Replaces shadowban.eu, which is offline; its archived [code](https://github.com/shadowban-eu/shadowban-eu-frontend) is still on GitHub
 - [sherlock](https://github.com/sherlock-project/sherlock): Hunt down social media accounts by username across social networks
 - [usufy](https://github.com/i3visio/usufy) is a GPLv3+ piece of software that checks the existence of a profile for a given user in a bunch of different platforms. It uses the error messages displayed by most platforms when a user profile has not been found as the evidence of the existence or not of a given profile.
 - [osrf](https://github.com/i3visio/osrframework): OSRFramework, the Open Sources Research Framework is a AGPLv3+ project by i3visio focused on providing API and tools to perform more accurate online researches.
