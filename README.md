@@ -56,6 +56,7 @@
 - [OASIS Common Security Advisory Framework (CSAF)](https://oasis-open.github.io/csaf-documentation/) [repo](https://github.com/oasis-tcs/csaf) [secvisogram](https://github.com/secvisogram/secvisogram) [editor](https://secvisogram.github.io/)
 - [notrandom](https://github.com/fx5/not_random): reverse the Mersenne Twister.
 - [OpenEX](https://www.openex.io/en/): Crisis drills planning platform. [repo](https://github.com/OpenEx-Platform/openex)
+- [ICHI – Internet Cyber Health Index](https://ichi.global): A free, source-transparent daily barometer of internet cyber health — aggregating threat telemetry, news, and public security signals into an outside-in directional view of current conditions. Tracks active threats, CVEs, and notable events; designed as a directional signal, not a deterministic forecast or organizational risk score.
 - [NCSI](https://ncsi.ega.ee/): The National Cyber Security Index is a global index, which measures the preparedness of countries to prevent cyber threats and manage cyber incidents.
 - [THE EVOLUTION OF TRUST](https://ncase.me/trust/)
 - [Cybersecurity](https://github.com/Berkanktk/CyberSecurity): A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
