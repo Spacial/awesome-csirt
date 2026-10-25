@@ -3342,6 +3342,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
   - [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
   - [osintframework.com](https://osintframework.com)
   - [NAPALM FTP Indexer](https://www.searchftps.net/) lets you search and download files located on public FTP servers. The most advanced FTP Search Engine service maintained by members.
+  - [Opsis](https://useopsis.com/): Finds accounts linked to an email address, username or domain across 1000+ sources (freemium).
 - [Insecam](https://www.insecam.org/): Network live IP video cameras directory.
 
 ### VPN
