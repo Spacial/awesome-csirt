@@ -2421,6 +2421,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
 - [Exif Viewer](https://addons.mozilla.org/en-US/firefox/addon/exif-viewer/?src=search)
 - [Anti-Grabify Browser Extension](https://github.com/Konnor88/anti-grabify/)
+- [Spoof Me](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)
 
 ## Operating Systems
 
