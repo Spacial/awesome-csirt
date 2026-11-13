@@ -294,6 +294,7 @@ Local resources kept in this repository:
 - [FPGA-Based Near-Memory Acceleration of Modern Data-Intensive Applications](https://www.computer.org/csdl/magazine/mi/5555/01/09451578/1ujXMrdyEuY) [arxiv](https://arxiv.org/abs/2106.06433)
 
 ---
+
 - [The 4th in the 5th: Temporal Aspects of Cyber Operations](https://www.recordedfuture.com/cyber-operations-time/)
 
 ### Sources
@@ -3197,7 +3198,7 @@ Curated list of public penetration test reports released by several consulting f
 
 ### Credentials
 
-- [WhiteIntel](https://whiteintel.io): WhiteIntel assists companies in identifying compromised credentials through malware campaigns. 
+- [WhiteIntel](https://whiteintel.io): WhiteIntel assists companies in identifying compromised credentials through malware campaigns.
 - Search if your credentials where leaked: [Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r)
 - [pw-pwnage-cfworker](https://github.com/detroitenglish/pw-pwnage-cfworker): Deploy a Cloudflare Worker to sanely score users' new passwords with zxcvbn AND check for matches against haveibeenpwned's 5.1+ billion breached accounts
 - [XSS Exploit code for retrieving passwords stored in a Password Vault](https://gist.github.com/shawarkhanethicalhacker/e40a7c3956fdd24b9fb63d03d94c3d34)
@@ -3449,7 +3450,6 @@ Curated list of public penetration test reports released by several consulting f
 - [pluto-eris](https://github.com/daira/pluto-eris): Generator and supporting evidence for security of the Pluto/Eris half-pairing cycle of elliptic curves.
 - [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
 - [notrandom](https://github.com/fx5/not_random): reverse the Mersenne Twister.
-
 
 ### Configs
 
@@ -3852,4 +3852,5 @@ Curated list of public penetration test reports released by several consulting f
 - [Comparative Study of Anti-cheat Methods in Video Games](https://helda.helsinki.fi/bitstream/handle/10138/313587/Anti_cheat_for_video_games_final_07_03_2020.pdf) by Samuli Lehtonen
 
 ---
+
 - [THE EVOLUTION OF TRUST](https://ncase.me/trust/)

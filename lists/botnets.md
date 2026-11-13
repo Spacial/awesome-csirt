@@ -40,6 +40,7 @@ SingCERT recommends some actions to protect yourself (with by product: protectin
 ## IOCs
 
 Some sha1, from [andrew zonenberg](https://twitter.com/azonenberg/status/1173540000807280641):
+
 - sha256([redacted]) = b4ac521fc864f48f3973924a10bad5408d4083e13e7f28fc3296ce0f0ed55edb
 - sha256([redacted]) = 6eb73b07aa223c797e8b44438f0fa032d3b968c153eb7e485b5373f3139f86c0
 - sha256() = 8363b923b0a3fad7a7641ab589dea70742b318ce4b9ae578848607c66a729f78

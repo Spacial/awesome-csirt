@@ -1,5 +1,4 @@
-# MISP 
-
+# MISP
 
 - [MISP](https://github.com/MISP/MISP)
 - [MISP Documentation](https://www.misp-project.org/documentation/)

@@ -285,7 +285,6 @@ http://www.us-cert.gov/nav/nt01/
 
 http://www.antispam.br/
 
-
 http://www.sans.org
 
 http://csrc.nist.gov/publications/nistpubs/800-61-rev1/SP800-61rev1.pdf
@@ -648,8 +647,7 @@ The project aim is to help others starting a CSIRT or Alerting Service by:
     Getting them up to speed faster
     Taking the benefits and not making the same mistakes
 
- 
-### CSIRT Case Classification (Example for enterprise CSIRT) 
+### CSIRT Case Classification (Example for enterprise CSIRT)
 
 * Gavin Reid (Cisco Systems), Dustin Schieber, Ivo Peixinho (CAIS/RNP)
 
