@@ -1181,7 +1181,6 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [rustdsplit](https://github.com/epi052/rustdsplit): At some point, I learned about a method to perform a binary search on a file in order to identify its AV signature and change it to bypass signature-based AV. The tool I used back then is gone, so I wrote this.
 - [Virus Total API in Python](https://github.com/fr0gger/yeti/blob/master/plugins/feeds/public/virustotal_apiv3.py)
 - [VirusTotal CLI](https://github.com/VirusTotal/vt-cli)
-- [rustdsplit](https://github.com/epi052/rustdsplit): At some point, I learned about a method to perform a binary search on a file in order to identify its AV signature and change it to bypass signature-based AV. The tool I used back then is gone, so I wrote this.
 - [Antivirus Event Analysis Cheat Sheet v1.7.2](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)
 - [UglyEXe](https://medium.com/@markmotig/uglyexe-bypass-some-avs-4a10313277aa): [bypass some AVs](https://github.com/fashionproof/UglyEXe)
 - [How to bypass Defender in a few easy steps](https://arty-hlr.com/blog/2021/05/06/how-to-bypass-defender/)
@@ -1460,7 +1459,6 @@ I work as a malware analyst and like to share my knowledge.
   - [Introduction to ptmalloc2 internals (Part 1)](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html)
   - [ptmalloc2 internals (Part 2)](https://blog.k3170makan.com/2018/12/glibc-heap-exploitation-basics.html) - Fast Bins and First Fit Redirection
 - [movfuscator](https://github.com/xoreaxeaxeax/movfuscator): The single instruction C compiler
-- [beebug](https://github.com/invictus1306/beebug): A tool for checking exploitability
 - [UEFI vulnerabilities classification focused on BIOS implant delivery](https://medium.com/@matrosov/uefi-vulnerabilities-classification-4897596e60af) and [What makes OS drivers dangerous for BIOS?](https://medium.com/@matrosov/dangerous-update-tools-c246f7299459)
 - [MikroTik Firewall & NAT Bypass](https://medium.com/tenable-techblog/mikrotik-firewall-nat-bypass-b8d46398bf24)
 - [3D Accelerated Exploitation](https://github.com/mwrlabs/3d-accelerated-exploitation): The content of this repository is meant to be the official release of the tooling/exploit that was discussed during the OffensiveCon 2019 talk - 3D Accelerated Exploitation. The talk dealt with research into the VirtualBox 3D Acceleration feature, which is backed by a software component called Chromium.
@@ -1782,8 +1780,6 @@ I work as a malware analyst and like to share my knowledge.
     - [ProtoFuzz](https://github.com/trailofbits/protofuzz): Google Protocol Buffers message generator
     - [pbtk - Reverse engineering Protobuf apps](https://github.com/marin-m/pbtk): A toolset for reverse engineering and fuzzing Protobuf-based apps.
     - [Online Protobuf Decoder.](https://protogen.marcgravell.com/decode)
-- [Orange: How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
-- [code white | Blog: Liferay Portal JSON Web Service RCE Vulnerabilities](https://codewhitesec.blogspot.com/2020/03/liferay-portal-json-vulns.html)
 
 - [LazySSTICheck](https://twitter.com/nullenc0de/status/1317195661377503232)
 - [CSM_Pocs](https://gist.github.com/magnologan/3d0d24c2d0af7d3f27344fcb14eb8f7e): Cisco Security Manager is an enterprise-class security management application that provides insight into and control of Cisco security and network devices.
@@ -2458,13 +2454,11 @@ Curated list of public penetration test reports released by several consulting f
 - [Human-operated ransomware](https://docs.microsoft.com/en-us/security/compass/human-operated-ransomware): Human-operated ransomware is a large and growing attack trend that represents a threat to organizations in every industry.
 - [Sharing the first SimuLand dataset to expedite research and learn about adversary tradecraft](https://www.microsoft.com/security/blog/2021/08/05/sharing-the-first-simuland-dataset-to-expedite-research-and-learn-about-adversary-tradecraft/)
 - [Microsoft Security Best Practices](https://docs.microsoft.com/en-us/security/compass/compass)
-- [No Longer Just Theory: Black Lotus Labs Uncovers Linux Executables Deployed As Stealth Windows Loaders](https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-executables-deployed-as-stealth-windows-loaders/)
 - [Awesome Windows Domain Hardening](https://github.com/PaulSec/awesome-windows-domain-hardening): A curated list of awesome Security Hardening techniques for Windows.
 - [Event Log Explorer™ for Windows event log analysis](https://eventlogxp.com/)
 - [Detecting Forged Kerberos Ticket (Golden Ticket & Silver Ticket) Use in Active Directory](https://adsecurity.org/?p=1515)
 - [EVERYONE GETS A ROOTKIT](https://eclypsium.com/2021/09/23/everyone-gets-a-rootkit/): Eclypsium Researchers Identify Weakness in Microsoft WPBT Impacting All Windows-based Devices Since Windows 8.
 - [Six Facts about Address Space Layout Randomization on Windows](https://www.mandiant.com/resources/six-facts-about-address-space-layout-randomization-on-windows)
-- [How to bypass Defender in a few easy steps](https://arty-hlr.com/blog/2021/05/06/how-to-bypass-defender/)
 - [whids](https://github.com/0xrawsec/whids): Open Source EDR for Windows.
 - [Backdoor .NET assemblies with… dnSpy](https://rastamouse.me/backdoor-net-assemblies-with-dnspy-%f0%9f%a4%94/)
 - [Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap): Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.
@@ -3052,7 +3046,6 @@ Curated list of public penetration test reports released by several consulting f
   - [IEEE C37.118 Synchrophasor Protocol](https://wiki.wireshark.org/IEEE%20C37.118) - wireshark wiki
 - [INFRA:HALT](https://www.forescout.com/research-labs/infra-halt/): Forescout Research Labs and JFrog Security Research discover 14 new vulnerabilities affecting closed source TCP/IP stack NicheStack, allowing for Denial of Service or Remote Code Execution primarily affecting operational technology (OT) and industrial control system (ICS) devices.
 - [Findings From Examining More Than a Decade of Public ICS/OT Exploits](https://www.dragos.com/resource/findings-from-examining-public-ics-ot-exploits/)
-- [The Top 20 Secure PLC Coding Practices Project](https://gca.isa.org/blog/the-top-20-secure-plc-coding-practices-project)
 - [Conpot](https://github.com/mushorg/conpot): ICS/SCADA honeypot.
 - [Hello_Proto](https://github.com/industrialarmy/hello_proto): "Banner Grabbing" en entornos industriales.
 - [9 Malicious NuGet Packages Deliver Time-Delayed Destructive Payloads](https://socket.dev/blog/9-malicious-nuget-packages-deliver-time-delayed-destructive-payloads): Socket researchers discovered nine malicious NuGet packages that use time-delayed payloads to crash applications and corrupt industrial control systems.
@@ -3197,7 +3190,6 @@ Curated list of public penetration test reports released by several consulting f
 - [Security/Server Side TLS](https://wiki.mozilla.org/Security/Server_Side_TLS) by Mozilla
 - [security.txt](https://securitytxt.org/): A proposed standard which allows websites to define security policies.
 - [urlscan.io](https://urlscan.io/): A sandbox for the web
-- [IT Security Guidelines for Transport Layer Security (TLS)](https://english.ncsc.nl/publications/publications/2021/january/19/it-security-guidelines-for-transport-layer-security-2.1)
 - [QUIC's combined transport- and cryptographic handshake allows it to be 1 Round Trip faster than TCP + TLS and main problems.](https://twitter.com/programmingart/status/1399443052851306503)
 - [Secure Headers](https://github.com/github/secure_headers): Manages application of security headers with many safe defaults.
 - [HTTP/2: The Sequel is Always Worse](https://portswigger.net/research/http2) [blackhat](https://www.blackhat.com/us-21/briefings/schedule/#http2-the-sequel-is-always-worse-22668)
@@ -3266,7 +3258,6 @@ Curated list of public penetration test reports released by several consulting f
 - [Checked C](https://www.microsoft.com/en-us/research/publication/checkedc-making-c-safe-by-extension/): Making C Safe by Extension. [github](https://github.com/Microsoft/checkedc)
 - [Practical case: Buffer Overflow 0x01](https://maxkersten.nl/binary-analysis-course/assembly-basics/practical-case-buffer-overflow-0x01/)
 - [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
-- [pigaios](https://github.com/joxeankoret/pigaios): A tool for diffing source codes directly against binaries.  [slides](https://docs.google.com/presentation/d/1ifvugStGL7Qc8xSFeYXp2MGQ6jQGOOMSolBrJy8kCMY/edit#slide=id.g4453e8add5_0_129)
 - [A Git Horror Story](https://mikegerwitz.com/papers/git-horror-story): Repository Integrity With Signed Commits. How to use git securely (signing commits)
 - [An Introduction to Dynamic Symbolic Execution and the KLEE Infrastructure](https://srg.doc.ic.ac.uk/files/slides/symex-tarot-18.pdf)
 - [Tooling for verification of PGP signed commits](https://github.com/bitcoin/bitcoin/tree/master/contrib/verify-commits)
@@ -3308,7 +3299,6 @@ Curated list of public penetration test reports released by several consulting f
 - [Package Hunter](https://gitlab.com/gitlab-org/security-products/package-hunter): A tool for identifying malicious dependencies via runtime monitoring.
 - [What science can tell us about C and C++'s security](https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/)
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec): A curated list of resources for learning about application security.
-- [Comments on build reproducibility](https://gist.github.com/brl/c55ab5d2633f366b680b5a7cca718f85)
 
 #### Web Training
 
@@ -3392,7 +3382,6 @@ Curated list of public penetration test reports released by several consulting f
 - [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
 - [Start-Hollow.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Start-Hollow.ps1): My musings with PowerShell
 - [auditd-attack](https://github.com/bfuzzy/auditd-attack): A Linux Auditd rule set mapped to MITRE's Attack Framework
-- [Dizzy-legacy](https://github.com/ernw/dizzy-legacy): Network and USB protocol fuzzing toolkit.
 - [BFuzz](https://github.com/RootUp/BFuzz): Fuzzing Browsers
 - [Structure-Aware Fuzzing with libFuzzer](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md) with [fuzzer test suite](https://github.com/google/fuzzer-test-suite)
 - [Fuzzilli](https://github.com/googleprojectzero/fuzzilli): A JavaScript Engine Fuzzer.
@@ -3623,8 +3612,6 @@ Curated list of public penetration test reports released by several consulting f
 - [Awesome note-taking apps for hackers !](https://github.com/nil0x42/awesome-hacker-note-taking)
 - [SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX): A cross-platform note-taking & target-tracking app for penetration testers.
 - [cherrytree](https://www.giuspen.com/cherrytree/): A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file. [repo](https://github.com/giuspen/cherrytree)
-- [cherrytree](https://www.giuspen.com/cherrytree/): A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file. [repo](https://github.com/giuspen/cherrytree)
-- [SwiftnessX](https://github.com/ehrishirajsharma/SwiftnessX): A cross-platform note-taking & target-tracking app for penetration testers.
 - [trilium]<https://github.com/zadam/trilium>): Build your personal knowledge base with Trilium Notes.
 - [obsidian](https://obsidian.md/download): is a powerful knowledge base that works on top of a local folder of plain text Markdown files.
 - [CudaText](https://www.fosshub.com/CudaText.html), [repo](https://github.com/Alexey-T/CudaText)
