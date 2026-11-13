@@ -9,7 +9,6 @@
 - [Repository Files](#repository-files)
 - [Getting Started](#getting-started)
   - [Books](#books)
-  - [Collections](#collections)
   - [Resources](#resources)
   - [Articles](#articles)
   - [Sources](#sources)
@@ -70,6 +69,7 @@
   - [Hardening](#hardening)
   - [Credentials](#credentials)
   - [Secure Programming](#secure-programming)
+  - [Cryptography](#cryptography)
   - [Configs](#configs)
   - [Privacy](#privacy)
 - [Tools](#tools)
@@ -116,54 +116,6 @@ Local resources kept in this repository:
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) — Third Edition
 - [The Cyber Plumber's Handbook](https://cph.opsdisk.com/index.html#students)
-
-### Collections
-
-- [FIRST](http://www.first.org)
-  - [Malware Analysis Resources](https://www.first.org/global/sigs/malware/resources/)
-- [Cert.BR](http://www.cert.br) - useful [links](https://www.cert.br/links/)
-  - [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
-  - [9º Fórum Brasileiro de CSIRTs](https://cert.br/forum2020/)
-- SANS Pen-Testing Resources: [Downloads](https://pen-testing.sans.org/resources/downloads)
-- Some [list](lists/security-projects.md) of security projects
-- [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
-- [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
-- [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
-- [CriminalIP](https://www.criminalip.io/): Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated
-- [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
-- [crypto](https://github.com/boazbk/crypto): Lecture notes for a course on cryptography
-- [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
-- [SPLOITUS](https://sploitus.com/): Exploit search engine.
-- [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
-- [Vulert](https://vulert.com/vuln-db/search): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
-- [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
-- [CRYPTO101](https://www.crypto101.io/): Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
-- [SMHasher](https://github.com/rurban/smhasher/) is a test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions. [another repo](https://github.com/aappleby/smhasher)
-- [CPDoS](https://cpdos.org/): Cache Poisoned Denial of Service
-- [cacao](https://github.com/oasis-tcs/cacao): OASIS CACAO TC: Official repository for work of the [CACAO TC](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao)
-- [cti-documentation](https://github.com/oasis-open/cti-documentation)
-- [The 4th in the 5th: Temporal Aspects of Cyber Operations](https://www.recordedfuture.com/cyber-operations-time/)
-- [SOCless](https://twilio-labs.github.io/socless/): [The SOCless automation framework](https://github.com/twilio-labs/socless)
-- [Open CSIRT Foundation](https://opencsirt.org/) - [SIM v3 Model](http://opencsirt.org/wp-content/uploads/2019/12/SIM3-mkXVIIIc.pdf) and [SIM3 Self Assessment](https://sim3-check.opencsirt.org).
-- [Global Forum on Cyber Expertise (GFCE)](https://thegfce.org/).
-- [Ten strategies of a world-class cybersecurity operations center](https://www.mitre.org/publications/all/ten-strategies-of-a-world-class-cybersecurity-operations-center)
-- [my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome).
-- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything). How to systematically secure anything: a repository about security engineering
-- [Metasploitable3](https://github.com/rapid7/metasploitable3): is a VM that is built from the ground up with a large amount of security vulnerabilities.
-- [Institute for Security and Technology](https://securityandtechnology.org/about-ist/): builds solutions to enhance the security of the global commons. Our goal is to provide the tools and insights needed for companies and governments to outpace emerging global security threats. Our non-traditional approach has a bias towards action, as we build trust across domains, provide unprecedented access, and deliver and implement solutions.
-- [NIST'S CYBERSECURITY FRAMEWORK](https://www.nist.gov/cyberframework)
-- [pluto-eris](https://github.com/daira/pluto-eris): Generator and supporting evidence for security of the Pluto/Eris half-pairing cycle of elliptic curves.
-- [cset](https://github.com/cisagov/cset): Cybersecurity Evaluation Tool by CISA.gov.
-- [comply](https://github.com/strongdm/comply): Compliance automation framework, focused on SOC2.
-- [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
-- [Open Security Controls Assessment Language (OSCAL)](https://github.com/usnistgov/OSCAL): NIST is developing the Open Security Controls Assessment Language (OSCAL), a set of hierarchical, XML-, JSON-, and YAML-based formats that provide a standardized representations of information pertaining to the publication, implementation, and assessment of security controls.
-- [DWF](https://github.com/distributedweaknessfiling/dwflist): The DWF Identifiers dataset, distributed weakness filing.
-- [OASIS Common Security Advisory Framework (CSAF)](https://oasis-open.github.io/csaf-documentation/) [repo](https://github.com/oasis-tcs/csaf) [secvisogram](https://github.com/secvisogram/secvisogram) [editor](https://secvisogram.github.io/)
-- [notrandom](https://github.com/fx5/not_random): reverse the Mersenne Twister.
-- [OpenEX](https://www.openex.io/en/): Crisis drills planning platform. [repo](https://github.com/OpenEx-Platform/openex)
-- [NCSI](https://ncsi.ega.ee/): The National Cyber Security Index is a global index, which measures the preparedness of countries to prevent cyber threats and manage cyber incidents.
-- [THE EVOLUTION OF TRUST](https://ncase.me/trust/)
-- [Cybersecurity](https://github.com/Berkanktk/CyberSecurity): A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
 
 ### Resources
 
@@ -342,6 +294,7 @@ Local resources kept in this repository:
 - [FPGA-Based Near-Memory Acceleration of Modern Data-Intensive Applications](https://www.computer.org/csdl/magazine/mi/5555/01/09451578/1ujXMrdyEuY) [arxiv](https://arxiv.org/abs/2106.06433)
 
 ---
+- [The 4th in the 5th: Temporal Aspects of Cyber Operations](https://www.recordedfuture.com/cyber-operations-time/)
 
 ### Sources
 
@@ -381,6 +334,10 @@ Some good places to visit:
 ### Other Repos
 
 - [mubix](https://github.com/mubix/repos).
+- Some [list](lists/security-projects.md) of security projects
+- [hacking-tutorials](https://github.com/maestron/hacking-tutorials)
+- [my-infosec-awesome](https://github.com/pe3zx/my-infosec-awesome).
+- [Cybersecurity](https://github.com/Berkanktk/CyberSecurity): A collection of essential and foundational cybersecurity knowledge, thoughtfully organized for easy comprehension.
 
 ## Incident Response & Coordination
 
@@ -414,12 +371,22 @@ Some good places to visit:
 - [The features all Incident Response Plans need to have](https://blog.talosintelligence.com/2021/11/the-features-of-incident-response-plan.html)
 - [Maltrail](https://github.com/stamparm/maltrail):  Malicious traffic detection system
 - [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): open database of real-world AI agent security incidents (prompt injection, agent supply-chain attacks, agent-framework CVEs, AI-orchestrated intrusions), each with an attack-chain diagram and primary sources.
+- [FIRST](http://www.first.org)
+  - [Malware Analysis Resources](https://www.first.org/global/sigs/malware/resources/)
+- [Cert.BR](http://www.cert.br) - useful [links](https://www.cert.br/links/)
+  - [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
+  - [9º Fórum Brasileiro de CSIRTs](https://cert.br/forum2020/)
+- [cacao](https://github.com/oasis-tcs/cacao): OASIS CACAO TC: Official repository for work of the [CACAO TC](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=cacao)
+- [Open CSIRT Foundation](https://opencsirt.org/) - [SIM v3 Model](http://opencsirt.org/wp-content/uploads/2019/12/SIM3-mkXVIIIc.pdf) and [SIM3 Self Assessment](https://sim3-check.opencsirt.org).
+- [Global Forum on Cyber Expertise (GFCE)](https://thegfce.org/).
+- [OpenEX](https://www.openex.io/en/): Crisis drills planning platform. [repo](https://github.com/OpenEx-Platform/openex)
 
 ### Hashing
 
 - [MD5 Decryption](https://www.md5online.org/md5-decrypt.html)
 - [SHA-1 is a Shambles](https://sha-mbles.github.io/): First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust
 - [Sha256 Algorithm Explained](https://sha256algorithm.com/) [code](https://github.com/dmarman/sha256algorithm)
+- [SMHasher](https://github.com/rurban/smhasher/) is a test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions. [another repo](https://github.com/aappleby/smhasher)
 
 ### Risk Assessment and Vulnerability Management
 
@@ -438,6 +405,8 @@ Some good places to visit:
 - [Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)
 - [hcltm](https://github.com/xntrik/hcltm): Documenting your Threat Models with HCL.
 - [Risk Management Framework for Systems and Organizations Introductory Course](https://csrc.nist.gov/CSRC/media/Projects/risk-management/images-media/rmf-training/intro-course-v2_0/index.html)
+- [cset](https://github.com/cisagov/cset): Cybersecurity Evaluation Tool by CISA.gov.
+- [comply](https://github.com/strongdm/comply): Compliance automation framework, focused on SOC2.
 
 #### Guidelines
 
@@ -445,6 +414,8 @@ Some good places to visit:
 - [Easy Ways to Build a Better P@$5w0rd](https://www.nist.gov/blogs/taking-measure/easy-ways-build-better-p5w0rd)
 - [Time for Password Expiration to Die](https://www.sans.org/security-awareness-training/blog/time-password-expiration-die)
 - [Data Integrity: Identifying and Protecting Assets Against Ransomware and Other Destructive Events](https://www.nccoe.nist.gov/projects/building-blocks/data-integrity/identify-protect)
+- [NIST'S CYBERSECURITY FRAMEWORK](https://www.nist.gov/cyberframework)
+- [Open Security Controls Assessment Language (OSCAL)](https://github.com/usnistgov/OSCAL): NIST is developing the Open Security Controls Assessment Language (OSCAL), a set of hierarchical, XML-, JSON-, and YAML-based formats that provide a standardized representations of information pertaining to the publication, implementation, and assessment of security controls.
 
 ### Patching
 
@@ -572,6 +543,7 @@ Some good places to visit:
 - [Update on cyber activity in Eastern Europe](https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/)
 - [Cisco Talos shares insights related to recent cyber attack on Cisco](https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html)
 - [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
+- [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 
 ### IoCs
 
@@ -591,6 +563,7 @@ Some good places to visit:
 - [238 Cobalt Strike stage 2 IP's, with 238 unique configurations, identified today.](https://twitter.com/cobaltstrikebot/status/1521576446107406336) [list](https://pastebin.com/a0MYdwKf)
 - [malware-IoC](https://github.com/CyberThreatIntelligenceENTEL/malware-IoC/): Bienvenidos al repositorio oficial de IoC del equipo de Cyber Threat intelligence de Entel Cyber Secure
 - [IcedID | 31.08.2022 | Campaign 2786525712](https://github.com/pr0xylife/IcedID/blob/main/icedID_31.08.2022.txt)
+- [cti-documentation](https://github.com/oasis-open/cti-documentation)
 
 ### OSINT - Open Source INTelligence
 
@@ -738,6 +711,8 @@ Some good places to visit:
 - [Defining Cobalt Strike Components So You Can BEA-CONfident in Your Analysis](https://www.mandiant.com/resources/defining-cobalt-strike-components)
 - [There are a lot of ways that folks distinguish between blue team roles. My focus is on investigative work and cognitive skills, so I divide those roles into the mental model shown in this diagram.](https://twitter.com/chrissanders88/status/1455896993398669323/photo/1)
 - [tinypw](https://github.com/marconae/tinypw): Yet another tiny CLI tool to generate passwords
+- [SOCless](https://twilio-labs.github.io/socless/): [The SOCless automation framework](https://github.com/twilio-labs/socless)
+- [Ten strategies of a world-class cybersecurity operations center](https://www.mitre.org/publications/all/ten-strategies-of-a-world-class-cybersecurity-operations-center)
 
 ### SIEM
 
@@ -1433,6 +1408,7 @@ I work as a malware analyst and like to share my knowledge.
 - [NotQuite0DayFriday](https://github.com/grimm-co/NotQuite0DayFriday): This is a repo which documents real bugs in real software to illustrate trends, learn how to prevent or find them more quickly.
 - [Exploit Prediction Scoring System (EPSS)](https://www.first.org/epss/): The Exploit Prediction Scoring System (EPSS) is an open, data-driven effort for predicting when software vulnerabilities will be exploited. Our goal is to assist network defenders to better prioritize vulnerability remediation efforts.
 - [CVE PoC](https://github.com/trickest/cve): Almost every publicly available CVE PoC.
+- [DWF](https://github.com/distributedweaknessfiling/dwflist): The DWF Identifiers dataset, distributed weakness filing.
 
 ### Vulnerability
 
@@ -1453,6 +1429,9 @@ I work as a malware analyst and like to share my knowledge.
 - [Vagrant GVM/Openvas](https://github.com/isaqueprofeta/gvm-vagrant): GVM/Openvas vulnerability scanner in Alpine with Vagrant.
 - [How to Have a Cybersecurity Graph Database on Your PC](https://neo4j.com/developer-blog/how-to-have-a-cybersecurity-graph-database-on-your-pc/)
 - [On the Security Vulnerabilities of Text-to-SQL Models](https://arxiv.org/pdf/2211.15363.pdf)
+- [Vulmon](https://vulmon.com/): Vulmon is a vulnerability search engine.
+- [Vulert](https://vulert.com/vuln-db/search): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
+- [OASIS Common Security Advisory Framework (CSAF)](https://oasis-open.github.io/csaf-documentation/) [repo](https://github.com/oasis-tcs/csaf) [secvisogram](https://github.com/secvisogram/secvisogram) [editor](https://secvisogram.github.io/)
 
 ### Exploits
 
@@ -1523,6 +1502,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Beginners Guide to 0day/CVE AppSec Research](https://0xboku.com/2021/09/14/0dayappsecBeginnerGuide.html)
 - [0days In-The-Wild](https://googleprojectzero.github.io/0days-in-the-wild/) - Hello! This site aims to be a central repository for information about 0-days exploited in-the-wild! It's maintained by Google Project Zero.
 - [Sticky notes for pentesting.](https://exploit-notes.hdks.org/) [repo](https://github.com/hideckies/exploit-notes)
+- [SPLOITUS](https://sploitus.com/): Exploit search engine.
 
 ### Payloads
 
@@ -1826,6 +1806,7 @@ I work as a malware analyst and like to share my knowledge.
 - [Web Finder](https://github.com/helviojunior/webfinder): tool that searchs IP addresses which answers some URL.
 - [Flask Unsign](https://github.com/Paradoxis/Flask-Unsign): Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application by guessing secret keys.
 - [jwt-pwn](https://github.com/mazen160/jwt-pwn): Security Testing Scripts for JWT.
+- [CPDoS](https://cpdos.org/): Cache Poisoned Denial of Service
 
 #### Burp Suite
 
@@ -2018,6 +1999,7 @@ I work as a malware analyst and like to share my knowledge.
 - [OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim): My experiments in weaponizing Nim.
 - [White Box Penetration Testing: “Cheating” in order to boost impact and value](https://hackermindset.me/white-box-penetration-testing-cheating-in-order-to-boost-impact-and-value-939e96b77331)
 - [Python Penetration Testing Cheat Sheet](https://www.lifars.com/knowledge-center/python-penetration-testing-cheat-sheet/)
+- SANS Pen-Testing Resources: [Downloads](https://pen-testing.sans.org/resources/downloads)
 
 #### Reconnaissance
 
@@ -3171,6 +3153,8 @@ Curated list of public penetration test reports released by several consulting f
 - [VideoLan Robots.txt](https://www.videolan.org/robots.txt)
 - [ssh & linux cheat sheets](https://blowstack.com/cheat-sheets/)
 - [ssh-audit](https://github.com/jtesta/ssh-audit): SSH server & client auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [CIS SecureSuite® Membership](https://www.cisecurity.org/cis-securesuite/)
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything). How to systematically secure anything: a repository about security engineering
 
 #### WebServers
 
@@ -3467,6 +3451,17 @@ Curated list of public penetration test reports released by several consulting f
 - [Astra](https://tech.flipkart.com/astra-automated-security-testing-for-rest-apis-a54b999dbfe9?gi=2af3bebcabc8): Automated Security Testing for REST API’s
 - [bad_json_parsers](https://github.com/lovasoa/bad_json_parsers): Exposing problems in json parsers of several programming languages.
 
+### Cryptography
+
+- [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
+- [crypto](https://github.com/boazbk/crypto): Lecture notes for a course on cryptography
+- [tink](https://github.com/google/tink/): Tink is a multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [CRYPTO101](https://www.crypto101.io/): Crypto 101 is an introductory course on cryptography, freely available for programmers of all ages and skill levels.
+- [pluto-eris](https://github.com/daira/pluto-eris): Generator and supporting evidence for security of the Pluto/Eris half-pairing cycle of elliptic curves.
+- [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
+- [notrandom](https://github.com/fx5/not_random): reverse the Mersenne Twister.
+
+
 ### Configs
 
 - [Kali-Customizations](https://github.com/IppSec/Kali-Customizations)
@@ -3672,6 +3667,8 @@ Curated list of public penetration test reports released by several consulting f
   - [osintframework.com](https://osintframework.com)
   - [NAPALM FTP Indexer](https://www.searchftps.net/) lets you search and download files located on public FTP servers. The most advanced FTP Search Engine service maintained by members.
 - [Insecam](https://www.insecam.org/): Network live IP video cameras directory.
+- [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
+- [CriminalIP](https://www.criminalip.io/): Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated
 
 #### VPN
 
@@ -3749,6 +3746,7 @@ Curated list of public penetration test reports released by several consulting f
 - (es) [HackLab #1](http://labs.gf0s.com/R1cde3/r1-index.html)
 - [Penetration testing laboratories "Test lab"](https://lab.pentestit.ru/) emulate an IT infrastructure of real companies and are created for a legal pen testing and improving penetration testing skills.
 - [Solving Zden’s “1BiTCoiN WHiTe PaPeR” Puzzle](https://jtobcat.medium.com/solving-zdens-1bitcoin-white-paper-puzzle-6ffa4963e1a2)
+- [Metasploitable3](https://github.com/rapid7/metasploitable3): is a VM that is built from the ground up with a large amount of security vulnerabilities.
 
 #### CTFs tools
 
@@ -3819,6 +3817,8 @@ Curated list of public penetration test reports released by several consulting f
 - [List of Rainbow Tables](https://project-rainbowcrack.com/table.htm)
 - [Do you hear what I hear? A cyberattack.](https://www.cylab.cmu.edu/news/2021/07/30-sonification.html): CyLab’s Yang Cai is turning network traffic data into music.
 - [Ghost in the ethernet optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside): A few months ago I stumbled on a tweet pointing out a kind of SFP optic that claimed to be smart, made by a Russian company Plumspace.
+- [Institute for Security and Technology](https://securityandtechnology.org/about-ist/): builds solutions to enhance the security of the global commons. Our goal is to provide the tools and insights needed for companies and governments to outpace emerging global security threats. Our non-traditional approach has a bias towards action, as we build trust across domains, provide unprecedented access, and deliver and implement solutions.
+- [NCSI](https://ncsi.ega.ee/): The National Cyber Security Index is a global index, which measures the preparedness of countries to prevent cyber threats and manage cyber incidents.
 
 ### Fun
 
@@ -3865,3 +3865,4 @@ Curated list of public penetration test reports released by several consulting f
 - [Comparative Study of Anti-cheat Methods in Video Games](https://helda.helsinki.fi/bitstream/handle/10138/313587/Anti_cheat_for_video_games_final_07_03_2020.pdf) by Samuli Lehtonen
 
 ---
+- [THE EVOLUTION OF TRUST](https://ncase.me/trust/)
