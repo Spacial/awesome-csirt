@@ -46,7 +46,7 @@ Some CVEs PoCs repos on github or internet.
 - Exploiting a Linux kernel vulnerability in the V4L2 subsystem: [CVE-2019-18683](https://a13xp0p0v.github.io/2020/02/15/CVE-2019-18683.html)
 - Heap-Based Buffer Overflow in Sudo: [CVE-2021-3156](https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit)
 - [Ubuntu OverlayFS Local Privesc](https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/): [CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)
-- [A Local Privilege Escalation Vulnerability in Linux’s Filesystem Layer](https://blog.qualys.com/vulnerabilities-threat-research/2021/07/20/sequoia-a-local-privilege-escalation-vulnerability-in-linuxs-filesystem-layer-cve-2021-33909): [cve-2021-33909-crasher.c](cve-2021-33909-crasher.c) [cve-2021-33910-crasher.c](cve-2021-33910-crasher.c)
+- [A Local Privilege Escalation Vulnerability in Linux’s Filesystem Layer](https://blog.qualys.com/vulnerabilities-threat-research/2021/07/20/sequoia-a-local-privilege-escalation-vulnerability-in-linuxs-filesystem-layer-cve-2021-33909): [cve-2021-33909-crasher.c](../pocs/cve-2021-33909-crasher.c) [cve-2021-33910-crasher.c](../pocs/cve-2021-33910-crasher.c)
 - [Privilege escalation with polkit: How to get root on Linux with a seven-year-old bug](https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/)
 - Remote Linux Kernel Heap Overflow | TIPC Module Allows Arbitrary Code Execution: [CVE-2021-43267](https://www.sentinelone.com/labs/tipc-remote-linux-kernel-heap-overflow-allows-arbitrary-code-execution/)
 - PoC for [CVE-2021-4034](https://seclists.org/oss-sec/2022/q1/80): [blasty-vs-pkexec.c](https://haxx.in/files/blasty-vs-pkexec.c)
@@ -159,7 +159,7 @@ Some CVEs PoCs repos on github or internet.
 - [WebKit-RegEx-Exploit](https://github.com/LinusHenze/WebKit-RegEx-Exploit): Safari 12.1.1
 - [Chaos iOS](https://github.com/GeoSn0w/Chaos): < 12.1.2 PoC by @S0rryMyBad since he posted it as a photo rather than a source code. Also cleaned up.
 - [powerd](https://github.com/0x36/powend) exploit : Sandbox escape to root for Apple iOS < 12.2 on A11 devices
-- iMessage: The Many Possibilities of [CVE-2019-8646](https://googleprojectzero.blogspot.com/2019/08/the-many-possibilities-of-cve-2019-8646.html) [poc](PoCs/CVE-2019-8646-messageleak.zip)
+- iMessage: The Many Possibilities of [CVE-2019-8646](https://googleprojectzero.blogspot.com/2019/08/the-many-possibilities-of-cve-2019-8646.html) [poc](../pocs/CVE-2019-8646-messageleak.zip)
 - [PoC tool for setting nonce without triggering KPP/KTRR/PAC.](https://github.com/0x7ff/dimentio) (requires tfp0)
 - [CVE-2020-9934](https://github.com/mattshockl/CVE-2020-9934)
 - [Stealing local files using Safari Web Share API](https://blog.redteam.pl/2020/08/stealing-local-files-using-safari-web.html) [PoC](https://overflow.pl/webshare/poc1.html)
