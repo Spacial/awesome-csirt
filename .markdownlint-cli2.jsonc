@@ -12,7 +12,8 @@
     "MD040": false, // fenced code language
     "MD045": false, // image alt text
     "MD046": false, // code block style
-    "MD050": false  // strong style
+    "MD050": false, // strong style
+    "MD059": false  // descriptive link text ("here"/"link"), added in markdownlint 0.38
   },
   "ignores": ["node_modules/**"]
 }
