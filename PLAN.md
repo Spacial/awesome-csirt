@@ -99,3 +99,4 @@ Move existing sections **verbatim** (content unchanged); only change heading lev
 |---|---|---|
 | Plan | done | written 2026-11-12 |
 | S0 | done | branch `restructure`. Baseline @eb09c1e: 30 files; URLs in all .md = 4812 (4667 unique); README URLs = 3645, 77 duplicated URLs |
+| S1 | done | 30/30 files tracked, all as renames (git mv). Map: root *.md → lists/ (Blockchain→blockchain, CERT→cert-br, CVEsPoCs→cves-pocs, News→news, PDFAnalysis→pdf-analysis, Pyhon→python, SecurityProjects→security-projects, sql_injection→sql-injection; books/botnets/misp same name); 0verfl0w/BufferLinks.md→lists/buffer-overflow.md; windows/tweets.md→lists/windows-tweets.md; windows/privescwin.jpg→assets/img/; PoCs/→pocs/ (2-step rename, case-insensitive FS); C2/2019_emotet.txt→intel/emotet-c2-2019.txt; xencrypt_example.ps1→scripts/ |
