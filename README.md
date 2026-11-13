@@ -6,7 +6,7 @@
 
 ## Books
 
-- Nice list [here](https://github.com/Spacial/csirt/blob/master/books.md) by [Cert.BR](http://www.cert.br)
+- Nice list [here](lists/books.md) by [Cert.BR](http://www.cert.br)
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com/), [github](https://github.com/nakov/practical-cryptography-for-developers-book)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html) — Third Edition
@@ -20,7 +20,7 @@
   - [7º Fórum Brasileiro de CSIRTs](https://www.cert.br/forum2018/)
   - [9º Fórum Brasileiro de CSIRTs](https://cert.br/forum2020/)
 - SANS Pen-Testing Resources: [Downloads](https://pen-testing.sans.org/resources/downloads)
-- Some [list](https://github.com/Spacial/csirt/blob/master/SecurityProjects.md) of security projects
+- Some [list](lists/security-projects.md) of security projects
 - [APT & CyberCriminal Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 - [Encoding vs. Encryption vs. Hashing vs. Obfuscation](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
 - [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
@@ -99,7 +99,7 @@
 
 ## CVEs
 
-- Some CVEs stuff and links [here](https://github.com/Spacial/csirt/blob/master/CVEsPoCs.md) and in [here](https://github.com/Spacial/csirt/tree/master/PoCs)
+- Some CVEs stuff and links [here](lists/cves-pocs.md) and in [here](pocs/)
 - [MikroTik](https://www.shodan.io/report/Re9jsGpB) search on shodan.
 - [TROMMEL](https://github.com/CERTCC-Vulnerability-Analysis/trommel/): Sift Through Directories of Files to Identify Indicators That May Contain Vulnerabilities
 - [cve_manager](https://github.com/aatlasis/cve_manager): A python script that a) parses NIST NVD CVEs, b) prcoesses and exports them to CSV files, c) creates a postgres database and imports all the data in it, d) provides query capabilities for this CVEs database.
@@ -113,7 +113,7 @@
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis): A curated list of awesome malware analysis tools and resources.
 - Great online [course](https://malwareunicorn.org/workshops/re101.html) by [MalwareUnicorn](https://github.com/securedorg)
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/): [Introduction to Malware Analysis and Reverse Engineering](https://github.com/ckane/CS7038-Malware-Analysis)
-- Some other botnets [list](https://github.com/Spacial/csirt/blob/master/botnets.md)
+- Some other botnets [list](lists/botnets.md)
 - [IKARUS anti.virus and its 9 exploitable kernel vulnerabilities](http://www.greyhathacker.net/?p=995)
 - [Digital Certificates Used by Malware](http://www.ccssforum.org/malware-certificates.php)
 - [Signed Malware – The Dataset](http://signedmalware.org/)
@@ -1340,7 +1340,7 @@ I work as a malware analyst and like to share my knowledge.
 - [ShellCode Tester](https://github.com/helviojunior/shellcodetester): An application to test windows and linux shellcodes.
 - [Windows/x86 Dynamic Bind Shell / Null-Free Shellcode](https://packetstormsecurity.com/files/156148/Windows-x86-Dynamic-Bind-Shell-Null-Free-Shellcode.html)
 - [Core](https://github.com/mobdk/Core): Core bypass Windows Defender and execute any binary converted to shellcode.
-- (pt-br) [Encontrando endereço da função dinamicamente. Análise da biblioteca block_api](helviojunior.com.br/it/security/criacao-de-exploits/shellcoding-encontrando-endereco-da-funcao-dinamicamente-analise-da-biblioteca-block_api/)
+- (pt-br) [Encontrando endereço da função dinamicamente. Análise da biblioteca block_api](https://helviojunior.com.br/it/security/criacao-de-exploits/shellcoding-encontrando-endereco-da-funcao-dinamicamente-analise-da-biblioteca-block_api/)
 - [Ninja UUID Shellcode Runner](https://github.com/boku7/Ninja_UUID_Runner): Module Stomping, No New Thread, HellsGate syscaller, UUID Shellcode Runner for x64 Windows 10!
 - [IPFuscator](https://github.com/vysecurity/IPFuscator): A tool to automatically generate alternative IP representations
 - [Shellcode Mutator](https://github.com/nettitude/ShellcodeMutator): Mutate nasm assembly source files using no-instruction sets (such as nops) to avoid signatures.
@@ -1509,7 +1509,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [Bypassing Cloudflare WAF with the origin server IP address](https://blog.detectify.com/2019/07/31/bypassing-cloudflare-waf-with-the-origin-server-ip-address/)
 - [WAF-Hook](https://github.com/xlabssecurity/WAF-Hook)
 - How to find real IP of a site behind cloudflare.
-  - [Cloudfail tool](./#Cloud)
+  - [Cloudfail tool](#cloud)
   - Securitytrails historical data
   - Sent email on non-existent email with hope to receive back real ip in header
   - [Shadowcrypt Cloudflare resolve](https://shadowcrypt.net/tools/cloudflare)
@@ -1656,7 +1656,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 
 - [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking):  A list of web application security.
 - [gau](https://github.com/lc/gau): Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
-- [malvun](malvuln.com/) is the first website exclusively dedicated to the research of security vulnerabilities within Malware itself.
+- [malvun](https://malvuln.com/) is the first website exclusively dedicated to the research of security vulnerabilities within Malware itself.
 - [Introducing CookieMonster](https://ian.sh/cookiemonster): a tool for breaking stateless authentication. [cokkiemonster](https://github.com/iangcarroll/cookiemonster/)
 - [get-title](https://github.com/tomnomnom/hacks/tree/master/get-title)
 - [Insecure Direct Object References](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References#tools)
