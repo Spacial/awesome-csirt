@@ -114,7 +114,6 @@ Security news and articles, grouped by year (newest first). Year = section the i
 - [RockYou2021: largest password compilation of all time leaked online with 8.4 billion entries](https://cybernews.com/security/rockyou2021-alltime-largest-password-compilation-leaked/)
 - [COMB: largest breach of all time leaked online with 3.2 billion records](https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/)
 - [CyLab researchers discover novel class of vehicle cyberattacks](https://www.cylab.cmu.edu/news/2021/06/07-cannon.html)
-- [Cybersecurity Framework Version 1.1 Manufacturing Profile](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8183r1-draft.pdf)
 - [Microsoft: Scammers bypass Office 365 MFA in BEC attacks](https://www.bleepingcomputer.com/news/security/microsoft-scammers-bypass-office-365-mfa-in-bec-attacks/)
 - [REvil ransomware's new Linux encryptor targets ESXi virtual machines](https://www.bleepingcomputer.com/news/security/revil-ransomwares-new-linux-encryptor-targets-esxi-virtual-machines/)
 - [Kaseya supply chain attack delivers mass ransomware event to US companies](https://doublepulsar.com/kaseya-supply-chain-attack-delivers-mass-ransomware-event-to-us-companies-76e4ec6ec64b)
@@ -166,6 +165,7 @@ Security news and articles, grouped by year (newest first). Year = section the i
 - [The US is worried that hackers are stealing data today so quantum computers can crack it in a decade](https://www.technologyreview.com/2021/11/03/1039171/hackers-quantum-computers-us-homeland-security-cryptography/)
 - [Addition of Certain Entities to the Entity List](https://www.federalregister.gov/documents/2021/11/04/2021-24123/addition-of-certain-entities-to-the-entity-list), Bureau of Industry and Security, Commerce.
 - [Kape Technologies/Crossrider: Owns multiple VPNs (ExpressVPN, PIA, CyberGhost, Zenmate), antivirus (Intego, Restoro) etc](https://twitter.com/hackermaderas/status/1456084748569354243)
+- [Mass scale manipulation of Twitter Trends discovered](https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html)
 
 ### Politics
 
@@ -234,6 +234,7 @@ Security news and articles, grouped by year (newest first). Year = section the i
 - [Your critical infrastructure bug won't be fixed and this is why](https://naehrdine.blogspot.com/2020/12/your-critical-infrastructure-bug-wont.html)
 - [Lazarus covets COVID-19-related intelligence](https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/)
 - [China's Army Now Has Killer Robots: Meet the 'Sharp Claw'](https://nationalinterest.org/blog/buzz/chinas-army-now-has-killer-robots-meet-sharp-claw-145302)
+- [Cybersecurity Framework Version 1.1 Manufacturing Profile](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8183r1-draft.pdf)
 
 ### Politics
 
@@ -270,7 +271,6 @@ Security news and articles, grouped by year (newest first). Year = section the i
 - [The Most Expensive Lesson Of My Life](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124): Details of SIM port hack
 - [Full(er) House: Exposing high-end poker cheating devices](https://elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices/)
 - [FBI agent accidentally reveals own 8chan posts; attempts to redirect white supremacist rage against Russia](https://ceinquiry.wordpress.com/2019/06/17/fbi-8chan/)
-- [ORIGIN OF WIRELESS SECURITY](https://hackaday.com/2017/03/02/great-hacks-of-history-the-marconi-radio-hack-1903/): THE MARCONI RADIO HACK OF 1903
 - [An Army of Robot Surveillance Guards Is Coming](https://www.aclu.org/blog/privacy-technology/surveillance-technologies/army-robot-surveillance-guards-coming)
 - [Viral App FaceApp Now Owns Access To More Than 150 Million People's Faces And Names](https://www.forbes.com/sites/johnkoetsier/2019/07/17/viral-app-faceapp-now-owns-access-to-more-than-150-million-peoples-faces-and-names/#11d7a9fa62f1)
 - [EvilGnome: Rare Malware Spying on Linux Desktop Users](https://www.intezer.com/blog-evilgnome-rare-malware-spying-on-linux-desktop-users/)
@@ -307,7 +307,6 @@ Security news and articles, grouped by year (newest first). Year = section the i
 - [We are pleased to announce the factorization of RSA-240](https://lists.gforge.inria.fr/pipermail/cado-nfs-discuss/2019-December/001139.html)
 - [Ministry for Foreign Affairs launches a bug bounty programme for finding vulnerabilities in online services](https://valtioneuvosto.fi/en/article/-/asset_publisher/ministry-for-foreign-affairs-launches-a-bug-bounty-programme-for-finding-vulnerabilities-in-online-services)
 - [The Great Cannon DDoS Tool Used Against Hong Kong Protestors’ Forum](https://www.bleepingcomputer.com/news/security/the-great-cannon-ddos-tool-used-against-hong-kong-protestors-forum/)
-- [Mass scale manipulation of Twitter Trends discovered](https://techxplore.com/news/2021-06-mass-scale-twitter-trends.html)
 - [Two Carbanak hackers sentenced to eight years in prison in Kazakhstan](https://therecord.media/two-carbanak-hackers-sentenced-to-eight-years-in-prison-in-kazakhstan/)
 - [New Kubernetes malware backdoors clusters via Windows containers](https://www.bleepingcomputer.com/news/security/new-kubernetes-malware-backdoors-clusters-via-windows-containers/)
 - [Inside the Luxembourg free port storing riches for the super-wealthy](https://www.theguardian.com/business/2019/jul/06/inside-the-luxembourg-free-port-storing-riches-for-the-super-rich)
@@ -360,7 +359,6 @@ Security news and articles, grouped by year (newest first). Year = section the i
 - [Civil War Photo Sleuth is using facial recognition software to identify people in pictures.](https://slate.com/technology/2018/11/civil-war-photo-sleuth-facial-recognition.html)
 - [ID Numbers for 120 Million Brazilians taxpayers exposed onlineSecurity Affairs](https://securityaffairs.co/wordpress/78874/data-breach/brazilian-taxpayers-data-leak.html)
 - [Operation Sharpshooter](https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/operation-sharpshooter-targets-global-defense-critical-infrastructure/) Targets Global Defense, Critical Infrastructure
-- [Our Security Models Will Never Work—No Matter What We Do](https://www.schneier.com/essays/archives/2013/03/our_security_models.html).
 
 ### Politics
 
@@ -378,6 +376,7 @@ Security news and articles, grouped by year (newest first). Year = section the i
 ## 2017
 
 - [Abusing NVIDIA’s node.js to bypass application whitelisting](https://www.sec-consult.com/en/blog/2017/04/application-whitelisting-application/index.html)
+- [ORIGIN OF WIRELESS SECURITY](https://hackaday.com/2017/03/02/great-hacks-of-history-the-marconi-radio-hack-1903/): THE MARCONI RADIO HACK OF 1903
 
 ### Politics
 
@@ -399,6 +398,7 @@ Security news and articles, grouped by year (newest first). Year = section the i
 ## 2013
 
 - [The Linux Backdoor Attempt of 2003](https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/)
+- [Our Security Models Will Never Work—No Matter What We Do](https://www.schneier.com/essays/archives/2013/03/our_security_models.html).
 
 ## 2002
 
