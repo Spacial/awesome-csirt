@@ -18,12 +18,12 @@
 - [BYTE TO HEX AND HEX TO BYTE STRING CONVERSION (PYTHON RECIPE)](https://code.activestate.com/recipes/510399-byte-to-hex-and-hex-to-byte-string-conversion/)
 - [What's the correct way to convert bytes to a hex string in Python 3?](https://stackoverflow.com/questions/6624453/whats-the-correct-way-to-convert-bytes-to-a-hex-string-in-python-3#36149089)
 - [python from hex to shellcode format](https://stackoverflow.com/questions/46303530/python-from-hex-to-shellcode-format)
-- [Python Replace \\ with \ ](https://stackoverflow.com/questions/5186839/python-replace-with)
+- [Python Replace \\ with \](https://stackoverflow.com/questions/5186839/python-replace-with)
 - [Pythonic way to convert an integer into a hex-escaped string](https://stackoverflow.com/questions/30285849/pythonic-way-to-convert-an-integer-into-a-hex-escaped-string)
 
 ## Payloads 101
 
 - [GENERATE A PAYLOAD FOR METASPLOIT](https://www.offensive-security.com/metasploit-unleashed/generating-payloads/)
 - [Why do you need NOPs?](https://traviswhitney.com/category/exploit-development/)
-- [Stack Adjustment by hand](http://aetherlab.net/2013/06/stack-adjustment-by-hand/) 
+- [Stack Adjustment by hand](http://aetherlab.net/2013/06/stack-adjustment-by-hand/)
 - [Altering Msfvenom Exec Payload to Work Without an ExitFunc](https://rastating.github.io/altering-msfvenom-exec-payload-to-work-without-exitfunc/)

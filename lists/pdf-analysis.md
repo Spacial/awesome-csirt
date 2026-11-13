@@ -10,8 +10,7 @@
     6. so 'ange' can be stored like: [(an) 3.0 (ge)]
   * [PDF Cheat Sheets](https://github.com/gendx/pdf-cheat-sheets): Cheat sheets for the Portable Document Format
 
-
-## Links 
+## Links
 
 * [PDFObject](https://pdfobject.com/): An open-source standards-friendly JavaScript utility for embedding PDF files into HTML documents.
 * [PDF](https://www.forensicswiki.org/wiki/PDF) on Forensics Wiki
@@ -21,9 +20,9 @@
 * [RUPS](https://github.com/itext/rups) is an abbreviation for Reading and Updating PDF Syntax. RUPS is a tool built on top of iText® that allows you to look inside a PDF document and browse the different PDF objects and content streams.
 * [CLI pdf viewer for linux](https://stackoverflow.com/questions/3570591/cli-pdf-viewer-for-linux) - stackoverflow
 * [PeePDF](https://github.com/jesparza/peepdf): Powerful Python tool to analyze PDF documents
-* [pdfstreamdumper](https://github.com/dzzie/pdfstreamdumper): research tool for the analysis of malicious pdf documents. make sure to run the installer first to get all of the 3rd party dlls installed correctly. 
-* [pdfextract](https://github.com/CrossRef/pdfextract):  A tool and library that can extract various areas of text from a PDF, especially a scholarly article PDF. 
+* [pdfstreamdumper](https://github.com/dzzie/pdfstreamdumper): research tool for the analysis of malicious pdf documents. make sure to run the installer first to get all of the 3rd party dlls installed correctly.
+* [pdfextract](https://github.com/CrossRef/pdfextract):  A tool and library that can extract various areas of text from a PDF, especially a scholarly article PDF.
 * [4Discovery Tools](http://www.4discovery.com/our-tools/)
-* PDF Automation/Manipulation: 
+* PDF Automation/Manipulation:
   * [Create and Modify PDF Files in Python](https://realpython.com/creating-modifying-pdf/#encrypting-and-decrypting-pdf-files-with-pypdf)
   * [Distributed Steganography in PDF Files—Secrets Hidden in Modified Pages](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7517136/)  

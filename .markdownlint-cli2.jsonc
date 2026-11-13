@@ -1,0 +1,18 @@
+{
+  // Relaxed rules for a large link list; whitespace/structure rules stay on.
+  "config": {
+    "default": true,
+    "MD004": false, // list marker style (mixed -/*)
+    "MD005": false, // list indent consistency (legacy nesting)
+    "MD007": false, // list indent width
+    "MD013": false, // line length
+    "MD024": { "siblings_only": true },
+    "MD033": false, // inline HTML
+    "MD034": false, // bare URLs
+    "MD040": false, // fenced code language
+    "MD045": false, // image alt text
+    "MD046": false, // code block style
+    "MD050": false  // strong style
+  },
+  "ignores": ["node_modules/**"]
+}
