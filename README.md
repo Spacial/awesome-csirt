@@ -1,8 +1,8 @@
-# CSIRT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# CSIRT [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
- **Please contribute through pull requests*- ;)
+**Please contribute through pull requests ;)** See [CONTRIBUTING](CONTRIBUTING.md).
 
- Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
+Another great list: [awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 
 ## Contents
 
@@ -1509,7 +1509,7 @@ I work as a malware analyst and like to share my knowledge.
   - [Cross Site Scripting (XSS) Vulnerability Payload List](https://github.com/payloadbox/xss-payload-list)
   - [XML External Entity (XXE) Injection Payload List](https://github.com/payloadbox/xxe-injection-payload-list): XML External Entity (XXE) Injection Payload List
   - [SQL Injection Payload List](https://github.com/payloadbox/sql-injection-payload-list): SQL Injection Payload List
-  - Some SQL Injection Bypassing ![WAF Methods](img/sqlinjwaf.jpeg)
+  - Some SQL Injection Bypassing WAF Methods (image no longer available)
   - [RFI/LFI Payload List](https://github.com/payloadbox/rfi-lfi-payload-list).
   - [Open Redirect Payload List](https://github.com/payloadbox/open-redirect-payload-list)
 - MSFVenom:
@@ -1840,7 +1840,7 @@ I work as a malware analyst and like to share my knowledge.
 
 ### Bug Bounty
 
-- [Awesome one-liner bug bounty](https://www.scyllaforums.com/Thread/awesome-one-liner-bug-bounty.113/) [local copy](./web/oneliners.md)
+- [Awesome one-liner bug bounty](https://www.scyllaforums.com/Thread/awesome-one-liner-bug-bounty.113/)
 - [bbrecon](https://github.com/serain/bbrecon) Python library and CLI for the Bug Bounty Recon API
 - [RPC Bug Hunting Case Studies – Part 1](https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv)
 - [Top Penetration Testing & Bug Hunting YouTube Channels you should follow](https://www.linkedin.com/posts/omarsalama_pentesting-bugbounty-vulnerabilities-activity-6734397230221938688-c2Jq) - Updated 11/19/2020
