@@ -1072,6 +1072,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [APIVADS](https://ieeexplore.ieee.org/document/9690881): A Novel Privacy-Preserving Pivot Attack Detection Scheme Based On Statistical Pattern Recognition
 - [A new secret stash for “fileless” malware](https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/)
 - [Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe):  All-in-One malware analysis tool.
+- [MaldocTrace](https://github.com/debugactiveprocess/MaldocTrace): Static analyzer and emulator for malicious Office documents, RTF, OneNote and email attachments that recovers the commands and IOCs a document would run, with a risk score and JSON output.
 
 #### Web Malwares
 
