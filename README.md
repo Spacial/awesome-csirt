@@ -3656,6 +3656,8 @@ Curated list of public penetration test reports released by several consulting f
 - [Insecam](https://www.insecam.org/): Network live IP video cameras directory.
 - [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
 - [CriminalIP](https://www.criminalip.io/): Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated
+- [Breach House](https://breach.house/): Search engine for ransomware and breach listings, with the source and discovery date of each one. It has a token-based API.
+- [Have I Been Ransomed?](https://haveibeenransom.com/): Check whether an organisation's email addresses, phone numbers or domains have been leaked by ransomware gangs, stealers or traditional breaches. Search on the web or through an API.
 
 #### VPN
 
