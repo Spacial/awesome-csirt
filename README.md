@@ -779,6 +779,7 @@ Some good places to visit:
 - [NtHiM](https://github.com/TheBinitGhimire/NtHiM): Now, the Host is Mine! - Super Fast Sub-domain Takeover Detection!
 - [Passive DNS - Common Output Format](https://github.com/adulau/pdns-qof/) [improving internet wide scanning with dynamic scanning](https://github.com/adulau/active-scanning-techniques/blob/main/slides/active-scanning.pdf)
 - [DNS loophole makes nation-state level spying as easy as registering a domain](https://www.wiz.io/blog/black-hat-2021-dns-loophole-makes-nation-state-level-spying-as-easy-as-registering-a-domain) [Dynamic DNS Leakage Tester](https://dynamic-dns-checker.tools.wiz.io/)
+- [InboxShield](https://inbox-checker.appwrite.network/): Free zero-login DNS email security checker for recursive SPF 10-lookup limits, 24-selector DKIM, DMARC, MTA-STS, TLS-RPT, DANE, BIMI, and 5 real-time DNSBLs.
 
 ### WAFs
 
