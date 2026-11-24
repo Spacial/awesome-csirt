@@ -1120,6 +1120,7 @@ jaVasCript:/*-/*`/*\`/*'/*"/**/( oNcliCk=alert() )//%0D%0a%0d%0A//</stYle/</titL
 - [MalwareBazaar](https://bazaar.abuse.ch/): is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.
 - [What is MWDB Core?](https://www.cert.pl/en/news/single/set-up-your-own-malware-repository-with-mwdb-core/) [mwdb-core](https://github.com/CERT-Polska/mwdb-core): Malware repository component for samples & static configuration with REST API interface.
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/): The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.
+- [Stealer Fingerprints](https://github.com/cystack/stealer-fingerprints): CyStack Threat Intelligence catalog of observed information-stealer log formats with representative scrubbed samples, family context, recognition anchors, ATT&CK mappings, and a local matcher for exported logs.
 
 #### Ransomwares
 
