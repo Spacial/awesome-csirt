@@ -3653,6 +3653,7 @@ Curated list of public penetration test reports released by several consulting f
   - [thispersondoesnotexist.com](https://thispersondoesnotexist.com)
   - [osintframework.com](https://osintframework.com)
   - [NAPALM FTP Indexer](https://www.searchftps.net/) lets you search and download files located on public FTP servers. The most advanced FTP Search Engine service maintained by members.
+  - [Opsis](https://useopsis.com/): Finds accounts linked to an email address, username or domain across 1000+ sources (freemium).
 - [Insecam](https://www.insecam.org/): Network live IP video cameras directory.
 - [Shodan](https://www.shodan.io/): is the world's first search engine for Internet-connected devices. [Shodan 2000](https://2000.shodan.io/)
 - [CriminalIP](https://www.criminalip.io/): Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated
